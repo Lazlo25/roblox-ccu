@@ -1,0 +1,26 @@
+# Universe IDs collected every hour even when they are not on an anonymous chart.
+# These are the 18+ titles that only the signed-in chart fetch returns (as of 2026-10-08).
+# One ID per line; text after # is ignored.
+1359573625  # Deepwoken
+4452297356  # Neighbors 🔊
+4924789901  # Neighbors 🔊 [18+]
+5633615594  # [🎃] Poke Haven 🔊 18+
+5903289376  # The Corner 🔊
+6343995637  # 🩸[UPDATE2] RagBlood🩸
+6690355795  # [🎃] 18+ Meet People Across The World 🔊
+7182318649  # The Corner 🔊 [18+]
+7447878628  # [♟️] German Voice
+7497471789  # 🔪 MAFIA [V2.3]  - ACT II
+7911332924  # [VC] Podcasts 🔊 18+
+7917550094  # Podiums VC 🔊
+8307114974  # [SEASON 3] Operation One
+8887067988  # [GRAFTING💥] Trap N Bang : South Remastered
+9199655655  # (学乱) Gakuran
+9840483947  # Midnight Plaza [BETA]
+10064401653  # 🏢 The Company [ALPHA]
+10420832668  # [🎃UPDATE ] Komorebi Prison
+10428418645  # TRENCH: DECAY [🗡️DUAL MAJOR UPDATE]
+10440499034  # 🎃 Realistic Disaster Survival [beta]
+10558880394  # [🎨] Hide In Paintings
+10761375767  # Surf And Rescue 🌊🛟
+10766578375  # [NEW] Aisles Of The Locust
