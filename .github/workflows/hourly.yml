@@ -2,7 +2,7 @@ name: Hourly CCU
 
 on:
   schedule:
-    - cron: '17 * * * *'   # every hour at :17 UTC; GitHub often delays jobs scheduled on the hour
+    - cron: '17,47 * * * *'  # twice an hour: GitHub often delays or skips scheduled runs, and two runs in one hour count once
   workflow_dispatch:       # adds a "Run workflow" button on the Actions tab
 
 permissions:

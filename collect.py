@@ -7,16 +7,22 @@ Each run:
      plus every universe ID listed in watchlist.txt;
   3. gets current CCU ("playing") for all of them from the games API, 50 IDs per request;
   4. appends one row per game to data/hourly/<UTC date>.csv (utc, universe_id, ccu, charts);
-  5. rewrites data/latest_24h.json with each game's name, avg_ccu, min_ccu, max_ccu and samples over the last 24 hours.
+  5. rewrites data/latest_24h.json with each game's name, avg_ccu, min_ccu, max_ccu and samples over the last 24 hours,
+     and data/daily/<Eastern date>.json with the same stats since midnight Eastern (today's file and yesterday's).
+Readings are grouped by hour, so two runs in one hour count as one sample (the schedule runs twice an hour in case
+GitHub skips one).
 
 A failed chart or games batch is retried, then skipped, and the run carries on with the rest.
 """
 import csv, datetime as dt, json, os, sys, time, urllib.error, urllib.parse, urllib.request, uuid
+from zoneinfo import ZoneInfo
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 HOURLY = os.path.join(HERE, 'data', 'hourly')
 LATEST = os.path.join(HERE, 'data', 'latest_24h.json')
 WATCHLIST = os.path.join(HERE, 'watchlist.txt')
+DAILY = os.path.join(HERE, 'data', 'daily')
+ET = ZoneInfo('America/New_York')
 # The tracker's four charts plus Top Playing Now. device=all matches the tracker: device=computer charts left out
 # about a fifth of the tracker's games in testing.
 SORTS = {'te': 'top-earning', 'mp': 'most-popular', 'pn': 'top-playing-now', 'tt': 'top-trending', 'uc': 'up-and-coming'}
@@ -96,33 +102,53 @@ def watchlist():
         return [s for s in (line.split('#')[0].strip() for line in f) if s.isdigit()]
 
 
-def write_latest(now, names):
-    """data/latest_24h.json: per-game stats over the last 24 hours, one game per line for small diffs."""
-    stats = {}
-    for r in rows_since(now - dt.timedelta(hours=WINDOW_HOURS)):
-        v = int(r['ccu'])
-        s = stats.setdefault(r['universe_id'], {'sum': 0, 'samples': 0, 'min_ccu': v, 'max_ccu': v})
-        s['sum'] += v
-        s['samples'] += 1
-        s['min_ccu'], s['max_ccu'] = min(s['min_ccu'], v), max(s['max_ccu'], v)
+def hourly_stats(rows):
+    """Per game: one reading per hour (the mean of that hour's runs), then avg/min/max over those hours."""
+    hours = {}
+    for r in rows:
+        hours.setdefault(r['universe_id'], {}).setdefault(r['utc'][:13], []).append(int(r['ccu']))
+    out = {}
+    for u, hs in hours.items():
+        vals = [sum(v) / len(v) for v in hs.values()]
+        out[u] = {'avg_ccu': round(sum(vals) / len(vals), 1), 'min_ccu': round(min(vals)), 'max_ccu': round(max(vals)), 'samples': len(vals)}
+    return out
+
+
+def write_stats(path, head, stats, names, old_path=None):
+    """One game per line, for small diffs. Names come from this run, else from the file being replaced."""
     old = {}
-    if os.path.exists(LATEST):
+    if os.path.exists(old_path or path):
         try:
-            with open(LATEST, encoding='utf-8') as f:
+            with open(old_path or path, encoding='utf-8') as f:
                 old = json.load(f).get('games') or {}
         except Exception:
             pass
-    lines = []
-    for u in sorted(stats, key=int):
-        s = stats[u]
-        entry = {'name': names.get(u) or (old.get(u) or {}).get('name', ''), 'avg_ccu': round(s['sum'] / s['samples'], 1),
-                 'min_ccu': s['min_ccu'], 'max_ccu': s['max_ccu'], 'samples': s['samples']}
-        lines.append(json.dumps(u) + ':' + json.dumps(entry, ensure_ascii=False, separators=(',', ':')))
-    head = json.dumps({'generated_utc': now.strftime('%Y-%m-%dT%H:%M:%SZ'), 'window_hours': WINDOW_HOURS})[:-1]
-    with open(LATEST + '.tmp', 'w', encoding='utf-8') as f:
-        f.write(head + ',"games":{\n' + ',\n'.join(lines) + '\n}}\n')
-    os.replace(LATEST + '.tmp', LATEST)
+    lines = [json.dumps(u) + ':' + json.dumps({'name': names.get(u) or (old.get(u) or {}).get('name', ''), **stats[u]},
+                                               ensure_ascii=False, separators=(',', ':')) for u in sorted(stats, key=int)]
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path + '.tmp', 'w', encoding='utf-8') as f:
+        f.write(json.dumps(head)[:-1] + ',"games":{\n' + ',\n'.join(lines) + '\n}}\n')
+    os.replace(path + '.tmp', path)
     return len(lines)
+
+
+def write_outputs(now, names):
+    stamp = now.strftime('%Y-%m-%dT%H:%M:%SZ')
+    games = write_stats(LATEST, {'generated_utc': stamp, 'window_hours': WINDOW_HOURS},
+                        hourly_stats(rows_since(now - dt.timedelta(hours=WINDOW_HOURS))), names)
+    local = now.astimezone(ET)
+    for back in (1, 0):  # yesterday's file keeps updating until its last hour is in; today's grows through the day
+        day = local.date() - dt.timedelta(days=back)
+        start = dt.datetime.combine(day, dt.time(0), ET)
+        end = start + dt.timedelta(days=1)
+        rows = [r for r in rows_since(start.astimezone(dt.timezone.utc) - dt.timedelta(seconds=1))
+                if parse_utc(r['utc']) < end.astimezone(dt.timezone.utc)]
+        if rows:
+            write_stats(os.path.join(DAILY, f'{day}.json'),
+                        {'date': str(day), 'timezone': 'America/New_York', 'generated_utc': stamp,
+                         'through_et': min(local, end).strftime('%H:%M') if back == 0 else '24:00'},
+                        hourly_stats(rows), names)
+    return games
 
 
 def main():
@@ -157,7 +183,7 @@ def main():
         if new_file:
             w.writeheader()
         w.writerows(rows)
-    games = write_latest(now, {u: (g.get('name') or '').strip() for u, g in det.items()})
+    games = write_outputs(now, {u: (g.get('name') or '').strip() for u, g in det.items()})
     print(f'OK utc={stamp} charted={len(on)} recent={len(recent)} watchlist={len(watch)} recorded={len(rows)} '
           f'latest_24h_games={games} failed_charts={",".join(failed_charts) or "-"} failed_batches={failed_batches}')
     if not rows:
