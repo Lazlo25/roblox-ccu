@@ -153,6 +153,10 @@ def write_outputs(now, names):
 
 def main():
     now = dt.datetime.now(dt.timezone.utc).replace(microsecond=0)
+    # The schedule tries every few minutes because GitHub drops most scheduled runs; record each UTC hour once.
+    if '--force' not in sys.argv and any(r['utc'][:13] == now.strftime('%Y-%m-%dT%H') for r in rows_since(now - dt.timedelta(hours=1))):
+        print(f'SKIP {now:%Y-%m-%dT%H}: this hour is already recorded')
+        return
     on, failed_charts = {}, []
     for code, sort_id in SORTS.items():
         try:

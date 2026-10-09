@@ -3,7 +3,7 @@
 Hourly concurrent-player (CCU) readings for the games on Roblox's charts, collected by a GitHub Actions job so the
 Roblox Monetization Tracker can use 24-hour averages instead of one daily reading.
 
-Twice an hour (:17 and :47 UTC, in case GitHub skips one), `collect.py` (standard library only):
+Once per hour (the schedule tries every 5 minutes, because GitHub drops most scheduled runs, and `collect.py` skips hours already recorded), it (standard library only):
 
 - reads Top Earning, Most Popular, Top Playing Now, Top Trending and Up-and-Coming anonymously (All Devices, All Locations);
 - adds games seen on any chart in the last 4 days, and the IDs in `watchlist.txt` (18+ titles the anonymous charts leave out);

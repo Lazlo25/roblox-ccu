@@ -2,7 +2,7 @@ name: Hourly CCU
 
 on:
   schedule:
-    - cron: '17,47 * * * *'  # twice an hour: GitHub often delays or skips scheduled runs, and two runs in one hour count once
+    - cron: '*/5 * * * *'  # GitHub drops most scheduled runs, so try every 5 minutes; collect.py records each hour once
   workflow_dispatch:       # adds a "Run workflow" button on the Actions tab
 
 permissions:
