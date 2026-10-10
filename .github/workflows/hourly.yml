@@ -1,12 +1,16 @@
 name: Hourly CCU
 
+# GitHub drops most scheduled runs on small repos, so each run stays alive for ~5h40m, records every hour itself,
+# then starts the next run (workflow_dispatch from GITHUB_TOKEN is allowed to do that). The schedule only restarts
+# the chain if it ever breaks; collect.py records each hour once, so overlaps are harmless.
 on:
   schedule:
-    - cron: '*/5 * * * *'  # GitHub drops most scheduled runs, so try every 5 minutes; collect.py records each hour once
+    - cron: '17 * * * *'
   workflow_dispatch:       # adds a "Run workflow" button on the Actions tab
 
 permissions:
   contents: write          # lets the job commit data/ back to the repo
+  actions: write           # lets the job start its successor
 
 concurrency:
   group: hourly-ccu
@@ -15,21 +19,31 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v7
 
-      - name: Collect CCU
-        run: python3 collect.py
-
-      # These hourly commits are also what keeps the schedule alive: GitHub disables scheduled
+      # These hourly commits also keep the schedule alive: GitHub disables scheduled
       # workflows after 60 days without repository activity.
-      - name: Commit data
+      - name: Collect CCU every hour
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data
-          git diff --cached --quiet && exit 0
-          git commit -q -m "CCU $(date -u +%Y-%m-%dT%H:%MZ)"
-          for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep 10; done
-          exit 1
+          stop=$(( $(date +%s) + 340*60 ))
+          while :; do
+            python3 collect.py || true
+            git add data
+            if ! git diff --cached --quiet; then
+              git commit -q -m "CCU $(date -u +%Y-%m-%dT%H:%MZ)"
+              for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 10; done
+            fi
+            next=$(( ($(date +%s) / 3600 + 1) * 3600 + 10*60 ))   # 10 past the next hour
+            [ "$next" -lt "$stop" ] || break
+            sleep $(( next - $(date +%s) ))
+          done
+
+      - name: Start the next run
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run hourly.yml --ref main -R "$GITHUB_REPOSITORY"
