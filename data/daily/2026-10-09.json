@@ -1,4 +1,4 @@
-{"date": "2026-10-09", "timezone": "America/New_York", "generated_utc": "2026-10-10T04:01:22Z", "through_et": "24:00","games":{
+{"date": "2026-10-09", "timezone": "America/New_York", "generated_utc": "2026-10-10T05:10:00Z", "through_et": "24:00","games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4574.2,"min_ccu":3748,"max_ccu":5545,"samples":4},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7582.8,"min_ccu":4263,"max_ccu":10326,"samples":4},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":6188.0,"min_ccu":5310,"max_ccu":7553,"samples":4},
@@ -320,7 +320,7 @@
 "9551044479":{"name":"Final Swarm [🌊Atlantis]","avg_ccu":2937.2,"min_ccu":2315,"max_ccu":3520,"samples":4},
 "9561553764":{"name":"Murder Duels","avg_ccu":12480.2,"min_ccu":10619,"max_ccu":14551,"samples":4},
 "9582986239":{"name":"Fish an Anime RNG 🎲","avg_ccu":3278.8,"min_ccu":3087,"max_ccu":3474,"samples":4},
-"9584852943":{"name":"x200| +1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":85004.5,"min_ccu":71158,"max_ccu":97184,"samples":4},
+"9584852943":{"name":"[X2] +1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":85004.5,"min_ccu":71158,"max_ccu":97184,"samples":4},
 "9641502068":{"name":"KNIFE DUELS","avg_ccu":12358.2,"min_ccu":9959,"max_ccu":17596,"samples":4},
 "9656201728":{"name":"[ 🐺 STARRK] Dungeon Lootr","avg_ccu":1276.0,"min_ccu":1158,"max_ccu":1413,"samples":4},
 "9662130710":{"name":"[🙂UPD] Phonk Slap 🎵","avg_ccu":3098.5,"min_ccu":2199,"max_ccu":4047,"samples":4},
@@ -489,7 +489,7 @@
 "10631775021":{"name":"[2x] +1 Tongue Evolution","avg_ccu":3147.5,"min_ccu":2256,"max_ccu":3654,"samples":4},
 "10634461028":{"name":"(BETA) Drive A Kukirin!","avg_ccu":9324.2,"min_ccu":2566,"max_ccu":16479,"samples":4},
 "10636331438":{"name":"[ISLANDS] Roll a Fisherman 🎣","avg_ccu":6926.8,"min_ccu":6459,"max_ccu":7950,"samples":4},
-"10638886777":{"name":"🧈 Stack A Butter Squishy [ASMR]","avg_ccu":7314.2,"min_ccu":4311,"max_ccu":8515,"samples":4},
+"10638886777":{"name":"[⏳ 24H] 🧈 Stack A Butter Squishy [ASMR]","avg_ccu":7314.2,"min_ccu":4311,"max_ccu":8515,"samples":4},
 "10643795368":{"name":"Idle Mafia Game","avg_ccu":4253.5,"min_ccu":4097,"max_ccu":4502,"samples":4},
 "10648555380":{"name":"[🎃 WORKS] Donation Central 💸","avg_ccu":305.0,"min_ccu":240,"max_ccu":405,"samples":4},
 "10648640958":{"name":"[2X XP] Hood Rivals","avg_ccu":3066.0,"min_ccu":1459,"max_ccu":4445,"samples":4},
