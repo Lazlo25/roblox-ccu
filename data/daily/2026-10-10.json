@@ -1,4 +1,4 @@
-{"date": "2026-10-10", "timezone": "America/New_York", "generated_utc": "2026-10-11T05:10:00Z", "through_et": "24:00","games":{
+{"date": "2026-10-10", "timezone": "America/New_York", "generated_utc": "2026-10-11T06:10:00Z", "through_et": "24:00","games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":5390.2,"min_ccu":4390,"max_ccu":6483,"samples":24},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9063.7,"min_ccu":5507,"max_ccu":12884,"samples":24},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":7400.9,"min_ccu":5802,"max_ccu":9084,"samples":24},
@@ -323,7 +323,7 @@
 "9363735110":{"name":"[🌊] Escape Tsunami For Brainrots!","avg_ccu":6769.4,"min_ccu":3718,"max_ccu":32945,"samples":24},
 "9382839773":{"name":"[🐲Goku & Castorice🟣] Lineage Piece","avg_ccu":1745.8,"min_ccu":1541,"max_ccu":1999,"samples":24},
 "9490116046":{"name":"Build with Voxels 🔨","avg_ccu":8122.1,"min_ccu":6716,"max_ccu":9741,"samples":24},
-"9491545867":{"name":"[🎃EVENT] Break a Brainrot Egg!","avg_ccu":12325.8,"min_ccu":8512,"max_ccu":15607,"samples":24},
+"9491545867":{"name":"[🎃SOON] Break a Brainrot Egg!","avg_ccu":12325.8,"min_ccu":8512,"max_ccu":15607,"samples":24},
 "9511454418":{"name":"[💥BLAST] Anime Finals","avg_ccu":405.4,"min_ccu":257,"max_ccu":538,"samples":24},
 "9522015993":{"name":"bote ried","avg_ccu":1542.6,"min_ccu":1053,"max_ccu":1954,"samples":24},
 "9534705677":{"name":"[🔥UPD] Sniper Arena","avg_ccu":22841.0,"min_ccu":14875,"max_ccu":28253,"samples":24},
@@ -485,7 +485,7 @@
 "10588785840":{"name":"Spot and Paint!","avg_ccu":626.8,"min_ccu":457,"max_ccu":784,"samples":24},
 "10589388621":{"name":"[RANKED] 🏁Mini Race","avg_ccu":482.3,"min_ccu":347,"max_ccu":592,"samples":24},
 "10589881655":{"name":"SELL YOUR OUTFIT","avg_ccu":3039.5,"min_ccu":1622,"max_ccu":4168,"samples":24},
-"10590260635":{"name":"[W5] +1 Power Jujutsu Kaisen Evolution","avg_ccu":3098.8,"min_ccu":2298,"max_ccu":4329,"samples":24},
+"10590260635":{"name":"[X2] +1 Power Jujutsu Kaisen Evolution","avg_ccu":3098.8,"min_ccu":2298,"max_ccu":4329,"samples":24},
 "10593319486":{"name":"+1 Speed Controller Escape","avg_ccu":3240.2,"min_ccu":424,"max_ccu":23339,"samples":24},
 "10593482707":{"name":"[🎃] Build a Keyboard!","avg_ccu":4237.5,"min_ccu":3479,"max_ccu":5087,"samples":24},
 "10597001332":{"name":"I Can Read Your Mind","avg_ccu":4509.0,"min_ccu":2383,"max_ccu":6853,"samples":24},
@@ -656,7 +656,7 @@
 "10767566226":{"name":"Don't Steal My Eggs!","avg_ccu":9034.6,"min_ccu":6675,"max_ccu":12407,"samples":24},
 "10767567751":{"name":"Bunker vs Verity","avg_ccu":18948.4,"min_ccu":13574,"max_ccu":23897,"samples":24},
 "10767582899":{"name":"[UPD] 📱 Build a Phone Empire","avg_ccu":7933.1,"min_ccu":5108,"max_ccu":13128,"samples":24},
-"10767628417":{"name":"[⏳ 16H] Create Pottery!","avg_ccu":5456.6,"min_ccu":4128,"max_ccu":6458,"samples":16},
+"10767628417":{"name":"[⏳ 15H] Create Pottery!","avg_ccu":5456.6,"min_ccu":4128,"max_ccu":6458,"samples":16},
 "10767634248":{"name":"Firefighting Sim 🚒","avg_ccu":26675.8,"min_ccu":20452,"max_ccu":33516,"samples":24},
 "10767780358":{"name":"[🎃2x KEYS] MM2 of The Locust","avg_ccu":2766.7,"min_ccu":1701,"max_ccu":4256,"samples":24},
 "10767784294":{"name":"[🎃] Steal an Clown Egg","avg_ccu":8866.7,"min_ccu":1125,"max_ccu":39679,"samples":24},
