@@ -1,4 +1,4 @@
-{"date": "2026-10-10", "timezone": "America/New_York", "generated_utc": "2026-10-11T03:10:00Z", "through_et": "23:10","games":{
+{"date": "2026-10-10", "timezone": "America/New_York", "generated_utc": "2026-10-11T04:10:00Z", "through_et": "24:00","games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":5390.2,"min_ccu":4390,"max_ccu":6483,"samples":24},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9063.7,"min_ccu":5507,"max_ccu":12884,"samples":24},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":7400.9,"min_ccu":5802,"max_ccu":9084,"samples":24},
@@ -331,7 +331,7 @@
 "9551044479":{"name":"Final Swarm [⚔️Sandworm]","avg_ccu":4464.4,"min_ccu":3203,"max_ccu":7434,"samples":24},
 "9561553764":{"name":"Murder Duels","avg_ccu":14091.4,"min_ccu":11100,"max_ccu":16465,"samples":24},
 "9582986239":{"name":"Fish an Anime RNG 🎲","avg_ccu":3915.8,"min_ccu":3376,"max_ccu":7735,"samples":24},
-"9584852943":{"name":"+1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":262953.0,"min_ccu":60938,"max_ccu":2563974,"samples":24},
+"9584852943":{"name":"[X2] +1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":262953.0,"min_ccu":60938,"max_ccu":2563974,"samples":24},
 "9641502068":{"name":"KNIFE DUELS","avg_ccu":14582.2,"min_ccu":9708,"max_ccu":19269,"samples":24},
 "9656201728":{"name":"[🛡️ GUILDS] Dungeon Lootr","avg_ccu":2139.7,"min_ccu":1361,"max_ccu":4295,"samples":24},
 "9662130710":{"name":"[🙂UPD] Phonk Slap 🎵","avg_ccu":3006.4,"min_ccu":2256,"max_ccu":4117,"samples":24},
@@ -656,7 +656,7 @@
 "10767566226":{"name":"Don't Steal My Eggs!","avg_ccu":9034.6,"min_ccu":6675,"max_ccu":12407,"samples":24},
 "10767567751":{"name":"Bunker vs Verity","avg_ccu":18948.4,"min_ccu":13574,"max_ccu":23897,"samples":24},
 "10767582899":{"name":"[UPD] 📱 Build a Phone Empire","avg_ccu":7933.1,"min_ccu":5108,"max_ccu":13128,"samples":24},
-"10767628417":{"name":"[⏳ 16H] Create Pottery!","avg_ccu":5456.6,"min_ccu":4128,"max_ccu":6458,"samples":16},
+"10767628417":{"name":"[⏳ 15H] Create Pottery!","avg_ccu":5456.6,"min_ccu":4128,"max_ccu":6458,"samples":16},
 "10767634248":{"name":"Firefighting Sim 🚒","avg_ccu":26675.8,"min_ccu":20452,"max_ccu":33516,"samples":24},
 "10767780358":{"name":"[🎃2x KEYS] MM2 of The Locust","avg_ccu":2766.7,"min_ccu":1701,"max_ccu":4256,"samples":24},
 "10767784294":{"name":"[🎃] Steal an Clown Egg","avg_ccu":8866.7,"min_ccu":1125,"max_ccu":39679,"samples":24},
