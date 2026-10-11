@@ -1,4 +1,4 @@
-{"date": "2026-10-10", "timezone": "America/New_York", "generated_utc": "2026-10-11T04:10:00Z", "through_et": "24:00","games":{
+{"date": "2026-10-10", "timezone": "America/New_York", "generated_utc": "2026-10-11T05:10:00Z", "through_et": "24:00","games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":5390.2,"min_ccu":4390,"max_ccu":6483,"samples":24},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9063.7,"min_ccu":5507,"max_ccu":12884,"samples":24},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":7400.9,"min_ccu":5802,"max_ccu":9084,"samples":24},
@@ -307,7 +307,7 @@
 "9112256336":{"name":"Scream City 2 🎃","avg_ccu":884.1,"min_ccu":313,"max_ccu":1731,"samples":24},
 "9141743926":{"name":"[NOW] Catch a Monster","avg_ccu":3623.2,"min_ccu":3111,"max_ccu":7362,"samples":24},
 "9145063979":{"name":"⛏️Dig to Escape","avg_ccu":9286.1,"min_ccu":5015,"max_ccu":11791,"samples":24},
-"9150731899":{"name":"PRISON RP","avg_ccu":2006.2,"min_ccu":1383,"max_ccu":2835,"samples":24},
+"9150731899":{"name":"[🍬HALLOWEEN PT 1] PRISON RP","avg_ccu":2006.2,"min_ccu":1383,"max_ccu":2835,"samples":24},
 "9167377564":{"name":"100 Days At Sea","avg_ccu":20594.8,"min_ccu":12629,"max_ccu":25611,"samples":24},
 "9169166771":{"name":"Tiny Universe RP [ChaosBird!!]","avg_ccu":1272.7,"min_ccu":867,"max_ccu":2131,"samples":24},
 "9199655655":{"name":"(学乱) Gakuran","avg_ccu":14536.5,"min_ccu":8640,"max_ccu":35262,"samples":24},
@@ -584,7 +584,7 @@
 "10764989090":{"name":"[🎉UPDATE] Anime Ball Duels","avg_ccu":3249.6,"min_ccu":2919,"max_ccu":3528,"samples":5},
 "10765012427":{"name":"Build the Pyramid!","avg_ccu":20928.3,"min_ccu":15066,"max_ccu":26771,"samples":24},
 "10765013362":{"name":"Dig For Eggs","avg_ccu":10394.9,"min_ccu":8576,"max_ccu":25769,"samples":24},
-"10765067592":{"name":"[UPD6] Tower Incremental","avg_ccu":7191.9,"min_ccu":5349,"max_ccu":9142,"samples":24},
+"10765067592":{"name":"[UPD7] Tower Incremental","avg_ccu":7191.9,"min_ccu":5349,"max_ccu":9142,"samples":24},
 "10765091041":{"name":"Open Sea For Animals!","avg_ccu":5238.8,"min_ccu":3141,"max_ccu":14320,"samples":24},
 "10765122642":{"name":"Country Battles 🥊💪","avg_ccu":5461.2,"min_ccu":2899,"max_ccu":9834,"samples":24},
 "10765153945":{"name":"Steal A Car","avg_ccu":10953.4,"min_ccu":5812,"max_ccu":24557,"samples":24},
@@ -656,7 +656,7 @@
 "10767566226":{"name":"Don't Steal My Eggs!","avg_ccu":9034.6,"min_ccu":6675,"max_ccu":12407,"samples":24},
 "10767567751":{"name":"Bunker vs Verity","avg_ccu":18948.4,"min_ccu":13574,"max_ccu":23897,"samples":24},
 "10767582899":{"name":"[UPD] 📱 Build a Phone Empire","avg_ccu":7933.1,"min_ccu":5108,"max_ccu":13128,"samples":24},
-"10767628417":{"name":"[⏳ 15H] Create Pottery!","avg_ccu":5456.6,"min_ccu":4128,"max_ccu":6458,"samples":16},
+"10767628417":{"name":"[⏳ 16H] Create Pottery!","avg_ccu":5456.6,"min_ccu":4128,"max_ccu":6458,"samples":16},
 "10767634248":{"name":"Firefighting Sim 🚒","avg_ccu":26675.8,"min_ccu":20452,"max_ccu":33516,"samples":24},
 "10767780358":{"name":"[🎃2x KEYS] MM2 of The Locust","avg_ccu":2766.7,"min_ccu":1701,"max_ccu":4256,"samples":24},
 "10767784294":{"name":"[🎃] Steal an Clown Egg","avg_ccu":8866.7,"min_ccu":1125,"max_ccu":39679,"samples":24},
