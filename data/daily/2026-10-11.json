@@ -1,4 +1,4 @@
-{"date": "2026-10-11", "timezone": "America/New_York", "generated_utc": "2026-10-12T03:10:00Z", "through_et": "23:10","games":{
+{"date": "2026-10-11", "timezone": "America/New_York", "generated_utc": "2026-10-12T04:10:00Z", "through_et": "24:00","games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":5390.5,"min_ccu":4083,"max_ccu":6825,"samples":24},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9585.6,"min_ccu":6409,"max_ccu":12188,"samples":24},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":6946.8,"min_ccu":4573,"max_ccu":8533,"samples":24},
@@ -658,7 +658,7 @@
 "10766515145":{"name":"Steal and Escape Police! 🚓","avg_ccu":3903.3,"min_ccu":2739,"max_ccu":5730,"samples":9},
 "10766567836":{"name":"😠 Verity's Troll Tower","avg_ccu":3264.8,"min_ccu":1559,"max_ccu":4839,"samples":24},
 "10766578375":{"name":"Aisles Of The Locust [CHAPTER 2]","avg_ccu":9608.6,"min_ccu":6096,"max_ccu":13303,"samples":24},
-"10766588474":{"name":"PORTALS","avg_ccu":9844.8,"min_ccu":5494,"max_ccu":14449,"samples":24},
+"10766588474":{"name":"[🎃] PORTALS","avg_ccu":9844.8,"min_ccu":5494,"max_ccu":14449,"samples":24},
 "10766596513":{"name":"+1 Hair Escape✂️","avg_ccu":4252.5,"min_ccu":2859,"max_ccu":5236,"samples":4},
 "10766687030":{"name":"Rocket Rush","avg_ccu":4683.5,"min_ccu":2857,"max_ccu":6378,"samples":24},
 "10766691148":{"name":"Ride A Fish 🐟","avg_ccu":2667.1,"min_ccu":742,"max_ccu":4764,"samples":24},
