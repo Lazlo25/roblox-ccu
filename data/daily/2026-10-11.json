@@ -1,4 +1,4 @@
-{"date": "2026-10-11", "timezone": "America/New_York", "generated_utc": "2026-10-12T07:10:00Z", "through_et": "24:00","games":{
+{"date": "2026-10-11", "timezone": "America/New_York", "generated_utc": "2026-10-12T08:10:00Z", "through_et": "24:00","games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":5390.5,"min_ccu":4083,"max_ccu":6825,"samples":24},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9585.6,"min_ccu":6409,"max_ccu":12188,"samples":24},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":6946.8,"min_ccu":4573,"max_ccu":8533,"samples":24},
@@ -680,7 +680,7 @@
 "10767566226":{"name":"Don't Steal My Eggs!","avg_ccu":7290.5,"min_ccu":4369,"max_ccu":9322,"samples":24},
 "10767567751":{"name":"Bunker vs Verity","avg_ccu":17292.2,"min_ccu":9065,"max_ccu":23067,"samples":24},
 "10767582899":{"name":"[UPD] 📱 Build a Phone Empire","avg_ccu":8395.4,"min_ccu":4554,"max_ccu":11762,"samples":24},
-"10767628417":{"name":"Create Pottery!","avg_ccu":5190.7,"min_ccu":3819,"max_ccu":7019,"samples":24},
+"10767628417":{"name":"[UPD] Create Pottery!","avg_ccu":5190.7,"min_ccu":3819,"max_ccu":7019,"samples":24},
 "10767634248":{"name":"Firefighting Sim 🚒","avg_ccu":25214.5,"min_ccu":15726,"max_ccu":34364,"samples":24},
 "10767774668":{"name":"[🥞] Paint a Pancake","avg_ccu":7182.6,"min_ccu":2877,"max_ccu":11890,"samples":20},
 "10767780358":{"name":"[🎃2x KEYS] MM2 of The Locust","avg_ccu":3578.7,"min_ccu":2784,"max_ccu":4577,"samples":24},
