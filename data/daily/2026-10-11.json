@@ -1,4 +1,4 @@
-{"date": "2026-10-11", "timezone": "America/New_York", "generated_utc": "2026-10-12T10:10:00Z", "through_et": "24:00","games":{
+{"date": "2026-10-11", "timezone": "America/New_York", "generated_utc": "2026-10-12T11:10:00Z", "through_et": "24:00", "platform_now": null, "genres": null, "genre_hours": 0,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":5390.5,"min_ccu":4083,"max_ccu":6825,"samples":24},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9585.6,"min_ccu":6409,"max_ccu":12188,"samples":24},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":6946.8,"min_ccu":4573,"max_ccu":8533,"samples":24},
@@ -439,7 +439,7 @@
 "10377606330":{"name":"Save a Baddie 🌸","avg_ccu":8487.2,"min_ccu":5558,"max_ccu":12087,"samples":14},
 "10389762549":{"name":"[EVENT] Sword RNG X","avg_ccu":1643.3,"min_ccu":1080,"max_ccu":3892,"samples":24},
 "10390151142":{"name":"Run a Dance Studio","avg_ccu":1354.8,"min_ccu":768,"max_ccu":2030,"samples":24},
-"10393438342":{"name":"[🎃 6H🎃] Alliance Tower Defense! ⚔️","avg_ccu":2930.6,"min_ccu":2107,"max_ccu":3722,"samples":24},
+"10393438342":{"name":"[🎃 5H 🎃] Alliance Tower Defense! ⚔️","avg_ccu":2930.6,"min_ccu":2107,"max_ccu":3722,"samples":24},
 "10399136326":{"name":"Anime Ability Arena","avg_ccu":16048.5,"min_ccu":10492,"max_ccu":20444,"samples":24},
 "10399174001":{"name":"[⭐] Makeup Artist 🎨","avg_ccu":7331.6,"min_ccu":3731,"max_ccu":9770,"samples":24},
 "10404519332":{"name":"🪓 Carve Wood! [Fall Update]","avg_ccu":2217.6,"min_ccu":1574,"max_ccu":2929,"samples":24},
