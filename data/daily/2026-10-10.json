@@ -1,4 +1,4 @@
-{"date": "2026-10-10", "timezone": "America/New_York", "generated_utc": "2026-10-12T02:10:00Z", "through_et": "24:00","games":{
+{"date": "2026-10-10", "timezone": "America/New_York", "generated_utc": "2026-10-12T03:10:00Z", "through_et": "24:00","games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":5390.2,"min_ccu":4390,"max_ccu":6483,"samples":24},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9063.7,"min_ccu":5507,"max_ccu":12884,"samples":24},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":7400.9,"min_ccu":5802,"max_ccu":9084,"samples":24},
