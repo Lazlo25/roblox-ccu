@@ -1,4 +1,4 @@
-{"date": "2026-10-11", "timezone": "America/New_York", "generated_utc": "2026-10-12T04:10:00Z", "through_et": "24:00","games":{
+{"date": "2026-10-11", "timezone": "America/New_York", "generated_utc": "2026-10-12T05:10:00Z", "through_et": "24:00","games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":5390.5,"min_ccu":4083,"max_ccu":6825,"samples":24},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9585.6,"min_ccu":6409,"max_ccu":12188,"samples":24},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":6946.8,"min_ccu":4573,"max_ccu":8533,"samples":24},
@@ -450,7 +450,7 @@
 "10420832668":{"name":"[🎃UPDATE ] Komorebi Prison","avg_ccu":337.7,"min_ccu":244,"max_ccu":481,"samples":24},
 "10424107160":{"name":"[🌙] Survive The Night","avg_ccu":5533.3,"min_ccu":3612,"max_ccu":7392,"samples":24},
 "10424350877":{"name":"ESCAPE CANDY WITCH! (SCARY OBBY)","avg_ccu":3391.7,"min_ccu":1860,"max_ccu":5497,"samples":24},
-"10428418645":{"name":"[🗡️MAJOR UPD] TRENCH: DECAY","avg_ccu":2174.2,"min_ccu":1625,"max_ccu":2718,"samples":24},
+"10428418645":{"name":"[🎖️BADGE & 🗡️MAJOR UPD] TRENCH: DECAY","avg_ccu":2174.2,"min_ccu":1625,"max_ccu":2718,"samples":24},
 "10430019389":{"name":"[🎃] Spot the Fake For Anime!","avg_ccu":4473.5,"min_ccu":3585,"max_ccu":5412,"samples":24},
 "10431718987":{"name":"[🎖️] Merge a Mini  Army","avg_ccu":4388.6,"min_ccu":3420,"max_ccu":5864,"samples":24},
 "10436530264":{"name":"Build An Ant Empire","avg_ccu":24122.8,"min_ccu":16075,"max_ccu":30782,"samples":24},
