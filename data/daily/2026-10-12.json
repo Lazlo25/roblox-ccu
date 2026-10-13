@@ -1,4 +1,4 @@
-{"date": "2026-10-12", "timezone": "America/New_York", "generated_utc": "2026-10-13T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-13T03:10:00Z", 9098569], "genres": {"Simulation": 38.706, "Survival": 15.123, "Roleplay & Avatar Sim": 13.922, "Action": 8.999, "RPG": 4.857, "Shooter": 4.209, "Sports & Racing": 3.664, "Strategy": 2.346, "Party & Casual": 2.298, "Obby & Platformer": 1.79, "Adventure": 1.244, "Shopping": 1.057, "Entertainment": 0.629, "Other": 0.435, "Puzzle": 0.415, "Social": 0.299, "Education": 0.007}, "genre_hours": 13,"games":{
+{"date": "2026-10-12", "timezone": "America/New_York", "generated_utc": "2026-10-13T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-13T03:10:00Z", 9098569], "genres": {"Simulation": 38.706, "Survival": 15.123, "Roleplay & Avatar Sim": 13.922, "Action": 8.999, "RPG": 4.857, "Shooter": 4.209, "Sports & Racing": 3.664, "Strategy": 2.346, "Party & Casual": 2.298, "Obby & Platformer": 1.79, "Adventure": 1.244, "Shopping": 1.057, "Entertainment": 0.629, "Other": 0.435, "Puzzle": 0.415, "Social": 0.299, "Education": 0.007}, "genre_hours": 13,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3700.9,"min_ccu":2709,"max_ccu":5227,"samples":20,"sess":12.46,"sess_h":16.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7865.6,"min_ccu":4397,"max_ccu":10119,"samples":20,"sess":8.4,"sess_h":16.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":4683.1,"min_ccu":3638,"max_ccu":6608,"samples":20,"sess":15.26,"sess_h":16.0,"like":87.7},
@@ -367,7 +367,7 @@
 "9843234816":{"name":"[REVAMPED UI, 15+ SKIN] Appleton's Grabpack System","avg_ccu":553.4,"min_ccu":348,"max_ccu":926,"samples":20,"sess":6.93,"sess_h":16.0,"like":73.5},
 "9855761734":{"name":"[GANGS] San Diego Roleplay","avg_ccu":9757.9,"min_ccu":6748,"max_ccu":16169,"samples":20,"sess":15.9,"sess_h":16.0,"like":85.58},
 "9872734936":{"name":"[UPD] Junk Mechanics","avg_ccu":5352.4,"min_ccu":3456,"max_ccu":7674,"samples":20,"sess":14.73,"sess_h":16.0,"like":88.36},
-"9880286438":{"name":"[🍀x2 Luck] Legacy Piece","avg_ccu":5231.9,"min_ccu":4610,"max_ccu":5979,"samples":20,"sess":17.99,"sess_h":16.0,"like":96.97},
+"9880286438":{"name":"Legacy Piece [Dante & Vergil]","avg_ccu":5231.9,"min_ccu":4610,"max_ccu":5979,"samples":20,"sess":17.99,"sess_h":16.0,"like":96.97},
 "9885372266":{"name":"[UPD] Unseen Liminality","avg_ccu":5002.6,"min_ccu":2582,"max_ccu":6587,"samples":20,"sess":15.86,"sess_h":16.0,"like":93.7},
 "9891331827":{"name":"Clover Time [SHADOW GRIMOIRE💥]","avg_ccu":5497.9,"min_ccu":3589,"max_ccu":7366,"samples":20,"sess":16.76,"sess_h":16.0,"like":97.32},
 "9908641400":{"name":"Football Fusion 3","avg_ccu":5796.2,"min_ccu":557,"max_ccu":10748,"samples":20,"sess":10.96,"sess_h":16.0,"like":82.42},
