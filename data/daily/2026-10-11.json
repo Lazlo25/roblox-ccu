@@ -1,4 +1,4 @@
-{"date": "2026-10-11", "timezone": "America/New_York", "generated_utc": "2026-10-12T23:10:01Z", "through_et": "24:00", "platform_now": null, "genres": null, "genre_hours": 0,"games":{
+{"date": "2026-10-11", "timezone": "America/New_York", "generated_utc": "2026-10-13T00:10:00Z", "through_et": "24:00", "platform_now": null, "genres": null, "genre_hours": 0,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":5390.5,"min_ccu":4083,"max_ccu":6825,"samples":24},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9585.6,"min_ccu":6409,"max_ccu":12188,"samples":24},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":6946.8,"min_ccu":4573,"max_ccu":8533,"samples":24},
@@ -525,7 +525,7 @@
 "10648820673":{"name":"[🍲] Karinderya!","avg_ccu":15308.2,"min_ccu":3037,"max_ccu":33270,"samples":24},
 "10649255304":{"name":"Pull An Egg","avg_ccu":3169.3,"min_ccu":1801,"max_ccu":4362,"samples":24},
 "10665420648":{"name":"[UPD 2] THRESHOLD","avg_ccu":11984.9,"min_ccu":8133,"max_ccu":14860,"samples":24},
-"10667357873":{"name":"[UPD] 💭Dream Car Collection","avg_ccu":12585.3,"min_ccu":6204,"max_ccu":17459,"samples":24},
+"10667357873":{"name":"💭Dream Car Collection","avg_ccu":12585.3,"min_ccu":6204,"max_ccu":17459,"samples":24},
 "10673920146":{"name":"Survive a Million Monkeys","avg_ccu":21861.4,"min_ccu":12819,"max_ccu":38819,"samples":24},
 "10675117523":{"name":"Anime Breaker [🩸KAGUNES]","avg_ccu":13860.1,"min_ccu":12086,"max_ccu":15398,"samples":24},
 "10681914462":{"name":"[☁️WORLD 2] +1 Tongue Escape😛","avg_ccu":18303.7,"min_ccu":9698,"max_ccu":24344,"samples":24},
