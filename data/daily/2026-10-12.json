@@ -1,4 +1,4 @@
-{"date": "2026-10-12", "timezone": "America/New_York", "generated_utc": "2026-10-13T17:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-13T03:10:00Z", 9098569], "genres": {"Simulation": 38.706, "Survival": 15.123, "Roleplay & Avatar Sim": 13.922, "Action": 8.999, "RPG": 4.857, "Shooter": 4.209, "Sports & Racing": 3.664, "Strategy": 2.346, "Party & Casual": 2.298, "Obby & Platformer": 1.79, "Adventure": 1.244, "Shopping": 1.057, "Entertainment": 0.629, "Other": 0.435, "Puzzle": 0.415, "Social": 0.299, "Education": 0.007}, "genre_hours": 13,"games":{
+{"date": "2026-10-12", "timezone": "America/New_York", "generated_utc": "2026-10-13T18:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-13T03:10:00Z", 9098569], "genres": {"Simulation": 38.706, "Survival": 15.123, "Roleplay & Avatar Sim": 13.922, "Action": 8.999, "RPG": 4.857, "Shooter": 4.209, "Sports & Racing": 3.664, "Strategy": 2.346, "Party & Casual": 2.298, "Obby & Platformer": 1.79, "Adventure": 1.244, "Shopping": 1.057, "Entertainment": 0.629, "Other": 0.435, "Puzzle": 0.415, "Social": 0.299, "Education": 0.007}, "genre_hours": 13,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3700.9,"min_ccu":2709,"max_ccu":5227,"samples":20,"sess":12.46,"sess_h":16.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7865.6,"min_ccu":4397,"max_ccu":10119,"samples":20,"sess":8.4,"sess_h":16.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":4683.1,"min_ccu":3638,"max_ccu":6608,"samples":20,"sess":15.26,"sess_h":16.0,"like":87.7},
@@ -396,7 +396,7 @@
 "10091766471":{"name":"Prison RP 🚨","avg_ccu":1525.8,"min_ccu":1061,"max_ccu":2482,"samples":13,"sess":8.71,"sess_h":9.0,"like":90.49},
 "10109877123":{"name":"[🧬] Drop a Fruit","avg_ccu":3140.2,"min_ccu":2437,"max_ccu":4102,"samples":20,"sess":19.89,"sess_h":16.0,"like":88.97},
 "10116272705":{"name":"[ 🏆UPD0.5 ] Anime Mysterious","avg_ccu":9334.3,"min_ccu":8571,"max_ccu":10008,"samples":20,"sess":42.03,"sess_h":16.0,"like":96.79},
-"10117986107":{"name":"Would You Rather: MIX Outfit Tower! 🍧","avg_ccu":996.8,"min_ccu":619,"max_ccu":1390,"samples":20,"sess":7.31,"sess_h":16.0,"like":75.63},
+"10117986107":{"name":"Would You Rather: Candy Outfit Tower 🍭","avg_ccu":996.8,"min_ccu":619,"max_ccu":1390,"samples":20,"sess":7.31,"sess_h":16.0,"like":75.63},
 "10123059921":{"name":"[🎃EVENT] Home Alone: Anomalies","avg_ccu":6342.9,"min_ccu":3521,"max_ccu":11955,"samples":20,"sess":5.47,"sess_h":16.0,"like":94.86},
 "10124403207":{"name":"[UPDATE] Road to Glory: Football (Beta)","avg_ccu":1155.8,"min_ccu":152,"max_ccu":1996,"samples":20,"sess":14.09,"sess_h":16.0,"like":82.49},
 "10124908464":{"name":"Surf and Plunge","avg_ccu":564.5,"min_ccu":294,"max_ccu":1140,"samples":20,"sess":9.01,"sess_h":16.0,"like":94.22},
