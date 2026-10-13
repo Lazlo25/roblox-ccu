@@ -1,4 +1,4 @@
-{"date": "2026-10-12", "timezone": "America/New_York", "generated_utc": "2026-10-13T14:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-13T03:10:00Z", 9098569], "genres": {"Simulation": 38.706, "Survival": 15.123, "Roleplay & Avatar Sim": 13.922, "Action": 8.999, "RPG": 4.857, "Shooter": 4.209, "Sports & Racing": 3.664, "Strategy": 2.346, "Party & Casual": 2.298, "Obby & Platformer": 1.79, "Adventure": 1.244, "Shopping": 1.057, "Entertainment": 0.629, "Other": 0.435, "Puzzle": 0.415, "Social": 0.299, "Education": 0.007}, "genre_hours": 13,"games":{
+{"date": "2026-10-12", "timezone": "America/New_York", "generated_utc": "2026-10-13T15:10:01Z", "through_et": "24:00", "platform_now": ["2026-10-13T03:10:00Z", 9098569], "genres": {"Simulation": 38.706, "Survival": 15.123, "Roleplay & Avatar Sim": 13.922, "Action": 8.999, "RPG": 4.857, "Shooter": 4.209, "Sports & Racing": 3.664, "Strategy": 2.346, "Party & Casual": 2.298, "Obby & Platformer": 1.79, "Adventure": 1.244, "Shopping": 1.057, "Entertainment": 0.629, "Other": 0.435, "Puzzle": 0.415, "Social": 0.299, "Education": 0.007}, "genre_hours": 13,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3700.9,"min_ccu":2709,"max_ccu":5227,"samples":20,"sess":12.46,"sess_h":16.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7865.6,"min_ccu":4397,"max_ccu":10119,"samples":20,"sess":8.4,"sess_h":16.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":4683.1,"min_ccu":3638,"max_ccu":6608,"samples":20,"sess":15.26,"sess_h":16.0,"like":87.7},
@@ -19,7 +19,7 @@
 "321778215":{"name":"Royale🎃High","avg_ccu":10355.2,"min_ccu":5943,"max_ccu":14382,"samples":20,"sess":22.9,"sess_h":16.0,"like":85.92},
 "371263894":{"name":"Greenville RP (⭐AUDI + SHELBY RELATED + RACES!)","avg_ccu":5215.1,"min_ccu":2233,"max_ccu":7320,"samples":20,"sess":16.97,"sess_h":16.0,"like":87.88},
 "372226183":{"name":"Flee the Facility","avg_ccu":20582.6,"min_ccu":4929,"max_ccu":30395,"samples":20,"sess":12.66,"sess_h":16.0,"like":92.1},
-"383310974":{"name":"[🎃] Adopt Me!","avg_ccu":281279.4,"min_ccu":226017,"max_ccu":389894,"samples":20,"sess":27.4,"sess_h":16.0,"like":86.32},
+"383310974":{"name":"[✏️2D TUESDAY] Adopt Me!","avg_ccu":281279.4,"min_ccu":226017,"max_ccu":389894,"samples":20,"sess":27.4,"sess_h":16.0,"like":86.32},
 "540382210":{"name":"[UPDATE!!!] FMR","avg_ccu":1410.0,"min_ccu":600,"max_ccu":2231,"samples":20,"sess":11.83,"sess_h":16.0,"like":94.88},
 "547524060":{"name":"Feather Family 🎃 [Burrowing Owl]","avg_ccu":4500.8,"min_ccu":2875,"max_ccu":7790,"samples":20,"sess":12.42,"sess_h":16.0,"like":91.64},
 "578392296":{"name":"ABA","avg_ccu":14301.8,"min_ccu":9557,"max_ccu":16806,"samples":20,"sess":16.48,"sess_h":16.0,"like":80.69},
@@ -347,7 +347,7 @@
 "9551044479":{"name":"Final Swarm [⚔️Sandworm]","avg_ccu":2521.7,"min_ccu":1821,"max_ccu":3433,"samples":20,"sess":10.05,"sess_h":16.0,"like":97.16},
 "9561553764":{"name":"[☣️] Murder Duels","avg_ccu":11477.5,"min_ccu":8942,"max_ccu":16217,"samples":20,"sess":8.45,"sess_h":16.0,"like":93.58},
 "9582986239":{"name":"Fish an Anime RNG 🎲","avg_ccu":3137.8,"min_ccu":2862,"max_ccu":3461,"samples":20,"sess":24.81,"sess_h":16.0,"like":94.99},
-"9584852943":{"name":"+1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":61341.8,"min_ccu":36939,"max_ccu":118446,"samples":20,"sess":7.65,"sess_h":16.0,"like":96.84},
+"9584852943":{"name":"[X20] +1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":61341.8,"min_ccu":36939,"max_ccu":118446,"samples":20,"sess":7.65,"sess_h":16.0,"like":96.84},
 "9641502068":{"name":"KNIFE DUELS","avg_ccu":9809.5,"min_ccu":6847,"max_ccu":16572,"samples":20,"sess":8.18,"sess_h":16.0,"like":93.75},
 "9656201728":{"name":"[🛡️ GUILDS] Dungeon Lootr","avg_ccu":1357.3,"min_ccu":1200,"max_ccu":1682,"samples":20,"sess":15.3,"sess_h":16.0,"like":95.23},
 "9662130710":{"name":"[⚡UPD] Phonk Slap 🎵","avg_ccu":2018.2,"min_ccu":1143,"max_ccu":3453,"samples":20,"sess":10.19,"sess_h":16.0,"like":92.16},
@@ -367,7 +367,7 @@
 "9843234816":{"name":"[REVAMPED UI, 15+ SKIN] Appleton's Grabpack System","avg_ccu":553.4,"min_ccu":348,"max_ccu":926,"samples":20,"sess":6.93,"sess_h":16.0,"like":73.5},
 "9855761734":{"name":"[GANGS] San Diego Roleplay","avg_ccu":9757.9,"min_ccu":6748,"max_ccu":16169,"samples":20,"sess":15.9,"sess_h":16.0,"like":85.58},
 "9872734936":{"name":"[UPD] Junk Mechanics","avg_ccu":5352.4,"min_ccu":3456,"max_ccu":7674,"samples":20,"sess":14.73,"sess_h":16.0,"like":88.36},
-"9880286438":{"name":"Legacy Piece [Dante & Vergil]","avg_ccu":5231.9,"min_ccu":4610,"max_ccu":5979,"samples":20,"sess":17.99,"sess_h":16.0,"like":96.97},
+"9880286438":{"name":"[Dante & Vergil] Legacy Piece","avg_ccu":5231.9,"min_ccu":4610,"max_ccu":5979,"samples":20,"sess":17.99,"sess_h":16.0,"like":96.97},
 "9885372266":{"name":"[UPD] Unseen Liminality","avg_ccu":5002.6,"min_ccu":2582,"max_ccu":6587,"samples":20,"sess":15.86,"sess_h":16.0,"like":93.7},
 "9891331827":{"name":"Clover Time [SHADOW GRIMOIRE💥]","avg_ccu":5497.9,"min_ccu":3589,"max_ccu":7366,"samples":20,"sess":16.76,"sess_h":16.0,"like":97.32},
 "9908641400":{"name":"Football Fusion 3","avg_ccu":5796.2,"min_ccu":557,"max_ccu":10748,"samples":20,"sess":10.96,"sess_h":16.0,"like":82.42},
