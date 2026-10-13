@@ -1,4 +1,4 @@
-{"date": "2026-10-12", "timezone": "America/New_York", "generated_utc": "2026-10-13T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-13T03:10:00Z", 9098569], "genres": {"Simulation": 38.706, "Survival": 15.123, "Roleplay & Avatar Sim": 13.922, "Action": 8.999, "RPG": 4.857, "Shooter": 4.209, "Sports & Racing": 3.664, "Strategy": 2.346, "Party & Casual": 2.298, "Obby & Platformer": 1.79, "Adventure": 1.244, "Shopping": 1.057, "Entertainment": 0.629, "Other": 0.435, "Puzzle": 0.415, "Social": 0.299, "Education": 0.007}, "genre_hours": 13,"games":{
+{"date": "2026-10-12", "timezone": "America/New_York", "generated_utc": "2026-10-13T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-13T03:10:00Z", 9098569], "genres": {"Simulation": 38.706, "Survival": 15.123, "Roleplay & Avatar Sim": 13.922, "Action": 8.999, "RPG": 4.857, "Shooter": 4.209, "Sports & Racing": 3.664, "Strategy": 2.346, "Party & Casual": 2.298, "Obby & Platformer": 1.79, "Adventure": 1.244, "Shopping": 1.057, "Entertainment": 0.629, "Other": 0.435, "Puzzle": 0.415, "Social": 0.299, "Education": 0.007}, "genre_hours": 13,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3700.9,"min_ccu":2709,"max_ccu":5227,"samples":20,"sess":12.46,"sess_h":16.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7865.6,"min_ccu":4397,"max_ccu":10119,"samples":20,"sess":8.4,"sess_h":16.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":4683.1,"min_ccu":3638,"max_ccu":6608,"samples":20,"sess":15.26,"sess_h":16.0,"like":87.7},
@@ -19,7 +19,7 @@
 "321778215":{"name":"Royale🎃High","avg_ccu":10355.2,"min_ccu":5943,"max_ccu":14382,"samples":20,"sess":22.9,"sess_h":16.0,"like":85.92},
 "371263894":{"name":"Greenville RP (⭐AUDI + SHELBY RELATED + RACES!)","avg_ccu":5215.1,"min_ccu":2233,"max_ccu":7320,"samples":20,"sess":16.97,"sess_h":16.0,"like":87.88},
 "372226183":{"name":"Flee the Facility","avg_ccu":20582.6,"min_ccu":4929,"max_ccu":30395,"samples":20,"sess":12.66,"sess_h":16.0,"like":92.1},
-"383310974":{"name":"[✏️2D TUESDAY] Adopt Me!","avg_ccu":281279.4,"min_ccu":226017,"max_ccu":389894,"samples":20,"sess":27.4,"sess_h":16.0,"like":86.32},
+"383310974":{"name":"[🎃] Adopt Me!","avg_ccu":281279.4,"min_ccu":226017,"max_ccu":389894,"samples":20,"sess":27.4,"sess_h":16.0,"like":86.32},
 "540382210":{"name":"[UPDATE!!!] FMR","avg_ccu":1410.0,"min_ccu":600,"max_ccu":2231,"samples":20,"sess":11.83,"sess_h":16.0,"like":94.88},
 "547524060":{"name":"Feather Family 🎃 [Burrowing Owl]","avg_ccu":4500.8,"min_ccu":2875,"max_ccu":7790,"samples":20,"sess":12.42,"sess_h":16.0,"like":91.64},
 "578392296":{"name":"ABA","avg_ccu":14301.8,"min_ccu":9557,"max_ccu":16806,"samples":20,"sess":16.48,"sess_h":16.0,"like":80.69},
@@ -678,7 +678,7 @@
 "10766515145":{"name":"Steal and Escape Police! 🚓","avg_ccu":3317.0,"min_ccu":2027,"max_ccu":5263,"samples":20,"sess":14.3,"sess_h":16.0,"like":89.81},
 "10766567836":{"name":"😠 Verity's Troll Tower","avg_ccu":1915.0,"min_ccu":1242,"max_ccu":3209,"samples":20,"sess":9.34,"sess_h":16.0,"like":70.88},
 "10766578375":{"name":"Aisles Of The Locust [CHAPTER 2]","avg_ccu":6418.1,"min_ccu":4196,"max_ccu":11057,"samples":7},
-"10766588474":{"name":"[🎃] PORTALS","avg_ccu":8820.0,"min_ccu":4914,"max_ccu":14021,"samples":20,"sess":3.89,"sess_h":16.0,"like":82.02},
+"10766588474":{"name":"PORTALS","avg_ccu":8820.0,"min_ccu":4914,"max_ccu":14021,"samples":20,"sess":3.89,"sess_h":16.0,"like":82.02},
 "10766596513":{"name":"+1 Hair Escape✂️","avg_ccu":4490.3,"min_ccu":2614,"max_ccu":7433,"samples":20,"sess":10.17,"sess_h":16.0,"like":69.77},
 "10766687030":{"name":"Rocket Rush","avg_ccu":3156.5,"min_ccu":1911,"max_ccu":5314,"samples":20,"sess":8.58,"sess_h":16.0,"like":81.07},
 "10766691148":{"name":"Ride A Fish 🐟","avg_ccu":4031.1,"min_ccu":2524,"max_ccu":6596,"samples":20,"sess":11.86,"sess_h":16.0,"like":96.79},
