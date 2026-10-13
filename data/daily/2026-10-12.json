@@ -1,4 +1,4 @@
-{"date": "2026-10-12", "timezone": "America/New_York", "generated_utc": "2026-10-13T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-13T03:10:00Z", 9098569], "genres": {"Simulation": 38.706, "Survival": 15.123, "Roleplay & Avatar Sim": 13.922, "Action": 8.999, "RPG": 4.857, "Shooter": 4.209, "Sports & Racing": 3.664, "Strategy": 2.346, "Party & Casual": 2.298, "Obby & Platformer": 1.79, "Adventure": 1.244, "Shopping": 1.057, "Entertainment": 0.629, "Other": 0.435, "Puzzle": 0.415, "Social": 0.299, "Education": 0.007}, "genre_hours": 13,"games":{
+{"date": "2026-10-12", "timezone": "America/New_York", "generated_utc": "2026-10-13T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-13T03:10:00Z", 9098569], "genres": {"Simulation": 38.706, "Survival": 15.123, "Roleplay & Avatar Sim": 13.922, "Action": 8.999, "RPG": 4.857, "Shooter": 4.209, "Sports & Racing": 3.664, "Strategy": 2.346, "Party & Casual": 2.298, "Obby & Platformer": 1.79, "Adventure": 1.244, "Shopping": 1.057, "Entertainment": 0.629, "Other": 0.435, "Puzzle": 0.415, "Social": 0.299, "Education": 0.007}, "genre_hours": 13,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3700.9,"min_ccu":2709,"max_ccu":5227,"samples":20,"sess":12.46,"sess_h":16.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7865.6,"min_ccu":4397,"max_ccu":10119,"samples":20,"sess":8.4,"sess_h":16.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":4683.1,"min_ccu":3638,"max_ccu":6608,"samples":20,"sess":15.26,"sess_h":16.0,"like":87.7},
@@ -653,7 +653,7 @@
 "10765785152":{"name":"Guess My Game","avg_ccu":537.9,"min_ccu":337,"max_ccu":849,"samples":20,"sess":8.12,"sess_h":16.0,"like":82.97},
 "10765799968":{"name":"[♠️SHADOW♠️] CloverFall","avg_ccu":594.9,"min_ccu":445,"max_ccu":755,"samples":20,"sess":22.74,"sess_h":16.0,"like":93.92},
 "10765902945":{"name":"[UPDATE 1.5] Anime Legacy Simulator","avg_ccu":7564.2,"min_ccu":6708,"max_ccu":8473,"samples":20,"sess":32.61,"sess_h":16.0,"like":95.9},
-"10765906597":{"name":"[Halloween Event 🎃] Clean all the Balls","avg_ccu":1450.3,"min_ccu":801,"max_ccu":2445,"samples":20,"sess":13.15,"sess_h":16.0,"like":95.25},
+"10765906597":{"name":"[🎃] Clean all the Balls","avg_ccu":1450.3,"min_ccu":801,"max_ccu":2445,"samples":20,"sess":13.15,"sess_h":16.0,"like":95.25},
 "10765907187":{"name":"Drive an Egg","avg_ccu":4037.7,"min_ccu":3132,"max_ccu":5142,"samples":20,"sess":12.13,"sess_h":16.0,"like":86.44},
 "10765950109":{"name":"Steal A Baddie Egg!","avg_ccu":3543.3,"min_ccu":2876,"max_ccu":4519,"samples":20,"sess":15.69,"sess_h":16.0,"like":87.03},
 "10766004084":{"name":"[🎃] Escape the Cave","avg_ccu":2014.5,"min_ccu":1247,"max_ccu":3210,"samples":19,"sess":12.85,"sess_h":15.0,"like":91.51},
