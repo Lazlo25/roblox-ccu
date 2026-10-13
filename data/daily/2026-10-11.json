@@ -1,4 +1,4 @@
-{"date": "2026-10-11", "timezone": "America/New_York", "generated_utc": "2026-10-13T00:10:00Z", "through_et": "24:00", "platform_now": null, "genres": null, "genre_hours": 0,"games":{
+{"date": "2026-10-11", "timezone": "America/New_York", "generated_utc": "2026-10-13T01:10:00Z", "through_et": "24:00", "platform_now": null, "genres": null, "genre_hours": 0,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":5390.5,"min_ccu":4083,"max_ccu":6825,"samples":24},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9585.6,"min_ccu":6409,"max_ccu":12188,"samples":24},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":6946.8,"min_ccu":4573,"max_ccu":8533,"samples":24},
@@ -163,7 +163,7 @@
 "5239362765":{"name":"DON'T GET ELIMINATED","avg_ccu":7492.2,"min_ccu":4803,"max_ccu":10495,"samples":24},
 "5265857965":{"name":"Legends Battlegrounds","avg_ccu":4997.0,"min_ccu":3912,"max_ccu":6057,"samples":24},
 "5272606478":{"name":"[UPDATE🚗] Highway Legends","avg_ccu":1776.9,"min_ccu":1321,"max_ccu":2552,"samples":24},
-"5283219861":{"name":"Lethal Ape (BTM)","avg_ccu":14596.8,"min_ccu":10191,"max_ccu":20203,"samples":24},
+"5283219861":{"name":"Lethal Ape (🎃)","avg_ccu":14596.8,"min_ccu":10191,"max_ccu":20203,"samples":24},
 "5361032378":{"name":"Sol's RNG [ Eon 1-29 ]","avg_ccu":31356.2,"min_ccu":28460,"max_ccu":34357,"samples":24},
 "5422546686":{"name":"[🎃 NEW 🗺️ ] Horse Life","avg_ccu":3343.8,"min_ccu":2645,"max_ccu":4388,"samples":24},
 "5569032992":{"name":"🎃 Dandy's World [ALPHA]","avg_ccu":176603.0,"min_ccu":127294,"max_ccu":232500,"samples":24},
@@ -318,7 +318,7 @@
 "9145063979":{"name":"⛏️Dig to Escape","avg_ccu":8722.8,"min_ccu":4670,"max_ccu":11414,"samples":24},
 "9150731899":{"name":"[🍬HALLOWEEN PT 1] PRISON RP","avg_ccu":2093.2,"min_ccu":1232,"max_ccu":3162,"samples":24},
 "9167377564":{"name":"100 Days At Sea","avg_ccu":20215.3,"min_ccu":12058,"max_ccu":27522,"samples":24},
-"9169166771":{"name":"Tiny Universe RP [LimitedEvent!]","avg_ccu":1021.9,"min_ccu":727,"max_ccu":1328,"samples":24},
+"9169166771":{"name":"Tiny Universe RP [UPD!!!]","avg_ccu":1021.9,"min_ccu":727,"max_ccu":1328,"samples":24},
 "9199655655":{"name":"(学乱) Gakuran","avg_ccu":14765.5,"min_ccu":11853,"max_ccu":17886,"samples":24},
 "9237322219":{"name":"[🐍] Jungle Life","avg_ccu":1425.8,"min_ccu":800,"max_ccu":2010,"samples":24},
 "9294074907":{"name":"[FPS] One Tap","avg_ccu":22405.1,"min_ccu":12512,"max_ccu":28286,"samples":24},
@@ -525,7 +525,7 @@
 "10648820673":{"name":"[🍲] Karinderya!","avg_ccu":15308.2,"min_ccu":3037,"max_ccu":33270,"samples":24},
 "10649255304":{"name":"Pull An Egg","avg_ccu":3169.3,"min_ccu":1801,"max_ccu":4362,"samples":24},
 "10665420648":{"name":"[UPD 2] THRESHOLD","avg_ccu":11984.9,"min_ccu":8133,"max_ccu":14860,"samples":24},
-"10667357873":{"name":"💭Dream Car Collection","avg_ccu":12585.3,"min_ccu":6204,"max_ccu":17459,"samples":24},
+"10667357873":{"name":"[x3🍀] 💭Dream Car Collection","avg_ccu":12585.3,"min_ccu":6204,"max_ccu":17459,"samples":24},
 "10673920146":{"name":"Survive a Million Monkeys","avg_ccu":21861.4,"min_ccu":12819,"max_ccu":38819,"samples":24},
 "10675117523":{"name":"Anime Breaker [🩸KAGUNES]","avg_ccu":13860.1,"min_ccu":12086,"max_ccu":15398,"samples":24},
 "10681914462":{"name":"[☁️WORLD 2] +1 Tongue Escape😛","avg_ccu":18303.7,"min_ccu":9698,"max_ccu":24344,"samples":24},
