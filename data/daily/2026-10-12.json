@@ -1,4 +1,4 @@
-{"date": "2026-10-12", "timezone": "America/New_York", "generated_utc": "2026-10-13T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-13T03:10:00Z", 9098569], "genres": {"Simulation": 38.706, "Survival": 15.123, "Roleplay & Avatar Sim": 13.922, "Action": 8.999, "RPG": 4.857, "Shooter": 4.209, "Sports & Racing": 3.664, "Strategy": 2.346, "Party & Casual": 2.298, "Obby & Platformer": 1.79, "Adventure": 1.244, "Shopping": 1.057, "Entertainment": 0.629, "Other": 0.435, "Puzzle": 0.415, "Social": 0.299, "Education": 0.007}, "genre_hours": 13,"games":{
+{"date": "2026-10-12", "timezone": "America/New_York", "generated_utc": "2026-10-13T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-13T03:10:00Z", 9098569], "genres": {"Simulation": 38.706, "Survival": 15.123, "Roleplay & Avatar Sim": 13.922, "Action": 8.999, "RPG": 4.857, "Shooter": 4.209, "Sports & Racing": 3.664, "Strategy": 2.346, "Party & Casual": 2.298, "Obby & Platformer": 1.79, "Adventure": 1.244, "Shopping": 1.057, "Entertainment": 0.629, "Other": 0.435, "Puzzle": 0.415, "Social": 0.299, "Education": 0.007}, "genre_hours": 13,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3700.9,"min_ccu":2709,"max_ccu":5227,"samples":20,"sess":12.46,"sess_h":16.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7865.6,"min_ccu":4397,"max_ccu":10119,"samples":20,"sess":8.4,"sess_h":16.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":4683.1,"min_ccu":3638,"max_ccu":6608,"samples":20,"sess":15.26,"sess_h":16.0,"like":87.7},
@@ -19,7 +19,7 @@
 "321778215":{"name":"Royale🎃High","avg_ccu":10355.2,"min_ccu":5943,"max_ccu":14382,"samples":20,"sess":22.9,"sess_h":16.0,"like":85.92},
 "371263894":{"name":"Greenville RP (⭐AUDI + SHELBY RELATED + RACES!)","avg_ccu":5215.1,"min_ccu":2233,"max_ccu":7320,"samples":20,"sess":16.97,"sess_h":16.0,"like":87.88},
 "372226183":{"name":"Flee the Facility","avg_ccu":20582.6,"min_ccu":4929,"max_ccu":30395,"samples":20,"sess":12.66,"sess_h":16.0,"like":92.1},
-"383310974":{"name":"[🎃] Adopt Me!","avg_ccu":281279.4,"min_ccu":226017,"max_ccu":389894,"samples":20,"sess":27.4,"sess_h":16.0,"like":86.32},
+"383310974":{"name":"[✏️2D TUESDAY] Adopt Me!","avg_ccu":281279.4,"min_ccu":226017,"max_ccu":389894,"samples":20,"sess":27.4,"sess_h":16.0,"like":86.32},
 "540382210":{"name":"[UPDATE!!!] FMR","avg_ccu":1410.0,"min_ccu":600,"max_ccu":2231,"samples":20,"sess":11.83,"sess_h":16.0,"like":94.88},
 "547524060":{"name":"Feather Family 🎃 [Burrowing Owl]","avg_ccu":4500.8,"min_ccu":2875,"max_ccu":7790,"samples":20,"sess":12.42,"sess_h":16.0,"like":91.64},
 "578392296":{"name":"ABA","avg_ccu":14301.8,"min_ccu":9557,"max_ccu":16806,"samples":20,"sess":16.48,"sess_h":16.0,"like":80.69},
@@ -73,7 +73,7 @@
 "2380077519":{"name":"[UPDATE🛢️] Slap Battles👏","avg_ccu":7755.6,"min_ccu":4771,"max_ccu":11406,"samples":20,"sess":12.06,"sess_h":16.0,"like":86.05},
 "2440500124":{"name":"DOORS 🚨","avg_ccu":39917.5,"min_ccu":22286,"max_ccu":71636,"samples":20,"sess":12.18,"sess_h":16.0,"like":93.02},
 "2527789729":{"name":"[MOBILE!📱]Prior Extinction - Dinosaur Survival!","avg_ccu":2369.9,"min_ccu":1790,"max_ccu":3486,"samples":20,"sess":17.62,"sess_h":16.0,"like":78.63},
-"2583564222":{"name":"[MAP!] Boxing Beta! 🥊","avg_ccu":3580.8,"min_ccu":2702,"max_ccu":4343,"samples":20,"sess":9.26,"sess_h":16.0,"like":80.88},
+"2583564222":{"name":"[🎃] Boxing Beta! 🥊","avg_ccu":3580.8,"min_ccu":2702,"max_ccu":4343,"samples":20,"sess":9.26,"sess_h":16.0,"like":80.88},
 "2619619496":{"name":"BedWars [UPDATE]","avg_ccu":24819.5,"min_ccu":16378,"max_ccu":33725,"samples":20,"sess":13.74,"sess_h":16.0,"like":82.29},
 "2640407187":{"name":"(UPDATE!) Car Driving Indonesia","avg_ccu":2632.4,"min_ccu":999,"max_ccu":4695,"samples":20,"sess":14.16,"sess_h":16.0,"like":86.42},
 "2668101271":{"name":"Fling Things and People","avg_ccu":27728.3,"min_ccu":20287,"max_ccu":38195,"samples":20,"sess":10.81,"sess_h":16.0,"like":80.38},
@@ -638,7 +638,7 @@
 "10765579304":{"name":"[ALPHA] Fleet Empire","avg_ccu":1032.5,"min_ccu":759,"max_ccu":1276,"samples":20,"sess":19.34,"sess_h":16.0,"like":88.87},
 "10765582175":{"name":"dogs","avg_ccu":9916.8,"min_ccu":7437,"max_ccu":13361,"samples":20,"sess":14.27,"sess_h":16.0,"like":90.15},
 "10765618365":{"name":"Jump To Steal Phonks","avg_ccu":1695.2,"min_ccu":1034,"max_ccu":3058,"samples":20,"sess":11.49,"sess_h":16.0,"like":95.09},
-"10765626707":{"name":"Find a mysterious egg","avg_ccu":1.4,"min_ccu":0,"max_ccu":5,"samples":20,"sess":12.5,"sess_h":16.0,"like":79.33},
+"10765626707":{"name":"Solve a mystery","avg_ccu":1.4,"min_ccu":0,"max_ccu":5,"samples":20,"sess":12.5,"sess_h":16.0,"like":79.33},
 "10765629453":{"name":"Sail For Eggs","avg_ccu":215.5,"min_ccu":176,"max_ccu":279,"samples":13,"sess":8.11,"sess_h":9.0,"like":92.25},
 "10765635650":{"name":"Impossible Animals","avg_ccu":2963.2,"min_ccu":2408,"max_ccu":4038,"samples":20,"sess":16.07,"sess_h":16.0,"like":98.72},
 "10765637643":{"name":"💀 Steal An EXE Egg! 💀","avg_ccu":4766.1,"min_ccu":3293,"max_ccu":7360,"samples":20,"sess":8.93,"sess_h":16.0,"like":91.16},
