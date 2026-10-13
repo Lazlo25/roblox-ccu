@@ -1,4 +1,4 @@
-{"date": "2026-10-12", "timezone": "America/New_York", "generated_utc": "2026-10-13T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-13T03:10:00Z", 9098569], "genres": {"Simulation": 38.706, "Survival": 15.123, "Roleplay & Avatar Sim": 13.922, "Action": 8.999, "RPG": 4.857, "Shooter": 4.209, "Sports & Racing": 3.664, "Strategy": 2.346, "Party & Casual": 2.298, "Obby & Platformer": 1.79, "Adventure": 1.244, "Shopping": 1.057, "Entertainment": 0.629, "Other": 0.435, "Puzzle": 0.415, "Social": 0.299, "Education": 0.007}, "genre_hours": 13,"games":{
+{"date": "2026-10-12", "timezone": "America/New_York", "generated_utc": "2026-10-13T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-13T03:10:00Z", 9098569], "genres": {"Simulation": 38.706, "Survival": 15.123, "Roleplay & Avatar Sim": 13.922, "Action": 8.999, "RPG": 4.857, "Shooter": 4.209, "Sports & Racing": 3.664, "Strategy": 2.346, "Party & Casual": 2.298, "Obby & Platformer": 1.79, "Adventure": 1.244, "Shopping": 1.057, "Entertainment": 0.629, "Other": 0.435, "Puzzle": 0.415, "Social": 0.299, "Education": 0.007}, "genre_hours": 13,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3700.9,"min_ccu":2709,"max_ccu":5227,"samples":20,"sess":12.46,"sess_h":16.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7865.6,"min_ccu":4397,"max_ccu":10119,"samples":20,"sess":8.4,"sess_h":16.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":4683.1,"min_ccu":3638,"max_ccu":6608,"samples":20,"sess":15.26,"sess_h":16.0,"like":87.7},
@@ -567,7 +567,7 @@
 "10741654282":{"name":"Build and Kill Zombies","avg_ccu":12371.9,"min_ccu":8384,"max_ccu":16163,"samples":20,"sess":18.69,"sess_h":16.0,"like":98.02},
 "10741792653":{"name":"Survive The Swarm [CLASS COMBAT]","avg_ccu":2833.5,"min_ccu":2047,"max_ccu":3537,"samples":20,"sess":10.02,"sess_h":16.0,"like":96.73},
 "10742198859":{"name":"⚽️NEYMAR PRISON RUN!","avg_ccu":270.8,"min_ccu":113,"max_ccu":479,"samples":20,"sess":7.02,"sess_h":16.0,"like":64.1},
-"10742937135":{"name":"[Update!] Survive The Hulk 😱","avg_ccu":2469.7,"min_ccu":766,"max_ccu":3952,"samples":20,"sess":12.73,"sess_h":16.0,"like":80.94},
+"10742937135":{"name":"[Spiderman!] Survive The Hulk 😱","avg_ccu":2469.7,"min_ccu":766,"max_ccu":3952,"samples":20,"sess":12.73,"sess_h":16.0,"like":80.94},
 "10744310825":{"name":"Paint to Get Rich 🎨[UPD]","avg_ccu":19949.2,"min_ccu":11643,"max_ccu":32072,"samples":20,"sess":11.14,"sess_h":16.0,"like":74.23},
 "10747719434":{"name":"[V2] Feed A Mosquito","avg_ccu":7902.6,"min_ccu":6481,"max_ccu":9586,"samples":8,"sess":16.92,"sess_h":7.0,"like":75.17},
 "10747894435":{"name":"Duck Pond🦆","avg_ccu":1370.2,"min_ccu":860,"max_ccu":1783,"samples":20,"sess":17.92,"sess_h":16.0,"like":96.94},
