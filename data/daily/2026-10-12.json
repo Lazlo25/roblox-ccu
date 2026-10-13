@@ -1,4 +1,4 @@
-{"date": "2026-10-12", "timezone": "America/New_York", "generated_utc": "2026-10-13T22:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-13T03:10:00Z", 9098569], "genres": {"Simulation": 38.706, "Survival": 15.123, "Roleplay & Avatar Sim": 13.922, "Action": 8.999, "RPG": 4.857, "Shooter": 4.209, "Sports & Racing": 3.664, "Strategy": 2.346, "Party & Casual": 2.298, "Obby & Platformer": 1.79, "Adventure": 1.244, "Shopping": 1.057, "Entertainment": 0.629, "Other": 0.435, "Puzzle": 0.415, "Social": 0.299, "Education": 0.007}, "genre_hours": 13,"games":{
+{"date": "2026-10-12", "timezone": "America/New_York", "generated_utc": "2026-10-13T23:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-13T03:10:00Z", 9098569], "genres": {"Simulation": 38.706, "Survival": 15.123, "Roleplay & Avatar Sim": 13.922, "Action": 8.999, "RPG": 4.857, "Shooter": 4.209, "Sports & Racing": 3.664, "Strategy": 2.346, "Party & Casual": 2.298, "Obby & Platformer": 1.79, "Adventure": 1.244, "Shopping": 1.057, "Entertainment": 0.629, "Other": 0.435, "Puzzle": 0.415, "Social": 0.299, "Education": 0.007}, "genre_hours": 13,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3700.9,"min_ccu":2709,"max_ccu":5227,"samples":20,"sess":12.46,"sess_h":16.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7865.6,"min_ccu":4397,"max_ccu":10119,"samples":20,"sess":8.4,"sess_h":16.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":4683.1,"min_ccu":3638,"max_ccu":6608,"samples":20,"sess":15.26,"sess_h":16.0,"like":87.7},
@@ -9,7 +9,7 @@
 "88070565":{"name":"[🎃] Welcome to Bloxburg","avg_ccu":27065.8,"min_ccu":11403,"max_ccu":39934,"samples":20,"sess":23.58,"sess_h":16.0,"like":88.49},
 "97314177":{"name":"[UPDATE💪] Ninja Tycoon (v4.8)","avg_ccu":1593.0,"min_ccu":676,"max_ccu":2406,"samples":20,"sess":17.81,"sess_h":16.0,"like":89.48},
 "98839997":{"name":"[🎵🎶🎵!] Dinosaur Simulator","avg_ccu":333.4,"min_ccu":211,"max_ccu":413,"samples":20,"sess":15.75,"sess_h":16.0,"like":80.53},
-"98929893":{"name":"[PARASITE 🌀] Dragon Ball Rage","avg_ccu":1613.0,"min_ccu":706,"max_ccu":2274,"samples":20,"sess":18.06,"sess_h":16.0,"like":90.5},
+"98929893":{"name":"Dragon Ball Rage","avg_ccu":1613.0,"min_ccu":706,"max_ccu":2274,"samples":20,"sess":18.06,"sess_h":16.0,"like":90.5},
 "110181652":{"name":"Epic Minigames ✨","avg_ccu":1722.2,"min_ccu":830,"max_ccu":2226,"samples":20,"sess":13.45,"sess_h":16.0,"like":90.59},
 "113491250":{"name":"[Fall Weapon Remodels!] Phantom Forces","avg_ccu":2540.2,"min_ccu":1530,"max_ccu":3358,"samples":20,"sess":14.51,"sess_h":16.0,"like":90.74},
 "184199275":{"name":"[🔥NIKE] NFL Universe Football","avg_ccu":18496.7,"min_ccu":2515,"max_ccu":32004,"samples":20,"sess":18.61,"sess_h":16.0,"like":90.24},
@@ -19,7 +19,7 @@
 "321778215":{"name":"Royale🎃High","avg_ccu":10355.2,"min_ccu":5943,"max_ccu":14382,"samples":20,"sess":22.9,"sess_h":16.0,"like":85.92},
 "371263894":{"name":"Greenville RP (⭐AUDI + SHELBY RELATED + RACES!)","avg_ccu":5215.1,"min_ccu":2233,"max_ccu":7320,"samples":20,"sess":16.97,"sess_h":16.0,"like":87.88},
 "372226183":{"name":"Flee the Facility","avg_ccu":20582.6,"min_ccu":4929,"max_ccu":30395,"samples":20,"sess":12.66,"sess_h":16.0,"like":92.1},
-"383310974":{"name":"[🎃] Adopt Me!","avg_ccu":281279.4,"min_ccu":226017,"max_ccu":389894,"samples":20,"sess":27.4,"sess_h":16.0,"like":86.32},
+"383310974":{"name":"[✏️2D TUESDAY] Adopt Me!","avg_ccu":281279.4,"min_ccu":226017,"max_ccu":389894,"samples":20,"sess":27.4,"sess_h":16.0,"like":86.32},
 "540382210":{"name":"[UPDATE!!!] FMR","avg_ccu":1410.0,"min_ccu":600,"max_ccu":2231,"samples":20,"sess":11.83,"sess_h":16.0,"like":94.88},
 "547524060":{"name":"Feather Family 🎃 [Burrowing Owl]","avg_ccu":4500.8,"min_ccu":2875,"max_ccu":7790,"samples":20,"sess":12.42,"sess_h":16.0,"like":91.64},
 "578392296":{"name":"ABA","avg_ccu":14301.8,"min_ccu":9557,"max_ccu":16806,"samples":20,"sess":16.48,"sess_h":16.0,"like":80.69},
@@ -325,7 +325,7 @@
 "9145063979":{"name":"⛏️Dig to Escape","avg_ccu":4875.3,"min_ccu":3499,"max_ccu":7423,"samples":20,"sess":9.87,"sess_h":16.0,"like":97.77},
 "9150731899":{"name":"[🍬HALLOWEEN PT 1] PRISON RP","avg_ccu":1501.2,"min_ccu":1037,"max_ccu":2477,"samples":20,"sess":29.05,"sess_h":16.0,"like":81.33},
 "9167377564":{"name":"100 Days At Sea","avg_ccu":13379.0,"min_ccu":9249,"max_ccu":19085,"samples":20,"sess":15.59,"sess_h":16.0,"like":97.12},
-"9169166771":{"name":"Tiny Universe RP [UPD!!!]","avg_ccu":959.5,"min_ccu":602,"max_ccu":2183,"samples":20,"sess":9.33,"sess_h":16.0,"like":79.0},
+"9169166771":{"name":"Tiny Universe RP [NeedleHead!]","avg_ccu":959.5,"min_ccu":602,"max_ccu":2183,"samples":20,"sess":9.33,"sess_h":16.0,"like":79.0},
 "9199655655":{"name":"(学乱) Gakuran","avg_ccu":9769.7,"min_ccu":8474,"max_ccu":11682,"samples":7},
 "9237322219":{"name":"[🐍] Jungle Life","avg_ccu":1040.2,"min_ccu":493,"max_ccu":1699,"samples":20,"sess":11.85,"sess_h":16.0,"like":92.69},
 "9294074907":{"name":"[FPS] One Tap","avg_ccu":16849.5,"min_ccu":13460,"max_ccu":25924,"samples":20,"sess":8.18,"sess_h":16.0,"like":87.94},
