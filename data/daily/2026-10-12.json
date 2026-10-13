@@ -1,4 +1,4 @@
-{"date": "2026-10-12", "timezone": "America/New_York", "generated_utc": "2026-10-13T21:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-13T03:10:00Z", 9098569], "genres": {"Simulation": 38.706, "Survival": 15.123, "Roleplay & Avatar Sim": 13.922, "Action": 8.999, "RPG": 4.857, "Shooter": 4.209, "Sports & Racing": 3.664, "Strategy": 2.346, "Party & Casual": 2.298, "Obby & Platformer": 1.79, "Adventure": 1.244, "Shopping": 1.057, "Entertainment": 0.629, "Other": 0.435, "Puzzle": 0.415, "Social": 0.299, "Education": 0.007}, "genre_hours": 13,"games":{
+{"date": "2026-10-12", "timezone": "America/New_York", "generated_utc": "2026-10-13T22:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-13T03:10:00Z", 9098569], "genres": {"Simulation": 38.706, "Survival": 15.123, "Roleplay & Avatar Sim": 13.922, "Action": 8.999, "RPG": 4.857, "Shooter": 4.209, "Sports & Racing": 3.664, "Strategy": 2.346, "Party & Casual": 2.298, "Obby & Platformer": 1.79, "Adventure": 1.244, "Shopping": 1.057, "Entertainment": 0.629, "Other": 0.435, "Puzzle": 0.415, "Social": 0.299, "Education": 0.007}, "genre_hours": 13,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3700.9,"min_ccu":2709,"max_ccu":5227,"samples":20,"sess":12.46,"sess_h":16.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7865.6,"min_ccu":4397,"max_ccu":10119,"samples":20,"sess":8.4,"sess_h":16.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":4683.1,"min_ccu":3638,"max_ccu":6608,"samples":20,"sess":15.26,"sess_h":16.0,"like":87.7},
@@ -245,7 +245,7 @@
 "7178032757":{"name":"[✨] Rebirth Champions: Ultimate","avg_ccu":4284.4,"min_ccu":4032,"max_ccu":4555,"samples":20,"sess":34.36,"sess_h":16.0,"like":97.51},
 "7182318649":{"name":"The Corner 🔊 [18+]","avg_ccu":1530.4,"min_ccu":1130,"max_ccu":1875,"samples":7},
 "7219654364":{"name":"[🎃DUELS] Murderers VS Sheriffs","avg_ccu":53886.0,"min_ccu":10040,"max_ccu":83786,"samples":20,"sess":13.16,"sess_h":16.0,"like":87.17},
-"7235130477":{"name":"Apple IPad Original","avg_ccu":3769.5,"min_ccu":2951,"max_ccu":4702,"samples":17,"sess":4.26,"sess_h":16.0,"like":92.28},
+"7235130477":{"name":"Apple IPad Origional","avg_ccu":3769.5,"min_ccu":2951,"max_ccu":4702,"samples":17,"sess":4.26,"sess_h":16.0,"like":92.28},
 "7264587281":{"name":"[RANKED] SNIPER DUELS","avg_ccu":3882.7,"min_ccu":2223,"max_ccu":5161,"samples":20,"sess":7.3,"sess_h":16.0,"like":76.69},
 "7265339759":{"name":"[⚔️ RANKED] REDLINER","avg_ccu":1011.6,"min_ccu":591,"max_ccu":1308,"samples":20,"sess":7.75,"sess_h":16.0,"like":90.84},
 "7265977477":{"name":"Jump Clicker 🚀","avg_ccu":1032.3,"min_ccu":630,"max_ccu":1608,"samples":20,"sess":7.58,"sess_h":16.0,"like":94.95},
