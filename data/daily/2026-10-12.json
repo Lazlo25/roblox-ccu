@@ -1,4 +1,4 @@
-{"date": "2026-10-12", "timezone": "America/New_York", "generated_utc": "2026-10-14T00:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-13T03:10:00Z", 9098569], "genres": {"Simulation": 38.706, "Survival": 15.123, "Roleplay & Avatar Sim": 13.922, "Action": 8.999, "RPG": 4.857, "Shooter": 4.209, "Sports & Racing": 3.664, "Strategy": 2.346, "Party & Casual": 2.298, "Obby & Platformer": 1.79, "Adventure": 1.244, "Shopping": 1.057, "Entertainment": 0.629, "Other": 0.435, "Puzzle": 0.415, "Social": 0.299, "Education": 0.007}, "genre_hours": 13,"games":{
+{"date": "2026-10-12", "timezone": "America/New_York", "generated_utc": "2026-10-14T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-13T03:10:00Z", 9098569], "genres": {"Simulation": 38.706, "Survival": 15.123, "Roleplay & Avatar Sim": 13.922, "Action": 8.999, "RPG": 4.857, "Shooter": 4.209, "Sports & Racing": 3.664, "Strategy": 2.346, "Party & Casual": 2.298, "Obby & Platformer": 1.79, "Adventure": 1.244, "Shopping": 1.057, "Entertainment": 0.629, "Other": 0.435, "Puzzle": 0.415, "Social": 0.299, "Education": 0.007}, "genre_hours": 13,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3700.9,"min_ccu":2709,"max_ccu":5227,"samples":20,"sess":12.46,"sess_h":16.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7865.6,"min_ccu":4397,"max_ccu":10119,"samples":20,"sess":8.4,"sess_h":16.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":4683.1,"min_ccu":3638,"max_ccu":6608,"samples":20,"sess":15.26,"sess_h":16.0,"like":87.7},
@@ -333,7 +333,7 @@
 "9296252245":{"name":"[🔥AURA] Phonk Edit Tower 🎶","avg_ccu":5873.7,"min_ccu":4306,"max_ccu":8891,"samples":20,"sess":8.06,"sess_h":16.0,"like":95.25},
 "9312646406":{"name":"Land or Die! 🐙  [KRAKEN]","avg_ccu":2289.3,"min_ccu":1235,"max_ccu":4168,"samples":20,"sess":7.63,"sess_h":16.0,"like":93.38},
 "9317784977":{"name":"[🔥UPD] Knife Arena","avg_ccu":893.2,"min_ccu":538,"max_ccu":1410,"samples":20,"sess":9.1,"sess_h":16.0,"like":88.01},
-"9324081218":{"name":"[🎉FREE UGC] evil plate game","avg_ccu":224.8,"min_ccu":67,"max_ccu":796,"samples":20,"sess":10.43,"sess_h":16.0,"like":75.46},
+"9324081218":{"name":"[S1🏆] evil plate game","avg_ccu":224.8,"min_ccu":67,"max_ccu":796,"samples":20,"sess":10.43,"sess_h":16.0,"like":75.46},
 "9348272796":{"name":"[UPDATE] Survive Zombie Arena","avg_ccu":4165.8,"min_ccu":3242,"max_ccu":5542,"samples":20,"sess":10.17,"sess_h":16.0,"like":95.41},
 "9362896961":{"name":"[👹Boss] Anime Card Collection","avg_ccu":3302.2,"min_ccu":3062,"max_ccu":3979,"samples":20,"sess":30.34,"sess_h":16.0,"like":98.48},
 "9363735110":{"name":"[🌊] Escape Tsunami For Brainrots!","avg_ccu":3316.7,"min_ccu":2434,"max_ccu":4908,"samples":20,"sess":9.26,"sess_h":16.0,"like":83.12},
