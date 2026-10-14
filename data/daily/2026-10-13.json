@@ -1,4 +1,4 @@
-{"date": "2026-10-13", "timezone": "America/New_York", "generated_utc": "2026-10-14T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-14T03:10:00Z", 8813712], "genres": {"Simulation": 44.251, "Survival": 13.566, "Roleplay & Avatar Sim": 12.487, "Action": 7.82, "RPG": 4.798, "Shooter": 4.056, "Sports & Racing": 2.975, "Strategy": 2.457, "Party & Casual": 1.942, "Obby & Platformer": 1.86, "Adventure": 1.195, "Shopping": 0.949, "Other": 0.482, "Social": 0.445, "Puzzle": 0.367, "Entertainment": 0.346, "Education": 0.003}, "genre_hours": 24,"games":{
+{"date": "2026-10-13", "timezone": "America/New_York", "generated_utc": "2026-10-14T14:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-14T03:10:00Z", 8813712], "genres": {"Simulation": 44.251, "Survival": 13.566, "Roleplay & Avatar Sim": 12.487, "Action": 7.82, "RPG": 4.798, "Shooter": 4.056, "Sports & Racing": 2.975, "Strategy": 2.457, "Party & Casual": 1.942, "Obby & Platformer": 1.86, "Adventure": 1.195, "Shopping": 0.949, "Other": 0.482, "Social": 0.445, "Puzzle": 0.367, "Entertainment": 0.346, "Education": 0.003}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3472.2,"min_ccu":2314,"max_ccu":4601,"samples":24,"sess":12.67,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6455.3,"min_ccu":4002,"max_ccu":8862,"samples":24,"sess":8.32,"sess_h":23.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":4112.5,"min_ccu":3079,"max_ccu":5342,"samples":24,"sess":16.72,"sess_h":23.0,"like":87.7},
@@ -291,7 +291,7 @@
 "8719555347":{"name":"[🏍️Bikes🏍️] Southern Mudding 🚜 OffRoading","avg_ccu":11705.9,"min_ccu":7586,"max_ccu":15680,"samples":24,"sess":12.31,"sess_h":23.0,"like":92.54},
 "8813969120":{"name":"[⚠️RAGDOLL + DAMAGE UPDATE] TR Legacy","avg_ccu":5030.8,"min_ccu":4037,"max_ccu":6420,"samples":24,"sess":11.56,"sess_h":23.0,"like":96.44},
 "8829204428":{"name":"[🎃EVENT] Case Simulator RNG","avg_ccu":2275.3,"min_ccu":1721,"max_ccu":3082,"samples":24,"sess":18.81,"sess_h":23.0,"like":97.63},
-"8841437826":{"name":"[🎃] Capybaras VS Plants","avg_ccu":1612.3,"min_ccu":1329,"max_ccu":1884,"samples":24,"sess":15.49,"sess_h":23.0,"like":97.01},
+"8841437826":{"name":"[AA NOW] Capybaras VS Plants","avg_ccu":1612.3,"min_ccu":1329,"max_ccu":1884,"samples":24,"sess":15.49,"sess_h":23.0,"like":97.01},
 "8851542818":{"name":"[🎃🦆] Detective Duck","avg_ccu":842.5,"min_ccu":414,"max_ccu":1291,"samples":21,"sess":17.3,"sess_h":20.0,"like":95.56},
 "8869088870":{"name":"Sail Down A River","avg_ccu":1532.2,"min_ccu":1407,"max_ccu":1731,"samples":6,"like":97.87},
 "8906870648":{"name":"FREE Fades! 👊","avg_ccu":789.5,"min_ccu":520,"max_ccu":949,"samples":24,"sess":8.48,"sess_h":23.0,"like":88.32},
@@ -463,7 +463,7 @@
 "10529769390":{"name":"[📊PATCH📊] Slop Tower Defense! 💔","avg_ccu":4188.5,"min_ccu":3380,"max_ccu":5288,"samples":24,"sess":18.98,"sess_h":23.0,"like":80.04},
 "10532995815":{"name":"[🎃] Mine Antarctica","avg_ccu":4042.4,"min_ccu":3525,"max_ccu":5308,"samples":24,"sess":24.66,"sess_h":23.0,"like":97.7},
 "10533638982":{"name":"🎃 Cake Mountain 🥄","avg_ccu":1375.6,"min_ccu":726,"max_ccu":2281,"samples":24,"sess":16.05,"sess_h":23.0,"like":94.57},
-"10534873486":{"name":"[NOW] +1 Bite Per Click","avg_ccu":2561.8,"min_ccu":1729,"max_ccu":3714,"samples":24,"sess":15.08,"sess_h":23.0,"like":90.66},
+"10534873486":{"name":"[W6] +1 Bite Per Click","avg_ccu":2561.8,"min_ccu":1729,"max_ccu":3714,"samples":24,"sess":15.08,"sess_h":23.0,"like":90.66},
 "10539411000":{"name":"🍂🎃 Clean all the Leaves","avg_ccu":5240.1,"min_ccu":3604,"max_ccu":7153,"samples":24,"sess":15.68,"sess_h":23.0,"like":86.87},
 "10541331578":{"name":"[🎃EVENT] Poly Loot⚔️","avg_ccu":2248.2,"min_ccu":1638,"max_ccu":3058,"samples":24,"sess":19.51,"sess_h":23.0,"like":90.12},
 "10550257968":{"name":"Steal A Verity!","avg_ccu":8757.0,"min_ccu":6708,"max_ccu":11193,"samples":24,"sess":9.82,"sess_h":23.0,"like":71.98},
