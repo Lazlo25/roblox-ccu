@@ -1,4 +1,4 @@
-{"date": "2026-10-13", "timezone": "America/New_York", "generated_utc": "2026-10-14T09:10:01Z", "through_et": "24:00", "platform_now": ["2026-10-14T03:10:00Z", 8813712], "genres": {"Simulation": 44.251, "Survival": 13.566, "Roleplay & Avatar Sim": 12.487, "Action": 7.82, "RPG": 4.798, "Shooter": 4.056, "Sports & Racing": 2.975, "Strategy": 2.457, "Party & Casual": 1.942, "Obby & Platformer": 1.86, "Adventure": 1.195, "Shopping": 0.949, "Other": 0.482, "Social": 0.445, "Puzzle": 0.367, "Entertainment": 0.346, "Education": 0.003}, "genre_hours": 24,"games":{
+{"date": "2026-10-13", "timezone": "America/New_York", "generated_utc": "2026-10-14T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-14T03:10:00Z", 8813712], "genres": {"Simulation": 44.251, "Survival": 13.566, "Roleplay & Avatar Sim": 12.487, "Action": 7.82, "RPG": 4.798, "Shooter": 4.056, "Sports & Racing": 2.975, "Strategy": 2.457, "Party & Casual": 1.942, "Obby & Platformer": 1.86, "Adventure": 1.195, "Shopping": 0.949, "Other": 0.482, "Social": 0.445, "Puzzle": 0.367, "Entertainment": 0.346, "Education": 0.003}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3472.2,"min_ccu":2314,"max_ccu":4601,"samples":24,"sess":12.67,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6455.3,"min_ccu":4002,"max_ccu":8862,"samples":24,"sess":8.32,"sess_h":23.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":4112.5,"min_ccu":3079,"max_ccu":5342,"samples":24,"sess":16.72,"sess_h":23.0,"like":87.7},
@@ -416,7 +416,7 @@
 "10310999762":{"name":"💪 +1 Strength to Grow Your Arm！","avg_ccu":3244.8,"min_ccu":2286,"max_ccu":4225,"samples":24,"sess":12.61,"sess_h":23.0,"like":96.35},
 "10321202755":{"name":"[🎃] Anime Fighting Simulator","avg_ccu":6795.1,"min_ccu":6320,"max_ccu":7354,"samples":24,"sess":53.12,"sess_h":23.0,"like":98.31},
 "10324001605":{"name":"🌷 My Flower Shop","avg_ccu":2370.1,"min_ccu":1790,"max_ccu":3141,"samples":24,"sess":21.32,"sess_h":23.0,"like":97.59},
-"10332674979":{"name":"THROTTLE (BETA) [1M CODE]","avg_ccu":655.9,"min_ccu":518,"max_ccu":840,"samples":24,"sess":5.41,"sess_h":23.0,"like":94.45},
+"10332674979":{"name":"THROTTLE (BETA)  Motorcycle Street Racing","avg_ccu":655.9,"min_ccu":518,"max_ccu":840,"samples":24,"sess":5.41,"sess_h":23.0,"like":94.45},
 "10336278580":{"name":"[💎] Sell Ores ⛏️","avg_ccu":2229.7,"min_ccu":1667,"max_ccu":2949,"samples":24,"sess":17.37,"sess_h":23.0,"like":98.9},
 "10338952197":{"name":"Grow a Chicken Fighter","avg_ccu":3784.0,"min_ccu":3253,"max_ccu":4245,"samples":24,"sess":23.24,"sess_h":23.0,"like":97.78},
 "10351850295":{"name":"[🎃] 🥷 +1 Speed Ninja Keyboard Escape","avg_ccu":768.3,"min_ccu":613,"max_ccu":1047,"samples":6,"like":76.15},
@@ -510,7 +510,7 @@
 "10674335214":{"name":"Roll Your Height","avg_ccu":1780.9,"min_ccu":1389,"max_ccu":2310,"samples":24,"sess":20.01,"sess_h":23.0,"like":89.83},
 "10675117523":{"name":"Anime Breaker [🩸KAGUNES]","avg_ccu":12019.7,"min_ccu":11000,"max_ccu":13456,"samples":24,"sess":28.5,"sess_h":23.0,"like":95.48},
 "10681914462":{"name":"[☁️WORLD 2] +1 Tongue Escape😛","avg_ccu":8730.6,"min_ccu":6349,"max_ccu":10845,"samples":24,"sess":9.2,"sess_h":23.0,"like":95.34},
-"10684750879":{"name":"[BOSS]+1 Loot To Forge","avg_ccu":23632.2,"min_ccu":16409,"max_ccu":32250,"samples":24,"sess":21.67,"sess_h":23.0,"like":96.7},
+"10684750879":{"name":"[PET🐶]+1 Loot To Forge","avg_ccu":23632.2,"min_ccu":16409,"max_ccu":32250,"samples":24,"sess":21.67,"sess_h":23.0,"like":96.7},
 "10685282333":{"name":"Ball VS Ball","avg_ccu":28534.5,"min_ccu":22110,"max_ccu":38502,"samples":24,"sess":10.67,"sess_h":23.0,"like":88.82},
 "10697943549":{"name":"+1 Superpower Destruction","avg_ccu":2189.3,"min_ccu":1797,"max_ccu":2766,"samples":6,"like":89.65},
 "10698216738":{"name":"Military Army Tycoon","avg_ccu":4769.4,"min_ccu":3098,"max_ccu":6953,"samples":24,"sess":16.93,"sess_h":23.0,"like":97.63},
