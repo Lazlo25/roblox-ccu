@@ -1,4 +1,4 @@
-{"date": "2026-10-13", "timezone": "America/New_York", "generated_utc": "2026-10-14T15:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-14T03:10:00Z", 8813712], "genres": {"Simulation": 44.251, "Survival": 13.566, "Roleplay & Avatar Sim": 12.487, "Action": 7.82, "RPG": 4.798, "Shooter": 4.056, "Sports & Racing": 2.975, "Strategy": 2.457, "Party & Casual": 1.942, "Obby & Platformer": 1.86, "Adventure": 1.195, "Shopping": 0.949, "Other": 0.482, "Social": 0.445, "Puzzle": 0.367, "Entertainment": 0.346, "Education": 0.003}, "genre_hours": 24,"games":{
+{"date": "2026-10-13", "timezone": "America/New_York", "generated_utc": "2026-10-14T16:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-14T03:10:00Z", 8813712], "genres": {"Simulation": 44.251, "Survival": 13.566, "Roleplay & Avatar Sim": 12.487, "Action": 7.82, "RPG": 4.798, "Shooter": 4.056, "Sports & Racing": 2.975, "Strategy": 2.457, "Party & Casual": 1.942, "Obby & Platformer": 1.86, "Adventure": 1.195, "Shopping": 0.949, "Other": 0.482, "Social": 0.445, "Puzzle": 0.367, "Entertainment": 0.346, "Education": 0.003}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3472.2,"min_ccu":2314,"max_ccu":4601,"samples":24,"sess":12.67,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6455.3,"min_ccu":4002,"max_ccu":8862,"samples":24,"sess":8.32,"sess_h":23.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":4112.5,"min_ccu":3079,"max_ccu":5342,"samples":24,"sess":16.72,"sess_h":23.0,"like":87.7},
@@ -536,7 +536,7 @@
 "10741792653":{"name":"Survive The Swarm [CLASS COMBAT]","avg_ccu":2453.0,"min_ccu":1876,"max_ccu":2969,"samples":24,"sess":10.37,"sess_h":23.0,"like":96.73},
 "10742198859":{"name":"⚽️NEYMAR PRISON RUN!","avg_ccu":232.2,"min_ccu":94,"max_ccu":434,"samples":13,"sess":7.89,"sess_h":12.0,"like":63.56},
 "10742937135":{"name":"[Spiderman!] Survive The Hulk 😱","avg_ccu":1940.3,"min_ccu":611,"max_ccu":3583,"samples":24,"sess":10.77,"sess_h":23.0,"like":80.85},
-"10744310825":{"name":"Paint to Get Rich 🎨[UPD]","avg_ccu":18374.0,"min_ccu":10115,"max_ccu":30448,"samples":24,"sess":13.72,"sess_h":23.0,"like":74.35},
+"10744310825":{"name":"[NOW] Paint to Get Rich 🎨","avg_ccu":18374.0,"min_ccu":10115,"max_ccu":30448,"samples":24,"sess":13.72,"sess_h":23.0,"like":74.35},
 "10747719434":{"name":"[V2] Feed A Mosquito","avg_ccu":8041.2,"min_ccu":5558,"max_ccu":11547,"samples":24,"sess":15.87,"sess_h":23.0,"like":75.31},
 "10747894435":{"name":"Duck Pond🦆","avg_ccu":1253.9,"min_ccu":819,"max_ccu":1607,"samples":24,"sess":17.43,"sess_h":23.0,"like":96.93},
 "10748543623":{"name":"[BATTLES!⭐] Pack A Rare Card","avg_ccu":1858.9,"min_ccu":1601,"max_ccu":2111,"samples":24,"sess":18.28,"sess_h":23.0,"like":98.6},
@@ -545,7 +545,7 @@
 "10755048940":{"name":"Murder Arena [FPS]","avg_ccu":4452.1,"min_ccu":2198,"max_ccu":6043,"samples":24,"sess":10.38,"sess_h":23.0,"like":82.81},
 "10756011174":{"name":"[🎃] Search For The Needle","avg_ccu":12067.4,"min_ccu":7963,"max_ccu":18869,"samples":24,"sess":16.0,"sess_h":23.0,"like":95.93},
 "10757247806":{"name":"Build and Conquer [V0.1]","avg_ccu":5225.2,"min_ccu":4428,"max_ccu":6064,"samples":6,"like":86.04},
-"10757704931":{"name":"[W3] +1 Soldier Evolution","avg_ccu":2662.2,"min_ccu":1274,"max_ccu":4187,"samples":24,"sess":18.8,"sess_h":23.0,"like":97.65},
+"10757704931":{"name":"[NOW] +1 Soldier Evolution","avg_ccu":2662.2,"min_ccu":1274,"max_ccu":4187,"samples":24,"sess":18.8,"sess_h":23.0,"like":97.65},
 "10759337137":{"name":"Last Stop [Beta]","avg_ccu":4267.8,"min_ccu":3286,"max_ccu":5927,"samples":24,"sess":15.91,"sess_h":23.0,"like":97.16},
 "10759430423":{"name":"[BOSS] +1 Chop Trees for Treasure","avg_ccu":4187.9,"min_ccu":3125,"max_ccu":6327,"samples":24,"sess":29.24,"sess_h":23.0,"like":96.27},
 "10759478428":{"name":"Steal Anime Eggs","avg_ccu":2549.1,"min_ccu":2042,"max_ccu":3427,"samples":24,"sess":15.96,"sess_h":23.0,"like":98.04},
