@@ -1,4 +1,4 @@
-{"date": "2026-10-13", "timezone": "America/New_York", "generated_utc": "2026-10-14T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-14T03:10:00Z", 8813712], "genres": {"Simulation": 44.251, "Survival": 13.566, "Roleplay & Avatar Sim": 12.487, "Action": 7.82, "RPG": 4.798, "Shooter": 4.056, "Sports & Racing": 2.975, "Strategy": 2.457, "Party & Casual": 1.942, "Obby & Platformer": 1.86, "Adventure": 1.195, "Shopping": 0.949, "Other": 0.482, "Social": 0.445, "Puzzle": 0.367, "Entertainment": 0.346, "Education": 0.003}, "genre_hours": 24,"games":{
+{"date": "2026-10-13", "timezone": "America/New_York", "generated_utc": "2026-10-14T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-14T03:10:00Z", 8813712], "genres": {"Simulation": 44.251, "Survival": 13.566, "Roleplay & Avatar Sim": 12.487, "Action": 7.82, "RPG": 4.798, "Shooter": 4.056, "Sports & Racing": 2.975, "Strategy": 2.457, "Party & Casual": 1.942, "Obby & Platformer": 1.86, "Adventure": 1.195, "Shopping": 0.949, "Other": 0.482, "Social": 0.445, "Puzzle": 0.367, "Entertainment": 0.346, "Education": 0.003}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3472.2,"min_ccu":2314,"max_ccu":4601,"samples":24,"sess":12.67,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6455.3,"min_ccu":4002,"max_ccu":8862,"samples":24,"sess":8.32,"sess_h":23.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":4112.5,"min_ccu":3079,"max_ccu":5342,"samples":24,"sess":16.72,"sess_h":23.0,"like":87.7},
@@ -231,7 +231,7 @@
 "7028566528":{"name":"[😈JOHNNY🐎] Basketball: Zero","avg_ccu":6156.8,"min_ccu":4901,"max_ccu":6970,"samples":24,"sess":15.58,"sess_h":23.0,"like":98.28},
 "7058980030":{"name":"Survive Overnight in a Mega Store","avg_ccu":4138.1,"min_ccu":3081,"max_ccu":5335,"samples":24,"sess":9.59,"sess_h":23.0,"like":95.17},
 "7089588429":{"name":"(WHEELIE STYLE x BIG UPDATE) Drag Drive Simulator","avg_ccu":13052.8,"min_ccu":1528,"max_ccu":27394,"samples":24,"sess":11.12,"sess_h":23.0,"like":95.62},
-"7094518649":{"name":"[⭐] Restaurant Tycoon 3","avg_ccu":6772.4,"min_ccu":5222,"max_ccu":9006,"samples":24,"sess":24.68,"sess_h":23.0,"like":95.3},
+"7094518649":{"name":"Restaurant Tycoon 3","avg_ccu":6772.4,"min_ccu":5222,"max_ccu":9006,"samples":24,"sess":24.68,"sess_h":23.0,"like":95.3},
 "7108384194":{"name":"Knife VS Gun DUELS","avg_ccu":8295.4,"min_ccu":4967,"max_ccu":12601,"samples":24,"sess":11.01,"sess_h":23.0,"like":85.73},
 "7143545906":{"name":"Enter Brainrot","avg_ccu":704.8,"min_ccu":480,"max_ccu":1073,"samples":24,"sess":8.34,"sess_h":23.0,"like":93.79},
 "7178032757":{"name":"[✨] Rebirth Champions: Ultimate","avg_ccu":4189.1,"min_ccu":3944,"max_ccu":4447,"samples":24,"sess":34.68,"sess_h":23.0,"like":97.51},
@@ -455,7 +455,7 @@
 "10501944811":{"name":"[🎃UPD] Beat the Anime Boss","avg_ccu":1673.5,"min_ccu":1387,"max_ccu":2099,"samples":24,"sess":21.91,"sess_h":23.0,"like":98.84},
 "10502841145":{"name":"[STANDS] Anime Astral Simulator","avg_ccu":11670.2,"min_ccu":10635,"max_ccu":14139,"samples":24,"sess":22.95,"sess_h":23.0,"like":96.55},
 "10504918958":{"name":"(私学) Shigaku","avg_ccu":918.4,"min_ccu":656,"max_ccu":1161,"samples":24,"sess":11.29,"sess_h":23.0,"like":97.64},
-"10512942223":{"name":"[UPD 3] Anime Zero","avg_ccu":35337.5,"min_ccu":28062,"max_ccu":48080,"samples":24,"sess":13.82,"sess_h":23.0,"like":97.54},
+"10512942223":{"name":"[UPD 3] Anime Zero 🗡️🎉","avg_ccu":35337.5,"min_ccu":28062,"max_ccu":48080,"samples":24,"sess":13.82,"sess_h":23.0,"like":97.54},
 "10514223296":{"name":"[CLASSES 🎃] Flip a House! 🏠","avg_ccu":1346.5,"min_ccu":1006,"max_ccu":1697,"samples":24,"sess":12.34,"sess_h":23.0,"like":95.22},
 "10514280922":{"name":"Roll A Gnome","avg_ccu":745.7,"min_ccu":574,"max_ccu":941,"samples":24,"sess":17.56,"sess_h":23.0,"like":93.22},
 "10526853622":{"name":"[PETS] Deep Fishing🎣","avg_ccu":9058.0,"min_ccu":7613,"max_ccu":10793,"samples":24,"sess":23.21,"sess_h":23.0,"like":96.93},
