@@ -1,4 +1,4 @@
-{"date": "2026-10-14", "timezone": "America/New_York", "generated_utc": "2026-10-15T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-15T03:10:00Z", 8885386], "genres": {"Simulation": 44.083, "Survival": 13.742, "Roleplay & Avatar Sim": 12.65, "Action": 7.64, "RPG": 4.565, "Shooter": 4.185, "Sports & Racing": 3.104, "Strategy": 2.443, "Party & Casual": 1.96, "Obby & Platformer": 1.914, "Adventure": 1.066, "Shopping": 0.955, "Other": 0.55, "Social": 0.437, "Puzzle": 0.396, "Entertainment": 0.309}, "genre_hours": 24,"games":{
+{"date": "2026-10-14", "timezone": "America/New_York", "generated_utc": "2026-10-15T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-15T03:10:00Z", 8885386], "genres": {"Simulation": 44.083, "Survival": 13.742, "Roleplay & Avatar Sim": 12.65, "Action": 7.64, "RPG": 4.565, "Shooter": 4.185, "Sports & Racing": 3.104, "Strategy": 2.443, "Party & Casual": 1.96, "Obby & Platformer": 1.914, "Adventure": 1.066, "Shopping": 0.955, "Other": 0.55, "Social": 0.437, "Puzzle": 0.396, "Entertainment": 0.309}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3679.2,"min_ccu":2941,"max_ccu":4445,"samples":24,"sess":12.44,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6148.6,"min_ccu":3862,"max_ccu":8710,"samples":24,"sess":8.43,"sess_h":23.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":3826.5,"min_ccu":3032,"max_ccu":4860,"samples":24,"sess":16.91,"sess_h":23.0,"like":87.7},
@@ -6,7 +6,7 @@
 "31970568":{"name":"Theme Park Tycoon 2","avg_ccu":2858.3,"min_ccu":1993,"max_ccu":3651,"samples":24,"sess":22.23,"sess_h":23.0,"like":89.03},
 "66654135":{"name":"Murder Mystery 2","avg_ccu":159310.4,"min_ccu":90013,"max_ccu":216143,"samples":24,"sess":10.49,"sess_h":23.0,"like":90.82},
 "73885730":{"name":"Prison Life","avg_ccu":5333.8,"min_ccu":3521,"max_ccu":7179,"samples":24,"sess":11.13,"sess_h":23.0,"like":85.04},
-"88070565":{"name":"[🎃] Welcome to Bloxburg","avg_ccu":19072.0,"min_ccu":10442,"max_ccu":26812,"samples":24,"sess":22.32,"sess_h":23.0,"like":88.49},
+"88070565":{"name":"[🦇] Welcome to Bloxburg","avg_ccu":19072.0,"min_ccu":10442,"max_ccu":26812,"samples":24,"sess":22.32,"sess_h":23.0,"like":88.49},
 "97314177":{"name":"[UPDATE💪] Ninja Tycoon (v4.8)","avg_ccu":1138.0,"min_ccu":604,"max_ccu":1563,"samples":24,"sess":17.34,"sess_h":23.0,"like":89.48},
 "98839997":{"name":"[🎵🎶🎵!] Dinosaur Simulator","avg_ccu":275.8,"min_ccu":182,"max_ccu":354,"samples":24,"sess":15.01,"sess_h":23.0,"like":80.53},
 "98929893":{"name":"Dragon Ball Rage","avg_ccu":1241.2,"min_ccu":617,"max_ccu":1694,"samples":24,"sess":17.61,"sess_h":23.0,"like":90.5},
@@ -346,7 +346,7 @@
 "9931749389":{"name":"Dungeon Quest Reborn","avg_ccu":4463.0,"min_ccu":3805,"max_ccu":5214,"samples":24,"sess":13.32,"sess_h":23.0,"like":96.43},
 "9940812243":{"name":"[UPD] Anime RNG Defense","avg_ccu":2025.0,"min_ccu":1815,"max_ccu":2143,"samples":24,"sess":35.7,"sess_h":23.0,"like":96.92},
 "9949148856":{"name":"[FPS] FLING","avg_ccu":1647.8,"min_ccu":1248,"max_ccu":2110,"samples":13,"sess":10.76,"sess_h":12.0,"like":80.32},
-"9949288829":{"name":"[Updated] Steal from KPOP Idols!","avg_ccu":910.0,"min_ccu":575,"max_ccu":1162,"samples":24,"sess":13.24,"sess_h":23.0,"like":97.27},
+"9949288829":{"name":"[🎃] Steal from KPOP Idols!","avg_ccu":910.0,"min_ccu":575,"max_ccu":1162,"samples":24,"sess":13.24,"sess_h":23.0,"like":97.27},
 "9950184599":{"name":"(🌈UNDERGLOW +🔧UPGRADES) Young Street, Ontario RP","avg_ccu":989.8,"min_ccu":650,"max_ccu":1376,"samples":24,"sess":17.33,"sess_h":23.0,"like":97.49},
 "9957338123":{"name":"[🎃] Kart Of Hell","avg_ccu":3177.8,"min_ccu":2327,"max_ccu":4246,"samples":24,"sess":7.99,"sess_h":23.0,"like":75.55},
 "9970645639":{"name":"Run a Restaurant!","avg_ccu":5800.5,"min_ccu":4853,"max_ccu":7153,"samples":24,"sess":23.25,"sess_h":23.0,"like":98.7},
@@ -678,7 +678,7 @@
 "10767912502":{"name":"Trading Tycoon","avg_ccu":2748.6,"min_ccu":1708,"max_ccu":3860,"samples":24,"sess":14.74,"sess_h":23.0,"like":93.89},
 "10767922762":{"name":"Dress Designer","avg_ccu":2418.1,"min_ccu":515,"max_ccu":3142,"samples":24,"sess":14.11,"sess_h":23.0,"like":86.49},
 "10767928510":{"name":"Pixel Lineage [DUNGEONS+ HOLLOWEEN+RACE EVO]","avg_ccu":7082.9,"min_ccu":5695,"max_ccu":8162,"samples":24,"sess":7.4,"sess_h":23.0,"like":98.59},
-"10767957681":{"name":"[UPD 3.1] Tycoon, but one dropper","avg_ccu":2960.0,"min_ccu":2162,"max_ccu":3813,"samples":24,"sess":19.45,"sess_h":23.0,"like":88.66},
+"10767957681":{"name":"[UPD 4] Tycoon, but one dropper","avg_ccu":2960.0,"min_ccu":2162,"max_ccu":3813,"samples":24,"sess":19.45,"sess_h":23.0,"like":88.66},
 "10767964257":{"name":"Superhero Battlegrounds","avg_ccu":2796.8,"min_ccu":1544,"max_ccu":4298,"samples":24,"sess":11.19,"sess_h":23.0,"like":77.46},
 "10768012048":{"name":"Don't Miss The Train! 🚆","avg_ccu":71.7,"min_ccu":50,"max_ccu":142,"samples":24,"sess":5.17,"sess_h":23.0,"like":25.64},
 "10768012250":{"name":"Halloween Outfit Tower! [Would you Rather] 🎃","avg_ccu":653.2,"min_ccu":343,"max_ccu":996,"samples":24,"sess":7.1,"sess_h":23.0,"like":81.2},
