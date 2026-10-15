@@ -1,4 +1,4 @@
-{"date": "2026-10-13", "timezone": "America/New_York", "generated_utc": "2026-10-15T00:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-14T03:10:00Z", 8813712], "genres": {"Simulation": 44.251, "Survival": 13.566, "Roleplay & Avatar Sim": 12.487, "Action": 7.82, "RPG": 4.798, "Shooter": 4.056, "Sports & Racing": 2.975, "Strategy": 2.457, "Party & Casual": 1.942, "Obby & Platformer": 1.86, "Adventure": 1.195, "Shopping": 0.949, "Other": 0.482, "Social": 0.445, "Puzzle": 0.367, "Entertainment": 0.346, "Education": 0.003}, "genre_hours": 24,"games":{
+{"date": "2026-10-13", "timezone": "America/New_York", "generated_utc": "2026-10-15T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-14T03:10:00Z", 8813712], "genres": {"Simulation": 44.251, "Survival": 13.566, "Roleplay & Avatar Sim": 12.487, "Action": 7.82, "RPG": 4.798, "Shooter": 4.056, "Sports & Racing": 2.975, "Strategy": 2.457, "Party & Casual": 1.942, "Obby & Platformer": 1.86, "Adventure": 1.195, "Shopping": 0.949, "Other": 0.482, "Social": 0.445, "Puzzle": 0.367, "Entertainment": 0.346, "Education": 0.003}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3472.2,"min_ccu":2314,"max_ccu":4601,"samples":24,"sess":12.67,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6455.3,"min_ccu":4002,"max_ccu":8862,"samples":24,"sess":8.32,"sess_h":23.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":4112.5,"min_ccu":3079,"max_ccu":5342,"samples":24,"sess":16.72,"sess_h":23.0,"like":87.7},
@@ -346,7 +346,7 @@
 "9855761734":{"name":"San Diego Roleplay","avg_ccu":9474.5,"min_ccu":6404,"max_ccu":14588,"samples":24,"sess":17.26,"sess_h":23.0,"like":85.59},
 "9872734936":{"name":"[UPD] Junk Mechanics","avg_ccu":4566.2,"min_ccu":3101,"max_ccu":6148,"samples":24,"sess":14.75,"sess_h":23.0,"like":88.35},
 "9880286438":{"name":"[Dante & Vergil] Legacy Piece","avg_ccu":5465.5,"min_ccu":5,"max_ccu":7692,"samples":24,"sess":23.22,"sess_h":23.0,"like":96.96},
-"9885372266":{"name":"[UPD] Unseen Liminality","avg_ccu":3623.3,"min_ccu":2083,"max_ccu":5320,"samples":24,"sess":14.8,"sess_h":23.0,"like":93.7},
+"9885372266":{"name":"Unseen Liminality","avg_ccu":3623.3,"min_ccu":2083,"max_ccu":5320,"samples":24,"sess":14.8,"sess_h":23.0,"like":93.7},
 "9891331827":{"name":"Clover Time [SHADOW GRIMOIRE💥]","avg_ccu":4223.8,"min_ccu":2915,"max_ccu":5125,"samples":24,"sess":16.96,"sess_h":23.0,"like":97.33},
 "9908641400":{"name":"Football Fusion 3","avg_ccu":3712.9,"min_ccu":454,"max_ccu":10380,"samples":24,"sess":9.99,"sess_h":23.0,"like":82.43},
 "9910245722":{"name":"Iron Soul: Dungeon","avg_ccu":2367.5,"min_ccu":1753,"max_ccu":3232,"samples":24,"sess":7.79,"sess_h":23.0,"like":98.12},
@@ -460,7 +460,7 @@
 "10514280922":{"name":"Roll A Gnome","avg_ccu":745.7,"min_ccu":574,"max_ccu":941,"samples":24,"sess":17.56,"sess_h":23.0,"like":93.22},
 "10526853622":{"name":"[PETS] Deep Fishing🎣","avg_ccu":9058.0,"min_ccu":7613,"max_ccu":10793,"samples":24,"sess":23.21,"sess_h":23.0,"like":96.93},
 "10529067596":{"name":"⛳ Hit a Golf Ball","avg_ccu":982.8,"min_ccu":557,"max_ccu":1973,"samples":24,"sess":12.71,"sess_h":23.0,"like":88.82},
-"10529769390":{"name":"[📊PATCH📊] Slop Tower Defense! 💔","avg_ccu":4188.5,"min_ccu":3380,"max_ccu":5288,"samples":24,"sess":18.98,"sess_h":23.0,"like":80.04},
+"10529769390":{"name":"[🎃SOON🎃] Slop Tower Defense! 💔","avg_ccu":4188.5,"min_ccu":3380,"max_ccu":5288,"samples":24,"sess":18.98,"sess_h":23.0,"like":80.04},
 "10532995815":{"name":"[🎃] Mine Antarctica","avg_ccu":4042.4,"min_ccu":3525,"max_ccu":5308,"samples":24,"sess":24.66,"sess_h":23.0,"like":97.7},
 "10533638982":{"name":"🎃 Cake Mountain 🥄","avg_ccu":1375.6,"min_ccu":726,"max_ccu":2281,"samples":24,"sess":16.05,"sess_h":23.0,"like":94.57},
 "10534873486":{"name":"[W6] +1 Bite Per Click","avg_ccu":2561.8,"min_ccu":1729,"max_ccu":3714,"samples":24,"sess":15.08,"sess_h":23.0,"like":90.66},
