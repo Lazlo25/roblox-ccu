@@ -1,4 +1,4 @@
-{"date": "2026-10-14", "timezone": "America/New_York", "generated_utc": "2026-10-15T21:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-15T03:10:00Z", 8885386], "genres": {"Simulation": 44.083, "Survival": 13.742, "Roleplay & Avatar Sim": 12.65, "Action": 7.64, "RPG": 4.565, "Shooter": 4.185, "Sports & Racing": 3.104, "Strategy": 2.443, "Party & Casual": 1.96, "Obby & Platformer": 1.914, "Adventure": 1.066, "Shopping": 0.955, "Other": 0.55, "Social": 0.437, "Puzzle": 0.396, "Entertainment": 0.309}, "genre_hours": 24,"games":{
+{"date": "2026-10-14", "timezone": "America/New_York", "generated_utc": "2026-10-15T22:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-15T03:10:00Z", 8885386], "genres": {"Simulation": 44.083, "Survival": 13.742, "Roleplay & Avatar Sim": 12.65, "Action": 7.64, "RPG": 4.565, "Shooter": 4.185, "Sports & Racing": 3.104, "Strategy": 2.443, "Party & Casual": 1.96, "Obby & Platformer": 1.914, "Adventure": 1.066, "Shopping": 0.955, "Other": 0.55, "Social": 0.437, "Puzzle": 0.396, "Entertainment": 0.309}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3679.2,"min_ccu":2941,"max_ccu":4445,"samples":24,"sess":12.44,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6148.6,"min_ccu":3862,"max_ccu":8710,"samples":24,"sess":8.43,"sess_h":23.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":3826.5,"min_ccu":3032,"max_ccu":4860,"samples":24,"sess":16.91,"sess_h":23.0,"like":87.7},
@@ -233,7 +233,7 @@
 "7143545906":{"name":"Enter Brainrot","avg_ccu":795.0,"min_ccu":594,"max_ccu":1017,"samples":24,"sess":8.73,"sess_h":23.0,"like":93.79},
 "7178032757":{"name":"[✨] Rebirth Champions: Ultimate","avg_ccu":4080.7,"min_ccu":3940,"max_ccu":4302,"samples":18,"sess":33.61,"sess_h":17.0,"like":97.51},
 "7219654364":{"name":"[🎃DUELS] Murderers VS Sheriffs","avg_ccu":38535.8,"min_ccu":5570,"max_ccu":78345,"samples":24,"sess":11.85,"sess_h":23.0,"like":87.17},
-"7235130477":{"name":"Apple iPad Original","avg_ccu":4705.2,"min_ccu":3087,"max_ccu":6137,"samples":24,"sess":4.35,"sess_h":23.0,"like":91.52},
+"7235130477":{"name":"Apple iPad Origional","avg_ccu":4705.2,"min_ccu":3087,"max_ccu":6137,"samples":24,"sess":4.35,"sess_h":23.0,"like":91.52},
 "7264587281":{"name":"[RANKED] SNIPER DUELS","avg_ccu":3371.2,"min_ccu":2111,"max_ccu":4503,"samples":24,"sess":6.52,"sess_h":23.0,"like":76.67},
 "7265339759":{"name":"[⚔️ RANKED] REDLINER","avg_ccu":840.3,"min_ccu":464,"max_ccu":1240,"samples":24,"sess":7.55,"sess_h":23.0,"like":90.87},
 "7265977477":{"name":"Jump Clicker 🚀","avg_ccu":806.5,"min_ccu":559,"max_ccu":1077,"samples":13,"sess":8.26,"sess_h":12.0,"like":94.94},
@@ -665,7 +665,7 @@
 "10767628417":{"name":"[UPD] Create Pottery!","avg_ccu":2934.8,"min_ccu":2203,"max_ccu":3693,"samples":24,"sess":21.14,"sess_h":23.0,"like":94.14},
 "10767634248":{"name":"Firefighting Sim 🚒","avg_ccu":13336.5,"min_ccu":9692,"max_ccu":17882,"samples":24,"sess":12.79,"sess_h":23.0,"like":91.7},
 "10767751602":{"name":"Fart Obby [2 Player] 🎃","avg_ccu":2473.0,"min_ccu":1899,"max_ccu":2784,"samples":7,"sess":8.77,"sess_h":6.0,"like":94.7},
-"10767755908":{"name":"Cliff Dive Masters","avg_ccu":1567.1,"min_ccu":856,"max_ccu":2506,"samples":24,"sess":6.55,"sess_h":23.0,"like":90.91},
+"10767755908":{"name":"[🎃] Cliff Dive Masters","avg_ccu":1567.1,"min_ccu":856,"max_ccu":2506,"samples":24,"sess":6.55,"sess_h":23.0,"like":90.91},
 "10767774668":{"name":"[🥞] Paint a Pancake","avg_ccu":11677.5,"min_ccu":9375,"max_ccu":15634,"samples":24,"sess":9.23,"sess_h":23.0,"like":77.03},
 "10767775923":{"name":"[Free Matrix] Scope Sim 👻","avg_ccu":1248.5,"min_ccu":0,"max_ccu":3752,"samples":24,"sess":8.81,"sess_h":23.0,"like":83.1},
 "10767780358":{"name":"MM2 of The Locust","avg_ccu":1534.7,"min_ccu":1165,"max_ccu":1976,"samples":24,"sess":9.71,"sess_h":23.0,"like":94.32},
