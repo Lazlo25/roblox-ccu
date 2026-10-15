@@ -1,4 +1,4 @@
-{"date": "2026-10-14", "timezone": "America/New_York", "generated_utc": "2026-10-15T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-15T03:10:00Z", 8885386], "genres": {"Simulation": 44.083, "Survival": 13.742, "Roleplay & Avatar Sim": 12.65, "Action": 7.64, "RPG": 4.565, "Shooter": 4.185, "Sports & Racing": 3.104, "Strategy": 2.443, "Party & Casual": 1.96, "Obby & Platformer": 1.914, "Adventure": 1.066, "Shopping": 0.955, "Other": 0.55, "Social": 0.437, "Puzzle": 0.396, "Entertainment": 0.309}, "genre_hours": 24,"games":{
+{"date": "2026-10-14", "timezone": "America/New_York", "generated_utc": "2026-10-15T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-15T03:10:00Z", 8885386], "genres": {"Simulation": 44.083, "Survival": 13.742, "Roleplay & Avatar Sim": 12.65, "Action": 7.64, "RPG": 4.565, "Shooter": 4.185, "Sports & Racing": 3.104, "Strategy": 2.443, "Party & Casual": 1.96, "Obby & Platformer": 1.914, "Adventure": 1.066, "Shopping": 0.955, "Other": 0.55, "Social": 0.437, "Puzzle": 0.396, "Entertainment": 0.309}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3679.2,"min_ccu":2941,"max_ccu":4445,"samples":24,"sess":12.44,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6148.6,"min_ccu":3862,"max_ccu":8710,"samples":24,"sess":8.43,"sess_h":23.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":3826.5,"min_ccu":3032,"max_ccu":4860,"samples":24,"sess":16.91,"sess_h":23.0,"like":87.7},
@@ -412,7 +412,7 @@
 "10371406677":{"name":"Race for Eggs","avg_ccu":3039.7,"min_ccu":1872,"max_ccu":4282,"samples":24,"sess":12.74,"sess_h":23.0,"like":97.91},
 "10376944238":{"name":"Build Your Backrooms","avg_ccu":3817.0,"min_ccu":2390,"max_ccu":5206,"samples":24,"sess":11.97,"sess_h":23.0,"like":97.99},
 "10377606330":{"name":"Save a Baddie 🌸","avg_ccu":1105.3,"min_ccu":798,"max_ccu":1480,"samples":24,"sess":12.78,"sess_h":23.0,"like":85.86},
-"10389762549":{"name":"[EVENT] Sword RNG X","avg_ccu":693.3,"min_ccu":532,"max_ccu":830,"samples":24,"sess":34.0,"sess_h":23.0,"like":97.5},
+"10389762549":{"name":"Sword RNG X","avg_ccu":693.3,"min_ccu":532,"max_ccu":830,"samples":24,"sess":34.0,"sess_h":23.0,"like":97.5},
 "10390151142":{"name":"Run a Dance Studio","avg_ccu":562.5,"min_ccu":257,"max_ccu":1017,"samples":24,"sess":8.68,"sess_h":23.0,"like":83.4},
 "10393438342":{"name":"[🎃 HALLOWEEN 🎃] Alliance Tower Defense! ⚔️","avg_ccu":3541.1,"min_ccu":2677,"max_ccu":4794,"samples":24,"sess":11.78,"sess_h":23.0,"like":92.36},
 "10399136326":{"name":"Anime Ability Arena","avg_ccu":10089.6,"min_ccu":7486,"max_ccu":12970,"samples":24,"sess":12.94,"sess_h":23.0,"like":88.15},
