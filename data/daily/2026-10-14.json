@@ -1,4 +1,4 @@
-{"date": "2026-10-14", "timezone": "America/New_York", "generated_utc": "2026-10-15T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-15T03:10:00Z", 8885386], "genres": {"Simulation": 44.083, "Survival": 13.742, "Roleplay & Avatar Sim": 12.65, "Action": 7.64, "RPG": 4.565, "Shooter": 4.185, "Sports & Racing": 3.104, "Strategy": 2.443, "Party & Casual": 1.96, "Obby & Platformer": 1.914, "Adventure": 1.066, "Shopping": 0.955, "Other": 0.55, "Social": 0.437, "Puzzle": 0.396, "Entertainment": 0.309}, "genre_hours": 24,"games":{
+{"date": "2026-10-14", "timezone": "America/New_York", "generated_utc": "2026-10-15T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-15T03:10:00Z", 8885386], "genres": {"Simulation": 44.083, "Survival": 13.742, "Roleplay & Avatar Sim": 12.65, "Action": 7.64, "RPG": 4.565, "Shooter": 4.185, "Sports & Racing": 3.104, "Strategy": 2.443, "Party & Casual": 1.96, "Obby & Platformer": 1.914, "Adventure": 1.066, "Shopping": 0.955, "Other": 0.55, "Social": 0.437, "Puzzle": 0.396, "Entertainment": 0.309}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3679.2,"min_ccu":2941,"max_ccu":4445,"samples":24,"sess":12.44,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6148.6,"min_ccu":3862,"max_ccu":8710,"samples":24,"sess":8.43,"sess_h":23.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":3826.5,"min_ccu":3032,"max_ccu":4860,"samples":24,"sess":16.91,"sess_h":23.0,"like":87.7},
@@ -402,7 +402,7 @@
 "10298144467":{"name":"Roll Anime to Fight!","avg_ccu":1276.2,"min_ccu":1144,"max_ccu":1369,"samples":24,"sess":24.78,"sess_h":23.0,"like":96.86},
 "10308844888":{"name":"[🎃] Board Of Hell","avg_ccu":4872.8,"min_ccu":3661,"max_ccu":6817,"samples":24,"sess":8.24,"sess_h":23.0,"like":82.12},
 "10309128556":{"name":"HELLHOLE [🧟‍♂️]","avg_ccu":609.2,"min_ccu":341,"max_ccu":785,"samples":24,"sess":14.46,"sess_h":23.0,"like":98.22},
-"10310563053":{"name":"[EMOJIS] Keyboard Wars","avg_ccu":2021.4,"min_ccu":1295,"max_ccu":2751,"samples":24,"sess":8.68,"sess_h":23.0,"like":80.68},
+"10310563053":{"name":"Keyboard Wars","avg_ccu":2021.4,"min_ccu":1295,"max_ccu":2751,"samples":24,"sess":8.68,"sess_h":23.0,"like":80.68},
 "10310999762":{"name":"💪 +1 Strength to Grow Your Arm！","avg_ccu":3412.5,"min_ccu":2498,"max_ccu":5481,"samples":24,"sess":12.22,"sess_h":23.0,"like":96.35},
 "10321202755":{"name":"[🎃] Anime Fighting Simulator","avg_ccu":6705.6,"min_ccu":5944,"max_ccu":9240,"samples":24,"sess":52.9,"sess_h":23.0,"like":98.31},
 "10324001605":{"name":"🌷 My Flower Shop","avg_ccu":2460.9,"min_ccu":1966,"max_ccu":3107,"samples":18,"sess":20.71,"sess_h":17.0,"like":97.6},
