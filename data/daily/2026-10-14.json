@@ -1,4 +1,4 @@
-{"date": "2026-10-14", "timezone": "America/New_York", "generated_utc": "2026-10-15T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-15T03:10:00Z", 8885386], "genres": {"Simulation": 44.083, "Survival": 13.742, "Roleplay & Avatar Sim": 12.65, "Action": 7.64, "RPG": 4.565, "Shooter": 4.185, "Sports & Racing": 3.104, "Strategy": 2.443, "Party & Casual": 1.96, "Obby & Platformer": 1.914, "Adventure": 1.066, "Shopping": 0.955, "Other": 0.55, "Social": 0.437, "Puzzle": 0.396, "Entertainment": 0.309}, "genre_hours": 24,"games":{
+{"date": "2026-10-14", "timezone": "America/New_York", "generated_utc": "2026-10-15T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-15T03:10:00Z", 8885386], "genres": {"Simulation": 44.083, "Survival": 13.742, "Roleplay & Avatar Sim": 12.65, "Action": 7.64, "RPG": 4.565, "Shooter": 4.185, "Sports & Racing": 3.104, "Strategy": 2.443, "Party & Casual": 1.96, "Obby & Platformer": 1.914, "Adventure": 1.066, "Shopping": 0.955, "Other": 0.55, "Social": 0.437, "Puzzle": 0.396, "Entertainment": 0.309}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3679.2,"min_ccu":2941,"max_ccu":4445,"samples":24,"sess":12.44,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6148.6,"min_ccu":3862,"max_ccu":8710,"samples":24,"sess":8.43,"sess_h":23.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":3826.5,"min_ccu":3032,"max_ccu":4860,"samples":24,"sess":16.91,"sess_h":23.0,"like":87.7},
@@ -577,7 +577,7 @@
 "10764989090":{"name":"[💥] Anime Ball Duels","avg_ccu":2651.0,"min_ccu":2051,"max_ccu":3570,"samples":24,"sess":13.62,"sess_h":23.0,"like":82.61},
 "10765012427":{"name":"[UPD] Build the Pyramid!","avg_ccu":8886.0,"min_ccu":6788,"max_ccu":11260,"samples":24,"sess":13.95,"sess_h":23.0,"like":94.87},
 "10765013362":{"name":"Dig For Eggs","avg_ccu":7570.9,"min_ccu":6344,"max_ccu":9111,"samples":24,"sess":22.36,"sess_h":23.0,"like":90.38},
-"10765067592":{"name":"[UPD7] Tower Incremental","avg_ccu":4477.1,"min_ccu":3197,"max_ccu":6101,"samples":24,"sess":24.76,"sess_h":23.0,"like":89.19},
+"10765067592":{"name":"[UPD8] Tower Incremental","avg_ccu":4477.1,"min_ccu":3197,"max_ccu":6101,"samples":24,"sess":24.76,"sess_h":23.0,"like":89.19},
 "10765091041":{"name":"Open Sea For Animals!","avg_ccu":2464.0,"min_ccu":1613,"max_ccu":3607,"samples":24,"sess":13.61,"sess_h":23.0,"like":97.43},
 "10765122642":{"name":"Country Battles 🥊💪","avg_ccu":5587.7,"min_ccu":2781,"max_ccu":8526,"samples":24,"sess":11.6,"sess_h":23.0,"like":95.63},
 "10765153945":{"name":"Steal A Car","avg_ccu":6548.9,"min_ccu":4410,"max_ccu":9195,"samples":24,"sess":13.96,"sess_h":23.0,"like":89.94},
