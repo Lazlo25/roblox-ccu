@@ -1,4 +1,4 @@
-{"date": "2026-10-14", "timezone": "America/New_York", "generated_utc": "2026-10-15T14:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-15T03:10:00Z", 8885386], "genres": {"Simulation": 44.083, "Survival": 13.742, "Roleplay & Avatar Sim": 12.65, "Action": 7.64, "RPG": 4.565, "Shooter": 4.185, "Sports & Racing": 3.104, "Strategy": 2.443, "Party & Casual": 1.96, "Obby & Platformer": 1.914, "Adventure": 1.066, "Shopping": 0.955, "Other": 0.55, "Social": 0.437, "Puzzle": 0.396, "Entertainment": 0.309}, "genre_hours": 24,"games":{
+{"date": "2026-10-14", "timezone": "America/New_York", "generated_utc": "2026-10-15T15:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-15T03:10:00Z", 8885386], "genres": {"Simulation": 44.083, "Survival": 13.742, "Roleplay & Avatar Sim": 12.65, "Action": 7.64, "RPG": 4.565, "Shooter": 4.185, "Sports & Racing": 3.104, "Strategy": 2.443, "Party & Casual": 1.96, "Obby & Platformer": 1.914, "Adventure": 1.066, "Shopping": 0.955, "Other": 0.55, "Social": 0.437, "Puzzle": 0.396, "Entertainment": 0.309}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3679.2,"min_ccu":2941,"max_ccu":4445,"samples":24,"sess":12.44,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6148.6,"min_ccu":3862,"max_ccu":8710,"samples":24,"sess":8.43,"sess_h":23.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":3826.5,"min_ccu":3032,"max_ccu":4860,"samples":24,"sess":16.91,"sess_h":23.0,"like":87.7},
@@ -92,7 +92,7 @@
 "3164075108":{"name":"[SALE] Dragon Soul | Anime MMO 🐲","avg_ccu":2226.1,"min_ccu":1638,"max_ccu":2931,"samples":24,"sess":20.41,"sess_h":23.0,"like":94.65},
 "3183403065":{"name":"[🤹APRIL FOOL'S🤡] AA","avg_ccu":1510.5,"min_ccu":1294,"max_ccu":1801,"samples":24,"sess":19.12,"sess_h":23.0,"like":91.74},
 "3240075297":{"name":"Berry Avenue 🏠 RP","avg_ccu":27153.7,"min_ccu":13232,"max_ccu":40516,"samples":24,"sess":12.06,"sess_h":23.0,"like":86.05},
-"3308103880":{"name":"[🧪] Maple Hospital 🍂","avg_ccu":5540.0,"min_ccu":3508,"max_ccu":7314,"samples":24,"sess":11.36,"sess_h":23.0,"like":86.47},
+"3308103880":{"name":"[🎃] Maple Hospital 🍂","avg_ccu":5540.0,"min_ccu":3508,"max_ccu":7314,"samples":24,"sess":11.36,"sess_h":23.0,"like":86.47},
 "3310460039":{"name":"🚨BARRY'S PRISON RUN! (OBBY)","avg_ccu":10418.5,"min_ccu":7770,"max_ccu":14650,"samples":24,"sess":9.34,"sess_h":23.0,"like":60.63},
 "3317771874":{"name":"🔥 [BLOOD MOON] Pet Simulator 99! 👻","avg_ccu":48835.4,"min_ccu":37483,"max_ccu":56892,"samples":24,"sess":64.37,"sess_h":23.0,"like":94.74},
 "3365661357":{"name":"SharkBite 2 🦈","avg_ccu":585.2,"min_ccu":407,"max_ccu":751,"samples":24,"sess":9.99,"sess_h":23.0,"like":88.31},
@@ -233,7 +233,7 @@
 "7143545906":{"name":"Enter Brainrot","avg_ccu":795.0,"min_ccu":594,"max_ccu":1017,"samples":24,"sess":8.73,"sess_h":23.0,"like":93.79},
 "7178032757":{"name":"[✨] Rebirth Champions: Ultimate","avg_ccu":4080.7,"min_ccu":3940,"max_ccu":4302,"samples":18,"sess":33.61,"sess_h":17.0,"like":97.51},
 "7219654364":{"name":"[🎃DUELS] Murderers VS Sheriffs","avg_ccu":38535.8,"min_ccu":5570,"max_ccu":78345,"samples":24,"sess":11.85,"sess_h":23.0,"like":87.17},
-"7235130477":{"name":"Apple IPad Origional","avg_ccu":4705.2,"min_ccu":3087,"max_ccu":6137,"samples":24,"sess":4.35,"sess_h":23.0,"like":91.52},
+"7235130477":{"name":"Apple iPad Original","avg_ccu":4705.2,"min_ccu":3087,"max_ccu":6137,"samples":24,"sess":4.35,"sess_h":23.0,"like":91.52},
 "7264587281":{"name":"[RANKED] SNIPER DUELS","avg_ccu":3371.2,"min_ccu":2111,"max_ccu":4503,"samples":24,"sess":6.52,"sess_h":23.0,"like":76.67},
 "7265339759":{"name":"[⚔️ RANKED] REDLINER","avg_ccu":840.3,"min_ccu":464,"max_ccu":1240,"samples":24,"sess":7.55,"sess_h":23.0,"like":90.87},
 "7265977477":{"name":"Jump Clicker 🚀","avg_ccu":806.5,"min_ccu":559,"max_ccu":1077,"samples":13,"sess":8.26,"sess_h":12.0,"like":94.94},
@@ -338,7 +338,7 @@
 "9843234816":{"name":"[REVAMPED UI, 15+ SKIN] Appleton's Grabpack System","avg_ccu":271.7,"min_ccu":212,"max_ccu":346,"samples":13,"sess":7.33,"sess_h":12.0,"like":73.53},
 "9855761734":{"name":"San Diego Roleplay","avg_ccu":9084.5,"min_ccu":6190,"max_ccu":12925,"samples":24,"sess":17.27,"sess_h":23.0,"like":85.59},
 "9872734936":{"name":"[UPD] Junk Mechanics","avg_ccu":4220.0,"min_ccu":3104,"max_ccu":5351,"samples":24,"sess":14.72,"sess_h":23.0,"like":88.33},
-"9880286438":{"name":"[Dante & Vergil] Legacy Piece","avg_ccu":7396.0,"min_ccu":6589,"max_ccu":8353,"samples":24,"sess":26.95,"sess_h":23.0,"like":96.97},
+"9880286438":{"name":"[🍀2x Luck] Legacy Piece","avg_ccu":7396.0,"min_ccu":6589,"max_ccu":8353,"samples":24,"sess":26.95,"sess_h":23.0,"like":96.97},
 "9885372266":{"name":"Unseen Liminality","avg_ccu":3399.5,"min_ccu":2066,"max_ccu":4825,"samples":24,"sess":15.17,"sess_h":23.0,"like":93.71},
 "9891331827":{"name":"Clover Time [SHADOW GRIMOIRE💥]","avg_ccu":3776.2,"min_ccu":2643,"max_ccu":4535,"samples":24,"sess":17.41,"sess_h":23.0,"like":97.32},
 "9908641400":{"name":"Football Fusion 3","avg_ccu":3518.9,"min_ccu":483,"max_ccu":9847,"samples":24,"sess":10.0,"sess_h":23.0,"like":82.44},
