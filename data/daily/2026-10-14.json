@@ -1,4 +1,4 @@
-{"date": "2026-10-14", "timezone": "America/New_York", "generated_utc": "2026-10-16T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-15T03:10:00Z", 8885386], "genres": {"Simulation": 44.083, "Survival": 13.742, "Roleplay & Avatar Sim": 12.65, "Action": 7.64, "RPG": 4.565, "Shooter": 4.185, "Sports & Racing": 3.104, "Strategy": 2.443, "Party & Casual": 1.96, "Obby & Platformer": 1.914, "Adventure": 1.066, "Shopping": 0.955, "Other": 0.55, "Social": 0.437, "Puzzle": 0.396, "Entertainment": 0.309}, "genre_hours": 24,"games":{
+{"date": "2026-10-14", "timezone": "America/New_York", "generated_utc": "2026-10-16T03:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-15T03:10:00Z", 8885386], "genres": {"Simulation": 44.083, "Survival": 13.742, "Roleplay & Avatar Sim": 12.65, "Action": 7.64, "RPG": 4.565, "Shooter": 4.185, "Sports & Racing": 3.104, "Strategy": 2.443, "Party & Casual": 1.96, "Obby & Platformer": 1.914, "Adventure": 1.066, "Shopping": 0.955, "Other": 0.55, "Social": 0.437, "Puzzle": 0.396, "Entertainment": 0.309}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3679.2,"min_ccu":2941,"max_ccu":4445,"samples":24,"sess":12.44,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6148.6,"min_ccu":3862,"max_ccu":8710,"samples":24,"sess":8.43,"sess_h":23.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":3826.5,"min_ccu":3032,"max_ccu":4860,"samples":24,"sess":16.91,"sess_h":23.0,"like":87.7},
@@ -19,7 +19,7 @@
 "321778215":{"name":"Royale🎃High","avg_ccu":7556.7,"min_ccu":4990,"max_ccu":9360,"samples":24,"sess":22.0,"sess_h":23.0,"like":85.92},
 "371263894":{"name":"Greenville RP (⭐AUDI + SHELBY RELATED + RACES!)","avg_ccu":4230.0,"min_ccu":2111,"max_ccu":6223,"samples":24,"sess":16.27,"sess_h":23.0,"like":87.88},
 "372226183":{"name":"Flee the Facility","avg_ccu":16173.3,"min_ccu":4290,"max_ccu":29871,"samples":24,"sess":11.99,"sess_h":23.0,"like":92.1},
-"383310974":{"name":"[🎃] Adopt Me!","avg_ccu":270748.2,"min_ccu":213982,"max_ccu":337099,"samples":24,"sess":29.17,"sess_h":23.0,"like":86.33},
+"383310974":{"name":"[12H⏳] Adopt Me!","avg_ccu":270748.2,"min_ccu":213982,"max_ccu":337099,"samples":24,"sess":29.17,"sess_h":23.0,"like":86.33},
 "540382210":{"name":"[UPDATE!!!] FMR","avg_ccu":1100.2,"min_ccu":528,"max_ccu":1678,"samples":24,"sess":11.33,"sess_h":23.0,"like":94.88},
 "547524060":{"name":"Feather Family 🎃 [Burrowing Owl]","avg_ccu":4097.9,"min_ccu":2455,"max_ccu":5815,"samples":24,"sess":12.76,"sess_h":23.0,"like":91.64},
 "578392296":{"name":"ABA","avg_ccu":12135.0,"min_ccu":9097,"max_ccu":15247,"samples":24,"sess":17.79,"sess_h":23.0,"like":80.69},
@@ -511,7 +511,7 @@
 "10717002748":{"name":"[W2] +1 DMG FPS","avg_ccu":1563.8,"min_ccu":973,"max_ccu":2215,"samples":24,"sess":16.02,"sess_h":23.0,"like":96.23},
 "10718682861":{"name":"Guess My Youtuber 🏆","avg_ccu":124.7,"min_ccu":49,"max_ccu":247,"samples":24,"sess":7.5,"sess_h":23.0,"like":48.33},
 "10725799494":{"name":"Wash the Car 🧽","avg_ccu":7873.1,"min_ccu":1958,"max_ccu":13874,"samples":24,"sess":14.17,"sess_h":23.0,"like":87.53},
-"10732236937":{"name":"[ Halloween 2 ] Kaiju Alpha","avg_ccu":11706.0,"min_ccu":7666,"max_ccu":17828,"samples":24,"sess":17.06,"sess_h":23.0,"like":92.1},
+"10732236937":{"name":"[ Heisei Mothra ] Kaiju Alpha","avg_ccu":11706.0,"min_ccu":7666,"max_ccu":17828,"samples":24,"sess":17.06,"sess_h":23.0,"like":92.1},
 "10737231383":{"name":"[🎃] Jump To Steal An Egg","avg_ccu":2149.9,"min_ccu":1469,"max_ccu":2897,"samples":24,"sess":11.85,"sess_h":23.0,"like":92.35},
 "10737656087":{"name":"(🐍MINI UPDT👑) THA BRONX 3","avg_ccu":4864.6,"min_ccu":1281,"max_ccu":9212,"samples":24,"sess":21.03,"sess_h":23.0,"like":91.77},
 "10737986845":{"name":"🛠️Build and Kill Verity","avg_ccu":3997.3,"min_ccu":2705,"max_ccu":5673,"samples":24,"sess":14.85,"sess_h":23.0,"like":92.12},
