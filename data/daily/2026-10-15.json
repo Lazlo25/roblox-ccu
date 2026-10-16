@@ -1,4 +1,4 @@
-{"date": "2026-10-15", "timezone": "America/New_York", "generated_utc": "2026-10-16T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-16T03:10:00Z", 9453114], "genres": {"Simulation": 43.936, "Survival": 14.161, "Roleplay & Avatar Sim": 12.469, "Action": 7.714, "RPG": 4.49, "Shooter": 4.034, "Sports & Racing": 3.117, "Strategy": 2.364, "Party & Casual": 1.988, "Obby & Platformer": 1.966, "Adventure": 1.114, "Shopping": 0.996, "Other": 0.51, "Social": 0.443, "Puzzle": 0.393, "Entertainment": 0.304}, "genre_hours": 24,"games":{
+{"date": "2026-10-15", "timezone": "America/New_York", "generated_utc": "2026-10-16T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-16T03:10:00Z", 9453114], "genres": {"Simulation": 43.936, "Survival": 14.161, "Roleplay & Avatar Sim": 12.469, "Action": 7.714, "RPG": 4.49, "Shooter": 4.034, "Sports & Racing": 3.117, "Strategy": 2.364, "Party & Casual": 1.988, "Obby & Platformer": 1.966, "Adventure": 1.114, "Shopping": 0.996, "Other": 0.51, "Social": 0.443, "Puzzle": 0.393, "Entertainment": 0.304}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3729.5,"min_ccu":2850,"max_ccu":4642,"samples":24,"sess":12.59,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6313.0,"min_ccu":3993,"max_ccu":8891,"samples":24,"sess":8.32,"sess_h":23.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":3584.2,"min_ccu":2833,"max_ccu":4534,"samples":24,"sess":16.7,"sess_h":23.0,"like":87.7},
@@ -495,7 +495,7 @@
 "10737656087":{"name":"(🐍MINI UPDT👑) THA BRONX 3","avg_ccu":4701.7,"min_ccu":1209,"max_ccu":8619,"samples":24,"sess":20.85,"sess_h":23.0,"like":91.72},
 "10737986845":{"name":"🛠️Build and Kill Verity","avg_ccu":3602.8,"min_ccu":2392,"max_ccu":5025,"samples":24,"sess":14.8,"sess_h":23.0,"like":92.14},
 "10739044772":{"name":"Hamster Village🐹","avg_ccu":1513.2,"min_ccu":867,"max_ccu":2288,"samples":24,"sess":12.52,"sess_h":23.0,"like":98.46},
-"10739112966":{"name":"[UPD] Street Soccer Pro","avg_ccu":7034.9,"min_ccu":3907,"max_ccu":9556,"samples":24,"sess":12.38,"sess_h":23.0,"like":83.49},
+"10739112966":{"name":"Street Soccer Pro","avg_ccu":7034.9,"min_ccu":3907,"max_ccu":9556,"samples":24,"sess":12.38,"sess_h":23.0,"like":83.49},
 "10739137760":{"name":"[🎃] The Cosalazo 2","avg_ccu":3995.7,"min_ccu":428,"max_ccu":8371,"samples":24,"sess":12.75,"sess_h":23.0,"like":92.75},
 "10739283055":{"name":"+1 Jump Squishy ASMR Escape!","avg_ccu":2451.2,"min_ccu":1492,"max_ccu":3646,"samples":24,"sess":10.22,"sess_h":23.0,"like":98.32},
 "10740316645":{"name":"⛏️ My Anime Mine","avg_ccu":12172.8,"min_ccu":10733,"max_ccu":14455,"samples":24,"sess":22.76,"sess_h":23.0,"like":98.89},
