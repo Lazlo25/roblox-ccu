@@ -1,4 +1,4 @@
-{"date": "2026-10-15", "timezone": "America/New_York", "generated_utc": "2026-10-16T03:10:00Z", "through_et": "23:10", "platform_now": ["2026-10-16T03:10:00Z", 9453114], "genres": {"Simulation": 43.936, "Survival": 14.161, "Roleplay & Avatar Sim": 12.469, "Action": 7.714, "RPG": 4.49, "Shooter": 4.034, "Sports & Racing": 3.117, "Strategy": 2.364, "Party & Casual": 1.988, "Obby & Platformer": 1.966, "Adventure": 1.114, "Shopping": 0.996, "Other": 0.51, "Social": 0.443, "Puzzle": 0.393, "Entertainment": 0.304}, "genre_hours": 24,"games":{
+{"date": "2026-10-15", "timezone": "America/New_York", "generated_utc": "2026-10-16T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-16T03:10:00Z", 9453114], "genres": {"Simulation": 43.936, "Survival": 14.161, "Roleplay & Avatar Sim": 12.469, "Action": 7.714, "RPG": 4.49, "Shooter": 4.034, "Sports & Racing": 3.117, "Strategy": 2.364, "Party & Casual": 1.988, "Obby & Platformer": 1.966, "Adventure": 1.114, "Shopping": 0.996, "Other": 0.51, "Social": 0.443, "Puzzle": 0.393, "Entertainment": 0.304}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3729.5,"min_ccu":2850,"max_ccu":4642,"samples":24,"sess":12.59,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6313.0,"min_ccu":3993,"max_ccu":8891,"samples":24,"sess":8.32,"sess_h":23.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":3584.2,"min_ccu":2833,"max_ccu":4534,"samples":24,"sess":16.7,"sess_h":23.0,"like":87.7},
@@ -680,7 +680,7 @@
 "10768448776":{"name":"Next Subject","avg_ccu":36.0,"min_ccu":22,"max_ccu":51,"samples":20,"sess":9.1,"sess_h":19.0,"like":24.34},
 "10768458048":{"name":"Army Commander Tycoon","avg_ccu":7602.2,"min_ccu":5182,"max_ccu":10633,"samples":24,"sess":21.82,"sess_h":23.0,"like":92.45},
 "10768468695":{"name":"🔌ELECTRICITY🔥Bricklayer","avg_ccu":3207.8,"min_ccu":1971,"max_ccu":4926,"samples":24,"sess":10.46,"sess_h":23.0,"like":70.06},
-"10768498581":{"name":"Tribes 3v3","avg_ccu":9097.1,"min_ccu":5808,"max_ccu":12214,"samples":24,"sess":2.16,"sess_h":23.0,"like":64.17},
+"10768498581":{"name":"Tribes 3v3 [soon??]","avg_ccu":9097.1,"min_ccu":5808,"max_ccu":12214,"samples":24,"sess":2.16,"sess_h":23.0,"like":64.17},
 "10768506428":{"name":"Dont Be Late For School! 🚌","avg_ccu":2199.4,"min_ccu":1073,"max_ccu":3992,"samples":24,"sess":9.12,"sess_h":23.0,"like":53.03},
 "10768539156":{"name":"Draw a Dumpling!","avg_ccu":2763.2,"min_ccu":2035,"max_ccu":3878,"samples":24,"sess":8.59,"sess_h":23.0,"like":74.01},
 "10768541373":{"name":"Don’t Get Fired At Work! 🧳 [LIMITED SKIN EVENT! ]","avg_ccu":3231.0,"min_ccu":2026,"max_ccu":4468,"samples":24,"sess":13.24,"sess_h":23.0,"like":87.64},
