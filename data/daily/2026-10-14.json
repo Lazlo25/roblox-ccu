@@ -1,4 +1,4 @@
-{"date": "2026-10-14", "timezone": "America/New_York", "generated_utc": "2026-10-16T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-15T03:10:00Z", 8885386], "genres": {"Simulation": 44.083, "Survival": 13.742, "Roleplay & Avatar Sim": 12.65, "Action": 7.64, "RPG": 4.565, "Shooter": 4.185, "Sports & Racing": 3.104, "Strategy": 2.443, "Party & Casual": 1.96, "Obby & Platformer": 1.914, "Adventure": 1.066, "Shopping": 0.955, "Other": 0.55, "Social": 0.437, "Puzzle": 0.396, "Entertainment": 0.309}, "genre_hours": 24,"games":{
+{"date": "2026-10-14", "timezone": "America/New_York", "generated_utc": "2026-10-16T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-15T03:10:00Z", 8885386], "genres": {"Simulation": 44.083, "Survival": 13.742, "Roleplay & Avatar Sim": 12.65, "Action": 7.64, "RPG": 4.565, "Shooter": 4.185, "Sports & Racing": 3.104, "Strategy": 2.443, "Party & Casual": 1.96, "Obby & Platformer": 1.914, "Adventure": 1.066, "Shopping": 0.955, "Other": 0.55, "Social": 0.437, "Puzzle": 0.396, "Entertainment": 0.309}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3679.2,"min_ccu":2941,"max_ccu":4445,"samples":24,"sess":12.44,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6148.6,"min_ccu":3862,"max_ccu":8710,"samples":24,"sess":8.43,"sess_h":23.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":3826.5,"min_ccu":3032,"max_ccu":4860,"samples":24,"sess":16.91,"sess_h":23.0,"like":87.7},
@@ -529,7 +529,7 @@
 "10747719434":{"name":"[V2] Feed A Mosquito","avg_ccu":6692.3,"min_ccu":5065,"max_ccu":9081,"samples":24,"sess":15.38,"sess_h":23.0,"like":76.14},
 "10747894435":{"name":"Duck Pond🦆","avg_ccu":1271.7,"min_ccu":942,"max_ccu":1662,"samples":24,"sess":17.32,"sess_h":23.0,"like":97.0},
 "10748543623":{"name":"[BATTLES!⭐] Pack A Rare Card","avg_ccu":1668.2,"min_ccu":1379,"max_ccu":1878,"samples":24,"sess":17.81,"sess_h":23.0,"like":98.61},
-"10752743876":{"name":"💃[Disco dance] Trending Emote Dance","avg_ccu":5919.6,"min_ccu":3935,"max_ccu":7196,"samples":24,"sess":11.59,"sess_h":23.0,"like":86.88},
+"10752743876":{"name":"[🦵Break Your Legs] Trending Emote Dance","avg_ccu":5919.6,"min_ccu":3935,"max_ccu":7196,"samples":24,"sess":11.59,"sess_h":23.0,"like":86.88},
 "10753751277":{"name":"[🎃] Steal From The Rich!","avg_ccu":3279.0,"min_ccu":2082,"max_ccu":4375,"samples":24,"sess":13.54,"sess_h":23.0,"like":95.6},
 "10755048940":{"name":"Murder Arena [FPS]","avg_ccu":4380.2,"min_ccu":2325,"max_ccu":5899,"samples":24,"sess":10.35,"sess_h":23.0,"like":82.85},
 "10756011174":{"name":"[x2] Search For The Needle","avg_ccu":10852.1,"min_ccu":7202,"max_ccu":16988,"samples":24,"sess":15.76,"sess_h":23.0,"like":95.93},
