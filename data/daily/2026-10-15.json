@@ -1,4 +1,4 @@
-{"date": "2026-10-15", "timezone": "America/New_York", "generated_utc": "2026-10-16T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-16T03:10:00Z", 9453114], "genres": {"Simulation": 43.936, "Survival": 14.161, "Roleplay & Avatar Sim": 12.469, "Action": 7.714, "RPG": 4.49, "Shooter": 4.034, "Sports & Racing": 3.117, "Strategy": 2.364, "Party & Casual": 1.988, "Obby & Platformer": 1.966, "Adventure": 1.114, "Shopping": 0.996, "Other": 0.51, "Social": 0.443, "Puzzle": 0.393, "Entertainment": 0.304}, "genre_hours": 24,"games":{
+{"date": "2026-10-15", "timezone": "America/New_York", "generated_utc": "2026-10-16T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-16T03:10:00Z", 9453114], "genres": {"Simulation": 43.936, "Survival": 14.161, "Roleplay & Avatar Sim": 12.469, "Action": 7.714, "RPG": 4.49, "Shooter": 4.034, "Sports & Racing": 3.117, "Strategy": 2.364, "Party & Casual": 1.988, "Obby & Platformer": 1.966, "Adventure": 1.114, "Shopping": 0.996, "Other": 0.51, "Social": 0.443, "Puzzle": 0.393, "Entertainment": 0.304}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3729.5,"min_ccu":2850,"max_ccu":4642,"samples":24,"sess":12.59,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6313.0,"min_ccu":3993,"max_ccu":8891,"samples":24,"sess":8.32,"sess_h":23.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":3584.2,"min_ccu":2833,"max_ccu":4534,"samples":24,"sess":16.7,"sess_h":23.0,"like":87.7},
@@ -20,7 +20,7 @@
 "321778215":{"name":"Royale🎃High","avg_ccu":7263.0,"min_ccu":4767,"max_ccu":9092,"samples":24,"sess":22.08,"sess_h":23.0,"like":85.92},
 "371263894":{"name":"Greenville RP (⭐AUDI + SHELBY RELATED + RACES!)","avg_ccu":4283.5,"min_ccu":2142,"max_ccu":6230,"samples":24,"sess":16.21,"sess_h":23.0,"like":87.88},
 "372226183":{"name":"Flee the Facility","avg_ccu":17382.7,"min_ccu":4329,"max_ccu":29166,"samples":24,"sess":12.02,"sess_h":23.0,"like":92.1},
-"383310974":{"name":"[8H⏳] Adopt Me!","avg_ccu":251023.5,"min_ccu":194120,"max_ccu":306033,"samples":24,"sess":27.68,"sess_h":23.0,"like":86.33},
+"383310974":{"name":"[6H⏳] Adopt Me!","avg_ccu":251023.5,"min_ccu":194120,"max_ccu":306033,"samples":24,"sess":27.68,"sess_h":23.0,"like":86.33},
 "540382210":{"name":"[UPDATE!!!] FMR","avg_ccu":1130.0,"min_ccu":560,"max_ccu":1675,"samples":24,"sess":11.4,"sess_h":23.0,"like":94.88},
 "547524060":{"name":"Feather Family 🎃 [Bearded Vulture]","avg_ccu":4016.5,"min_ccu":2491,"max_ccu":5882,"samples":24,"sess":12.84,"sess_h":23.0,"like":91.64},
 "578392296":{"name":"ABA","avg_ccu":12196.2,"min_ccu":8871,"max_ccu":16028,"samples":24,"sess":17.44,"sess_h":23.0,"like":80.69},
@@ -304,7 +304,7 @@
 "9363735110":{"name":"[🌊] Escape Tsunami For Brainrots!","avg_ccu":3702.3,"min_ccu":2693,"max_ccu":4995,"samples":24,"sess":10.59,"sess_h":23.0,"like":83.12},
 "9490116046":{"name":"Build with Voxels 🔨","avg_ccu":5532.2,"min_ccu":4113,"max_ccu":6825,"samples":24,"sess":14.35,"sess_h":23.0,"like":65.13},
 "9491545867":{"name":"[🎃EVENT] Break a Brainrot Egg!","avg_ccu":10090.6,"min_ccu":5624,"max_ccu":35070,"samples":24,"sess":13.31,"sess_h":23.0,"like":81.62},
-"9534705677":{"name":"[⏳8H] Sniper Arena","avg_ccu":15526.2,"min_ccu":9701,"max_ccu":21024,"samples":24,"sess":11.31,"sess_h":23.0,"like":91.8},
+"9534705677":{"name":"[⏳6H] Sniper Arena","avg_ccu":15526.2,"min_ccu":9701,"max_ccu":21024,"samples":24,"sess":11.31,"sess_h":23.0,"like":91.8},
 "9551044479":{"name":"Final Swarm [⚔️Sandworm]","avg_ccu":1287.2,"min_ccu":964,"max_ccu":1967,"samples":24,"sess":10.5,"sess_h":23.0,"like":97.14},
 "9561553764":{"name":"[☣️] Murder Duels","avg_ccu":10672.0,"min_ccu":7872,"max_ccu":13368,"samples":24,"sess":8.91,"sess_h":23.0,"like":93.56},
 "9582986239":{"name":"Fish an Anime RNG 🎲","avg_ccu":3646.6,"min_ccu":3345,"max_ccu":4253,"samples":24,"sess":26.55,"sess_h":23.0,"like":95.01},
