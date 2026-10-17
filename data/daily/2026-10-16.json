@@ -1,4 +1,4 @@
-{"date": "2026-10-16", "timezone": "America/New_York", "generated_utc": "2026-10-17T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-17T03:10:00Z", 14010843], "genres": {"Simulation": 42.688, "Survival": 15.174, "Roleplay & Avatar Sim": 12.791, "Action": 7.744, "Shooter": 4.718, "RPG": 4.147, "Sports & Racing": 3.011, "Strategy": 2.364, "Party & Casual": 1.936, "Obby & Platformer": 1.92, "Adventure": 1.208, "Shopping": 0.976, "Puzzle": 0.393, "Social": 0.389, "Entertainment": 0.323, "Other": 0.217}, "genre_hours": 24,"games":{
+{"date": "2026-10-16", "timezone": "America/New_York", "generated_utc": "2026-10-17T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-17T03:10:00Z", 14010843], "genres": {"Simulation": 42.688, "Survival": 15.174, "Roleplay & Avatar Sim": 12.791, "Action": 7.744, "Shooter": 4.718, "RPG": 4.147, "Sports & Racing": 3.011, "Strategy": 2.364, "Party & Casual": 1.936, "Obby & Platformer": 1.92, "Adventure": 1.208, "Shopping": 0.976, "Puzzle": 0.393, "Social": 0.389, "Entertainment": 0.323, "Other": 0.217}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4444.9,"min_ccu":3195,"max_ccu":5677,"samples":24,"sess":12.69,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7321.4,"min_ccu":4447,"max_ccu":11579,"samples":24,"sess":8.3,"sess_h":23.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":4015.8,"min_ccu":2926,"max_ccu":5032,"samples":16,"sess":16.89,"sess_h":15.0,"like":87.7},
@@ -251,7 +251,7 @@
 "7703614594":{"name":"[⏳🍀] Garden Tower Defense 🌻","avg_ccu":4106.5,"min_ccu":3250,"max_ccu":5195,"samples":24,"sess":12.6,"sess_h":23.0,"like":98.22},
 "7709344486":{"name":"[💀] Steal a Brainrot","avg_ccu":95577.8,"min_ccu":74245,"max_ccu":116594,"samples":24,"sess":11.05,"sess_h":23.0,"like":85.14},
 "7738524573":{"name":"Retro Tower Defense","avg_ccu":2033.1,"min_ccu":1026,"max_ccu":3738,"samples":24,"sess":9.12,"sess_h":23.0,"like":91.63},
-"7750955984":{"name":"[ONI!] Hunty Zombie","avg_ccu":871.9,"min_ccu":700,"max_ccu":1125,"samples":24,"sess":9.62,"sess_h":23.0,"like":95.52},
+"7750955984":{"name":"[12H!] Hunty Zombie","avg_ccu":871.9,"min_ccu":700,"max_ccu":1125,"samples":24,"sess":9.62,"sess_h":23.0,"like":95.52},
 "7761516673":{"name":"[UPD🎃] Fight in a Streamer University🎓","avg_ccu":518.8,"min_ccu":247,"max_ccu":959,"samples":24,"sess":8.28,"sess_h":23.0,"like":79.75},
 "7843413523":{"name":"Supermarket Together","avg_ccu":2404.8,"min_ccu":1194,"max_ccu":3561,"samples":24,"sess":16.44,"sess_h":23.0,"like":94.02},
 "7856039629":{"name":"[🎃] Murder Mystery DUELS","avg_ccu":6444.9,"min_ccu":3462,"max_ccu":9174,"samples":24,"sess":8.3,"sess_h":23.0,"like":88.78},
@@ -386,7 +386,7 @@
 "10310563053":{"name":"[24 HRS] Keyboard Wars","avg_ccu":2562.2,"min_ccu":1613,"max_ccu":3619,"samples":24,"sess":8.47,"sess_h":23.0,"like":80.7},
 "10310999762":{"name":"💪 +1 Strength to Grow Your Arm！","avg_ccu":3261.8,"min_ccu":2696,"max_ccu":5263,"samples":24,"sess":12.87,"sess_h":23.0,"like":96.35},
 "10321202755":{"name":"[🎃] Anime Fighting Simulator","avg_ccu":6032.9,"min_ccu":5507,"max_ccu":6552,"samples":24,"sess":52.08,"sess_h":23.0,"like":98.3},
-"10332674979":{"name":"THROTTLE (BETA)  Motorcycle Street Racing UPDATE!","avg_ccu":743.8,"min_ccu":520,"max_ccu":971,"samples":24,"sess":3.49,"sess_h":23.0,"like":94.12},
+"10332674979":{"name":"Map Extension THROTTLE (BETA)","avg_ccu":743.8,"min_ccu":520,"max_ccu":971,"samples":24,"sess":3.49,"sess_h":23.0,"like":94.12},
 "10338952197":{"name":"Grow a Chicken Fighter","avg_ccu":3512.3,"min_ccu":2958,"max_ccu":4340,"samples":24,"sess":22.6,"sess_h":23.0,"like":97.78},
 "10371406677":{"name":"Race for Eggs","avg_ccu":3334.5,"min_ccu":2131,"max_ccu":4689,"samples":24,"sess":12.77,"sess_h":23.0,"like":97.9},
 "10376944238":{"name":"Build Your Backrooms","avg_ccu":4453.6,"min_ccu":2613,"max_ccu":6062,"samples":24,"sess":11.93,"sess_h":23.0,"like":97.99},
