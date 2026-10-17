@@ -1,4 +1,4 @@
-{"date": "2026-10-15", "timezone": "America/New_York", "generated_utc": "2026-10-17T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-16T03:10:00Z", 9453114], "genres": {"Simulation": 43.936, "Survival": 14.161, "Roleplay & Avatar Sim": 12.469, "Action": 7.714, "RPG": 4.49, "Shooter": 4.034, "Sports & Racing": 3.117, "Strategy": 2.364, "Party & Casual": 1.988, "Obby & Platformer": 1.966, "Adventure": 1.114, "Shopping": 0.996, "Other": 0.51, "Social": 0.443, "Puzzle": 0.393, "Entertainment": 0.304}, "genre_hours": 24,"games":{
+{"date": "2026-10-15", "timezone": "America/New_York", "generated_utc": "2026-10-17T03:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-16T03:10:00Z", 9453114], "genres": {"Simulation": 43.936, "Survival": 14.161, "Roleplay & Avatar Sim": 12.469, "Action": 7.714, "RPG": 4.49, "Shooter": 4.034, "Sports & Racing": 3.117, "Strategy": 2.364, "Party & Casual": 1.988, "Obby & Platformer": 1.966, "Adventure": 1.114, "Shopping": 0.996, "Other": 0.51, "Social": 0.443, "Puzzle": 0.393, "Entertainment": 0.304}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3729.5,"min_ccu":2850,"max_ccu":4642,"samples":24,"sess":12.59,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6313.0,"min_ccu":3993,"max_ccu":8891,"samples":24,"sess":8.32,"sess_h":23.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":3584.2,"min_ccu":2833,"max_ccu":4534,"samples":24,"sess":16.7,"sess_h":23.0,"like":87.7},
@@ -540,7 +540,7 @@
 "10764240948":{"name":"Harpoon a Fish","avg_ccu":3519.5,"min_ccu":1910,"max_ccu":4839,"samples":24,"sess":14.06,"sess_h":23.0,"like":94.06},
 "10764297006":{"name":"Pixel Conquest 🎃","avg_ccu":3761.2,"min_ccu":2231,"max_ccu":5664,"samples":24,"sess":2.73,"sess_h":23.0,"like":81.29},
 "10764467420":{"name":"TROLL Wheelchair Tower","avg_ccu":4014.8,"min_ccu":2884,"max_ccu":5168,"samples":24,"sess":9.35,"sess_h":23.0,"like":79.54},
-"10764479526":{"name":"[🎃UPDATE] +1 Mog Evolution","avg_ccu":2204.6,"min_ccu":1138,"max_ccu":3354,"samples":24,"sess":11.07,"sess_h":23.0,"like":98.02},
+"10764479526":{"name":"[24H] +1 Mog Evolution","avg_ccu":2204.6,"min_ccu":1138,"max_ccu":3354,"samples":24,"sess":11.07,"sess_h":23.0,"like":98.02},
 "10764533320":{"name":"[UPD] Aura Dance Battles 🔥","avg_ccu":3610.5,"min_ccu":1961,"max_ccu":5462,"samples":24,"sess":8.51,"sess_h":23.0,"like":89.14},
 "10764613327":{"name":"[🎧] GUESS THE SONG! 0.5s","avg_ccu":694.1,"min_ccu":370,"max_ccu":1181,"samples":24,"sess":6.66,"sess_h":23.0,"like":69.53},
 "10764627709":{"name":"Huss Valley","avg_ccu":67439.3,"min_ccu":47808,"max_ccu":88206,"samples":24,"sess":11.46,"sess_h":23.0,"like":88.06},
