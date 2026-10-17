@@ -1,4 +1,4 @@
-{"date": "2026-10-16", "timezone": "America/New_York", "generated_utc": "2026-10-17T22:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-17T03:10:00Z", 14010843], "genres": {"Simulation": 42.688, "Survival": 15.174, "Roleplay & Avatar Sim": 12.791, "Action": 7.744, "Shooter": 4.718, "RPG": 4.147, "Sports & Racing": 3.011, "Strategy": 2.364, "Party & Casual": 1.936, "Obby & Platformer": 1.92, "Adventure": 1.208, "Shopping": 0.976, "Puzzle": 0.393, "Social": 0.389, "Entertainment": 0.323, "Other": 0.217}, "genre_hours": 24,"games":{
+{"date": "2026-10-16", "timezone": "America/New_York", "generated_utc": "2026-10-17T23:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-17T03:10:00Z", 14010843], "genres": {"Simulation": 42.688, "Survival": 15.174, "Roleplay & Avatar Sim": 12.791, "Action": 7.744, "Shooter": 4.718, "RPG": 4.147, "Sports & Racing": 3.011, "Strategy": 2.364, "Party & Casual": 1.936, "Obby & Platformer": 1.92, "Adventure": 1.208, "Shopping": 0.976, "Puzzle": 0.393, "Social": 0.389, "Entertainment": 0.323, "Other": 0.217}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4444.9,"min_ccu":3195,"max_ccu":5677,"samples":24,"sess":12.69,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7321.4,"min_ccu":4447,"max_ccu":11579,"samples":24,"sess":8.3,"sess_h":23.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":4015.8,"min_ccu":2926,"max_ccu":5032,"samples":16,"sess":16.89,"sess_h":15.0,"like":87.7},
@@ -205,7 +205,7 @@
 "6594435384":{"name":"SpongeBob Tower Defense🍍","avg_ccu":9522.6,"min_ccu":4515,"max_ccu":29073,"samples":7,"sess":9.75,"sess_h":6.0,"like":97.72},
 "6635513269":{"name":"he ate them. [HORROR]","avg_ccu":8332.2,"min_ccu":4466,"max_ccu":12549,"samples":24,"sess":7.35,"sess_h":23.0,"like":97.54},
 "6682487255":{"name":"[ 🪄🎩] Anime Card Clash","avg_ccu":5625.9,"min_ccu":4638,"max_ccu":7649,"samples":24,"sess":16.43,"sess_h":23.0,"like":97.5},
-"6701277882":{"name":"[3 HRS] Fish It! 🐟","avg_ccu":73475.5,"min_ccu":70695,"max_ccu":75138,"samples":24,"sess":76.8,"sess_h":23.0,"like":82.83},
+"6701277882":{"name":"[2 HRS] Fish It! 🐟","avg_ccu":73475.5,"min_ccu":70695,"max_ccu":75138,"samples":24,"sess":76.8,"sess_h":23.0,"like":82.83},
 "6726637224":{"name":"[🎃] Street Life Remastered","avg_ccu":2394.9,"min_ccu":1176,"max_ccu":3675,"samples":24,"sess":14.51,"sess_h":23.0,"like":87.02},
 "6739698191":{"name":"[CURE] Violence District","avg_ccu":51874.7,"min_ccu":26950,"max_ccu":80268,"samples":24,"sess":15.79,"sess_h":23.0,"like":93.2},
 "6749060816":{"name":"[🎃] Asylum Life 🔊","avg_ccu":6220.3,"min_ccu":3759,"max_ccu":11465,"samples":24,"sess":16.41,"sess_h":23.0,"like":83.28},
@@ -306,7 +306,7 @@
 "9363735110":{"name":"[🌊] Escape Tsunami For Brainrots!","avg_ccu":4173.9,"min_ccu":2962,"max_ccu":5415,"samples":24,"sess":10.33,"sess_h":23.0,"like":83.12},
 "9364041968":{"name":"[AUCTIONS 🏎️] Car Sales 2 🏎️","avg_ccu":2033.1,"min_ccu":1046,"max_ccu":3438,"samples":7,"sess":20.31,"sess_h":6.0,"like":82.66},
 "9490116046":{"name":"Build with Voxels 🔨","avg_ccu":6428.4,"min_ccu":4512,"max_ccu":8822,"samples":24,"sess":14.41,"sess_h":23.0,"like":65.15},
-"9491545867":{"name":"[🎃SOON] Break a Brainrot Egg!","avg_ccu":9984.8,"min_ccu":6822,"max_ccu":13162,"samples":24,"sess":12.57,"sess_h":23.0,"like":81.62},
+"9491545867":{"name":"[🎃NOW] Break a Brainrot Egg!","avg_ccu":9984.8,"min_ccu":6822,"max_ccu":13162,"samples":24,"sess":12.57,"sess_h":23.0,"like":81.62},
 "9534705677":{"name":"[🎃Battlepass] Sniper Arena","avg_ccu":17643.4,"min_ccu":12437,"max_ccu":22397,"samples":24,"sess":11.05,"sess_h":23.0,"like":91.8},
 "9551044479":{"name":"Final Swarm [⚔️Sandworm]","avg_ccu":1347.5,"min_ccu":873,"max_ccu":2615,"samples":24,"sess":10.14,"sess_h":23.0,"like":97.14},
 "9561553764":{"name":"[🎃] Murder Duels","avg_ccu":12257.7,"min_ccu":8496,"max_ccu":15201,"samples":24,"sess":9.07,"sess_h":23.0,"like":93.55},
@@ -490,7 +490,7 @@
 "10739112966":{"name":"Street Soccer Pro","avg_ccu":8706.5,"min_ccu":4833,"max_ccu":12156,"samples":24,"sess":12.71,"sess_h":23.0,"like":83.81},
 "10739137760":{"name":"[🎃] The Cosalazo 2","avg_ccu":4549.5,"min_ccu":434,"max_ccu":9333,"samples":24,"sess":13.03,"sess_h":23.0,"like":92.65},
 "10739283055":{"name":"+1 Jump Squishy ASMR Escape!","avg_ccu":3138.7,"min_ccu":1733,"max_ccu":4906,"samples":24,"sess":9.97,"sess_h":23.0,"like":98.35},
-"10740316645":{"name":"[⌛10M] ⛏️ My Anime Mine","avg_ccu":12222.6,"min_ccu":10978,"max_ccu":14212,"samples":24,"sess":22.57,"sess_h":23.0,"like":98.9},
+"10740316645":{"name":"[⌛NOW!!!] ⛏️ My Anime Mine","avg_ccu":12222.6,"min_ccu":10978,"max_ccu":14212,"samples":24,"sess":22.57,"sess_h":23.0,"like":98.9},
 "10741302505":{"name":"Collect 1 Million Items [✨]","avg_ccu":3660.2,"min_ccu":2299,"max_ccu":5254,"samples":24,"sess":16.04,"sess_h":23.0,"like":97.91},
 "10741514942":{"name":"Renovate A House","avg_ccu":6546.2,"min_ccu":3437,"max_ccu":9648,"samples":24,"sess":17.56,"sess_h":23.0,"like":82.97},
 "10741654282":{"name":"Build and Kill Zombies","avg_ccu":10360.2,"min_ccu":6226,"max_ccu":14553,"samples":24,"sess":21.34,"sess_h":23.0,"like":98.02},
@@ -543,7 +543,7 @@
 "10764959046":{"name":"Locust Murder Mystery","avg_ccu":4599.3,"min_ccu":2565,"max_ccu":10429,"samples":24,"sess":7.29,"sess_h":23.0,"like":85.69},
 "10764980068":{"name":"+1 Roll Ice Cream","avg_ccu":1553.7,"min_ccu":784,"max_ccu":2241,"samples":23,"sess":9.19,"sess_h":22.0,"like":97.37},
 "10764989090":{"name":"[🎃⏳] Anime Ball Duels","avg_ccu":2836.8,"min_ccu":2084,"max_ccu":3873,"samples":24,"sess":13.98,"sess_h":23.0,"like":82.59},
-"10765012427":{"name":"[UPD] Build the Pyramid!","avg_ccu":8226.9,"min_ccu":5758,"max_ccu":10549,"samples":24,"sess":13.34,"sess_h":23.0,"like":94.8},
+"10765012427":{"name":"[HALLOWEEN] Build the Pyramid!","avg_ccu":8226.9,"min_ccu":5758,"max_ccu":10549,"samples":24,"sess":13.34,"sess_h":23.0,"like":94.8},
 "10765013362":{"name":"🎃 Dig For Eggs","avg_ccu":7863.0,"min_ccu":6833,"max_ccu":9348,"samples":24,"sess":21.95,"sess_h":23.0,"like":90.33},
 "10765067592":{"name":"[UPD8] Tower Incremental","avg_ccu":4675.3,"min_ccu":3391,"max_ccu":6174,"samples":24,"sess":25.29,"sess_h":23.0,"like":89.1},
 "10765091041":{"name":"Open Sea For Animals!","avg_ccu":2827.2,"min_ccu":1713,"max_ccu":4324,"samples":24,"sess":13.64,"sess_h":23.0,"like":97.4},
@@ -692,7 +692,7 @@
 "10769516701":{"name":"Facecard: Makeup Showdown [⭐UPD]","avg_ccu":19688.0,"min_ccu":7966,"max_ccu":28705,"samples":24,"sess":10.25,"sess_h":23.0,"like":98.95},
 "10769543567":{"name":"Cat Battles 🐾","avg_ccu":6077.8,"min_ccu":1902,"max_ccu":36208,"samples":24,"sess":9.14,"sess_h":23.0,"like":80.86},
 "10769616178":{"name":"Get Your Driving License!","avg_ccu":2609.9,"min_ccu":699,"max_ccu":17546,"samples":24,"sess":12.46,"sess_h":23.0,"like":54.0},
-"10769876151":{"name":"Make Ramen To Get Rich (Testing)","avg_ccu":2731.8,"min_ccu":1431,"max_ccu":5180,"samples":11,"sess":10.6,"sess_h":10.0,"like":95.0},
+"10769876151":{"name":"Make Ramen To Get Rich [RELEASE]","avg_ccu":2731.8,"min_ccu":1431,"max_ccu":5180,"samples":11,"sess":10.6,"sess_h":10.0,"like":95.0},
 "10770000716":{"name":"Apple iPad Original","avg_ccu":7141.5,"min_ccu":5123,"max_ccu":9260,"samples":24,"sess":6.55,"sess_h":23.0,"like":92.44},
 "10771096069":{"name":"Where Is Fahd?","avg_ccu":4003.7,"min_ccu":1226,"max_ccu":8849,"samples":6,"like":70.65}
 }}
