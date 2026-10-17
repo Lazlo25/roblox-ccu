@@ -1,4 +1,4 @@
-{"date": "2026-10-16", "timezone": "America/New_York", "generated_utc": "2026-10-17T03:10:00Z", "through_et": "23:10", "platform_now": ["2026-10-17T03:10:00Z", 14010843], "genres": {"Simulation": 42.688, "Survival": 15.174, "Roleplay & Avatar Sim": 12.791, "Action": 7.744, "Shooter": 4.718, "RPG": 4.147, "Sports & Racing": 3.011, "Strategy": 2.364, "Party & Casual": 1.936, "Obby & Platformer": 1.92, "Adventure": 1.208, "Shopping": 0.976, "Puzzle": 0.393, "Social": 0.389, "Entertainment": 0.323, "Other": 0.217}, "genre_hours": 24,"games":{
+{"date": "2026-10-16", "timezone": "America/New_York", "generated_utc": "2026-10-17T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-17T03:10:00Z", 14010843], "genres": {"Simulation": 42.688, "Survival": 15.174, "Roleplay & Avatar Sim": 12.791, "Action": 7.744, "Shooter": 4.718, "RPG": 4.147, "Sports & Racing": 3.011, "Strategy": 2.364, "Party & Casual": 1.936, "Obby & Platformer": 1.92, "Adventure": 1.208, "Shopping": 0.976, "Puzzle": 0.393, "Social": 0.389, "Entertainment": 0.323, "Other": 0.217}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4444.9,"min_ccu":3195,"max_ccu":5677,"samples":24,"sess":12.69,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7321.4,"min_ccu":4447,"max_ccu":11579,"samples":24,"sess":8.3,"sess_h":23.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":4015.8,"min_ccu":2926,"max_ccu":5032,"samples":16,"sess":16.89,"sess_h":15.0,"like":87.7},
@@ -399,7 +399,7 @@
 "10410945205":{"name":"[🎃X2] +1 Cut Grass Adventure","avg_ccu":2422.4,"min_ccu":1451,"max_ccu":5763,"samples":16,"sess":18.66,"sess_h":15.0,"like":96.94},
 "10411998017":{"name":"[HALLOWEEN🎃] Project Bikelife","avg_ccu":2363.3,"min_ccu":1080,"max_ccu":3755,"samples":24,"sess":16.94,"sess_h":23.0,"like":86.14},
 "10415694629":{"name":"Carry the Glass Together! [2 Player Obby]","avg_ccu":4056.0,"min_ccu":2453,"max_ccu":6056,"samples":16,"sess":11.3,"sess_h":15.0,"like":88.9},
-"10415845204":{"name":"[⚡NEW] Clicker Simulator! 🖱️","avg_ccu":1413.3,"min_ccu":1185,"max_ccu":1695,"samples":24,"sess":23.13,"sess_h":23.0,"like":98.02},
+"10415845204":{"name":"[⌛12H] Clicker Simulator! 🖱️","avg_ccu":1413.3,"min_ccu":1185,"max_ccu":1695,"samples":24,"sess":23.13,"sess_h":23.0,"like":98.02},
 "10416475193":{"name":"HUNTRESS 🕷️ [NIGHTMARE]","avg_ccu":3775.6,"min_ccu":1141,"max_ccu":7019,"samples":24,"sess":8.69,"sess_h":23.0,"like":80.06},
 "10424107160":{"name":"[🌙] Survive The Night","avg_ccu":4081.2,"min_ccu":3109,"max_ccu":5605,"samples":24,"sess":11.37,"sess_h":23.0,"like":95.96},
 "10424350877":{"name":"ESCAPE CANDY WITCH! (SCARY OBBY)","avg_ccu":1989.4,"min_ccu":1093,"max_ccu":3094,"samples":24,"sess":8.64,"sess_h":23.0,"like":91.29},
@@ -666,7 +666,7 @@
 "10768409027":{"name":"🥚 HATCH IT! OWNER PANEL X999","avg_ccu":22.4,"min_ccu":3,"max_ccu":47,"samples":24,"sess":12.51,"sess_h":23.0,"like":95.34},
 "10768425253":{"name":"[🥥] COCARDO: LA HELADERIA","avg_ccu":7726.1,"min_ccu":339,"max_ccu":18067,"samples":24,"sess":6.55,"sess_h":23.0,"like":79.88},
 "10768428243":{"name":"Deliver The Baby 🍼","avg_ccu":2332.7,"min_ccu":1222,"max_ccu":3648,"samples":24,"sess":8.18,"sess_h":23.0,"like":45.31},
-"10768458048":{"name":"Army Commander Tycoon","avg_ccu":8260.4,"min_ccu":5578,"max_ccu":11284,"samples":24,"sess":21.84,"sess_h":23.0,"like":92.64},
+"10768458048":{"name":"Army Commander Tycoon [UPDATE 3]","avg_ccu":8260.4,"min_ccu":5578,"max_ccu":11284,"samples":24,"sess":21.84,"sess_h":23.0,"like":92.64},
 "10768468695":{"name":"🔌ELECTRICITY🔥Bricklayer","avg_ccu":3948.5,"min_ccu":1874,"max_ccu":6506,"samples":24,"sess":11.32,"sess_h":23.0,"like":70.15},
 "10768498581":{"name":"Tribes 3v3 [soon??]","avg_ccu":10327.6,"min_ccu":6204,"max_ccu":15559,"samples":24,"sess":2.23,"sess_h":23.0,"like":64.17},
 "10768506428":{"name":"Dont Be Late For School! 🚌","avg_ccu":3071.8,"min_ccu":1194,"max_ccu":5968,"samples":24,"sess":9.08,"sess_h":23.0,"like":39.99},
