@@ -1,4 +1,4 @@
-{"date": "2026-10-17", "timezone": "America/New_York", "generated_utc": "2026-10-18T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-18T03:10:00Z", 15573595], "genres": {"Simulation": 45.1, "Survival": 15.257, "Roleplay & Avatar Sim": 12.478, "Action": 7.216, "Shooter": 4.646, "RPG": 3.696, "Sports & Racing": 2.87, "Strategy": 2.014, "Party & Casual": 1.658, "Obby & Platformer": 1.651, "Adventure": 1.202, "Shopping": 0.873, "Puzzle": 0.376, "Other": 0.358, "Entertainment": 0.341, "Social": 0.265}, "genre_hours": 24,"games":{
+{"date": "2026-10-17", "timezone": "America/New_York", "generated_utc": "2026-10-18T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-18T03:10:00Z", 15573595], "genres": {"Simulation": 45.1, "Survival": 15.257, "Roleplay & Avatar Sim": 12.478, "Action": 7.216, "Shooter": 4.646, "RPG": 3.696, "Sports & Racing": 2.87, "Strategy": 2.014, "Party & Casual": 1.658, "Obby & Platformer": 1.651, "Adventure": 1.202, "Shopping": 0.873, "Puzzle": 0.376, "Other": 0.358, "Entertainment": 0.341, "Social": 0.265}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":5364.1,"min_ccu":4112,"max_ccu":7926,"samples":24,"sess":12.91,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9399.3,"min_ccu":5747,"max_ccu":13600,"samples":24,"sess":8.25,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":4383.5,"min_ccu":3013,"max_ccu":9371,"samples":11,"sess":9.16,"sess_h":10.0,"like":92.54},
@@ -296,7 +296,7 @@
 "9312646406":{"name":"Land or Die! BETA","avg_ccu":3337.2,"min_ccu":2147,"max_ccu":4460,"samples":24,"sess":7.43,"sess_h":23.0,"like":93.36},
 "9317784977":{"name":"[🎃Battlepass] Knife Arena","avg_ccu":1430.2,"min_ccu":817,"max_ccu":2165,"samples":24,"sess":8.81,"sess_h":23.0,"like":87.97},
 "9328305853":{"name":"[ 🎃 ] Winx - The Fairy Guardians","avg_ccu":3412.9,"min_ccu":1069,"max_ccu":6031,"samples":24,"sess":9.4,"sess_h":23.0,"like":94.64},
-"9348272796":{"name":"[👻] Survive Zombie Arena","avg_ccu":7268.7,"min_ccu":5034,"max_ccu":10542,"samples":24,"sess":11.52,"sess_h":23.0,"like":95.41},
+"9348272796":{"name":"[🎃] Survive Zombie Arena","avg_ccu":7268.7,"min_ccu":5034,"max_ccu":10542,"samples":24,"sess":11.52,"sess_h":23.0,"like":95.41},
 "9362896961":{"name":"[🎃EVENT] Anime Card Collection","avg_ccu":4012.8,"min_ccu":2926,"max_ccu":6890,"samples":24,"sess":31.04,"sess_h":23.0,"like":98.48},
 "9363735110":{"name":"[🌊] Escape Tsunami For Brainrots!","avg_ccu":6622.2,"min_ccu":4059,"max_ccu":30185,"samples":24,"sess":10.12,"sess_h":23.0,"like":83.11},
 "9364041968":{"name":"[AUCTIONS 🏎️] Car Sales 2 🏎️","avg_ccu":2726.1,"min_ccu":954,"max_ccu":4698,"samples":24,"sess":17.59,"sess_h":23.0,"like":82.67},
