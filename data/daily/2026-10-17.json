@@ -1,4 +1,4 @@
-{"date": "2026-10-17", "timezone": "America/New_York", "generated_utc": "2026-10-18T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-18T03:10:00Z", 15573595], "genres": {"Simulation": 45.1, "Survival": 15.257, "Roleplay & Avatar Sim": 12.478, "Action": 7.216, "Shooter": 4.646, "RPG": 3.696, "Sports & Racing": 2.87, "Strategy": 2.014, "Party & Casual": 1.658, "Obby & Platformer": 1.651, "Adventure": 1.202, "Shopping": 0.873, "Puzzle": 0.376, "Other": 0.358, "Entertainment": 0.341, "Social": 0.265}, "genre_hours": 24,"games":{
+{"date": "2026-10-17", "timezone": "America/New_York", "generated_utc": "2026-10-18T09:10:01Z", "through_et": "24:00", "platform_now": ["2026-10-18T03:10:00Z", 15573595], "genres": {"Simulation": 45.1, "Survival": 15.257, "Roleplay & Avatar Sim": 12.478, "Action": 7.216, "Shooter": 4.646, "RPG": 3.696, "Sports & Racing": 2.87, "Strategy": 2.014, "Party & Casual": 1.658, "Obby & Platformer": 1.651, "Adventure": 1.202, "Shopping": 0.873, "Puzzle": 0.376, "Other": 0.358, "Entertainment": 0.341, "Social": 0.265}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":5364.1,"min_ccu":4112,"max_ccu":7926,"samples":24,"sess":12.91,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9399.3,"min_ccu":5747,"max_ccu":13600,"samples":24,"sess":8.25,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":4383.5,"min_ccu":3013,"max_ccu":9371,"samples":11,"sess":9.16,"sess_h":10.0,"like":92.54},
@@ -425,7 +425,7 @@
 "10541331578":{"name":"[🎃EVENT] Poly Loot⚔️","avg_ccu":2910.2,"min_ccu":2144,"max_ccu":4155,"samples":24,"sess":18.06,"sess_h":23.0,"like":90.17},
 "10550257968":{"name":"[15X] Steal A Verity!","avg_ccu":15086.5,"min_ccu":11892,"max_ccu":31906,"samples":24,"sess":10.73,"sess_h":23.0,"like":71.93},
 "10552240401":{"name":"[UPD 8] Defeat Anime RNG","avg_ccu":3880.4,"min_ccu":3701,"max_ccu":4116,"samples":24,"sess":37.98,"sess_h":23.0,"like":96.38},
-"10552540426":{"name":"[12H] My Toll Farm!","avg_ccu":1291.2,"min_ccu":1033,"max_ccu":1468,"samples":24,"sess":21.35,"sess_h":23.0,"like":98.34},
+"10552540426":{"name":"[6H] My Toll Farm!","avg_ccu":1291.2,"min_ccu":1033,"max_ccu":1468,"samples":24,"sess":21.35,"sess_h":23.0,"like":98.34},
 "10553704684":{"name":"[🎃] Own a Grocery Store 🛒","avg_ccu":3295.2,"min_ccu":2020,"max_ccu":5750,"samples":24,"sess":15.16,"sess_h":23.0,"like":92.27},
 "10556383571":{"name":"[🌴] Become a Trillionaire","avg_ccu":1647.5,"min_ccu":1032,"max_ccu":2097,"samples":24,"sess":19.6,"sess_h":23.0,"like":98.34},
 "10561166339":{"name":"[🎃] Destroy a Vault","avg_ccu":12865.5,"min_ccu":8535,"max_ccu":26147,"samples":24,"sess":17.98,"sess_h":23.0,"like":95.62},
