@@ -1,4 +1,4 @@
-{"date": "2026-10-17", "timezone": "America/New_York", "generated_utc": "2026-10-18T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-18T03:10:00Z", 15573595], "genres": {"Simulation": 45.1, "Survival": 15.257, "Roleplay & Avatar Sim": 12.478, "Action": 7.216, "Shooter": 4.646, "RPG": 3.696, "Sports & Racing": 2.87, "Strategy": 2.014, "Party & Casual": 1.658, "Obby & Platformer": 1.651, "Adventure": 1.202, "Shopping": 0.873, "Puzzle": 0.376, "Other": 0.358, "Entertainment": 0.341, "Social": 0.265}, "genre_hours": 24,"games":{
+{"date": "2026-10-17", "timezone": "America/New_York", "generated_utc": "2026-10-18T06:10:01Z", "through_et": "24:00", "platform_now": ["2026-10-18T03:10:00Z", 15573595], "genres": {"Simulation": 45.1, "Survival": 15.257, "Roleplay & Avatar Sim": 12.478, "Action": 7.216, "Shooter": 4.646, "RPG": 3.696, "Sports & Racing": 2.87, "Strategy": 2.014, "Party & Casual": 1.658, "Obby & Platformer": 1.651, "Adventure": 1.202, "Shopping": 0.873, "Puzzle": 0.376, "Other": 0.358, "Entertainment": 0.341, "Social": 0.265}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":5364.1,"min_ccu":4112,"max_ccu":7926,"samples":24,"sess":12.91,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9399.3,"min_ccu":5747,"max_ccu":13600,"samples":24,"sess":8.25,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":4383.5,"min_ccu":3013,"max_ccu":9371,"samples":11,"sess":9.16,"sess_h":10.0,"like":92.54},
@@ -428,7 +428,7 @@
 "10552540426":{"name":"[12H] My Toll Farm!","avg_ccu":1291.2,"min_ccu":1033,"max_ccu":1468,"samples":24,"sess":21.35,"sess_h":23.0,"like":98.34},
 "10553704684":{"name":"[🎃] Own a Grocery Store 🛒","avg_ccu":3295.2,"min_ccu":2020,"max_ccu":5750,"samples":24,"sess":15.16,"sess_h":23.0,"like":92.27},
 "10556383571":{"name":"[🌴] Become a Trillionaire","avg_ccu":1647.5,"min_ccu":1032,"max_ccu":2097,"samples":24,"sess":19.6,"sess_h":23.0,"like":98.34},
-"10561166339":{"name":"[👻] Destroy a Vault","avg_ccu":12865.5,"min_ccu":8535,"max_ccu":26147,"samples":24,"sess":17.98,"sess_h":23.0,"like":95.62},
+"10561166339":{"name":"[🎃] Destroy a Vault","avg_ccu":12865.5,"min_ccu":8535,"max_ccu":26147,"samples":24,"sess":17.98,"sess_h":23.0,"like":95.62},
 "10563114921":{"name":"Steal An Egg","avg_ccu":2210363.5,"min_ccu":1137910,"max_ccu":10499470,"samples":24,"sess":14.65,"sess_h":23.0,"like":91.87},
 "10566677406":{"name":"[将] Shogun's Reign","avg_ccu":3427.9,"min_ccu":2780,"max_ccu":4038,"samples":24,"sess":30.63,"sess_h":23.0,"like":89.84},
 "10572887321":{"name":"[🎃] Car DUELS","avg_ccu":2173.9,"min_ccu":1618,"max_ccu":2860,"samples":24,"sess":10.02,"sess_h":23.0,"like":94.89},
@@ -510,7 +510,7 @@
 "10761760907":{"name":"Lucky Scoop Order [BETA]","avg_ccu":19788.2,"min_ccu":13520,"max_ccu":27913,"samples":24,"sess":11.68,"sess_h":23.0,"like":74.08},
 "10762175328":{"name":"[🎃] Simple DONATIONS","avg_ccu":257.0,"min_ccu":194,"max_ccu":332,"samples":24,"sess":10.86,"sess_h":23.0,"like":86.0},
 "10762388019":{"name":"[1 & 2 PLAYER] Grapple Cart Obby","avg_ccu":6974.9,"min_ccu":4978,"max_ccu":8938,"samples":24,"sess":7.63,"sess_h":23.0,"like":92.62},
-"10762636904":{"name":"[🏆UPD+X2💰] Cameraman Tower Defense","avg_ccu":16549.8,"min_ccu":9560,"max_ccu":22091,"samples":24,"sess":9.79,"sess_h":23.0,"like":98.99},
+"10762636904":{"name":"[🕓SOON] Cameraman Tower Defense","avg_ccu":16549.8,"min_ccu":9560,"max_ccu":22091,"samples":24,"sess":9.79,"sess_h":23.0,"like":98.99},
 "10762757054":{"name":"WHO FARTED?","avg_ccu":3359.3,"min_ccu":2547,"max_ccu":4406,"samples":24,"sess":10.52,"sess_h":23.0,"like":79.03},
 "10762986581":{"name":"[UPD] Mini Emergency","avg_ccu":3246.4,"min_ccu":2407,"max_ccu":4414,"samples":24,"sess":13.21,"sess_h":23.0,"like":84.5},
 "10763764817":{"name":"[UPDATE] Swing For Eggs","avg_ccu":7602.9,"min_ccu":5087,"max_ccu":20270,"samples":24,"sess":11.64,"sess_h":23.0,"like":84.3},
