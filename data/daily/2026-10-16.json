@@ -1,4 +1,4 @@
-{"date": "2026-10-16", "timezone": "America/New_York", "generated_utc": "2026-10-18T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-17T03:10:00Z", 14010843], "genres": {"Simulation": 42.688, "Survival": 15.174, "Roleplay & Avatar Sim": 12.791, "Action": 7.744, "Shooter": 4.718, "RPG": 4.147, "Sports & Racing": 3.011, "Strategy": 2.364, "Party & Casual": 1.936, "Obby & Platformer": 1.92, "Adventure": 1.208, "Shopping": 0.976, "Puzzle": 0.393, "Social": 0.389, "Entertainment": 0.323, "Other": 0.217}, "genre_hours": 24,"games":{
+{"date": "2026-10-16", "timezone": "America/New_York", "generated_utc": "2026-10-18T03:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-17T03:10:00Z", 14010843], "genres": {"Simulation": 42.688, "Survival": 15.174, "Roleplay & Avatar Sim": 12.791, "Action": 7.744, "Shooter": 4.718, "RPG": 4.147, "Sports & Racing": 3.011, "Strategy": 2.364, "Party & Casual": 1.936, "Obby & Platformer": 1.92, "Adventure": 1.208, "Shopping": 0.976, "Puzzle": 0.393, "Social": 0.389, "Entertainment": 0.323, "Other": 0.217}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4444.9,"min_ccu":3195,"max_ccu":5677,"samples":24,"sess":12.69,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7321.4,"min_ccu":4447,"max_ccu":11579,"samples":24,"sess":8.3,"sess_h":23.0,"like":90.77},
 "2471084":{"name":"🌳 Lumber Tycoon 2","avg_ccu":4015.8,"min_ccu":2926,"max_ccu":5032,"samples":16,"sess":16.89,"sess_h":15.0,"like":87.7},
@@ -565,7 +565,7 @@
 "10765582175":{"name":"dogs🎃","avg_ccu":9201.9,"min_ccu":6779,"max_ccu":12124,"samples":24,"sess":14.69,"sess_h":23.0,"like":89.16},
 "10765629147":{"name":"Skate for Animals!","avg_ccu":4756.8,"min_ccu":3997,"max_ccu":6062,"samples":11,"sess":12.88,"sess_h":10.0,"like":84.5},
 "10765635650":{"name":"Impossible Animals","avg_ccu":3089.9,"min_ccu":2552,"max_ccu":3888,"samples":24,"sess":16.69,"sess_h":23.0,"like":98.78},
-"10765637643":{"name":"💀 Steal An EXE Egg! 💀","avg_ccu":6807.3,"min_ccu":5549,"max_ccu":8795,"samples":24,"sess":8.97,"sess_h":23.0,"like":90.46},
+"10765637643":{"name":"💀 Bubble and Steal An EXE Egg! 💀","avg_ccu":6807.3,"min_ccu":5549,"max_ccu":8795,"samples":24,"sess":8.97,"sess_h":23.0,"like":90.46},
 "10765686447":{"name":"Steal ASMR!","avg_ccu":13255.2,"min_ccu":9806,"max_ccu":16564,"samples":24,"sess":13.04,"sess_h":23.0,"like":94.81},
 "10765703059":{"name":"🎃HALLOWEEN Would You Rather: Style Contest Tower","avg_ccu":1966.4,"min_ccu":1133,"max_ccu":3523,"samples":24,"sess":6.5,"sess_h":23.0,"like":64.34},
 "10765707128":{"name":"🌈 Guess The Color!","avg_ccu":777.0,"min_ccu":777,"max_ccu":777,"samples":1,"like":49.11},
@@ -676,7 +676,7 @@
 "10768625767":{"name":"Save the Krusty Krab 🍔","avg_ccu":3999.6,"min_ccu":2861,"max_ccu":6550,"samples":10,"sess":9.9,"sess_h":9.0,"like":96.95},
 "10768735947":{"name":"You've Been Drafted!","avg_ccu":461.5,"min_ccu":121,"max_ccu":1242,"samples":24,"sess":9.06,"sess_h":23.0,"like":17.53},
 "10768861430":{"name":"DIVINE HATCHERS 0.0001% [NEW!]","avg_ccu":12598.5,"min_ccu":9433,"max_ccu":17710,"samples":24,"sess":9.73,"sess_h":23.0,"like":88.49},
-"10768866246":{"name":"[HALLOWEEN RALLY] WRONG WAY!","avg_ccu":11883.3,"min_ccu":7389,"max_ccu":18215,"samples":24,"sess":9.78,"sess_h":23.0,"like":90.28},
+"10768866246":{"name":"[🎃RALLY] WRONG WAY!","avg_ccu":11883.3,"min_ccu":7389,"max_ccu":18215,"samples":24,"sess":9.78,"sess_h":23.0,"like":90.28},
 "10768910559":{"name":"IT WANTS IN [HORROR]","avg_ccu":4456.6,"min_ccu":1675,"max_ccu":7593,"samples":24,"sess":10.0,"sess_h":23.0,"like":74.0},
 "10768943703":{"name":"[RACING UPDATE] Rally With a Friend","avg_ccu":2884.3,"min_ccu":2144,"max_ccu":3868,"samples":13,"sess":5.53,"sess_h":12.0,"like":81.72},
 "10768944292":{"name":"[NEW WORLD 🎃] Prehistoric Farm","avg_ccu":5284.1,"min_ccu":4,"max_ccu":8298,"samples":24,"sess":16.64,"sess_h":23.0,"like":97.1},
