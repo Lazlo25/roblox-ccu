@@ -1,4 +1,4 @@
-{"date": "2026-10-17", "timezone": "America/New_York", "generated_utc": "2026-10-18T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-18T03:10:00Z", 15573595], "genres": {"Simulation": 45.1, "Survival": 15.257, "Roleplay & Avatar Sim": 12.478, "Action": 7.216, "Shooter": 4.646, "RPG": 3.696, "Sports & Racing": 2.87, "Strategy": 2.014, "Party & Casual": 1.658, "Obby & Platformer": 1.651, "Adventure": 1.202, "Shopping": 0.873, "Puzzle": 0.376, "Other": 0.358, "Entertainment": 0.341, "Social": 0.265}, "genre_hours": 24,"games":{
+{"date": "2026-10-17", "timezone": "America/New_York", "generated_utc": "2026-10-18T14:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-18T03:10:00Z", 15573595], "genres": {"Simulation": 45.1, "Survival": 15.257, "Roleplay & Avatar Sim": 12.478, "Action": 7.216, "Shooter": 4.646, "RPG": 3.696, "Sports & Racing": 2.87, "Strategy": 2.014, "Party & Casual": 1.658, "Obby & Platformer": 1.651, "Adventure": 1.202, "Shopping": 0.873, "Puzzle": 0.376, "Other": 0.358, "Entertainment": 0.341, "Social": 0.265}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":5364.1,"min_ccu":4112,"max_ccu":7926,"samples":24,"sess":12.91,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9399.3,"min_ccu":5747,"max_ccu":13600,"samples":24,"sess":8.25,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":4383.5,"min_ccu":3013,"max_ccu":9371,"samples":11,"sess":9.16,"sess_h":10.0,"like":92.54},
@@ -301,9 +301,9 @@
 "9363735110":{"name":"[🌊] Escape Tsunami For Brainrots!","avg_ccu":6622.2,"min_ccu":4059,"max_ccu":30185,"samples":24,"sess":10.12,"sess_h":23.0,"like":83.11},
 "9364041968":{"name":"[AUCTIONS 🏎️] Car Sales 2 🏎️","avg_ccu":2726.1,"min_ccu":954,"max_ccu":4698,"samples":24,"sess":17.59,"sess_h":23.0,"like":82.67},
 "9490116046":{"name":"Build with Voxels 🔨","avg_ccu":8453.5,"min_ccu":6354,"max_ccu":10468,"samples":24,"sess":14.58,"sess_h":23.0,"like":65.22},
-"9491545867":{"name":"[🧟NOW] Break a Brainrot Egg!","avg_ccu":10703.8,"min_ccu":6836,"max_ccu":13339,"samples":24,"sess":12.14,"sess_h":23.0,"like":81.61},
+"9491545867":{"name":"[🧟EVENT] Break a Brainrot Egg!","avg_ccu":10703.8,"min_ccu":6836,"max_ccu":13339,"samples":24,"sess":12.14,"sess_h":23.0,"like":81.61},
 "9534705677":{"name":"[🎃Battlepass] Sniper Arena","avg_ccu":18723.1,"min_ccu":12183,"max_ccu":23159,"samples":24,"sess":10.93,"sess_h":23.0,"like":91.79},
-"9551044479":{"name":"Final Swarm [⚔️Sandworm]","avg_ccu":1540.6,"min_ccu":1149,"max_ccu":2742,"samples":24,"sess":10.0,"sess_h":23.0,"like":97.13},
+"9551044479":{"name":"Final Swarm [SOON]","avg_ccu":1540.6,"min_ccu":1149,"max_ccu":2742,"samples":24,"sess":10.0,"sess_h":23.0,"like":97.13},
 "9561553764":{"name":"[🎃] Murder Duels","avg_ccu":14976.5,"min_ccu":11887,"max_ccu":22393,"samples":24,"sess":8.71,"sess_h":23.0,"like":93.54},
 "9584852943":{"name":"[🎃] +1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":233242.6,"min_ccu":49563,"max_ccu":2323077,"samples":24,"sess":13.07,"sess_h":23.0,"like":96.82},
 "9641502068":{"name":"[🪦GRAVEYARD] KNIFE DUELS","avg_ccu":11969.0,"min_ccu":7929,"max_ccu":15540,"samples":24,"sess":8.97,"sess_h":23.0,"like":93.78},
