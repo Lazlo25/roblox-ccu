@@ -1,4 +1,4 @@
-{"date": "2026-10-17", "timezone": "America/New_York", "generated_utc": "2026-10-18T22:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-18T03:10:00Z", 15573595], "genres": {"Simulation": 45.1, "Survival": 15.257, "Roleplay & Avatar Sim": 12.478, "Action": 7.216, "Shooter": 4.646, "RPG": 3.696, "Sports & Racing": 2.87, "Strategy": 2.014, "Party & Casual": 1.658, "Obby & Platformer": 1.651, "Adventure": 1.202, "Shopping": 0.873, "Puzzle": 0.376, "Other": 0.358, "Entertainment": 0.341, "Social": 0.265}, "genre_hours": 24,"games":{
+{"date": "2026-10-17", "timezone": "America/New_York", "generated_utc": "2026-10-18T23:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-18T03:10:00Z", 15573595], "genres": {"Simulation": 45.1, "Survival": 15.257, "Roleplay & Avatar Sim": 12.478, "Action": 7.216, "Shooter": 4.646, "RPG": 3.696, "Sports & Racing": 2.87, "Strategy": 2.014, "Party & Casual": 1.658, "Obby & Platformer": 1.651, "Adventure": 1.202, "Shopping": 0.873, "Puzzle": 0.376, "Other": 0.358, "Entertainment": 0.341, "Social": 0.265}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":5364.1,"min_ccu":4112,"max_ccu":7926,"samples":24,"sess":12.91,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9399.3,"min_ccu":5747,"max_ccu":13600,"samples":24,"sess":8.25,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":4383.5,"min_ccu":3013,"max_ccu":9371,"samples":11,"sess":9.16,"sess_h":10.0,"like":92.54},
@@ -467,7 +467,7 @@
 "10690360998":{"name":"Jump for Animals!","avg_ccu":2818.5,"min_ccu":1157,"max_ccu":4078,"samples":24,"sess":12.86,"sess_h":23.0,"like":93.54},
 "10697943549":{"name":"+1 Superpower Destruction","avg_ccu":2247.6,"min_ccu":1481,"max_ccu":2756,"samples":24,"sess":14.82,"sess_h":23.0,"like":89.19},
 "10698216738":{"name":"Military Army Tycoon","avg_ccu":6766.0,"min_ccu":4577,"max_ccu":9034,"samples":24,"sess":17.37,"sess_h":23.0,"like":97.63},
-"10700618962":{"name":"[⚽] Blue Lock Farm","avg_ccu":13658.0,"min_ccu":8703,"max_ccu":49597,"samples":24,"sess":17.49,"sess_h":23.0,"like":98.14},
+"10700618962":{"name":"[🎃] Blue Lock Farm","avg_ccu":13658.0,"min_ccu":8703,"max_ccu":49597,"samples":24,"sess":17.49,"sess_h":23.0,"like":98.14},
 "10701628624":{"name":"Animal Daycare (Anomaly)","avg_ccu":8540.9,"min_ccu":5157,"max_ccu":12103,"samples":24,"sess":9.61,"sess_h":23.0,"like":81.21},
 "10708913337":{"name":"[🎃] Anime Dice","avg_ccu":47569.6,"min_ccu":43032,"max_ccu":51891,"samples":24,"sess":25.28,"sess_h":23.0,"like":99.21},
 "10717002748":{"name":"[W2] +1 DMG FPS","avg_ccu":1175.0,"min_ccu":895,"max_ccu":1741,"samples":24,"sess":16.28,"sess_h":23.0,"like":96.24},
