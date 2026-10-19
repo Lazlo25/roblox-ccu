@@ -1,4 +1,4 @@
-{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
+{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T09:10:01Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4912.8,"min_ccu":3232,"max_ccu":6198,"samples":24,"sess":13.26,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9330.0,"min_ccu":6429,"max_ccu":12614,"samples":24,"sess":8.49,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":3394.3,"min_ccu":1540,"max_ccu":4672,"samples":24,"sess":8.75,"sess_h":23.0,"like":92.54},
@@ -128,7 +128,7 @@
 "4330936850":{"name":"[GRIMMJOW & ULQUIORRA] Shonen Unleashed","avg_ccu":1604.4,"min_ccu":1193,"max_ccu":1927,"samples":5,"like":78.74},
 "4342047058":{"name":"Guts & Blackpowder","avg_ccu":9358.1,"min_ccu":5199,"max_ccu":13805,"samples":24,"sess":18.74,"sess_h":23.0,"like":94.11},
 "4348829796":{"name":"MVSD | Murderers VS Sheriffs Duels","avg_ccu":12108.9,"min_ccu":6638,"max_ccu":16145,"samples":24,"sess":9.85,"sess_h":23.0,"like":84.4},
-"4408288935":{"name":"Ecos: La Brea","avg_ccu":2985.6,"min_ccu":2402,"max_ccu":3308,"samples":5,"like":91.63},
+"4408288935":{"name":"🎃 Ecos: La Brea","avg_ccu":2985.6,"min_ccu":2402,"max_ccu":3308,"samples":5,"like":91.63},
 "4420562665":{"name":"[RSBK] Ride Storm","avg_ccu":11227.7,"min_ccu":8157,"max_ccu":14037,"samples":24,"sess":12.43,"sess_h":23.0,"like":91.25},
 "4457060041":{"name":"Emergency Emden","avg_ccu":1301.9,"min_ccu":143,"max_ccu":2297,"samples":24,"sess":12.79,"sess_h":23.0,"like":87.46},
 "4497460596":{"name":"MORPH WORLD 👾 [MIMICER!]","avg_ccu":2387.3,"min_ccu":1104,"max_ccu":3494,"samples":24,"sess":13.54,"sess_h":23.0,"like":86.17},
@@ -394,7 +394,7 @@
 "10422038064":{"name":"Launch a Lucky Block","avg_ccu":3454.8,"min_ccu":229,"max_ccu":29231,"samples":18,"sess":14.08,"sess_h":17.0,"like":93.86},
 "10424107160":{"name":"[🌙] Survive The Night","avg_ccu":4869.1,"min_ccu":2817,"max_ccu":6595,"samples":24,"sess":10.93,"sess_h":23.0,"like":95.98},
 "10424350877":{"name":"ESCAPE CANDY WITCH! (SCARY OBBY)","avg_ccu":1750.4,"min_ccu":1033,"max_ccu":2656,"samples":24,"sess":8.63,"sess_h":23.0,"like":91.18},
-"10430019389":{"name":"[🎃] Spot the Fake For Anime!","avg_ccu":2788.6,"min_ccu":2212,"max_ccu":3312,"samples":24,"sess":17.82,"sess_h":23.0,"like":98.25},
+"10430019389":{"name":"[NEW ZONES] Spot the Fake For Anime!","avg_ccu":2788.6,"min_ccu":2212,"max_ccu":3312,"samples":24,"sess":17.82,"sess_h":23.0,"like":98.25},
 "10431718987":{"name":"[UPD🎃] Merge a Mini  Army","avg_ccu":3471.6,"min_ccu":2722,"max_ccu":4550,"samples":24,"sess":16.49,"sess_h":23.0,"like":96.87},
 "10434004927":{"name":"[X100🔥] 💪🏻Lifting Simulator: REBORN","avg_ccu":1307.2,"min_ccu":600,"max_ccu":1843,"samples":24,"sess":20.14,"sess_h":23.0,"like":87.96},
 "10436530264":{"name":"Build An Ant Empire","avg_ccu":13856.9,"min_ccu":9187,"max_ccu":17693,"samples":24,"sess":24.44,"sess_h":23.0,"like":96.21},
