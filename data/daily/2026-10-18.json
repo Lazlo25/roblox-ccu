@@ -1,4 +1,4 @@
-{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
+{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4912.8,"min_ccu":3232,"max_ccu":6198,"samples":24,"sess":13.26,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9330.0,"min_ccu":6429,"max_ccu":12614,"samples":24,"sess":8.49,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":3394.3,"min_ccu":1540,"max_ccu":4672,"samples":24,"sess":8.75,"sess_h":23.0,"like":92.54},
@@ -470,7 +470,7 @@
 "10725799494":{"name":"Wash the Car 🧽","avg_ccu":17220.0,"min_ccu":6445,"max_ccu":26614,"samples":24,"sess":14.07,"sess_h":23.0,"like":87.47},
 "10732236937":{"name":"[ Heisei Mothra ] Kaiju Alpha","avg_ccu":13828.6,"min_ccu":9252,"max_ccu":17232,"samples":24,"sess":17.31,"sess_h":23.0,"like":92.21},
 "10737231383":{"name":"[🎃] Jump To Steal An Egg","avg_ccu":4710.0,"min_ccu":1774,"max_ccu":20610,"samples":13,"sess":13.63,"sess_h":12.0,"like":92.33},
-"10737656087":{"name":"(🐍MINI UPDT👑) THA BRONX 3","avg_ccu":6254.7,"min_ccu":1657,"max_ccu":9452,"samples":24,"sess":19.02,"sess_h":23.0,"like":91.64},
+"10737656087":{"name":"👑THA BRONX 3👑","avg_ccu":6254.7,"min_ccu":1657,"max_ccu":9452,"samples":24,"sess":19.02,"sess_h":23.0,"like":91.64},
 "10739044772":{"name":"Hamster Village🐹","avg_ccu":1824.8,"min_ccu":909,"max_ccu":2369,"samples":24,"sess":13.73,"sess_h":23.0,"like":98.46},
 "10739112966":{"name":"[🎃] Street Soccer Pro","avg_ccu":13075.9,"min_ccu":8963,"max_ccu":18395,"samples":24,"sess":12.72,"sess_h":23.0,"like":84.97},
 "10739137760":{"name":"[🎃] The Cosalazo 2","avg_ccu":5079.1,"min_ccu":495,"max_ccu":8437,"samples":24,"sess":12.93,"sess_h":23.0,"like":92.54},
