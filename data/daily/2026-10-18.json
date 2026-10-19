@@ -1,4 +1,4 @@
-{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T16:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
+{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T17:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4912.8,"min_ccu":3232,"max_ccu":6198,"samples":24,"sess":13.26,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9330.0,"min_ccu":6429,"max_ccu":12614,"samples":24,"sess":8.49,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":3394.3,"min_ccu":1540,"max_ccu":4672,"samples":24,"sess":8.75,"sess_h":23.0,"like":92.54},
@@ -507,7 +507,7 @@
 "10761760907":{"name":"Lucky Scoop Order [BETA]","avg_ccu":14991.5,"min_ccu":8130,"max_ccu":20447,"samples":24,"sess":11.55,"sess_h":23.0,"like":74.54},
 "10762175328":{"name":"[🎃] Simple DONATIONS","avg_ccu":231.3,"min_ccu":174,"max_ccu":360,"samples":24,"sess":10.65,"sess_h":23.0,"like":85.83},
 "10762388019":{"name":"[1 & 2 PLAYER] Grapple Cart Obby","avg_ccu":6549.9,"min_ccu":3539,"max_ccu":9414,"samples":24,"sess":7.72,"sess_h":23.0,"like":92.57},
-"10762636904":{"name":"[🕓SOON] Cameraman Tower Defense","avg_ccu":17900.8,"min_ccu":9732,"max_ccu":25469,"samples":24,"sess":10.25,"sess_h":23.0,"like":98.99},
+"10762636904":{"name":"[🎃UPD] Cameraman Tower Defense","avg_ccu":17900.8,"min_ccu":9732,"max_ccu":25469,"samples":24,"sess":10.25,"sess_h":23.0,"like":98.99},
 "10762757054":{"name":"WHO FARTED?","avg_ccu":3230.6,"min_ccu":1881,"max_ccu":4118,"samples":24,"sess":10.75,"sess_h":23.0,"like":79.05},
 "10762986581":{"name":"[UPD] Mini Emergency","avg_ccu":2694.0,"min_ccu":1465,"max_ccu":3744,"samples":24,"sess":12.91,"sess_h":23.0,"like":84.58},
 "10763764817":{"name":"[UPDATE] Swing For Eggs","avg_ccu":6414.2,"min_ccu":3566,"max_ccu":9354,"samples":24,"sess":11.45,"sess_h":23.0,"like":84.27},
@@ -551,7 +551,7 @@
 "10765579304":{"name":"[ALPHA] Fleet Empire","avg_ccu":897.5,"min_ccu":688,"max_ccu":1105,"samples":24,"sess":17.03,"sess_h":23.0,"like":88.81},
 "10765582175":{"name":"dogs🎃","avg_ccu":8945.8,"min_ccu":5639,"max_ccu":11208,"samples":24,"sess":14.71,"sess_h":23.0,"like":88.87},
 "10765629147":{"name":"Skate for Animals!","avg_ccu":5032.5,"min_ccu":2263,"max_ccu":6791,"samples":24,"sess":12.64,"sess_h":23.0,"like":84.95},
-"10765635650":{"name":"[🔥] Impossible Animals","avg_ccu":2594.1,"min_ccu":1758,"max_ccu":3363,"samples":24,"sess":16.85,"sess_h":23.0,"like":98.77},
+"10765635650":{"name":"Impossible Animals","avg_ccu":2594.1,"min_ccu":1758,"max_ccu":3363,"samples":24,"sess":16.85,"sess_h":23.0,"like":98.77},
 "10765637643":{"name":"☠️ Bubble an EXE Egg","avg_ccu":4434.4,"min_ccu":2499,"max_ccu":5976,"samples":24,"sess":8.78,"sess_h":23.0,"like":90.19},
 "10765686447":{"name":"Steal ASMR!","avg_ccu":12501.2,"min_ccu":6513,"max_ccu":19719,"samples":24,"sess":13.15,"sess_h":23.0,"like":94.71},
 "10765703059":{"name":"🎃HALLOWEEN Would You Rather: Style Contest Tower","avg_ccu":3292.4,"min_ccu":1852,"max_ccu":4749,"samples":24,"sess":6.34,"sess_h":23.0,"like":62.77},
