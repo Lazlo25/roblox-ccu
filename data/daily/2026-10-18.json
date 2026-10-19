@@ -1,4 +1,4 @@
-{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T03:10:00Z", "through_et": "23:10", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
+{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4912.8,"min_ccu":3232,"max_ccu":6198,"samples":24,"sess":13.26,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9330.0,"min_ccu":6429,"max_ccu":12614,"samples":24,"sess":8.49,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":3394.3,"min_ccu":1540,"max_ccu":4672,"samples":24,"sess":8.75,"sess_h":23.0,"like":92.54},
@@ -198,7 +198,7 @@
 "6466404775":{"name":"[X2 LUCK 🎃] MOUNT RNG","avg_ccu":3738.4,"min_ccu":3028,"max_ccu":4148,"samples":24,"sess":22.63,"sess_h":23.0,"like":95.46},
 "6504986360":{"name":"[🎃SEASON] Bubble Gum Simulator INFINITY","avg_ccu":12656.8,"min_ccu":11199,"max_ccu":13600,"samples":24,"sess":32.39,"sess_h":23.0,"like":96.79},
 "6505338302":{"name":"[🎃] 🏈Football Legends🏈","avg_ccu":3332.4,"min_ccu":445,"max_ccu":6168,"samples":24,"sess":17.92,"sess_h":23.0,"like":86.78},
-"6521100398":{"name":"Dreamville 🏡 RP [Boats! 🚤]","avg_ccu":29937.5,"min_ccu":14798,"max_ccu":46849,"samples":24,"sess":17.15,"sess_h":23.0,"like":95.07},
+"6521100398":{"name":"Dreamville 🏡 RP","avg_ccu":29937.5,"min_ccu":14798,"max_ccu":46849,"samples":24,"sess":17.15,"sess_h":23.0,"like":95.07},
 "6593476325":{"name":"[SANDEVISTAN COUNTER] DUMMY COUNTER YOUR FRIENDS","avg_ccu":1874.0,"min_ccu":1110,"max_ccu":2504,"samples":24,"sess":9.08,"sess_h":23.0,"like":90.79},
 "6594435384":{"name":"SpongeBob Tower Defense🍍","avg_ccu":2860.8,"min_ccu":1786,"max_ccu":3720,"samples":24,"sess":9.48,"sess_h":23.0,"like":97.72},
 "6635513269":{"name":"he ate them. [HORROR]","avg_ccu":14299.3,"min_ccu":6238,"max_ccu":21611,"samples":24,"sess":6.67,"sess_h":23.0,"like":97.52},
@@ -242,7 +242,7 @@
 "7585140258":{"name":"RUNAWAYS [beta]","avg_ccu":15310.1,"min_ccu":10931,"max_ccu":19522,"samples":24,"sess":13.6,"sess_h":23.0,"like":96.21},
 "7613921865":{"name":"[🧪] Anime Expeditions","avg_ccu":2229.0,"min_ccu":1940,"max_ccu":2434,"samples":24,"sess":17.93,"sess_h":23.0,"like":95.64},
 "7629331599":{"name":"[🎃] Prospecting! 💎","avg_ccu":6006.4,"min_ccu":4925,"max_ccu":7204,"samples":24,"sess":28.16,"sess_h":23.0,"like":96.41},
-"7633926880":{"name":"[NEW MAP] BloxStrike","avg_ccu":15240.3,"min_ccu":5563,"max_ccu":23811,"samples":24,"sess":12.98,"sess_h":23.0,"like":94.7},
+"7633926880":{"name":"[ZOMBIES!] BloxStrike","avg_ccu":15240.3,"min_ccu":5563,"max_ccu":23811,"samples":24,"sess":12.98,"sess_h":23.0,"like":94.7},
 "7661378108":{"name":"[SINKING💧] Trails","avg_ccu":1303.5,"min_ccu":447,"max_ccu":2161,"samples":24,"sess":13.68,"sess_h":23.0,"like":77.91},
 "7665084235":{"name":"🎃 Navy Tycoon [💵1.5X]","avg_ccu":498.0,"min_ccu":309,"max_ccu":642,"samples":24,"sess":18.1,"sess_h":23.0,"like":90.87},
 "7671049560":{"name":"The Forge [📜]","avg_ccu":4074.4,"min_ccu":2493,"max_ccu":5435,"samples":24,"sess":22.06,"sess_h":23.0,"like":94.43},
@@ -461,7 +461,7 @@
 "10684750879":{"name":"[🎃]+1 Loot To Forge","avg_ccu":22062.1,"min_ccu":13713,"max_ccu":27763,"samples":24,"sess":22.61,"sess_h":23.0,"like":96.66},
 "10685282333":{"name":"[🎃] Ball VS Ball","avg_ccu":36385.2,"min_ccu":21799,"max_ccu":47669,"samples":24,"sess":10.72,"sess_h":23.0,"like":88.9},
 "10690360998":{"name":"Jump for Animals!","avg_ccu":1999.9,"min_ccu":899,"max_ccu":3275,"samples":24,"sess":13.11,"sess_h":23.0,"like":93.54},
-"10697943549":{"name":"+1 Superpower Destruction","avg_ccu":1754.2,"min_ccu":1032,"max_ccu":2283,"samples":24,"sess":14.96,"sess_h":23.0,"like":89.2},
+"10697943549":{"name":"[UPD] +1 Superpower Destruction","avg_ccu":1754.2,"min_ccu":1032,"max_ccu":2283,"samples":24,"sess":14.96,"sess_h":23.0,"like":89.2},
 "10698216738":{"name":"Military Army Tycoon","avg_ccu":6298.2,"min_ccu":3012,"max_ccu":8348,"samples":24,"sess":17.97,"sess_h":23.0,"like":97.63},
 "10700618962":{"name":"[🎃] Blue Lock Farm","avg_ccu":10607.6,"min_ccu":7631,"max_ccu":13133,"samples":24,"sess":16.64,"sess_h":23.0,"like":98.14},
 "10701628624":{"name":"Animal Daycare (Anomaly)","avg_ccu":8131.2,"min_ccu":3225,"max_ccu":12912,"samples":24,"sess":9.68,"sess_h":23.0,"like":81.24},
