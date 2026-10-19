@@ -1,4 +1,4 @@
-{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T18:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
+{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T19:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4912.8,"min_ccu":3232,"max_ccu":6198,"samples":24,"sess":13.26,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9330.0,"min_ccu":6429,"max_ccu":12614,"samples":24,"sess":8.49,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":3394.3,"min_ccu":1540,"max_ccu":4672,"samples":24,"sess":8.75,"sess_h":23.0,"like":92.54},
@@ -250,7 +250,7 @@
 "7703614594":{"name":"[🍃] Garden Tower Defense 🌻","avg_ccu":4653.4,"min_ccu":2779,"max_ccu":6755,"samples":24,"sess":12.47,"sess_h":23.0,"like":98.22},
 "7709344486":{"name":"[💀] Steal a Brainrot","avg_ccu":112300.6,"min_ccu":85549,"max_ccu":135785,"samples":24,"sess":9.0,"sess_h":23.0,"like":85.14},
 "7738524573":{"name":"Retro Tower Defense","avg_ccu":1739.3,"min_ccu":1059,"max_ccu":2192,"samples":24,"sess":9.76,"sess_h":23.0,"like":91.63},
-"7750955984":{"name":"[NOW!] Hunty Zombie","avg_ccu":1204.8,"min_ccu":743,"max_ccu":1647,"samples":24,"sess":9.5,"sess_h":23.0,"like":95.51},
+"7750955984":{"name":"[Trick or Treat!] Hunty Zombie","avg_ccu":1204.8,"min_ccu":743,"max_ccu":1647,"samples":24,"sess":9.5,"sess_h":23.0,"like":95.51},
 "7761516673":{"name":"[X2 ALL] Fight in a Streamer University🎓","avg_ccu":802.8,"min_ccu":454,"max_ccu":1306,"samples":24,"sess":9.79,"sess_h":23.0,"like":80.02},
 "7843413523":{"name":"Supermarket Together","avg_ccu":3110.9,"min_ccu":1906,"max_ccu":4511,"samples":24,"sess":17.08,"sess_h":23.0,"like":94.02},
 "7856039629":{"name":"[🎃] Murder Mystery DUELS","avg_ccu":7079.6,"min_ccu":4572,"max_ccu":9659,"samples":24,"sess":8.22,"sess_h":23.0,"like":88.76},
@@ -472,7 +472,7 @@
 "10737231383":{"name":"[🎃] Jump To Steal An Egg","avg_ccu":4710.0,"min_ccu":1774,"max_ccu":20610,"samples":13,"sess":13.63,"sess_h":12.0,"like":92.33},
 "10737656087":{"name":"👑THA BRONX 3👑","avg_ccu":6254.7,"min_ccu":1657,"max_ccu":9452,"samples":24,"sess":19.02,"sess_h":23.0,"like":91.64},
 "10739044772":{"name":"Hamster Village🐹","avg_ccu":1824.8,"min_ccu":909,"max_ccu":2369,"samples":24,"sess":13.73,"sess_h":23.0,"like":98.46},
-"10739112966":{"name":"[🎃] Street Soccer Pro","avg_ccu":13075.9,"min_ccu":8963,"max_ccu":18395,"samples":24,"sess":12.72,"sess_h":23.0,"like":84.97},
+"10739112966":{"name":"🎃 Street Soccer Pro","avg_ccu":13075.9,"min_ccu":8963,"max_ccu":18395,"samples":24,"sess":12.72,"sess_h":23.0,"like":84.97},
 "10739137760":{"name":"[🎃] The Cosalazo 2","avg_ccu":5079.1,"min_ccu":495,"max_ccu":8437,"samples":24,"sess":12.93,"sess_h":23.0,"like":92.54},
 "10739283055":{"name":"+1 Jump Squishy ASMR Escape!","avg_ccu":2983.0,"min_ccu":1440,"max_ccu":4239,"samples":24,"sess":10.18,"sess_h":23.0,"like":98.37},
 "10740316645":{"name":"⛏️ My Anime Mine","avg_ccu":12997.2,"min_ccu":10866,"max_ccu":14905,"samples":24,"sess":23.72,"sess_h":23.0,"like":98.91},
