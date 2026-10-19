@@ -1,4 +1,4 @@
-{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T15:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
+{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T16:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4912.8,"min_ccu":3232,"max_ccu":6198,"samples":24,"sess":13.26,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9330.0,"min_ccu":6429,"max_ccu":12614,"samples":24,"sess":8.49,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":3394.3,"min_ccu":1540,"max_ccu":4672,"samples":24,"sess":8.75,"sess_h":23.0,"like":92.54},
@@ -198,7 +198,7 @@
 "6466404775":{"name":"[🎃] MOUNT RNG","avg_ccu":3738.4,"min_ccu":3028,"max_ccu":4148,"samples":24,"sess":22.63,"sess_h":23.0,"like":95.46},
 "6504986360":{"name":"[🎃SEASON] Bubble Gum Simulator INFINITY","avg_ccu":12656.8,"min_ccu":11199,"max_ccu":13600,"samples":24,"sess":32.39,"sess_h":23.0,"like":96.79},
 "6505338302":{"name":"[🎃] 🏈Football Legends🏈","avg_ccu":3332.4,"min_ccu":445,"max_ccu":6168,"samples":24,"sess":17.92,"sess_h":23.0,"like":86.78},
-"6521100398":{"name":"Dreamville 🏡 RP","avg_ccu":29937.5,"min_ccu":14798,"max_ccu":46849,"samples":24,"sess":17.15,"sess_h":23.0,"like":95.07},
+"6521100398":{"name":"Dreamville 🏡 RP [The Cat in the Hat!]","avg_ccu":29937.5,"min_ccu":14798,"max_ccu":46849,"samples":24,"sess":17.15,"sess_h":23.0,"like":95.07},
 "6593476325":{"name":"[SANDEVISTAN COUNTER] DUMMY COUNTER YOUR FRIENDS","avg_ccu":1874.0,"min_ccu":1110,"max_ccu":2504,"samples":24,"sess":9.08,"sess_h":23.0,"like":90.79},
 "6594435384":{"name":"SpongeBob Tower Defense🍍","avg_ccu":2860.8,"min_ccu":1786,"max_ccu":3720,"samples":24,"sess":9.48,"sess_h":23.0,"like":97.72},
 "6635513269":{"name":"he ate them. [HORROR]","avg_ccu":14299.3,"min_ccu":6238,"max_ccu":21611,"samples":24,"sess":6.67,"sess_h":23.0,"like":97.52},
@@ -540,7 +540,7 @@
 "10765288803":{"name":"Break and Steal an Egg","avg_ccu":204038.9,"min_ccu":80569,"max_ccu":1178741,"samples":24,"sess":15.88,"sess_h":23.0,"like":97.57},
 "10765298801":{"name":"[🎃] +1 Stone Skipping","avg_ccu":37961.1,"min_ccu":19294,"max_ccu":49097,"samples":24,"sess":17.93,"sess_h":23.0,"like":96.75},
 "10765312940":{"name":"[✨] Swim For Eggs!","avg_ccu":7890.8,"min_ccu":3786,"max_ccu":11766,"samples":24,"sess":15.25,"sess_h":23.0,"like":96.02},
-"10765443218":{"name":"Break Freedy's Ankle! [UPDATE]","avg_ccu":5902.2,"min_ccu":2264,"max_ccu":7838,"samples":14,"sess":6.52,"sess_h":13.0,"like":76.35},
+"10765443218":{"name":"[🎃] Break Freedy's Ankle!","avg_ccu":5902.2,"min_ccu":2264,"max_ccu":7838,"samples":14,"sess":6.52,"sess_h":13.0,"like":76.35},
 "10765484533":{"name":"+1 Laser Destruction 🔥","avg_ccu":3933.3,"min_ccu":1978,"max_ccu":5802,"samples":24,"sess":14.27,"sess_h":23.0,"like":81.86},
 "10765490774":{"name":"Climb For Animals Eggs🥚","avg_ccu":49348.6,"min_ccu":23114,"max_ccu":73790,"samples":24,"sess":16.13,"sess_h":23.0,"like":98.93},
 "10765491459":{"name":"Superhero Arena","avg_ccu":12613.7,"min_ccu":7041,"max_ccu":17646,"samples":24,"sess":13.19,"sess_h":23.0,"like":91.27},
@@ -551,7 +551,7 @@
 "10765579304":{"name":"[ALPHA] Fleet Empire","avg_ccu":897.5,"min_ccu":688,"max_ccu":1105,"samples":24,"sess":17.03,"sess_h":23.0,"like":88.81},
 "10765582175":{"name":"dogs🎃","avg_ccu":8945.8,"min_ccu":5639,"max_ccu":11208,"samples":24,"sess":14.71,"sess_h":23.0,"like":88.87},
 "10765629147":{"name":"Skate for Animals!","avg_ccu":5032.5,"min_ccu":2263,"max_ccu":6791,"samples":24,"sess":12.64,"sess_h":23.0,"like":84.95},
-"10765635650":{"name":"Impossible Animals","avg_ccu":2594.1,"min_ccu":1758,"max_ccu":3363,"samples":24,"sess":16.85,"sess_h":23.0,"like":98.77},
+"10765635650":{"name":"[🔥] Impossible Animals","avg_ccu":2594.1,"min_ccu":1758,"max_ccu":3363,"samples":24,"sess":16.85,"sess_h":23.0,"like":98.77},
 "10765637643":{"name":"☠️ Bubble an EXE Egg","avg_ccu":4434.4,"min_ccu":2499,"max_ccu":5976,"samples":24,"sess":8.78,"sess_h":23.0,"like":90.19},
 "10765686447":{"name":"Steal ASMR!","avg_ccu":12501.2,"min_ccu":6513,"max_ccu":19719,"samples":24,"sess":13.15,"sess_h":23.0,"like":94.71},
 "10765703059":{"name":"🎃HALLOWEEN Would You Rather: Style Contest Tower","avg_ccu":3292.4,"min_ccu":1852,"max_ccu":4749,"samples":24,"sess":6.34,"sess_h":23.0,"like":62.77},
