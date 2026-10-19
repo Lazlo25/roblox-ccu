@@ -1,4 +1,4 @@
-{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
+{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4912.8,"min_ccu":3232,"max_ccu":6198,"samples":24,"sess":13.26,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9330.0,"min_ccu":6429,"max_ccu":12614,"samples":24,"sess":8.49,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":3394.3,"min_ccu":1540,"max_ccu":4672,"samples":24,"sess":8.75,"sess_h":23.0,"like":92.54},
@@ -195,7 +195,7 @@
 "6375110339":{"name":"[ BattleArmor ] ST : Blockade Battlefront","avg_ccu":2053.7,"min_ccu":1214,"max_ccu":2590,"samples":24,"sess":16.23,"sess_h":23.0,"like":91.96},
 "6385532960":{"name":"[F2P & BOSS CARDS] Ryujin","avg_ccu":3756.1,"min_ccu":3171,"max_ccu":3961,"samples":24,"sess":15.02,"sess_h":23.0,"like":94.39},
 "6443367640":{"name":"Gym Star Simulator 🏋️","avg_ccu":7640.9,"min_ccu":4566,"max_ccu":10056,"samples":24,"sess":13.85,"sess_h":23.0,"like":92.48},
-"6466404775":{"name":"[X2 LUCK 🎃] MOUNT RNG","avg_ccu":3738.4,"min_ccu":3028,"max_ccu":4148,"samples":24,"sess":22.63,"sess_h":23.0,"like":95.46},
+"6466404775":{"name":"[🎃] MOUNT RNG","avg_ccu":3738.4,"min_ccu":3028,"max_ccu":4148,"samples":24,"sess":22.63,"sess_h":23.0,"like":95.46},
 "6504986360":{"name":"[🎃SEASON] Bubble Gum Simulator INFINITY","avg_ccu":12656.8,"min_ccu":11199,"max_ccu":13600,"samples":24,"sess":32.39,"sess_h":23.0,"like":96.79},
 "6505338302":{"name":"[🎃] 🏈Football Legends🏈","avg_ccu":3332.4,"min_ccu":445,"max_ccu":6168,"samples":24,"sess":17.92,"sess_h":23.0,"like":86.78},
 "6521100398":{"name":"Dreamville 🏡 RP","avg_ccu":29937.5,"min_ccu":14798,"max_ccu":46849,"samples":24,"sess":17.15,"sess_h":23.0,"like":95.07},
