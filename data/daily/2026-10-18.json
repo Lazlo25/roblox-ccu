@@ -1,4 +1,4 @@
-{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
+{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T14:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4912.8,"min_ccu":3232,"max_ccu":6198,"samples":24,"sess":13.26,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9330.0,"min_ccu":6429,"max_ccu":12614,"samples":24,"sess":8.49,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":3394.3,"min_ccu":1540,"max_ccu":4672,"samples":24,"sess":8.75,"sess_h":23.0,"like":92.54},
@@ -305,7 +305,7 @@
 "9534705677":{"name":"[🎃Battlepass] Sniper Arena","avg_ccu":17041.8,"min_ccu":10244,"max_ccu":21579,"samples":24,"sess":11.19,"sess_h":23.0,"like":91.79},
 "9551044479":{"name":"Final Swarm [DUNGEONS]","avg_ccu":2271.2,"min_ccu":1183,"max_ccu":4783,"samples":24,"sess":11.27,"sess_h":23.0,"like":97.12},
 "9561553764":{"name":"[🎃] Murder Duels","avg_ccu":13829.6,"min_ccu":8797,"max_ccu":17224,"samples":24,"sess":9.0,"sess_h":23.0,"like":93.54},
-"9584852943":{"name":"[🎃] +1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":95807.2,"min_ccu":37170,"max_ccu":157756,"samples":24,"sess":9.21,"sess_h":23.0,"like":96.81},
+"9584852943":{"name":"[X15] +1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":95807.2,"min_ccu":37170,"max_ccu":157756,"samples":24,"sess":9.21,"sess_h":23.0,"like":96.81},
 "9641502068":{"name":"[🪦GRAVEYARD] KNIFE DUELS","avg_ccu":11763.6,"min_ccu":6247,"max_ccu":16798,"samples":24,"sess":9.02,"sess_h":23.0,"like":93.78},
 "9656201728":{"name":"[🎃 HALLOWEEN] Dungeon Lootr","avg_ccu":974.9,"min_ccu":625,"max_ccu":2019,"samples":24,"sess":14.06,"sess_h":23.0,"like":95.15},
 "9662130710":{"name":"[⚡UPD] Phonk Slap 🎵","avg_ccu":1877.6,"min_ccu":944,"max_ccu":3019,"samples":24,"sess":10.22,"sess_h":23.0,"like":92.13},
