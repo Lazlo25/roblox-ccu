@@ -1,4 +1,4 @@
-{"date": "2026-10-17", "timezone": "America/New_York", "generated_utc": "2026-10-19T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-18T03:10:00Z", 15573595], "genres": {"Simulation": 45.1, "Survival": 15.257, "Roleplay & Avatar Sim": 12.478, "Action": 7.216, "Shooter": 4.646, "RPG": 3.696, "Sports & Racing": 2.87, "Strategy": 2.014, "Party & Casual": 1.658, "Obby & Platformer": 1.651, "Adventure": 1.202, "Shopping": 0.873, "Puzzle": 0.376, "Other": 0.358, "Entertainment": 0.341, "Social": 0.265}, "genre_hours": 24,"games":{
+{"date": "2026-10-17", "timezone": "America/New_York", "generated_utc": "2026-10-19T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-18T03:10:00Z", 15573595], "genres": {"Simulation": 45.1, "Survival": 15.257, "Roleplay & Avatar Sim": 12.478, "Action": 7.216, "Shooter": 4.646, "RPG": 3.696, "Sports & Racing": 2.87, "Strategy": 2.014, "Party & Casual": 1.658, "Obby & Platformer": 1.651, "Adventure": 1.202, "Shopping": 0.873, "Puzzle": 0.376, "Other": 0.358, "Entertainment": 0.341, "Social": 0.265}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":5364.1,"min_ccu":4112,"max_ccu":7926,"samples":24,"sess":12.91,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9399.3,"min_ccu":5747,"max_ccu":13600,"samples":24,"sess":8.25,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":4383.5,"min_ccu":3013,"max_ccu":9371,"samples":11,"sess":9.16,"sess_h":10.0,"like":92.54},
@@ -210,7 +210,7 @@
 "6760085372":{"name":"[🔵] Jujutsu: Zero","avg_ccu":5639.5,"min_ccu":4431,"max_ccu":10366,"samples":24,"sess":24.31,"sess_h":23.0,"like":95.28},
 "6765805766":{"name":"BlockSpin 🔪 [HALLOWEEN UPDATE!]","avg_ccu":20938.6,"min_ccu":16138,"max_ccu":28693,"samples":24,"sess":13.06,"sess_h":23.0,"like":78.59},
 "6770632849":{"name":"[INSECT🦋🪰] MUGEN","avg_ccu":1441.0,"min_ccu":948,"max_ccu":1876,"samples":24,"sess":9.16,"sess_h":23.0,"like":93.47},
-"6774320049":{"name":"Dubai 🏡 RP [SPORTS! ⚽🏀]","avg_ccu":19714.6,"min_ccu":12235,"max_ccu":28625,"samples":24,"sess":15.45,"sess_h":23.0,"like":88.75},
+"6774320049":{"name":"Dubai 🏡 RP","avg_ccu":19714.6,"min_ccu":12235,"max_ccu":28625,"samples":24,"sess":15.45,"sess_h":23.0,"like":88.75},
 "6786784563":{"name":"[🎃HALLOWEEN + LIMITEDS] Corsa Legends [ALPHA]","avg_ccu":1266.8,"min_ccu":907,"max_ccu":1578,"samples":24,"sess":12.69,"sess_h":23.0,"like":97.07},
 "6858584271":{"name":"[🎃] Fully Streetz 2","avg_ccu":1403.4,"min_ccu":297,"max_ccu":2189,"samples":24,"sess":44.44,"sess_h":23.0,"like":87.79},
 "6931042565":{"name":"[UPD] Volleyball Legends","avg_ccu":68553.4,"min_ccu":42489,"max_ccu":141285,"samples":24,"sess":12.28,"sess_h":23.0,"like":95.16},
@@ -629,7 +629,7 @@
 "10767826343":{"name":"[UPDATE] Zombie Air Force ✈️","avg_ccu":5081.0,"min_ccu":3864,"max_ccu":6339,"samples":24,"sess":16.57,"sess_h":23.0,"like":88.73},
 "10767912502":{"name":"Trading Tycoon","avg_ccu":4213.9,"min_ccu":2318,"max_ccu":5838,"samples":24,"sess":15.17,"sess_h":23.0,"like":93.71},
 "10767922762":{"name":"Dress Designer [COOP]","avg_ccu":2228.5,"min_ccu":1617,"max_ccu":3081,"samples":24,"sess":16.47,"sess_h":23.0,"like":86.7},
-"10767928510":{"name":"Pixel Lineage [DUNGEONS+ HOLLOWEEN+RACE EVO]","avg_ccu":10333.5,"min_ccu":8986,"max_ccu":12112,"samples":24,"sess":7.53,"sess_h":23.0,"like":98.81},
+"10767928510":{"name":"Pixel Lineage [🎃Spear Class + Dragon Race]","avg_ccu":10333.5,"min_ccu":8986,"max_ccu":12112,"samples":24,"sess":7.53,"sess_h":23.0,"like":98.81},
 "10767957681":{"name":"[UPD 4] Tycoon, but one dropper","avg_ccu":3115.7,"min_ccu":2392,"max_ccu":3941,"samples":24,"sess":20.59,"sess_h":23.0,"like":88.95},
 "10767964257":{"name":"Superhero Battlegrounds","avg_ccu":3336.8,"min_ccu":2029,"max_ccu":4773,"samples":24,"sess":11.34,"sess_h":23.0,"like":74.38},
 "10768026334":{"name":"[🎨] Hide In Pixels","avg_ccu":10385.2,"min_ccu":4540,"max_ccu":16465,"samples":24,"sess":9.82,"sess_h":23.0,"like":58.65},
