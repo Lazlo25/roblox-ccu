@@ -1,4 +1,4 @@
-{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T20:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
+{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T21:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4912.8,"min_ccu":3232,"max_ccu":6198,"samples":24,"sess":13.26,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9330.0,"min_ccu":6429,"max_ccu":12614,"samples":24,"sess":8.49,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":3394.3,"min_ccu":1540,"max_ccu":4672,"samples":24,"sess":8.75,"sess_h":23.0,"like":92.54},
@@ -565,7 +565,7 @@
 "10766008884":{"name":"Clone to Steal Eggs","avg_ccu":3071.4,"min_ccu":2024,"max_ccu":3741,"samples":24,"sess":13.62,"sess_h":23.0,"like":97.37},
 "10766056678":{"name":"Steal Animal Egg","avg_ccu":9441.8,"min_ccu":5589,"max_ccu":12346,"samples":24,"sess":11.12,"sess_h":23.0,"like":94.03},
 "10766109756":{"name":"+1 Web Escape 🕸️","avg_ccu":5578.1,"min_ccu":1921,"max_ccu":8492,"samples":24,"sess":9.12,"sess_h":23.0,"like":96.73},
-"10766135603":{"name":"[UPD] +1 Lift Rock for Treasure","avg_ccu":6229.7,"min_ccu":3921,"max_ccu":7790,"samples":24,"sess":16.59,"sess_h":23.0,"like":96.26},
+"10766135603":{"name":"+1 Lift Rock for Treasure","avg_ccu":6229.7,"min_ccu":3921,"max_ccu":7790,"samples":24,"sess":16.59,"sess_h":23.0,"like":96.26},
 "10766240516":{"name":"[🎃] Shoot For Eggs","avg_ccu":3359.4,"min_ccu":1799,"max_ccu":4652,"samples":24,"sess":15.59,"sess_h":23.0,"like":86.06},
 "10766309747":{"name":"[🎃]Melt All The Ice!🧊","avg_ccu":3311.9,"min_ccu":1337,"max_ccu":4715,"samples":24,"sess":12.38,"sess_h":23.0,"like":97.38},
 "10766350628":{"name":"Steal An Egg ROLEPLAY","avg_ccu":2746.2,"min_ccu":2463,"max_ccu":3338,"samples":9,"sess":10.07,"sess_h":8.0,"like":79.8},
