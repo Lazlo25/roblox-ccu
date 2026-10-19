@@ -1,4 +1,4 @@
-{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T17:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
+{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T18:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4912.8,"min_ccu":3232,"max_ccu":6198,"samples":24,"sess":13.26,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9330.0,"min_ccu":6429,"max_ccu":12614,"samples":24,"sess":8.49,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":3394.3,"min_ccu":1540,"max_ccu":4672,"samples":24,"sess":8.75,"sess_h":23.0,"like":92.54},
@@ -376,7 +376,7 @@
 "10282097014":{"name":"Pet Store Tycoon","avg_ccu":15833.4,"min_ccu":12051,"max_ccu":22943,"samples":24,"sess":23.33,"sess_h":23.0,"like":95.96},
 "10292064735":{"name":"SCROOMS 🍄","avg_ccu":3471.8,"min_ccu":2276,"max_ccu":4572,"samples":24,"sess":26.97,"sess_h":23.0,"like":92.9},
 "10308844888":{"name":"[🎃] Board Of Hell","avg_ccu":5105.5,"min_ccu":2957,"max_ccu":7019,"samples":24,"sess":8.35,"sess_h":23.0,"like":82.04},
-"10309128556":{"name":"HELLHOLE [🧟‍♂️]","avg_ccu":679.2,"min_ccu":405,"max_ccu":851,"samples":24,"sess":14.76,"sess_h":23.0,"like":98.22},
+"10309128556":{"name":"[🎃] HELLHOLE","avg_ccu":679.2,"min_ccu":405,"max_ccu":851,"samples":24,"sess":14.76,"sess_h":23.0,"like":98.22},
 "10310563053":{"name":"[🎃] Keyboard Wars","avg_ccu":2869.3,"min_ccu":2300,"max_ccu":3773,"samples":24,"sess":8.31,"sess_h":23.0,"like":80.7},
 "10310999762":{"name":"💪 +1 Strength to Grow Your Arm！","avg_ccu":2774.9,"min_ccu":1755,"max_ccu":4330,"samples":24,"sess":13.09,"sess_h":23.0,"like":96.37},
 "10321202755":{"name":"[⚡] Anime Fighting Simulator","avg_ccu":7547.1,"min_ccu":6603,"max_ccu":8343,"samples":24,"sess":47.27,"sess_h":23.0,"like":98.3},
@@ -396,7 +396,7 @@
 "10424350877":{"name":"ESCAPE CANDY WITCH! (SCARY OBBY)","avg_ccu":1750.4,"min_ccu":1033,"max_ccu":2656,"samples":24,"sess":8.63,"sess_h":23.0,"like":91.18},
 "10430019389":{"name":"[NEW ZONES] Spot the Fake For Anime!","avg_ccu":2788.6,"min_ccu":2212,"max_ccu":3312,"samples":24,"sess":17.82,"sess_h":23.0,"like":98.25},
 "10431718987":{"name":"[UPD🎃] Merge a Mini  Army","avg_ccu":3471.6,"min_ccu":2722,"max_ccu":4550,"samples":24,"sess":16.49,"sess_h":23.0,"like":96.87},
-"10434004927":{"name":"[X100🔥] 💪🏻Lifting Simulator: REBORN","avg_ccu":1307.2,"min_ccu":600,"max_ccu":1843,"samples":24,"sess":20.14,"sess_h":23.0,"like":87.96},
+"10434004927":{"name":"[🎃X150👻] 💪🏻Lifting Simulator: REBORN","avg_ccu":1307.2,"min_ccu":600,"max_ccu":1843,"samples":24,"sess":20.14,"sess_h":23.0,"like":87.96},
 "10436530264":{"name":"Build An Ant Empire","avg_ccu":13856.9,"min_ccu":9187,"max_ccu":17693,"samples":24,"sess":24.44,"sess_h":23.0,"like":96.21},
 "10439568447":{"name":"[🎃BOSS] Anomaly Cafe","avg_ccu":4880.0,"min_ccu":3037,"max_ccu":6281,"samples":24,"sess":19.95,"sess_h":23.0,"like":94.55},
 "10440833423":{"name":"Greedy Growers 🌱","avg_ccu":1492.1,"min_ccu":909,"max_ccu":1988,"samples":24,"sess":14.71,"sess_h":23.0,"like":97.88},
@@ -557,7 +557,7 @@
 "10765703059":{"name":"🎃HALLOWEEN Would You Rather: Style Contest Tower","avg_ccu":3292.4,"min_ccu":1852,"max_ccu":4749,"samples":24,"sess":6.34,"sess_h":23.0,"like":62.77},
 "10765751583":{"name":"Voltline: Realistic E-Scooter Simulator [Beta]","avg_ccu":2422.1,"min_ccu":734,"max_ccu":3954,"samples":24,"sess":7.37,"sess_h":23.0,"like":85.82},
 "10765841403":{"name":"Steal Or Die [UPDATE!]","avg_ccu":9447.7,"min_ccu":5874,"max_ccu":13693,"samples":24,"sess":18.86,"sess_h":23.0,"like":89.42},
-"10765902945":{"name":"[UPDATE 2] Anime Legacy Simulator","avg_ccu":11576.0,"min_ccu":10845,"max_ccu":12436,"samples":24,"sess":33.7,"sess_h":23.0,"like":96.12},
+"10765902945":{"name":"[UPDATE 2.5] Anime Legacy Simulator","avg_ccu":11576.0,"min_ccu":10845,"max_ccu":12436,"samples":24,"sess":33.7,"sess_h":23.0,"like":96.12},
 "10765906597":{"name":"[🎃] Clean all the Balls","avg_ccu":922.7,"min_ccu":440,"max_ccu":1335,"samples":24,"sess":13.21,"sess_h":23.0,"like":95.13},
 "10765907187":{"name":"[🎃] Drive An Egg","avg_ccu":3175.4,"min_ccu":1898,"max_ccu":4589,"samples":24,"sess":13.56,"sess_h":23.0,"like":86.77},
 "10765950109":{"name":"Steal A Baddie Egg!","avg_ccu":2836.5,"min_ccu":1959,"max_ccu":3400,"samples":24,"sess":16.55,"sess_h":23.0,"like":86.91},
