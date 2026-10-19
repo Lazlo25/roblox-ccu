@@ -1,4 +1,4 @@
-{"date": "2026-10-17", "timezone": "America/New_York", "generated_utc": "2026-10-19T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-18T03:10:00Z", 15573595], "genres": {"Simulation": 45.1, "Survival": 15.257, "Roleplay & Avatar Sim": 12.478, "Action": 7.216, "Shooter": 4.646, "RPG": 3.696, "Sports & Racing": 2.87, "Strategy": 2.014, "Party & Casual": 1.658, "Obby & Platformer": 1.651, "Adventure": 1.202, "Shopping": 0.873, "Puzzle": 0.376, "Other": 0.358, "Entertainment": 0.341, "Social": 0.265}, "genre_hours": 24,"games":{
+{"date": "2026-10-17", "timezone": "America/New_York", "generated_utc": "2026-10-19T03:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-18T03:10:00Z", 15573595], "genres": {"Simulation": 45.1, "Survival": 15.257, "Roleplay & Avatar Sim": 12.478, "Action": 7.216, "Shooter": 4.646, "RPG": 3.696, "Sports & Racing": 2.87, "Strategy": 2.014, "Party & Casual": 1.658, "Obby & Platformer": 1.651, "Adventure": 1.202, "Shopping": 0.873, "Puzzle": 0.376, "Other": 0.358, "Entertainment": 0.341, "Social": 0.265}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":5364.1,"min_ccu":4112,"max_ccu":7926,"samples":24,"sess":12.91,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9399.3,"min_ccu":5747,"max_ccu":13600,"samples":24,"sess":8.25,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":4383.5,"min_ccu":3013,"max_ccu":9371,"samples":11,"sess":9.16,"sess_h":10.0,"like":92.54},
@@ -37,7 +37,7 @@
 "994732206":{"name":"Blox Fruits","avg_ccu":210310.2,"min_ccu":169474,"max_ccu":263801,"samples":24,"sess":18.2,"sess_h":23.0,"like":92.29},
 "1000233041":{"name":"3008 [2.75]","avg_ccu":16638.9,"min_ccu":9723,"max_ccu":20702,"samples":24,"sess":20.92,"sess_h":23.0,"like":91.74},
 "1001911915":{"name":"[🎃] Farming and Friends","avg_ccu":1872.0,"min_ccu":1013,"max_ccu":2758,"samples":24,"sess":18.41,"sess_h":23.0,"like":88.43},
-"1008451066":{"name":"Da Hood","avg_ccu":3007.7,"min_ccu":2147,"max_ccu":3987,"samples":24,"sess":11.49,"sess_h":23.0,"like":70.51},
+"1008451066":{"name":"🎃 Da Hood","avg_ccu":3007.7,"min_ccu":2147,"max_ccu":3987,"samples":24,"sess":11.49,"sess_h":23.0,"like":70.51},
 "1016936714":{"name":"🎃 Your Bizarre Adventure 🎃","avg_ccu":19978.8,"min_ccu":11586,"max_ccu":26525,"samples":24,"sess":12.5,"sess_h":23.0,"like":88.86},
 "1054526971":{"name":"Blackhawk Rescue Mission 5","avg_ccu":28265.8,"min_ccu":20500,"max_ccu":35568,"samples":24,"sess":22.69,"sess_h":23.0,"like":90.14},
 "1176784616":{"name":"[🌙 NIGHT 2] Tower Defense Simulator","avg_ccu":22048.3,"min_ccu":16994,"max_ccu":27508,"samples":24,"sess":12.27,"sess_h":23.0,"like":94.16},
@@ -623,7 +623,7 @@
 "10767775923":{"name":"[Free Matrix] Scope Sim 👻","avg_ccu":0.5,"min_ccu":0,"max_ccu":3,"samples":24,"sess":0.22,"sess_h":23.0,"like":83.21},
 "10767780358":{"name":"MM2 of The Locust","avg_ccu":1946.8,"min_ccu":1491,"max_ccu":2429,"samples":16,"sess":9.28,"sess_h":15.0,"like":94.31},
 "10767784294":{"name":"[🎃] Steal an Clown Egg","avg_ccu":9628.9,"min_ccu":1427,"max_ccu":49028,"samples":24,"sess":12.11,"sess_h":23.0,"like":93.85},
-"10767814721":{"name":"[⛩️ W4] +1 Karate Evolution","avg_ccu":13223.5,"min_ccu":9013,"max_ccu":20155,"samples":24,"sess":13.37,"sess_h":23.0,"like":98.68},
+"10767814721":{"name":"[W4] +1 Karate Evolution ⛩️","avg_ccu":13223.5,"min_ccu":9013,"max_ccu":20155,"samples":24,"sess":13.37,"sess_h":23.0,"like":98.68},
 "10767824942":{"name":"+1 Assassin Leveling","avg_ccu":13834.6,"min_ccu":10192,"max_ccu":17221,"samples":24,"sess":22.02,"sess_h":23.0,"like":95.98},
 "10767825538":{"name":"Sarab","avg_ccu":30343.5,"min_ccu":5561,"max_ccu":56465,"samples":24,"sess":12.38,"sess_h":23.0,"like":90.38},
 "10767826343":{"name":"[UPDATE] Zombie Air Force ✈️","avg_ccu":5081.0,"min_ccu":3864,"max_ccu":6339,"samples":24,"sess":16.57,"sess_h":23.0,"like":88.73},
