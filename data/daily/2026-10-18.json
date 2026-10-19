@@ -1,4 +1,4 @@
-{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T09:10:01Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
+{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-19T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4912.8,"min_ccu":3232,"max_ccu":6198,"samples":24,"sess":13.26,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9330.0,"min_ccu":6429,"max_ccu":12614,"samples":24,"sess":8.49,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":3394.3,"min_ccu":1540,"max_ccu":4672,"samples":24,"sess":8.75,"sess_h":23.0,"like":92.54},
@@ -528,7 +528,7 @@
 "10764897725":{"name":"+1 Wings For Eggs","avg_ccu":3547.5,"min_ccu":1670,"max_ccu":4823,"samples":24,"sess":11.24,"sess_h":23.0,"like":97.59},
 "10764959046":{"name":"Locust Murder Mystery","avg_ccu":7117.5,"min_ccu":4121,"max_ccu":10306,"samples":24,"sess":7.16,"sess_h":23.0,"like":85.23},
 "10764989090":{"name":"[🎃RAIDS] Anime Ball Duels","avg_ccu":4908.8,"min_ccu":3938,"max_ccu":8205,"samples":24,"sess":15.32,"sess_h":23.0,"like":83.8},
-"10765007812":{"name":"[X2] Steal and Fish","avg_ccu":6692.6,"min_ccu":3389,"max_ccu":15972,"samples":24,"sess":15.73,"sess_h":23.0,"like":95.37},
+"10765007812":{"name":"Steal and Fish","avg_ccu":6692.6,"min_ccu":3389,"max_ccu":15972,"samples":24,"sess":15.73,"sess_h":23.0,"like":95.37},
 "10765012427":{"name":"[🎃] Build the Pyramid!","avg_ccu":11737.3,"min_ccu":7042,"max_ccu":15526,"samples":24,"sess":15.59,"sess_h":23.0,"like":94.75},
 "10765013362":{"name":"🎃 Dig For Eggs","avg_ccu":8207.1,"min_ccu":6269,"max_ccu":10068,"samples":24,"sess":22.73,"sess_h":23.0,"like":90.48},
 "10765067592":{"name":"[UPD8] Tower Incremental","avg_ccu":3671.6,"min_ccu":2735,"max_ccu":4875,"samples":24,"sess":26.48,"sess_h":23.0,"like":89.12},
