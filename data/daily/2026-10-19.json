@@ -1,4 +1,4 @@
-{"date": "2026-10-19", "timezone": "America/New_York", "generated_utc": "2026-10-20T22:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-20T03:10:00Z", 8668674], "genres": {"Simulation": 42.312, "Survival": 17.05, "Roleplay & Avatar Sim": 12.111, "Action": 7.522, "Shooter": 4.251, "RPG": 4.078, "Sports & Racing": 2.972, "Strategy": 2.356, "Party & Casual": 1.831, "Obby & Platformer": 1.822, "Adventure": 1.124, "Shopping": 0.921, "Other": 0.55, "Social": 0.431, "Puzzle": 0.369, "Entertainment": 0.299}, "genre_hours": 24,"games":{
+{"date": "2026-10-19", "timezone": "America/New_York", "generated_utc": "2026-10-20T23:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-20T03:10:00Z", 8668674], "genres": {"Simulation": 42.312, "Survival": 17.05, "Roleplay & Avatar Sim": 12.111, "Action": 7.522, "Shooter": 4.251, "RPG": 4.078, "Sports & Racing": 2.972, "Strategy": 2.356, "Party & Casual": 1.831, "Obby & Platformer": 1.822, "Adventure": 1.124, "Shopping": 0.921, "Other": 0.55, "Social": 0.431, "Puzzle": 0.369, "Entertainment": 0.299}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3107.1,"min_ccu":2359,"max_ccu":3845,"samples":24,"sess":12.87,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6530.0,"min_ccu":4373,"max_ccu":9338,"samples":24,"sess":8.72,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":1902.8,"min_ccu":1208,"max_ccu":2592,"samples":24,"sess":8.53,"sess_h":23.0,"like":92.54},
@@ -22,7 +22,7 @@
 "358276974":{"name":"Apocalypse Rising 2","avg_ccu":1990.2,"min_ccu":1447,"max_ccu":2379,"samples":24,"sess":17.54,"sess_h":23.0,"like":85.87},
 "371263894":{"name":"Greenville RP","avg_ccu":3820.7,"min_ccu":2155,"max_ccu":5545,"samples":24,"sess":15.9,"sess_h":23.0,"like":87.89},
 "372226183":{"name":"Flee the Facility","avg_ccu":14654.8,"min_ccu":4509,"max_ccu":27804,"samples":24,"sess":11.92,"sess_h":23.0,"like":92.1},
-"383310974":{"name":"[🎃] Adopt Me!","avg_ccu":180425.2,"min_ccu":119638,"max_ccu":238349,"samples":24,"sess":24.93,"sess_h":23.0,"like":86.35},
+"383310974":{"name":"[✏️2D TUESDAY] Adopt Me!","avg_ccu":180425.2,"min_ccu":119638,"max_ccu":238349,"samples":24,"sess":24.93,"sess_h":23.0,"like":86.35},
 "540382210":{"name":"[UPDATE!!!] FMR","avg_ccu":1020.8,"min_ccu":518,"max_ccu":1522,"samples":24,"sess":11.47,"sess_h":23.0,"like":94.88},
 "547524060":{"name":"Feather Family 🎃 [Bearded Vulture]","avg_ccu":3745.0,"min_ccu":2414,"max_ccu":5063,"samples":24,"sess":13.42,"sess_h":23.0,"like":91.64},
 "578392296":{"name":"ABA","avg_ccu":11367.7,"min_ccu":8626,"max_ccu":14394,"samples":24,"sess":17.76,"sess_h":23.0,"like":80.67},
