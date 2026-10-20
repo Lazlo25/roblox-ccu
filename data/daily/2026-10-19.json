@@ -1,4 +1,4 @@
-{"date": "2026-10-19", "timezone": "America/New_York", "generated_utc": "2026-10-20T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-20T03:10:00Z", 8668674], "genres": {"Simulation": 42.312, "Survival": 17.05, "Roleplay & Avatar Sim": 12.111, "Action": 7.522, "Shooter": 4.251, "RPG": 4.078, "Sports & Racing": 2.972, "Strategy": 2.356, "Party & Casual": 1.831, "Obby & Platformer": 1.822, "Adventure": 1.124, "Shopping": 0.921, "Other": 0.55, "Social": 0.431, "Puzzle": 0.369, "Entertainment": 0.299}, "genre_hours": 24,"games":{
+{"date": "2026-10-19", "timezone": "America/New_York", "generated_utc": "2026-10-20T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-20T03:10:00Z", 8668674], "genres": {"Simulation": 42.312, "Survival": 17.05, "Roleplay & Avatar Sim": 12.111, "Action": 7.522, "Shooter": 4.251, "RPG": 4.078, "Sports & Racing": 2.972, "Strategy": 2.356, "Party & Casual": 1.831, "Obby & Platformer": 1.822, "Adventure": 1.124, "Shopping": 0.921, "Other": 0.55, "Social": 0.431, "Puzzle": 0.369, "Entertainment": 0.299}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3107.1,"min_ccu":2359,"max_ccu":3845,"samples":24,"sess":12.87,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6530.0,"min_ccu":4373,"max_ccu":9338,"samples":24,"sess":8.72,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":1902.8,"min_ccu":1208,"max_ccu":2592,"samples":24,"sess":8.53,"sess_h":23.0,"like":92.54},
@@ -149,7 +149,7 @@
 "4839802560":{"name":"LifeTogether 🏠 RP","avg_ccu":24099.2,"min_ccu":13111,"max_ccu":35018,"samples":24,"sess":14.02,"sess_h":23.0,"like":90.36},
 "4925331346":{"name":"Giga Mansion Tycoon 🏝️","avg_ccu":4322.4,"min_ccu":3548,"max_ccu":5240,"samples":24,"sess":18.44,"sess_h":23.0,"like":96.06},
 "4931927012":{"name":"[🎃]🏀Basketball Legends🏀","avg_ccu":3021.2,"min_ccu":1819,"max_ccu":5495,"samples":24,"sess":14.05,"sess_h":23.0,"like":86.38},
-"4938220315":{"name":"[HALLOWEEN] Skibi Defense","avg_ccu":1505.7,"min_ccu":963,"max_ccu":2352,"samples":24,"sess":9.73,"sess_h":23.0,"like":92.31},
+"4938220315":{"name":"[ZVERSE GMAN] Skibi Defense","avg_ccu":1505.7,"min_ccu":963,"max_ccu":2352,"samples":24,"sess":9.73,"sess_h":23.0,"like":92.31},
 "4949420752":{"name":"Realistic Street Soccer","avg_ccu":16384.7,"min_ccu":5898,"max_ccu":26069,"samples":24,"sess":10.39,"sess_h":23.0,"like":84.5},
 "4983034985":{"name":"Conquer The World WW2 [🎃]","avg_ccu":9602.8,"min_ccu":3734,"max_ccu":17139,"samples":24,"sess":15.45,"sess_h":23.0,"like":81.14},
 "4987856151":{"name":"Wanted [🎃UPDATE]","avg_ccu":7367.0,"min_ccu":5230,"max_ccu":10028,"samples":24,"sess":16.98,"sess_h":23.0,"like":96.81},
