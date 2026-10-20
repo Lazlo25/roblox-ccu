@@ -1,4 +1,4 @@
-{"date": "2026-10-19", "timezone": "America/New_York", "generated_utc": "2026-10-20T21:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-20T03:10:00Z", 8668674], "genres": {"Simulation": 42.312, "Survival": 17.05, "Roleplay & Avatar Sim": 12.111, "Action": 7.522, "Shooter": 4.251, "RPG": 4.078, "Sports & Racing": 2.972, "Strategy": 2.356, "Party & Casual": 1.831, "Obby & Platformer": 1.822, "Adventure": 1.124, "Shopping": 0.921, "Other": 0.55, "Social": 0.431, "Puzzle": 0.369, "Entertainment": 0.299}, "genre_hours": 24,"games":{
+{"date": "2026-10-19", "timezone": "America/New_York", "generated_utc": "2026-10-20T22:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-20T03:10:00Z", 8668674], "genres": {"Simulation": 42.312, "Survival": 17.05, "Roleplay & Avatar Sim": 12.111, "Action": 7.522, "Shooter": 4.251, "RPG": 4.078, "Sports & Racing": 2.972, "Strategy": 2.356, "Party & Casual": 1.831, "Obby & Platformer": 1.822, "Adventure": 1.124, "Shopping": 0.921, "Other": 0.55, "Social": 0.431, "Puzzle": 0.369, "Entertainment": 0.299}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3107.1,"min_ccu":2359,"max_ccu":3845,"samples":24,"sess":12.87,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6530.0,"min_ccu":4373,"max_ccu":9338,"samples":24,"sess":8.72,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":1902.8,"min_ccu":1208,"max_ccu":2592,"samples":24,"sess":8.53,"sess_h":23.0,"like":92.54},
@@ -265,7 +265,7 @@
 "8178086002":{"name":"[🎃] Lethal Ape Experience","avg_ccu":17246.6,"min_ccu":15097,"max_ccu":20955,"samples":24,"sess":11.02,"sess_h":23.0,"like":93.5},
 "8198412649":{"name":"Dinosaur Life","avg_ccu":872.8,"min_ccu":521,"max_ccu":1192,"samples":24,"sess":13.53,"sess_h":23.0,"like":89.21},
 "8316902627":{"name":"[🎃] Plants & Brainrots 🌻","avg_ccu":2645.9,"min_ccu":2016,"max_ccu":3650,"samples":24,"sess":11.73,"sess_h":23.0,"like":94.78},
-"8342498724":{"name":"[☯UPD] Heavyweight Fishing","avg_ccu":12414.1,"min_ccu":7387,"max_ccu":19336,"samples":24,"sess":22.38,"sess_h":23.0,"like":96.13},
+"8342498724":{"name":"Heavyweight Fishing","avg_ccu":12414.1,"min_ccu":7387,"max_ccu":19336,"samples":24,"sess":22.38,"sess_h":23.0,"like":96.13},
 "8520148363":{"name":"💥 Tank Game! [2.4]","avg_ccu":3567.5,"min_ccu":2788,"max_ccu":4358,"samples":24,"sess":13.3,"sess_h":23.0,"like":89.39},
 "8524572339":{"name":"Bridger: WESTERN","avg_ccu":2372.2,"min_ccu":1394,"max_ccu":3287,"samples":24,"sess":22.23,"sess_h":23.0,"like":78.37},
 "8539298853":{"name":"Scary Shawarma Kiosk: the ANOMALY [horror]","avg_ccu":3618.9,"min_ccu":2114,"max_ccu":5199,"samples":24,"sess":10.85,"sess_h":23.0,"like":89.87},
@@ -411,7 +411,7 @@
 "10471583973":{"name":"2 PLAYER Evolution Tycoon 🛸","avg_ccu":1316.0,"min_ccu":820,"max_ccu":1837,"samples":24,"sess":18.63,"sess_h":23.0,"like":92.23},
 "10475794799":{"name":"Dig & Clean 🧼","avg_ccu":1746.0,"min_ccu":1089,"max_ccu":2468,"samples":24,"sess":14.7,"sess_h":23.0,"like":96.48},
 "10485201326":{"name":"[2X] +1 Power Per Click","avg_ccu":2866.1,"min_ccu":2333,"max_ccu":3440,"samples":24,"sess":19.75,"sess_h":23.0,"like":95.23},
-"10501944811":{"name":"[🎃UPD] Beat the Anime Boss","avg_ccu":1251.4,"min_ccu":1103,"max_ccu":1408,"samples":24,"sess":23.65,"sess_h":23.0,"like":98.83},
+"10501944811":{"name":"Beat the Anime Boss","avg_ccu":1251.4,"min_ccu":1103,"max_ccu":1408,"samples":24,"sess":23.65,"sess_h":23.0,"like":98.83},
 "10502841145":{"name":"[MAFUBA] Anime Astral Simulator","avg_ccu":10115.3,"min_ccu":9192,"max_ccu":10706,"samples":24,"sess":22.02,"sess_h":23.0,"like":96.54},
 "10508386614":{"name":"[UPD 1] Arasaka Academy | Cyberpunk","avg_ccu":256.3,"min_ccu":149,"max_ccu":384,"samples":24,"sess":13.33,"sess_h":23.0,"like":95.46},
 "10512942223":{"name":"Anime Zero [SOLAR RADIANCE ☀️]","avg_ccu":18728.6,"min_ccu":13677,"max_ccu":25642,"samples":24,"sess":13.57,"sess_h":23.0,"like":97.43},
@@ -534,7 +534,7 @@
 "10765091041":{"name":"Open Sea For Animals!","avg_ccu":2078.4,"min_ccu":1396,"max_ccu":2897,"samples":24,"sess":14.1,"sess_h":23.0,"like":97.42},
 "10765122642":{"name":"Country Battles 🥊💪","avg_ccu":5915.6,"min_ccu":3520,"max_ccu":8902,"samples":24,"sess":11.28,"sess_h":23.0,"like":94.53},
 "10765153945":{"name":"[🎃] Steal A Car","avg_ccu":3960.7,"min_ccu":2764,"max_ccu":5430,"samples":24,"sess":14.05,"sess_h":23.0,"like":89.67},
-"10765167636":{"name":"[🧪UPD] 2 Player Raid Tycoon","avg_ccu":1570.8,"min_ccu":1159,"max_ccu":2118,"samples":24,"sess":17.64,"sess_h":23.0,"like":89.23},
+"10765167636":{"name":"[💵] 2 Player Raid Tycoon","avg_ccu":1570.8,"min_ccu":1159,"max_ccu":2118,"samples":24,"sess":17.64,"sess_h":23.0,"like":89.23},
 "10765190004":{"name":"Anime High School RP","avg_ccu":2965.2,"min_ccu":2202,"max_ccu":3961,"samples":24,"sess":17.27,"sess_h":23.0,"like":79.45},
 "10765288803":{"name":"Break and Steal an Egg","avg_ccu":124524.2,"min_ccu":68727,"max_ccu":202307,"samples":24,"sess":15.36,"sess_h":23.0,"like":97.56},
 "10765298801":{"name":"[🎃] +1 Stone Skipping","avg_ccu":24208.6,"min_ccu":15848,"max_ccu":33284,"samples":24,"sess":17.68,"sess_h":23.0,"like":96.76},
