@@ -1,4 +1,4 @@
-{"date": "2026-10-19", "timezone": "America/New_York", "generated_utc": "2026-10-20T19:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-20T03:10:00Z", 8668674], "genres": {"Simulation": 42.312, "Survival": 17.05, "Roleplay & Avatar Sim": 12.111, "Action": 7.522, "Shooter": 4.251, "RPG": 4.078, "Sports & Racing": 2.972, "Strategy": 2.356, "Party & Casual": 1.831, "Obby & Platformer": 1.822, "Adventure": 1.124, "Shopping": 0.921, "Other": 0.55, "Social": 0.431, "Puzzle": 0.369, "Entertainment": 0.299}, "genre_hours": 24,"games":{
+{"date": "2026-10-19", "timezone": "America/New_York", "generated_utc": "2026-10-20T20:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-20T03:10:00Z", 8668674], "genres": {"Simulation": 42.312, "Survival": 17.05, "Roleplay & Avatar Sim": 12.111, "Action": 7.522, "Shooter": 4.251, "RPG": 4.078, "Sports & Racing": 2.972, "Strategy": 2.356, "Party & Casual": 1.831, "Obby & Platformer": 1.822, "Adventure": 1.124, "Shopping": 0.921, "Other": 0.55, "Social": 0.431, "Puzzle": 0.369, "Entertainment": 0.299}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3107.1,"min_ccu":2359,"max_ccu":3845,"samples":24,"sess":12.87,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6530.0,"min_ccu":4373,"max_ccu":9338,"samples":24,"sess":8.72,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":1902.8,"min_ccu":1208,"max_ccu":2592,"samples":24,"sess":8.53,"sess_h":23.0,"like":92.54},
@@ -407,7 +407,7 @@
 "10455462279":{"name":"[🎃HALLOWITY & WITCH]🚪Survive Verity in Area 51🔦","avg_ccu":1870.3,"min_ccu":1419,"max_ccu":2230,"samples":24,"sess":13.51,"sess_h":23.0,"like":76.17},
 "10460801145":{"name":"TROLL Hug Tower","avg_ccu":10532.2,"min_ccu":8308,"max_ccu":13191,"samples":24,"sess":9.66,"sess_h":23.0,"like":85.8},
 "10463578886":{"name":"🎃[UPD] House Tower Defense 2","avg_ccu":1207.1,"min_ccu":1075,"max_ccu":1351,"samples":24,"sess":21.25,"sess_h":23.0,"like":97.8},
-"10471427008":{"name":"Kabuki [WEAPONS]","avg_ccu":766.1,"min_ccu":587,"max_ccu":979,"samples":24,"sess":14.43,"sess_h":23.0,"like":82.74},
+"10471427008":{"name":"Kabuki [UPDATE]","avg_ccu":766.1,"min_ccu":587,"max_ccu":979,"samples":24,"sess":14.43,"sess_h":23.0,"like":82.74},
 "10471583973":{"name":"2 PLAYER Evolution Tycoon 🛸","avg_ccu":1316.0,"min_ccu":820,"max_ccu":1837,"samples":24,"sess":18.63,"sess_h":23.0,"like":92.23},
 "10475794799":{"name":"Dig & Clean 🧼","avg_ccu":1746.0,"min_ccu":1089,"max_ccu":2468,"samples":24,"sess":14.7,"sess_h":23.0,"like":96.48},
 "10485201326":{"name":"[2X] +1 Power Per Click","avg_ccu":2866.1,"min_ccu":2333,"max_ccu":3440,"samples":24,"sess":19.75,"sess_h":23.0,"like":95.23},
