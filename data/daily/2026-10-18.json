@@ -1,4 +1,4 @@
-{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-20T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
+{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-20T03:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4912.8,"min_ccu":3232,"max_ccu":6198,"samples":24,"sess":13.26,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9330.0,"min_ccu":6429,"max_ccu":12614,"samples":24,"sess":8.49,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":3394.3,"min_ccu":1540,"max_ccu":4672,"samples":24,"sess":8.75,"sess_h":23.0,"like":92.54},
@@ -668,7 +668,7 @@
 "10768861336":{"name":"🌊 UNDERWATER ALIEN PRISON RUN! (Obby)","avg_ccu":1789.8,"min_ccu":1098,"max_ccu":2571,"samples":24,"sess":7.98,"sess_h":23.0,"like":77.5},
 "10768861430":{"name":"DIVINE HATCHERS 0.0001% [NEW!]","avg_ccu":5842.1,"min_ccu":3888,"max_ccu":7488,"samples":24,"sess":8.14,"sess_h":23.0,"like":89.52},
 "10768866246":{"name":"[🎃RALLY] WRONG WAY!","avg_ccu":9280.3,"min_ccu":4066,"max_ccu":13857,"samples":24,"sess":9.3,"sess_h":23.0,"like":90.04},
-"10768910559":{"name":"IT WANTS IN [HORROR]","avg_ccu":3956.3,"min_ccu":2373,"max_ccu":5883,"samples":24,"sess":10.88,"sess_h":23.0,"like":73.55},
+"10768910559":{"name":"🎃 IT WANTS IN [HORROR]","avg_ccu":3956.3,"min_ccu":2373,"max_ccu":5883,"samples":24,"sess":10.88,"sess_h":23.0,"like":73.55},
 "10768928887":{"name":"Hanamushi's Doll Adventure","avg_ccu":4474.8,"min_ccu":2844,"max_ccu":6195,"samples":24,"sess":13.43,"sess_h":23.0,"like":98.15},
 "10768943703":{"name":"[RACING UPDATE] Rally With a Friend","avg_ccu":1690.2,"min_ccu":911,"max_ccu":2681,"samples":24,"sess":5.04,"sess_h":23.0,"like":78.57},
 "10768944292":{"name":"Prehistoric Farm [NEW WORLD 🎃]","avg_ccu":7237.9,"min_ccu":4414,"max_ccu":9509,"samples":24,"sess":19.84,"sess_h":23.0,"like":96.58},
