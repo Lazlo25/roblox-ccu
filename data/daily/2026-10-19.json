@@ -1,4 +1,4 @@
-{"date": "2026-10-19", "timezone": "America/New_York", "generated_utc": "2026-10-20T17:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-20T03:10:00Z", 8668674], "genres": {"Simulation": 42.312, "Survival": 17.05, "Roleplay & Avatar Sim": 12.111, "Action": 7.522, "Shooter": 4.251, "RPG": 4.078, "Sports & Racing": 2.972, "Strategy": 2.356, "Party & Casual": 1.831, "Obby & Platformer": 1.822, "Adventure": 1.124, "Shopping": 0.921, "Other": 0.55, "Social": 0.431, "Puzzle": 0.369, "Entertainment": 0.299}, "genre_hours": 24,"games":{
+{"date": "2026-10-19", "timezone": "America/New_York", "generated_utc": "2026-10-20T18:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-20T03:10:00Z", 8668674], "genres": {"Simulation": 42.312, "Survival": 17.05, "Roleplay & Avatar Sim": 12.111, "Action": 7.522, "Shooter": 4.251, "RPG": 4.078, "Sports & Racing": 2.972, "Strategy": 2.356, "Party & Casual": 1.831, "Obby & Platformer": 1.822, "Adventure": 1.124, "Shopping": 0.921, "Other": 0.55, "Social": 0.431, "Puzzle": 0.369, "Entertainment": 0.299}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3107.1,"min_ccu":2359,"max_ccu":3845,"samples":24,"sess":12.87,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6530.0,"min_ccu":4373,"max_ccu":9338,"samples":24,"sess":8.72,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":1902.8,"min_ccu":1208,"max_ccu":2592,"samples":24,"sess":8.53,"sess_h":23.0,"like":92.54},
@@ -179,7 +179,7 @@
 "5995470825":{"name":"[🔥NEW MYTHIC!] Hypershot","avg_ccu":20383.8,"min_ccu":16153,"max_ccu":25013,"samples":24,"sess":13.19,"sess_h":23.0,"like":94.43},
 "6015491985":{"name":"Math Tower Race","avg_ccu":2780.2,"min_ccu":1388,"max_ccu":4688,"samples":24,"sess":8.58,"sess_h":23.0,"like":88.33},
 "6035872082":{"name":"[🎃] RIVALS","avg_ccu":156758.5,"min_ccu":109032,"max_ccu":197358,"samples":24,"sess":11.9,"sess_h":23.0,"like":93.66},
-"6048923315":{"name":"[🎃 HALLOWEEN PT 1] KAIZEN","avg_ccu":950.8,"min_ccu":735,"max_ccu":1113,"samples":24,"sess":17.73,"sess_h":23.0,"like":93.1},
+"6048923315":{"name":"[🎃 PT 1] KAIZEN","avg_ccu":950.8,"min_ccu":735,"max_ccu":1113,"samples":24,"sess":17.73,"sess_h":23.0,"like":93.1},
 "6061766680":{"name":"[UNBANS] fight in a school","avg_ccu":1931.3,"min_ccu":1012,"max_ccu":3364,"samples":24,"sess":10.99,"sess_h":23.0,"like":79.29},
 "6128091457":{"name":"Clone Engine","avg_ccu":2722.5,"min_ccu":2048,"max_ccu":3382,"samples":17,"sess":7.74,"sess_h":16.0,"like":93.08},
 "6161049307":{"name":"[💀NIGHTMARE] Pixel Blade","avg_ccu":5406.2,"min_ccu":3983,"max_ccu":7365,"samples":24,"sess":7.34,"sess_h":23.0,"like":96.79},
@@ -246,7 +246,7 @@
 "7633926880":{"name":"[ZOMBIES!] BloxStrike","avg_ccu":14685.6,"min_ccu":6319,"max_ccu":26410,"samples":24,"sess":14.53,"sess_h":23.0,"like":94.7},
 "7661378108":{"name":"[SINKING💧] Trails","avg_ccu":896.3,"min_ccu":253,"max_ccu":1978,"samples":24,"sess":13.39,"sess_h":23.0,"like":78.1},
 "7665084235":{"name":"🎃 Navy Tycoon","avg_ccu":314.9,"min_ccu":236,"max_ccu":425,"samples":24,"sess":17.65,"sess_h":23.0,"like":90.86},
-"7671049560":{"name":"The Forge [📜]","avg_ccu":2865.3,"min_ccu":2135,"max_ccu":3622,"samples":24,"sess":22.67,"sess_h":23.0,"like":94.43},
+"7671049560":{"name":"🎃 The Forge [Guilds]","avg_ccu":2865.3,"min_ccu":2135,"max_ccu":3622,"samples":24,"sess":22.67,"sess_h":23.0,"like":94.43},
 "7673659635":{"name":"[FREE CAR] Fix It Up!","avg_ccu":3028.9,"min_ccu":1686,"max_ccu":4891,"samples":24,"sess":16.08,"sess_h":23.0,"like":85.31},
 "7703614594":{"name":"[🍃] Garden Tower Defense 🌻","avg_ccu":3233.4,"min_ccu":2408,"max_ccu":4530,"samples":24,"sess":13.42,"sess_h":23.0,"like":98.22},
 "7709344486":{"name":"[💀] Steal a Brainrot","avg_ccu":123372.0,"min_ccu":101256,"max_ccu":150619,"samples":24,"sess":11.53,"sess_h":23.0,"like":85.14},
@@ -497,7 +497,7 @@
 "10759430423":{"name":"[W7] +1 Chop Trees for Treasure","avg_ccu":3123.4,"min_ccu":2523,"max_ccu":4272,"samples":24,"sess":28.09,"sess_h":23.0,"like":96.28},
 "10759478428":{"name":"Steal Anime Eggs","avg_ccu":1144.0,"min_ccu":899,"max_ccu":1532,"samples":24,"sess":15.16,"sess_h":23.0,"like":98.05},
 "10759594563":{"name":"[🎃] Choose the Stronger Anime!","avg_ccu":2320.0,"min_ccu":1745,"max_ccu":2824,"samples":24,"sess":11.97,"sess_h":23.0,"like":80.23},
-"10759638075":{"name":"[ADMIN ABUSE] Pets Universe!","avg_ccu":4623.9,"min_ccu":4068,"max_ccu":5552,"samples":24,"sess":19.51,"sess_h":23.0,"like":98.45},
+"10759638075":{"name":"[🎃] Pets Universe!","avg_ccu":4623.9,"min_ccu":4068,"max_ccu":5552,"samples":24,"sess":19.51,"sess_h":23.0,"like":98.45},
 "10760891576":{"name":"Build a Base & Steal Plants 🌱 [CO-OP]","avg_ccu":4408.0,"min_ccu":3690,"max_ccu":7000,"samples":24,"sess":14.51,"sess_h":23.0,"like":94.95},
 "10761143648":{"name":"Steal all Cars","avg_ccu":608.5,"min_ccu":172,"max_ccu":1005,"samples":24,"sess":9.48,"sess_h":23.0,"like":96.91},
 "10761375767":{"name":"Surf And Rescue 🌊🛟","avg_ccu":6494.4,"min_ccu":4804,"max_ccu":8118,"samples":24,"sess":14.49,"sess_h":23.0,"like":97.16},
