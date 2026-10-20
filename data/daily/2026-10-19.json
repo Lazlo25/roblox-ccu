@@ -1,4 +1,4 @@
-{"date": "2026-10-19", "timezone": "America/New_York", "generated_utc": "2026-10-20T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-20T03:10:00Z", 8668674], "genres": {"Simulation": 42.312, "Survival": 17.05, "Roleplay & Avatar Sim": 12.111, "Action": 7.522, "Shooter": 4.251, "RPG": 4.078, "Sports & Racing": 2.972, "Strategy": 2.356, "Party & Casual": 1.831, "Obby & Platformer": 1.822, "Adventure": 1.124, "Shopping": 0.921, "Other": 0.55, "Social": 0.431, "Puzzle": 0.369, "Entertainment": 0.299}, "genre_hours": 24,"games":{
+{"date": "2026-10-19", "timezone": "America/New_York", "generated_utc": "2026-10-20T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-20T03:10:00Z", 8668674], "genres": {"Simulation": 42.312, "Survival": 17.05, "Roleplay & Avatar Sim": 12.111, "Action": 7.522, "Shooter": 4.251, "RPG": 4.078, "Sports & Racing": 2.972, "Strategy": 2.356, "Party & Casual": 1.831, "Obby & Platformer": 1.822, "Adventure": 1.124, "Shopping": 0.921, "Other": 0.55, "Social": 0.431, "Puzzle": 0.369, "Entertainment": 0.299}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3107.1,"min_ccu":2359,"max_ccu":3845,"samples":24,"sess":12.87,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6530.0,"min_ccu":4373,"max_ccu":9338,"samples":24,"sess":8.72,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":1902.8,"min_ccu":1208,"max_ccu":2592,"samples":24,"sess":8.53,"sess_h":23.0,"like":92.54},
@@ -286,7 +286,7 @@
 "9125259344":{"name":"My Jail Cell!  (🎃HALLOWEEN!)","avg_ccu":2318.3,"min_ccu":1573,"max_ccu":3100,"samples":24,"sess":12.63,"sess_h":23.0,"like":77.16},
 "9141743926":{"name":"[NOW] Catch a Monster","avg_ccu":3183.0,"min_ccu":2963,"max_ccu":3378,"samples":24,"sess":13.72,"sess_h":23.0,"like":97.82},
 "9145063979":{"name":"⛏️Dig to Escape","avg_ccu":4201.9,"min_ccu":2879,"max_ccu":5715,"samples":24,"sess":9.9,"sess_h":23.0,"like":97.77},
-"9150731899":{"name":"[🍬HALLOWEEN PT 2] PRISON RP","avg_ccu":1460.1,"min_ccu":875,"max_ccu":2288,"samples":24,"sess":31.23,"sess_h":23.0,"like":78.62},
+"9150731899":{"name":"PRISON RP","avg_ccu":1460.1,"min_ccu":875,"max_ccu":2288,"samples":24,"sess":31.23,"sess_h":23.0,"like":78.62},
 "9167377564":{"name":"100 Days At Sea","avg_ccu":13477.8,"min_ccu":9017,"max_ccu":17579,"samples":24,"sess":16.69,"sess_h":23.0,"like":97.1},
 "9237322219":{"name":"[🐍] Jungle Life","avg_ccu":543.9,"min_ccu":303,"max_ccu":770,"samples":24,"sess":10.62,"sess_h":23.0,"like":92.67},
 "9255613188":{"name":"Slide into Freddy Fazbear","avg_ccu":157.2,"min_ccu":82,"max_ccu":217,"samples":15,"sess":6.28,"sess_h":14.0,"like":74.75},
