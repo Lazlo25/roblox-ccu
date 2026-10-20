@@ -1,4 +1,4 @@
-{"date": "2026-10-19", "timezone": "America/New_York", "generated_utc": "2026-10-20T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-20T03:10:00Z", 8668674], "genres": {"Simulation": 42.312, "Survival": 17.05, "Roleplay & Avatar Sim": 12.111, "Action": 7.522, "Shooter": 4.251, "RPG": 4.078, "Sports & Racing": 2.972, "Strategy": 2.356, "Party & Casual": 1.831, "Obby & Platformer": 1.822, "Adventure": 1.124, "Shopping": 0.921, "Other": 0.55, "Social": 0.431, "Puzzle": 0.369, "Entertainment": 0.299}, "genre_hours": 24,"games":{
+{"date": "2026-10-19", "timezone": "America/New_York", "generated_utc": "2026-10-20T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-20T03:10:00Z", 8668674], "genres": {"Simulation": 42.312, "Survival": 17.05, "Roleplay & Avatar Sim": 12.111, "Action": 7.522, "Shooter": 4.251, "RPG": 4.078, "Sports & Racing": 2.972, "Strategy": 2.356, "Party & Casual": 1.831, "Obby & Platformer": 1.822, "Adventure": 1.124, "Shopping": 0.921, "Other": 0.55, "Social": 0.431, "Puzzle": 0.369, "Entertainment": 0.299}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3107.1,"min_ccu":2359,"max_ccu":3845,"samples":24,"sess":12.87,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6530.0,"min_ccu":4373,"max_ccu":9338,"samples":24,"sess":8.72,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":1902.8,"min_ccu":1208,"max_ccu":2592,"samples":24,"sess":8.53,"sess_h":23.0,"like":92.54},
@@ -31,7 +31,7 @@
 "648454481":{"name":"[😀HALLOWEEN PT 2] Grand Piece Online","avg_ccu":13922.7,"min_ccu":12488,"max_ccu":15392,"samples":24,"sess":31.33,"sess_h":23.0,"like":89.82},
 "703124385":{"name":"Tower of Hell","avg_ccu":22944.2,"min_ccu":10029,"max_ccu":41692,"samples":24,"sess":4.06,"sess_h":23.0,"like":73.62},
 "850110028":{"name":"[🎃 HALLOWEEN EVENT] Roanoke, VA Driving RP","avg_ccu":2654.5,"min_ccu":1134,"max_ccu":4615,"samples":24,"sess":14.32,"sess_h":23.0,"like":91.23},
-"892043755":{"name":"[🍀2X] Bubble Gum Simulator","avg_ccu":2493.6,"min_ccu":2075,"max_ccu":3173,"samples":24,"sess":52.77,"sess_h":23.0,"like":88.53},
+"892043755":{"name":"Bubble Gum Simulator","avg_ccu":2493.6,"min_ccu":2075,"max_ccu":3173,"samples":24,"sess":52.77,"sess_h":23.0,"like":88.53},
 "903807016":{"name":"[🗺️] Emergency Response: Liberty County","avg_ccu":4028.5,"min_ccu":1934,"max_ccu":6153,"samples":24,"sess":14.73,"sess_h":23.0,"like":90.81},
 "911750776":{"name":"Broken Bones IV","avg_ccu":1487.5,"min_ccu":828,"max_ccu":2204,"samples":24,"sess":9.41,"sess_h":23.0,"like":88.32},
 "985731078":{"name":"World // Zero 🎃 Anime RPG","avg_ccu":2015.6,"min_ccu":1736,"max_ccu":2268,"samples":24,"sess":38.26,"sess_h":23.0,"like":94.7},
