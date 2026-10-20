@@ -1,4 +1,4 @@
-{"date": "2026-10-19", "timezone": "America/New_York", "generated_utc": "2026-10-20T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-20T03:10:00Z", 8668674], "genres": {"Simulation": 42.312, "Survival": 17.05, "Roleplay & Avatar Sim": 12.111, "Action": 7.522, "Shooter": 4.251, "RPG": 4.078, "Sports & Racing": 2.972, "Strategy": 2.356, "Party & Casual": 1.831, "Obby & Platformer": 1.822, "Adventure": 1.124, "Shopping": 0.921, "Other": 0.55, "Social": 0.431, "Puzzle": 0.369, "Entertainment": 0.299}, "genre_hours": 24,"games":{
+{"date": "2026-10-19", "timezone": "America/New_York", "generated_utc": "2026-10-20T14:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-20T03:10:00Z", 8668674], "genres": {"Simulation": 42.312, "Survival": 17.05, "Roleplay & Avatar Sim": 12.111, "Action": 7.522, "Shooter": 4.251, "RPG": 4.078, "Sports & Racing": 2.972, "Strategy": 2.356, "Party & Casual": 1.831, "Obby & Platformer": 1.822, "Adventure": 1.124, "Shopping": 0.921, "Other": 0.55, "Social": 0.431, "Puzzle": 0.369, "Entertainment": 0.299}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3107.1,"min_ccu":2359,"max_ccu":3845,"samples":24,"sess":12.87,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6530.0,"min_ccu":4373,"max_ccu":9338,"samples":24,"sess":8.72,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":1902.8,"min_ccu":1208,"max_ccu":2592,"samples":24,"sess":8.53,"sess_h":23.0,"like":92.54},
@@ -307,7 +307,7 @@
 "9551044479":{"name":"Final Swarm [DUNGEONS]","avg_ccu":1694.8,"min_ccu":1333,"max_ccu":2226,"samples":24,"sess":12.16,"sess_h":23.0,"like":97.11},
 "9561553764":{"name":"[🎃] Murder Duels","avg_ccu":9972.3,"min_ccu":7633,"max_ccu":12905,"samples":24,"sess":8.92,"sess_h":23.0,"like":93.53},
 "9582986239":{"name":"Fish an Anime RNG 🎲","avg_ccu":1948.9,"min_ccu":0,"max_ccu":3114,"samples":21,"sess":25.52,"sess_h":20.0,"like":95.02},
-"9584852943":{"name":"+1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":61124.2,"min_ccu":32035,"max_ccu":110155,"samples":24,"sess":9.29,"sess_h":23.0,"like":96.81},
+"9584852943":{"name":"X100| +1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":61124.2,"min_ccu":32035,"max_ccu":110155,"samples":24,"sess":9.29,"sess_h":23.0,"like":96.81},
 "9641502068":{"name":"[🪦GRAVEYARD] KNIFE DUELS","avg_ccu":8480.7,"min_ccu":5606,"max_ccu":12429,"samples":24,"sess":8.95,"sess_h":23.0,"like":93.78},
 "9656201728":{"name":"[🎃 HALLOWEEN] Dungeon Lootr","avg_ccu":702.0,"min_ccu":607,"max_ccu":829,"samples":24,"sess":15.1,"sess_h":23.0,"like":95.13},
 "9662130710":{"name":"[⚡UPD] Phonk Slap 🎵","avg_ccu":1087.8,"min_ccu":727,"max_ccu":1588,"samples":24,"sess":9.94,"sess_h":23.0,"like":92.11},
@@ -371,7 +371,7 @@
 "10246108265":{"name":"[🎃] Navy War","avg_ccu":2091.5,"min_ccu":1645,"max_ccu":2660,"samples":24,"sess":23.76,"sess_h":23.0,"like":96.63},
 "10249209189":{"name":"Missiles vs Cities","avg_ccu":797.2,"min_ccu":415,"max_ccu":1226,"samples":24,"sess":13.7,"sess_h":23.0,"like":98.7},
 "10258991999":{"name":"[UPD] Command An Army","avg_ccu":11061.8,"min_ccu":8586,"max_ccu":14231,"samples":24,"sess":21.49,"sess_h":23.0,"like":94.92},
-"10261267004":{"name":"[🎃] Storage Hunters: Open World","avg_ccu":13166.8,"min_ccu":10615,"max_ccu":15607,"samples":24,"sess":29.53,"sess_h":23.0,"like":94.57},
+"10261267004":{"name":"[🍂] Storage Hunters: Open World","avg_ccu":13166.8,"min_ccu":10615,"max_ccu":15607,"samples":24,"sess":29.53,"sess_h":23.0,"like":94.57},
 "10263732883":{"name":"[UPD 2.0] TBOD^2 [Tycoon But One Dropper: SQUARED]","avg_ccu":723.5,"min_ccu":456,"max_ccu":957,"samples":24,"sess":23.5,"sess_h":23.0,"like":84.35},
 "10268960646":{"name":"Untitled Wheelie Game (🚔)","avg_ccu":1493.0,"min_ccu":1120,"max_ccu":1806,"samples":24,"sess":6.51,"sess_h":23.0,"like":94.47},
 "10282097014":{"name":"Pet Store Tycoon","avg_ccu":11321.3,"min_ccu":8074,"max_ccu":14617,"samples":24,"sess":23.96,"sess_h":23.0,"like":95.97},
@@ -599,7 +599,7 @@
 "10767260805":{"name":"+1 Motorcycle Evolution","avg_ccu":1848.9,"min_ccu":1024,"max_ccu":2750,"samples":24,"sess":10.35,"sess_h":23.0,"like":96.74},
 "10767360124":{"name":"Choose the Stronger Animal!","avg_ccu":2332.2,"min_ccu":1330,"max_ccu":4302,"samples":24,"sess":2.55,"sess_h":23.0,"like":62.93},
 "10767380385":{"name":"🎃 Sell Fries! [Anomaly] 🍟","avg_ccu":39914.5,"min_ccu":22863,"max_ccu":57586,"samples":24,"sess":15.13,"sess_h":23.0,"like":82.59},
-"10767386157":{"name":"[CH2]🪵Chop A Forest","avg_ccu":25805.9,"min_ccu":15133,"max_ccu":38852,"samples":24,"sess":18.72,"sess_h":23.0,"like":92.83},
+"10767386157":{"name":"[CH2] 🪵 Chop A Forest","avg_ccu":25805.9,"min_ccu":15133,"max_ccu":38852,"samples":24,"sess":18.72,"sess_h":23.0,"like":92.83},
 "10767389941":{"name":"[W2] +1 Dance Battle Evolution","avg_ccu":2441.5,"min_ccu":1235,"max_ccu":3701,"samples":24,"sess":10.62,"sess_h":23.0,"like":86.39},
 "10767402184":{"name":"[W2] +1 Tackle Evolution","avg_ccu":2651.3,"min_ccu":1769,"max_ccu":3444,"samples":24,"sess":10.42,"sess_h":23.0,"like":86.69},
 "10767408330":{"name":"[🎃] Peel THE Potato","avg_ccu":9810.1,"min_ccu":5743,"max_ccu":13833,"samples":24,"sess":10.21,"sess_h":23.0,"like":95.04},
