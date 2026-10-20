@@ -1,4 +1,4 @@
-{"date": "2026-10-19", "timezone": "America/New_York", "generated_utc": "2026-10-20T03:10:00Z", "through_et": "23:10", "platform_now": ["2026-10-20T03:10:00Z", 8668674], "genres": {"Simulation": 42.312, "Survival": 17.05, "Roleplay & Avatar Sim": 12.111, "Action": 7.522, "Shooter": 4.251, "RPG": 4.078, "Sports & Racing": 2.972, "Strategy": 2.356, "Party & Casual": 1.831, "Obby & Platformer": 1.822, "Adventure": 1.124, "Shopping": 0.921, "Other": 0.55, "Social": 0.431, "Puzzle": 0.369, "Entertainment": 0.299}, "genre_hours": 24,"games":{
+{"date": "2026-10-19", "timezone": "America/New_York", "generated_utc": "2026-10-20T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-20T03:10:00Z", 8668674], "genres": {"Simulation": 42.312, "Survival": 17.05, "Roleplay & Avatar Sim": 12.111, "Action": 7.522, "Shooter": 4.251, "RPG": 4.078, "Sports & Racing": 2.972, "Strategy": 2.356, "Party & Casual": 1.831, "Obby & Platformer": 1.822, "Adventure": 1.124, "Shopping": 0.921, "Other": 0.55, "Social": 0.431, "Puzzle": 0.369, "Entertainment": 0.299}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3107.1,"min_ccu":2359,"max_ccu":3845,"samples":24,"sess":12.87,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6530.0,"min_ccu":4373,"max_ccu":9338,"samples":24,"sess":8.72,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":1902.8,"min_ccu":1208,"max_ccu":2592,"samples":24,"sess":8.53,"sess_h":23.0,"like":92.54},
@@ -313,7 +313,7 @@
 "9662130710":{"name":"[⚡UPD] Phonk Slap 🎵","avg_ccu":1087.8,"min_ccu":727,"max_ccu":1588,"samples":24,"sess":9.94,"sess_h":23.0,"like":92.11},
 "9735583968":{"name":"[UPD] SCP MORPH","avg_ccu":4770.5,"min_ccu":3883,"max_ccu":5798,"samples":24,"sess":10.08,"sess_h":23.0,"like":92.04},
 "9765324104":{"name":"[BIG UPD] Wheelie District 🏍️","avg_ccu":1014.3,"min_ccu":481,"max_ccu":1576,"samples":24,"sess":9.72,"sess_h":23.0,"like":91.44},
-"9788139379":{"name":"[UPD]BreakDoor","avg_ccu":1641.4,"min_ccu":1253,"max_ccu":2080,"samples":24,"sess":14.46,"sess_h":23.0,"like":88.83},
+"9788139379":{"name":"BreakDoor","avg_ccu":1641.4,"min_ccu":1253,"max_ccu":2080,"samples":24,"sess":14.46,"sess_h":23.0,"like":88.83},
 "9796898051":{"name":"Drill to Earth’s Core 🎃👻","avg_ccu":11111.6,"min_ccu":8240,"max_ccu":16112,"samples":24,"sess":23.39,"sess_h":23.0,"like":92.25},
 "9811924734":{"name":"كيبورد العرب | Arabian Keyboard +1","avg_ccu":276.8,"min_ccu":57,"max_ccu":692,"samples":24,"sess":5.71,"sess_h":23.0,"like":91.03},
 "9826885587":{"name":"Evomon[S3 TRADE]","avg_ccu":3309.5,"min_ccu":2753,"max_ccu":4141,"samples":24,"sess":25.24,"sess_h":23.0,"like":97.19},
