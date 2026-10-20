@@ -1,4 +1,4 @@
-{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-20T00:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
+{"date": "2026-10-18", "timezone": "America/New_York", "generated_utc": "2026-10-20T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-19T03:10:00Z", 9492813], "genres": {"Simulation": 40.463, "Survival": 17.06, "Roleplay & Avatar Sim": 13.149, "Action": 7.801, "Shooter": 4.677, "RPG": 4.138, "Sports & Racing": 3.15, "Strategy": 2.105, "Party & Casual": 1.849, "Obby & Platformer": 1.802, "Adventure": 1.269, "Shopping": 0.93, "Other": 0.523, "Puzzle": 0.403, "Entertainment": 0.372, "Social": 0.308}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4912.8,"min_ccu":3232,"max_ccu":6198,"samples":24,"sess":13.26,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9330.0,"min_ccu":6429,"max_ccu":12614,"samples":24,"sess":8.49,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":3394.3,"min_ccu":1540,"max_ccu":4672,"samples":24,"sess":8.75,"sess_h":23.0,"like":92.54},
@@ -101,7 +101,7 @@
 "3419284255":{"name":"Peroxide [Update!]","avg_ccu":2378.1,"min_ccu":1852,"max_ccu":2951,"samples":24,"sess":19.89,"sess_h":23.0,"like":90.86},
 "3457700596":{"name":"[OPE V2] Fruit Battlegrounds","avg_ccu":2714.8,"min_ccu":2238,"max_ccu":3292,"samples":24,"sess":18.37,"sess_h":23.0,"like":89.75},
 "3508322461":{"name":"[SKY ASSASSIN] Jujutsu Shenanigans","avg_ccu":141219.8,"min_ccu":90535,"max_ccu":185853,"samples":24,"sess":14.48,"sess_h":23.0,"like":86.16},
-"3541611379":{"name":"50% BOOST TB II | Tower Defense X: BETA","avg_ccu":5035.3,"min_ccu":2867,"max_ccu":6498,"samples":24,"sess":15.25,"sess_h":23.0,"like":94.29},
+"3541611379":{"name":"TB II | Tower Defense X: BETA","avg_ccu":5035.3,"min_ccu":2867,"max_ccu":6498,"samples":24,"sess":15.25,"sess_h":23.0,"like":94.29},
 "3647333358":{"name":"[🎃HLWN] Evade","avg_ccu":84350.8,"min_ccu":47498,"max_ccu":112989,"samples":24,"sess":14.3,"sess_h":23.0,"like":93.9},
 "3730079862":{"name":"Examination","avg_ccu":4822.6,"min_ccu":2875,"max_ccu":6004,"samples":24,"sess":17.35,"sess_h":23.0,"like":91.97},
 "3734304510":{"name":"South Bronx: The Trenches❗","avg_ccu":1940.5,"min_ccu":903,"max_ccu":2636,"samples":24,"sess":17.81,"sess_h":23.0,"like":84.61},
@@ -476,7 +476,7 @@
 "10739137760":{"name":"[🎃] The Cosalazo 2","avg_ccu":5079.1,"min_ccu":495,"max_ccu":8437,"samples":24,"sess":12.93,"sess_h":23.0,"like":92.54},
 "10739283055":{"name":"+1 Jump Squishy ASMR Escape!","avg_ccu":2983.0,"min_ccu":1440,"max_ccu":4239,"samples":24,"sess":10.18,"sess_h":23.0,"like":98.37},
 "10740316645":{"name":"⛏️ My Anime Mine","avg_ccu":12997.2,"min_ccu":10866,"max_ccu":14905,"samples":24,"sess":23.72,"sess_h":23.0,"like":98.91},
-"10741302505":{"name":"Collect 1 Million Items [✨]","avg_ccu":2401.4,"min_ccu":1176,"max_ccu":3108,"samples":24,"sess":15.17,"sess_h":23.0,"like":97.92},
+"10741302505":{"name":"[🌍WORLD 3] Collect 1 Million Items","avg_ccu":2401.4,"min_ccu":1176,"max_ccu":3108,"samples":24,"sess":15.17,"sess_h":23.0,"like":97.92},
 "10741514942":{"name":"Renovate A House","avg_ccu":8253.2,"min_ccu":6008,"max_ccu":11624,"samples":24,"sess":18.34,"sess_h":23.0,"like":83.07},
 "10741654282":{"name":"Build and Kill Zombies","avg_ccu":11727.5,"min_ccu":6179,"max_ccu":15890,"samples":24,"sess":21.44,"sess_h":23.0,"like":98.0},
 "10741792653":{"name":"Survive The Swarm [GUILDS]","avg_ccu":2960.4,"min_ccu":2161,"max_ccu":3950,"samples":24,"sess":11.09,"sess_h":23.0,"like":96.75},
@@ -531,7 +531,7 @@
 "10765007812":{"name":"Steal and Fish","avg_ccu":6692.6,"min_ccu":3389,"max_ccu":15972,"samples":24,"sess":15.73,"sess_h":23.0,"like":95.37},
 "10765012427":{"name":"[🎃] Build the Pyramid!","avg_ccu":11737.3,"min_ccu":7042,"max_ccu":15526,"samples":24,"sess":15.59,"sess_h":23.0,"like":94.75},
 "10765013362":{"name":"🎃 Dig For Eggs","avg_ccu":8207.1,"min_ccu":6269,"max_ccu":10068,"samples":24,"sess":22.73,"sess_h":23.0,"like":90.48},
-"10765067592":{"name":"[UPD8] Tower Incremental","avg_ccu":3671.6,"min_ccu":2735,"max_ccu":4875,"samples":24,"sess":26.48,"sess_h":23.0,"like":89.12},
+"10765067592":{"name":"[UPD9] Tower Incremental","avg_ccu":3671.6,"min_ccu":2735,"max_ccu":4875,"samples":24,"sess":26.48,"sess_h":23.0,"like":89.12},
 "10765091041":{"name":"Open Sea For Animals!","avg_ccu":3192.3,"min_ccu":1726,"max_ccu":4577,"samples":24,"sess":14.65,"sess_h":23.0,"like":97.41},
 "10765122642":{"name":"Country Battles 🥊💪","avg_ccu":8504.5,"min_ccu":4804,"max_ccu":13096,"samples":24,"sess":11.41,"sess_h":23.0,"like":94.74},
 "10765153945":{"name":"[🎃] Steal A Car","avg_ccu":5578.5,"min_ccu":3044,"max_ccu":7247,"samples":24,"sess":14.0,"sess_h":23.0,"like":89.71},
