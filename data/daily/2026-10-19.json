@@ -1,4 +1,4 @@
-{"date": "2026-10-19", "timezone": "America/New_York", "generated_utc": "2026-10-20T20:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-20T03:10:00Z", 8668674], "genres": {"Simulation": 42.312, "Survival": 17.05, "Roleplay & Avatar Sim": 12.111, "Action": 7.522, "Shooter": 4.251, "RPG": 4.078, "Sports & Racing": 2.972, "Strategy": 2.356, "Party & Casual": 1.831, "Obby & Platformer": 1.822, "Adventure": 1.124, "Shopping": 0.921, "Other": 0.55, "Social": 0.431, "Puzzle": 0.369, "Entertainment": 0.299}, "genre_hours": 24,"games":{
+{"date": "2026-10-19", "timezone": "America/New_York", "generated_utc": "2026-10-20T21:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-20T03:10:00Z", 8668674], "genres": {"Simulation": 42.312, "Survival": 17.05, "Roleplay & Avatar Sim": 12.111, "Action": 7.522, "Shooter": 4.251, "RPG": 4.078, "Sports & Racing": 2.972, "Strategy": 2.356, "Party & Casual": 1.831, "Obby & Platformer": 1.822, "Adventure": 1.124, "Shopping": 0.921, "Other": 0.55, "Social": 0.431, "Puzzle": 0.369, "Entertainment": 0.299}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3107.1,"min_ccu":2359,"max_ccu":3845,"samples":24,"sess":12.87,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6530.0,"min_ccu":4373,"max_ccu":9338,"samples":24,"sess":8.72,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":1902.8,"min_ccu":1208,"max_ccu":2592,"samples":24,"sess":8.53,"sess_h":23.0,"like":92.54},
@@ -218,7 +218,7 @@
 "6931042565":{"name":"[UPD] Volleyball Legends","avg_ccu":42006.9,"min_ccu":33182,"max_ccu":52018,"samples":24,"sess":13.02,"sess_h":23.0,"like":95.16},
 "6945584306":{"name":"[HITBOX CHANGES 🛜] Azure Latch","avg_ccu":8024.2,"min_ccu":4182,"max_ccu":12125,"samples":24,"sess":16.31,"sess_h":23.0,"like":96.77},
 "7008097940":{"name":"[⚔️] Ink Game","avg_ccu":9133.0,"min_ccu":6903,"max_ccu":11023,"samples":24,"sess":14.36,"sess_h":23.0,"like":79.21},
-"7018190066":{"name":"Dead Rails","avg_ccu":10757.7,"min_ccu":9217,"max_ccu":12371,"samples":24,"sess":15.72,"sess_h":23.0,"like":92.56},
+"7018190066":{"name":"[👻EVENT] Dead Rails","avg_ccu":10757.7,"min_ccu":9217,"max_ccu":12371,"samples":24,"sess":15.72,"sess_h":23.0,"like":92.56},
 "7028566528":{"name":"[🦇VAMPIRE🐎] Basketball: Zero","avg_ccu":7305.8,"min_ccu":6008,"max_ccu":8232,"samples":24,"sess":16.59,"sess_h":23.0,"like":98.28},
 "7058980030":{"name":"[🎃] Survive Overnight in a Mega Store","avg_ccu":3945.0,"min_ccu":3052,"max_ccu":4678,"samples":24,"sess":9.38,"sess_h":23.0,"like":95.17},
 "7089588429":{"name":"(WHEELIE STYLE x BIG UPDATE) Drag Drive Simulator","avg_ccu":12630.8,"min_ccu":1405,"max_ccu":26046,"samples":24,"sess":11.07,"sess_h":23.0,"like":95.6},
@@ -412,7 +412,7 @@
 "10475794799":{"name":"Dig & Clean 🧼","avg_ccu":1746.0,"min_ccu":1089,"max_ccu":2468,"samples":24,"sess":14.7,"sess_h":23.0,"like":96.48},
 "10485201326":{"name":"[2X] +1 Power Per Click","avg_ccu":2866.1,"min_ccu":2333,"max_ccu":3440,"samples":24,"sess":19.75,"sess_h":23.0,"like":95.23},
 "10501944811":{"name":"[🎃UPD] Beat the Anime Boss","avg_ccu":1251.4,"min_ccu":1103,"max_ccu":1408,"samples":24,"sess":23.65,"sess_h":23.0,"like":98.83},
-"10502841145":{"name":"[TRAINING] Anime Astral Simulator","avg_ccu":10115.3,"min_ccu":9192,"max_ccu":10706,"samples":24,"sess":22.02,"sess_h":23.0,"like":96.54},
+"10502841145":{"name":"[MAFUBA] Anime Astral Simulator","avg_ccu":10115.3,"min_ccu":9192,"max_ccu":10706,"samples":24,"sess":22.02,"sess_h":23.0,"like":96.54},
 "10508386614":{"name":"[UPD 1] Arasaka Academy | Cyberpunk","avg_ccu":256.3,"min_ccu":149,"max_ccu":384,"samples":24,"sess":13.33,"sess_h":23.0,"like":95.46},
 "10512942223":{"name":"Anime Zero [SOLAR RADIANCE ☀️]","avg_ccu":18728.6,"min_ccu":13677,"max_ccu":25642,"samples":24,"sess":13.57,"sess_h":23.0,"like":97.43},
 "10526627977":{"name":"Route Zero [HALLOWEEN UPDATE!]","avg_ccu":2736.5,"min_ccu":1316,"max_ccu":3905,"samples":24,"sess":7.14,"sess_h":23.0,"like":72.28},
@@ -664,7 +664,7 @@
 "10768845402":{"name":"RoChess!","avg_ccu":3265.4,"min_ccu":1931,"max_ccu":4371,"samples":24,"sess":3.38,"sess_h":23.0,"like":71.29},
 "10768861336":{"name":"🌊 UNDERWATER ALIEN PRISON RUN! (Obby)","avg_ccu":1265.7,"min_ccu":923,"max_ccu":1845,"samples":24,"sess":7.8,"sess_h":23.0,"like":77.78},
 "10768861430":{"name":"DIVINE HATCHERS 0.0001% [NEW!]","avg_ccu":5098.4,"min_ccu":3853,"max_ccu":7567,"samples":24,"sess":8.85,"sess_h":23.0,"like":89.85},
-"10768866246":{"name":"[🎃RALLY] WRONG WAY!","avg_ccu":5387.8,"min_ccu":2774,"max_ccu":8747,"samples":24,"sess":8.63,"sess_h":23.0,"like":90.01},
+"10768866246":{"name":"[ANOMALY RALLY] WRONG WAY!","avg_ccu":5387.8,"min_ccu":2774,"max_ccu":8747,"samples":24,"sess":8.63,"sess_h":23.0,"like":90.01},
 "10768910559":{"name":"🎃 IT WANTS IN [HORROR]","avg_ccu":2169.1,"min_ccu":1100,"max_ccu":3206,"samples":24,"sess":10.31,"sess_h":23.0,"like":73.42},
 "10768928887":{"name":"Hanamushi's Doll Adventure","avg_ccu":2406.2,"min_ccu":1762,"max_ccu":2930,"samples":24,"sess":12.22,"sess_h":23.0,"like":98.08},
 "10768943703":{"name":"[RACING UPDATE] Rally With a Friend","avg_ccu":934.0,"min_ccu":380,"max_ccu":1431,"samples":24,"sess":5.05,"sess_h":23.0,"like":77.55},
