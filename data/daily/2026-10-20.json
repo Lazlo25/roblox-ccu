@@ -1,4 +1,4 @@
-{"date": "2026-10-20", "timezone": "America/New_York", "generated_utc": "2026-10-21T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-21T03:10:00Z", 8694099], "genres": {"Simulation": 41.92, "Survival": 18.564, "Roleplay & Avatar Sim": 11.385, "Action": 7.501, "Shooter": 4.164, "RPG": 3.855, "Sports & Racing": 2.95, "Strategy": 2.384, "Obby & Platformer": 1.951, "Party & Casual": 1.72, "Adventure": 1.089, "Shopping": 0.903, "Other": 0.518, "Social": 0.425, "Puzzle": 0.408, "Entertainment": 0.264}, "genre_hours": 24,"games":{
+{"date": "2026-10-20", "timezone": "America/New_York", "generated_utc": "2026-10-21T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-21T03:10:00Z", 8694099], "genres": {"Simulation": 41.92, "Survival": 18.564, "Roleplay & Avatar Sim": 11.385, "Action": 7.501, "Shooter": 4.164, "RPG": 3.855, "Sports & Racing": 2.95, "Strategy": 2.384, "Obby & Platformer": 1.951, "Party & Casual": 1.72, "Adventure": 1.089, "Shopping": 0.903, "Other": 0.518, "Social": 0.425, "Puzzle": 0.408, "Entertainment": 0.264}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3031.6,"min_ccu":2355,"max_ccu":3824,"samples":24,"sess":12.74,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6013.2,"min_ccu":4230,"max_ccu":8277,"samples":24,"sess":8.69,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":1781.9,"min_ccu":1112,"max_ccu":2382,"samples":24,"sess":8.22,"sess_h":23.0,"like":92.53},
@@ -282,7 +282,7 @@
 "8964956538":{"name":"[⚔️ABILITIES] Steel Crossfire","avg_ccu":1934.6,"min_ccu":1458,"max_ccu":2713,"samples":24,"sess":9.35,"sess_h":23.0,"like":96.94},
 "8965717730":{"name":"100 Player Lava Escape 🔥","avg_ccu":2281.8,"min_ccu":1401,"max_ccu":3513,"samples":24,"sess":9.17,"sess_h":23.0,"like":77.0},
 "9051406594":{"name":"Dueling Grounds ⚔️","avg_ccu":6339.2,"min_ccu":5020,"max_ccu":7873,"samples":24,"sess":6.17,"sess_h":23.0,"like":96.4},
-"9073513091":{"name":"[12H!] Anime Apocalypse","avg_ccu":1319.7,"min_ccu":1086,"max_ccu":1543,"samples":24,"sess":10.12,"sess_h":23.0,"like":95.31},
+"9073513091":{"name":"[8H!] Anime Apocalypse","avg_ccu":1319.7,"min_ccu":1086,"max_ccu":1543,"samples":24,"sess":10.12,"sess_h":23.0,"like":95.31},
 "9091734830":{"name":"[SEASON 1] The: Bronx Duels🐍","avg_ccu":322.5,"min_ccu":142,"max_ccu":580,"samples":24,"sess":5.39,"sess_h":23.0,"like":83.43},
 "9098570654":{"name":"🧟 Survive the Apocalypse","avg_ccu":5522.9,"min_ccu":4292,"max_ccu":7856,"samples":24,"sess":23.69,"sess_h":23.0,"like":94.12},
 "9112256336":{"name":"Scream City 2 🎃","avg_ccu":517.2,"min_ccu":216,"max_ccu":930,"samples":24,"sess":15.57,"sess_h":23.0,"like":84.02},
@@ -496,7 +496,7 @@
 "10757247806":{"name":"Build and Conquer [V0.1]","avg_ccu":2612.0,"min_ccu":1596,"max_ccu":3853,"samples":24,"sess":21.3,"sess_h":23.0,"like":85.3},
 "10757704931":{"name":"[W4🎃] +1 Soldier Evolution","avg_ccu":860.3,"min_ccu":580,"max_ccu":1186,"samples":24,"sess":18.66,"sess_h":23.0,"like":97.63},
 "10758824872":{"name":"[☄️] Ride a Dino","avg_ccu":16800.0,"min_ccu":10789,"max_ccu":21847,"samples":24,"sess":19.57,"sess_h":23.0,"like":98.18},
-"10758912149":{"name":"[🎃FPS 2X] +1 Sword Loot Monarch","avg_ccu":2167.9,"min_ccu":1585,"max_ccu":2785,"samples":24,"sess":25.65,"sess_h":23.0,"like":93.86},
+"10758912149":{"name":"[🎃FPS] +1 Sword Loot Monarch","avg_ccu":2167.9,"min_ccu":1585,"max_ccu":2785,"samples":24,"sess":25.65,"sess_h":23.0,"like":93.86},
 "10759337137":{"name":"🎃 Last Stop [Beta]","avg_ccu":1941.3,"min_ccu":1484,"max_ccu":2748,"samples":24,"sess":14.3,"sess_h":23.0,"like":97.13},
 "10759430423":{"name":"[W7] +1 Chop Trees for Treasure","avg_ccu":3243.8,"min_ccu":2525,"max_ccu":4444,"samples":24,"sess":28.68,"sess_h":23.0,"like":96.24},
 "10759478428":{"name":"Steal Anime Eggs","avg_ccu":968.7,"min_ccu":694,"max_ccu":1297,"samples":24,"sess":14.96,"sess_h":23.0,"like":98.06},
