@@ -1,4 +1,4 @@
-{"date": "2026-10-20", "timezone": "America/New_York", "generated_utc": "2026-10-21T03:10:00Z", "through_et": "23:10", "platform_now": ["2026-10-21T03:10:00Z", 8694099], "genres": {"Simulation": 41.92, "Survival": 18.564, "Roleplay & Avatar Sim": 11.385, "Action": 7.501, "Shooter": 4.164, "RPG": 3.855, "Sports & Racing": 2.95, "Strategy": 2.384, "Obby & Platformer": 1.951, "Party & Casual": 1.72, "Adventure": 1.089, "Shopping": 0.903, "Other": 0.518, "Social": 0.425, "Puzzle": 0.408, "Entertainment": 0.264}, "genre_hours": 24,"games":{
+{"date": "2026-10-20", "timezone": "America/New_York", "generated_utc": "2026-10-21T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-21T03:10:00Z", 8694099], "genres": {"Simulation": 41.92, "Survival": 18.564, "Roleplay & Avatar Sim": 11.385, "Action": 7.501, "Shooter": 4.164, "RPG": 3.855, "Sports & Racing": 2.95, "Strategy": 2.384, "Obby & Platformer": 1.951, "Party & Casual": 1.72, "Adventure": 1.089, "Shopping": 0.903, "Other": 0.518, "Social": 0.425, "Puzzle": 0.408, "Entertainment": 0.264}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3031.6,"min_ccu":2355,"max_ccu":3824,"samples":24,"sess":12.74,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6013.2,"min_ccu":4230,"max_ccu":8277,"samples":24,"sess":8.69,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":1781.9,"min_ccu":1112,"max_ccu":2382,"samples":24,"sess":8.22,"sess_h":23.0,"like":92.53},
@@ -325,7 +325,7 @@
 "9872734936":{"name":"[BODYKIT] Junk Mechanics","avg_ccu":4124.8,"min_ccu":2908,"max_ccu":5140,"samples":24,"sess":14.65,"sess_h":23.0,"like":88.16},
 "9880286438":{"name":"[🍀2x Luck] Legacy Piece","avg_ccu":4820.7,"min_ccu":4084,"max_ccu":5361,"samples":24,"sess":27.59,"sess_h":23.0,"like":96.93},
 "9885372266":{"name":"Unseen Liminality","avg_ccu":2695.0,"min_ccu":1613,"max_ccu":3915,"samples":24,"sess":14.83,"sess_h":23.0,"like":93.74},
-"9891331827":{"name":"Clover Time [BLOOD GRIMOIRE]","avg_ccu":3300.8,"min_ccu":2352,"max_ccu":3997,"samples":24,"sess":16.89,"sess_h":23.0,"like":97.31},
+"9891331827":{"name":"Clover Time [CRIMSON GRIMOIRE]","avg_ccu":3300.8,"min_ccu":2352,"max_ccu":3997,"samples":24,"sess":16.89,"sess_h":23.0,"like":97.31},
 "9908641400":{"name":"Football Fusion 3","avg_ccu":2742.2,"min_ccu":382,"max_ccu":8975,"samples":24,"sess":9.75,"sess_h":23.0,"like":82.58},
 "9910245722":{"name":"Iron Soul: Dungeon","avg_ccu":1841.4,"min_ccu":1375,"max_ccu":2499,"samples":24,"sess":7.96,"sess_h":23.0,"like":98.12},
 "9931749389":{"name":"[GILDED SKIES] Dungeon Quest Reborn","avg_ccu":7154.5,"min_ccu":5440,"max_ccu":8783,"samples":24,"sess":15.01,"sess_h":23.0,"like":96.44},
@@ -554,7 +554,7 @@
 "10765618402":{"name":"Steel Fighters","avg_ccu":12784.0,"min_ccu":10844,"max_ccu":13903,"samples":8,"sess":17.7,"sess_h":7.0,"like":90.95},
 "10765629147":{"name":"Skate for Animals!","avg_ccu":3500.9,"min_ccu":1726,"max_ccu":5419,"samples":24,"sess":12.19,"sess_h":23.0,"like":84.74},
 "10765635650":{"name":"Impossible Animals","avg_ccu":1850.6,"min_ccu":1515,"max_ccu":2431,"samples":24,"sess":16.41,"sess_h":23.0,"like":98.79},
-"10765637643":{"name":"☠️ Bubble an EXE Egg","avg_ccu":1523.7,"min_ccu":753,"max_ccu":2432,"samples":24,"sess":7.18,"sess_h":23.0,"like":89.85},
+"10765637643":{"name":"☠️ Steal an EXE Egg ☠️","avg_ccu":1523.7,"min_ccu":753,"max_ccu":2432,"samples":24,"sess":7.18,"sess_h":23.0,"like":89.85},
 "10765686447":{"name":"Steal ASMR!","avg_ccu":6615.0,"min_ccu":4777,"max_ccu":8811,"samples":24,"sess":12.54,"sess_h":23.0,"like":94.66},
 "10765703059":{"name":"🎃HALLOWEEN Would You Rather: Style Contest Tower","avg_ccu":2466.0,"min_ccu":1507,"max_ccu":3148,"samples":24,"sess":6.34,"sess_h":23.0,"like":62.24},
 "10765751583":{"name":"Voltline: Realistic E-Scooter Simulator [Beta]","avg_ccu":1429.0,"min_ccu":518,"max_ccu":2699,"samples":24,"sess":7.24,"sess_h":23.0,"like":85.39},
@@ -563,7 +563,7 @@
 "10765902945":{"name":"[UPDATE 2.5] Anime Legacy Simulator","avg_ccu":10230.2,"min_ccu":9726,"max_ccu":10725,"samples":24,"sess":31.88,"sess_h":23.0,"like":96.28},
 "10765906597":{"name":"[🎃] Clean all the Balls","avg_ccu":449.6,"min_ccu":231,"max_ccu":723,"samples":16,"sess":12.59,"sess_h":15.0,"like":95.1},
 "10765907187":{"name":"[🎃] Drive An Egg","avg_ccu":2065.0,"min_ccu":1162,"max_ccu":3178,"samples":24,"sess":13.59,"sess_h":23.0,"like":86.79},
-"10765938934":{"name":"[🎉UPDATE] Roll A Stickman!","avg_ccu":5040.5,"min_ccu":4125,"max_ccu":5664,"samples":24,"sess":21.38,"sess_h":23.0,"like":94.67},
+"10765938934":{"name":"[🎃UPDATE] Roll A Stickman!","avg_ccu":5040.5,"min_ccu":4125,"max_ccu":5664,"samples":24,"sess":21.38,"sess_h":23.0,"like":94.67},
 "10765950109":{"name":"Steal A Baddie Egg!","avg_ccu":1774.0,"min_ccu":1358,"max_ccu":2208,"samples":24,"sess":15.46,"sess_h":23.0,"like":86.88},
 "10765969301":{"name":"[⛩️JAPAN] Travel Simulator","avg_ccu":2463.9,"min_ccu":1532,"max_ccu":3507,"samples":24,"sess":12.36,"sess_h":23.0,"like":81.78},
 "10766008884":{"name":"Clone to Steal Eggs","avg_ccu":2052.1,"min_ccu":1415,"max_ccu":2699,"samples":24,"sess":13.59,"sess_h":23.0,"like":97.36},
