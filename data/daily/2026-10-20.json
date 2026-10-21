@@ -1,4 +1,4 @@
-{"date": "2026-10-20", "timezone": "America/New_York", "generated_utc": "2026-10-21T21:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-21T03:10:00Z", 8694099], "genres": {"Simulation": 41.92, "Survival": 18.564, "Roleplay & Avatar Sim": 11.385, "Action": 7.501, "Shooter": 4.164, "RPG": 3.855, "Sports & Racing": 2.95, "Strategy": 2.384, "Obby & Platformer": 1.951, "Party & Casual": 1.72, "Adventure": 1.089, "Shopping": 0.903, "Other": 0.518, "Social": 0.425, "Puzzle": 0.408, "Entertainment": 0.264}, "genre_hours": 24,"games":{
+{"date": "2026-10-20", "timezone": "America/New_York", "generated_utc": "2026-10-21T22:10:01Z", "through_et": "24:00", "platform_now": ["2026-10-21T03:10:00Z", 8694099], "genres": {"Simulation": 41.92, "Survival": 18.564, "Roleplay & Avatar Sim": 11.385, "Action": 7.501, "Shooter": 4.164, "RPG": 3.855, "Sports & Racing": 2.95, "Strategy": 2.384, "Obby & Platformer": 1.951, "Party & Casual": 1.72, "Adventure": 1.089, "Shopping": 0.903, "Other": 0.518, "Social": 0.425, "Puzzle": 0.408, "Entertainment": 0.264}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3031.6,"min_ccu":2355,"max_ccu":3824,"samples":24,"sess":12.74,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6013.2,"min_ccu":4230,"max_ccu":8277,"samples":24,"sess":8.69,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":1781.9,"min_ccu":1112,"max_ccu":2382,"samples":24,"sess":8.22,"sess_h":23.0,"like":92.53},
@@ -682,7 +682,7 @@
 "10769299093":{"name":"[🎃] What's the Time, Mr. Fox?","avg_ccu":670.4,"min_ccu":331,"max_ccu":1279,"samples":24,"sess":6.71,"sess_h":23.0,"like":68.55},
 "10769324921":{"name":"Makeup All Stars [NEW THEMES]💄","avg_ccu":2960.3,"min_ccu":1348,"max_ccu":5257,"samples":24,"sess":8.73,"sess_h":23.0,"like":83.15},
 "10769374148":{"name":"VANITY [Realistic Makeup Studio] ALL AGES!!!","avg_ccu":1787.1,"min_ccu":840,"max_ccu":2803,"samples":24,"sess":11.18,"sess_h":23.0,"like":80.22},
-"10769384180":{"name":"Fake an Egg","avg_ccu":11899.4,"min_ccu":7518,"max_ccu":18002,"samples":24,"sess":11.08,"sess_h":23.0,"like":88.69},
+"10769384180":{"name":"[NOW] Fake an Egg","avg_ccu":11899.4,"min_ccu":7518,"max_ccu":18002,"samples":24,"sess":11.08,"sess_h":23.0,"like":88.69},
 "10769401598":{"name":"🔥 LAVA MODE PRISON RUN ESCAPE! (Obby)","avg_ccu":1312.9,"min_ccu":1022,"max_ccu":1812,"samples":24,"sess":7.3,"sess_h":23.0,"like":61.95},
 "10769415620":{"name":"🧪Realistic Phone Drop Test","avg_ccu":9323.8,"min_ccu":5570,"max_ccu":13227,"samples":24,"sess":10.96,"sess_h":23.0,"like":90.59},
 "10769464063":{"name":"[🌍WORLD 2] +1 Venom Evolution","avg_ccu":10992.1,"min_ccu":4308,"max_ccu":22929,"samples":24,"sess":13.39,"sess_h":23.0,"like":96.59},
