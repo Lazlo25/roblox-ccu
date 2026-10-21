@@ -1,4 +1,4 @@
-{"date": "2026-10-20", "timezone": "America/New_York", "generated_utc": "2026-10-21T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-21T03:10:00Z", 8694099], "genres": {"Simulation": 41.92, "Survival": 18.564, "Roleplay & Avatar Sim": 11.385, "Action": 7.501, "Shooter": 4.164, "RPG": 3.855, "Sports & Racing": 2.95, "Strategy": 2.384, "Obby & Platformer": 1.951, "Party & Casual": 1.72, "Adventure": 1.089, "Shopping": 0.903, "Other": 0.518, "Social": 0.425, "Puzzle": 0.408, "Entertainment": 0.264}, "genre_hours": 24,"games":{
+{"date": "2026-10-20", "timezone": "America/New_York", "generated_utc": "2026-10-21T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-21T03:10:00Z", 8694099], "genres": {"Simulation": 41.92, "Survival": 18.564, "Roleplay & Avatar Sim": 11.385, "Action": 7.501, "Shooter": 4.164, "RPG": 3.855, "Sports & Racing": 2.95, "Strategy": 2.384, "Obby & Platformer": 1.951, "Party & Casual": 1.72, "Adventure": 1.089, "Shopping": 0.903, "Other": 0.518, "Social": 0.425, "Puzzle": 0.408, "Entertainment": 0.264}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3031.6,"min_ccu":2355,"max_ccu":3824,"samples":24,"sess":12.74,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6013.2,"min_ccu":4230,"max_ccu":8277,"samples":24,"sess":8.69,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":1781.9,"min_ccu":1112,"max_ccu":2382,"samples":24,"sess":8.22,"sess_h":23.0,"like":92.53},
@@ -310,7 +310,7 @@
 "9551044479":{"name":"Final Swarm [DUNGEONS]","avg_ccu":1289.4,"min_ccu":979,"max_ccu":1671,"samples":24,"sess":11.48,"sess_h":23.0,"like":97.1},
 "9561553764":{"name":"[🎃] Murder Duels","avg_ccu":9341.4,"min_ccu":7186,"max_ccu":12083,"samples":24,"sess":9.02,"sess_h":23.0,"like":93.53},
 "9582986239":{"name":"Fish an Anime RNG 🎲","avg_ccu":2389.7,"min_ccu":2300,"max_ccu":2595,"samples":13,"sess":23.88,"sess_h":23.0,"like":95.03},
-"9584852943":{"name":"+1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":52690.0,"min_ccu":25980,"max_ccu":94869,"samples":24,"sess":8.9,"sess_h":23.0,"like":96.81},
+"9584852943":{"name":"[X20] +1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":52690.0,"min_ccu":25980,"max_ccu":94869,"samples":24,"sess":8.9,"sess_h":23.0,"like":96.81},
 "9641502068":{"name":"[🪦GRAVEYARD] KNIFE DUELS","avg_ccu":7996.1,"min_ccu":5053,"max_ccu":12093,"samples":24,"sess":8.93,"sess_h":23.0,"like":93.78},
 "9656201728":{"name":"[🎃 HALLOWEEN] Dungeon Lootr","avg_ccu":589.2,"min_ccu":528,"max_ccu":710,"samples":24,"sess":16.48,"sess_h":23.0,"like":95.12},
 "9662130710":{"name":"[⚡UPD] Phonk Slap 🎵","avg_ccu":941.6,"min_ccu":552,"max_ccu":1547,"samples":24,"sess":9.89,"sess_h":23.0,"like":92.1},
@@ -600,7 +600,7 @@
 "10767402184":{"name":"[W2] +1 Tackle Evolution","avg_ccu":2252.2,"min_ccu":1467,"max_ccu":3209,"samples":24,"sess":10.66,"sess_h":23.0,"like":86.88},
 "10767408330":{"name":"[🎃] Peel THE Potato","avg_ccu":8723.6,"min_ccu":5468,"max_ccu":13027,"samples":24,"sess":9.99,"sess_h":23.0,"like":95.04},
 "10767532734":{"name":"[UPD]Verity Evolution","avg_ccu":833.4,"min_ccu":620,"max_ccu":1075,"samples":7,"sess":16.73,"sess_h":6.0,"like":96.19},
-"10767538034":{"name":"Pogo For Animals","avg_ccu":1936.5,"min_ccu":614,"max_ccu":3627,"samples":24,"sess":11.55,"sess_h":23.0,"like":94.22},
+"10767538034":{"name":"🪐Pogo For Animals","avg_ccu":1936.5,"min_ccu":614,"max_ccu":3627,"samples":24,"sess":11.55,"sess_h":23.0,"like":94.22},
 "10767566226":{"name":"Don't Steal My Eggs!","avg_ccu":8318.5,"min_ccu":6646,"max_ccu":10878,"samples":24,"sess":13.2,"sess_h":23.0,"like":95.19},
 "10767567751":{"name":"Bunker vs Verity","avg_ccu":15291.1,"min_ccu":10208,"max_ccu":23032,"samples":24,"sess":19.8,"sess_h":23.0,"like":82.47},
 "10767581765":{"name":"[✍️]DRAW SPELLS MAGIC ARENA","avg_ccu":2665.3,"min_ccu":1275,"max_ccu":4684,"samples":24,"sess":5.09,"sess_h":23.0,"like":89.26},
