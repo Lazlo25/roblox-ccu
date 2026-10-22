@@ -1,4 +1,4 @@
-{"date": "2026-10-21", "timezone": "America/New_York", "generated_utc": "2026-10-22T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-22T03:10:00Z", 8777146], "genres": {"Simulation": 41.509, "Survival": 19.709, "Roleplay & Avatar Sim": 10.78, "Action": 7.439, "Shooter": 4.09, "RPG": 3.675, "Sports & Racing": 2.924, "Strategy": 2.328, "Obby & Platformer": 1.909, "Party & Casual": 1.827, "Adventure": 1.243, "Shopping": 0.888, "Other": 0.593, "Puzzle": 0.43, "Social": 0.412, "Entertainment": 0.246}, "genre_hours": 24,"games":{
+{"date": "2026-10-21", "timezone": "America/New_York", "generated_utc": "2026-10-22T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-22T03:10:00Z", 8777146], "genres": {"Simulation": 41.509, "Survival": 19.709, "Roleplay & Avatar Sim": 10.78, "Action": 7.439, "Shooter": 4.09, "RPG": 3.675, "Sports & Racing": 2.924, "Strategy": 2.328, "Obby & Platformer": 1.909, "Party & Casual": 1.827, "Adventure": 1.243, "Shopping": 0.888, "Other": 0.593, "Puzzle": 0.43, "Social": 0.412, "Entertainment": 0.246}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3201.6,"min_ccu":2596,"max_ccu":4076,"samples":24,"sess":12.64,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":5858.4,"min_ccu":3940,"max_ccu":8068,"samples":24,"sess":8.45,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":2051.8,"min_ccu":1190,"max_ccu":2796,"samples":24,"sess":8.19,"sess_h":23.0,"like":92.53},
@@ -128,7 +128,7 @@
 "4342047058":{"name":"Guts & Blackpowder","avg_ccu":5302.5,"min_ccu":3853,"max_ccu":8304,"samples":24,"sess":17.5,"sess_h":23.0,"like":94.11},
 "4348829796":{"name":"MVSD | Murderers VS Sheriffs Duels","avg_ccu":7795.0,"min_ccu":4527,"max_ccu":10335,"samples":24,"sess":9.31,"sess_h":23.0,"like":84.4},
 "4408288935":{"name":"🎃 Ecos: La Brea","avg_ccu":1393.5,"min_ccu":749,"max_ccu":2027,"samples":24,"sess":19.62,"sess_h":23.0,"like":91.62},
-"4420562665":{"name":"[RSBK] Ride Storm","avg_ccu":6495.5,"min_ccu":4333,"max_ccu":8873,"samples":24,"sess":12.28,"sess_h":23.0,"like":91.31},
+"4420562665":{"name":"Ride Storm","avg_ccu":6495.5,"min_ccu":4333,"max_ccu":8873,"samples":24,"sess":12.28,"sess_h":23.0,"like":91.31},
 "4457060041":{"name":"Emergency Emden","avg_ccu":1002.5,"min_ccu":138,"max_ccu":2025,"samples":24,"sess":12.24,"sess_h":23.0,"like":87.45},
 "4497460596":{"name":"MORPH WORLD 👾 [MIMICER!]","avg_ccu":794.2,"min_ccu":466,"max_ccu":1217,"samples":24,"sess":12.98,"sess_h":23.0,"like":86.16},
 "4540138978":{"name":"Metro Life 🏡 City RP","avg_ccu":7124.5,"min_ccu":4858,"max_ccu":10787,"samples":24,"sess":15.01,"sess_h":23.0,"like":86.77},
@@ -451,7 +451,7 @@
 "10648555380":{"name":"[🤑WORKS] Donation Central 💸","avg_ccu":190.8,"min_ccu":104,"max_ccu":300,"samples":24,"sess":8.37,"sess_h":23.0,"like":94.65},
 "10648640958":{"name":"Hood Rivals","avg_ccu":2011.8,"min_ccu":1049,"max_ccu":3393,"samples":24,"sess":5.75,"sess_h":23.0,"like":90.31},
 "10648820673":{"name":"[🍲] Karinderya!","avg_ccu":6038.8,"min_ccu":1285,"max_ccu":30290,"samples":24,"sess":21.26,"sess_h":23.0,"like":97.49},
-"10667357873":{"name":"[🍀X5] 💭Dream Car Collection","avg_ccu":4578.0,"min_ccu":3132,"max_ccu":6431,"samples":24,"sess":14.45,"sess_h":23.0,"like":94.67},
+"10667357873":{"name":"[4hr] 💭Dream Car Collection","avg_ccu":4578.0,"min_ccu":3132,"max_ccu":6431,"samples":24,"sess":14.45,"sess_h":23.0,"like":94.67},
 "10673920146":{"name":"Survive a Million Monkeys","avg_ccu":8068.2,"min_ccu":5737,"max_ccu":17779,"samples":24,"sess":11.44,"sess_h":23.0,"like":97.61},
 "10674335214":{"name":"Roll Your Height","avg_ccu":771.1,"min_ccu":576,"max_ccu":1040,"samples":24,"sess":19.81,"sess_h":23.0,"like":90.16},
 "10675117523":{"name":"Anime Breaker [🎃HALLOWEEN]","avg_ccu":10068.0,"min_ccu":9282,"max_ccu":10789,"samples":24,"sess":28.74,"sess_h":23.0,"like":95.52},
@@ -514,7 +514,7 @@
 "10764221401":{"name":"TROLL Fly & Carry Tower","avg_ccu":9486.8,"min_ccu":6804,"max_ccu":12508,"samples":24,"sess":10.1,"sess_h":23.0,"like":93.08},
 "10764240948":{"name":"[🌧️] Harpoon a Fish","avg_ccu":5510.9,"min_ccu":3874,"max_ccu":6772,"samples":24,"sess":15.08,"sess_h":23.0,"like":97.15},
 "10764297006":{"name":"Pixel Conquest 🎃","avg_ccu":1856.9,"min_ccu":966,"max_ccu":2763,"samples":24,"sess":2.64,"sess_h":23.0,"like":80.78},
-"10764358448":{"name":"[🎃] +1 Princess Evolution 💖","avg_ccu":1308.8,"min_ccu":953,"max_ccu":1890,"samples":24,"sess":9.79,"sess_h":23.0,"like":95.08},
+"10764358448":{"name":"[W2] +1 Princess Evolution 💖","avg_ccu":1308.8,"min_ccu":953,"max_ccu":1890,"samples":24,"sess":9.79,"sess_h":23.0,"like":95.08},
 "10764467420":{"name":"TROLL Wheelchair Tower","avg_ccu":2653.3,"min_ccu":2425,"max_ccu":2798,"samples":3,"like":78.8},
 "10764479526":{"name":"[UPDATE] +1 Mog Evolution","avg_ccu":956.3,"min_ccu":499,"max_ccu":1529,"samples":24,"sess":11.98,"sess_h":23.0,"like":98.01},
 "10764533320":{"name":"[UPD] Aura Dance Battles 🔥","avg_ccu":3973.2,"min_ccu":2262,"max_ccu":5272,"samples":24,"sess":8.05,"sess_h":23.0,"like":89.16},
