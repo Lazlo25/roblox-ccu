@@ -1,4 +1,4 @@
-{"date": "2026-10-21", "timezone": "America/New_York", "generated_utc": "2026-10-22T19:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-22T03:10:00Z", 8777146], "genres": {"Simulation": 41.509, "Survival": 19.709, "Roleplay & Avatar Sim": 10.78, "Action": 7.439, "Shooter": 4.09, "RPG": 3.675, "Sports & Racing": 2.924, "Strategy": 2.328, "Obby & Platformer": 1.909, "Party & Casual": 1.827, "Adventure": 1.243, "Shopping": 0.888, "Other": 0.593, "Puzzle": 0.43, "Social": 0.412, "Entertainment": 0.246}, "genre_hours": 24,"games":{
+{"date": "2026-10-21", "timezone": "America/New_York", "generated_utc": "2026-10-22T20:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-22T03:10:00Z", 8777146], "genres": {"Simulation": 41.509, "Survival": 19.709, "Roleplay & Avatar Sim": 10.78, "Action": 7.439, "Shooter": 4.09, "RPG": 3.675, "Sports & Racing": 2.924, "Strategy": 2.328, "Obby & Platformer": 1.909, "Party & Casual": 1.827, "Adventure": 1.243, "Shopping": 0.888, "Other": 0.593, "Puzzle": 0.43, "Social": 0.412, "Entertainment": 0.246}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3201.6,"min_ccu":2596,"max_ccu":4076,"samples":24,"sess":12.64,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":5858.4,"min_ccu":3940,"max_ccu":8068,"samples":24,"sess":8.45,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":2051.8,"min_ccu":1190,"max_ccu":2796,"samples":24,"sess":8.19,"sess_h":23.0,"like":92.53},
@@ -286,7 +286,7 @@
 "9141743926":{"name":"[NOW] Catch a Monster","avg_ccu":2744.7,"min_ccu":2581,"max_ccu":2897,"samples":24,"sess":13.79,"sess_h":23.0,"like":97.82},
 "9145063979":{"name":"⛏️Dig to Escape","avg_ccu":4158.7,"min_ccu":2600,"max_ccu":5757,"samples":24,"sess":9.78,"sess_h":23.0,"like":97.77},
 "9150731899":{"name":"PRISON RP","avg_ccu":1593.0,"min_ccu":933,"max_ccu":2389,"samples":24,"sess":27.61,"sess_h":23.0,"like":78.6},
-"9167377564":{"name":"100 Days At Sea","avg_ccu":14363.5,"min_ccu":9611,"max_ccu":19255,"samples":24,"sess":16.66,"sess_h":23.0,"like":97.09},
+"9167377564":{"name":"100 Days at Sea","avg_ccu":14363.5,"min_ccu":9611,"max_ccu":19255,"samples":24,"sess":16.66,"sess_h":23.0,"like":97.09},
 "9237322219":{"name":"Jungle Life","avg_ccu":466.3,"min_ccu":238,"max_ccu":677,"samples":24,"sess":10.59,"sess_h":23.0,"like":92.69},
 "9255613188":{"name":"Slide into Freddy Fazbear","avg_ccu":36.8,"min_ccu":21,"max_ccu":84,"samples":24,"sess":6.2,"sess_h":23.0,"like":74.78},
 "9294074907":{"name":"[FPS] One Tap","avg_ccu":14879.1,"min_ccu":10735,"max_ccu":20820,"samples":24,"sess":8.79,"sess_h":23.0,"like":87.9},
@@ -684,7 +684,7 @@
 "10769149947":{"name":"صيد الضبّان","avg_ccu":37907.5,"min_ccu":11442,"max_ccu":67803,"samples":24,"sess":23.85,"sess_h":23.0,"like":95.08},
 "10769169567":{"name":"Secure The Hospital","avg_ccu":1918.3,"min_ccu":1341,"max_ccu":2813,"samples":24,"sess":13.15,"sess_h":23.0,"like":71.78},
 "10769188452":{"name":"Eat Everything In A Grocery Store","avg_ccu":12845.7,"min_ccu":7539,"max_ccu":17836,"samples":24,"sess":12.22,"sess_h":23.0,"like":88.12},
-"10769259605":{"name":"Solve The Cube","avg_ccu":6079.0,"min_ccu":497,"max_ccu":16770,"samples":24,"sess":8.34,"sess_h":23.0,"like":83.73},
+"10769259605":{"name":"[🎃EVENT] Solve The Cube","avg_ccu":6079.0,"min_ccu":497,"max_ccu":16770,"samples":24,"sess":8.34,"sess_h":23.0,"like":83.73},
 "10769288862":{"name":"[250] Kill Your Friend!","avg_ccu":5136.9,"min_ccu":2499,"max_ccu":7938,"samples":24,"sess":12.89,"sess_h":23.0,"like":82.96},
 "10769294383":{"name":"Jump Highest Skydive!","avg_ccu":676.8,"min_ccu":324,"max_ccu":1110,"samples":24,"sess":9.98,"sess_h":23.0,"like":35.81},
 "10769299093":{"name":"[🎃] What's the Time, Mr. Fox?","avg_ccu":415.2,"min_ccu":216,"max_ccu":660,"samples":24,"sess":6.75,"sess_h":23.0,"like":68.24},
