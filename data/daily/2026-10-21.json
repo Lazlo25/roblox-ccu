@@ -1,4 +1,4 @@
-{"date": "2026-10-21", "timezone": "America/New_York", "generated_utc": "2026-10-22T17:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-22T03:10:00Z", 8777146], "genres": {"Simulation": 41.509, "Survival": 19.709, "Roleplay & Avatar Sim": 10.78, "Action": 7.439, "Shooter": 4.09, "RPG": 3.675, "Sports & Racing": 2.924, "Strategy": 2.328, "Obby & Platformer": 1.909, "Party & Casual": 1.827, "Adventure": 1.243, "Shopping": 0.888, "Other": 0.593, "Puzzle": 0.43, "Social": 0.412, "Entertainment": 0.246}, "genre_hours": 24,"games":{
+{"date": "2026-10-21", "timezone": "America/New_York", "generated_utc": "2026-10-22T18:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-22T03:10:00Z", 8777146], "genres": {"Simulation": 41.509, "Survival": 19.709, "Roleplay & Avatar Sim": 10.78, "Action": 7.439, "Shooter": 4.09, "RPG": 3.675, "Sports & Racing": 2.924, "Strategy": 2.328, "Obby & Platformer": 1.909, "Party & Casual": 1.827, "Adventure": 1.243, "Shopping": 0.888, "Other": 0.593, "Puzzle": 0.43, "Social": 0.412, "Entertainment": 0.246}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3201.6,"min_ccu":2596,"max_ccu":4076,"samples":24,"sess":12.64,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":5858.4,"min_ccu":3940,"max_ccu":8068,"samples":24,"sess":8.45,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":2051.8,"min_ccu":1190,"max_ccu":2796,"samples":24,"sess":8.19,"sess_h":23.0,"like":92.53},
@@ -178,7 +178,7 @@
 "6035872082":{"name":"[🎃] RIVALS","avg_ccu":140974.5,"min_ccu":85136,"max_ccu":187050,"samples":24,"sess":11.75,"sess_h":23.0,"like":93.66},
 "6048923315":{"name":"[🎃 PT 1] KAIZEN","avg_ccu":785.5,"min_ccu":612,"max_ccu":908,"samples":24,"sess":19.34,"sess_h":23.0,"like":93.09},
 "6061766680":{"name":"[UNBANS] fight in a school","avg_ccu":1726.3,"min_ccu":980,"max_ccu":3147,"samples":24,"sess":11.13,"sess_h":23.0,"like":79.3},
-"6161049307":{"name":"[💀NIGHTMARE] Pixel Blade","avg_ccu":4589.6,"min_ccu":3857,"max_ccu":6210,"samples":24,"sess":7.01,"sess_h":23.0,"like":96.78},
+"6161049307":{"name":"[⭐] Pixel Blade","avg_ccu":4589.6,"min_ccu":3857,"max_ccu":6210,"samples":24,"sess":7.01,"sess_h":23.0,"like":96.78},
 "6174994284":{"name":"Savannah Life","avg_ccu":2551.6,"min_ccu":1458,"max_ccu":3473,"samples":24,"sess":15.4,"sess_h":23.0,"like":93.79},
 "6176333237":{"name":"Clarity Over Resonance","avg_ccu":4421.3,"min_ccu":307,"max_ccu":10756,"samples":24,"sess":17.34,"sess_h":23.0,"like":89.66},
 "6272727021":{"name":"[🎉RELEASE🎉] Undertale Adventures X","avg_ccu":4128.0,"min_ccu":3946,"max_ccu":4432,"samples":24,"sess":24.23,"sess_h":23.0,"like":92.97},
