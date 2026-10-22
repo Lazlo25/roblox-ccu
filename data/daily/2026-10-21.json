@@ -1,4 +1,4 @@
-{"date": "2026-10-21", "timezone": "America/New_York", "generated_utc": "2026-10-22T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-22T03:10:00Z", 8777146], "genres": {"Simulation": 41.509, "Survival": 19.709, "Roleplay & Avatar Sim": 10.78, "Action": 7.439, "Shooter": 4.09, "RPG": 3.675, "Sports & Racing": 2.924, "Strategy": 2.328, "Obby & Platformer": 1.909, "Party & Casual": 1.827, "Adventure": 1.243, "Shopping": 0.888, "Other": 0.593, "Puzzle": 0.43, "Social": 0.412, "Entertainment": 0.246}, "genre_hours": 24,"games":{
+{"date": "2026-10-21", "timezone": "America/New_York", "generated_utc": "2026-10-22T05:10:01Z", "through_et": "24:00", "platform_now": ["2026-10-22T03:10:00Z", 8777146], "genres": {"Simulation": 41.509, "Survival": 19.709, "Roleplay & Avatar Sim": 10.78, "Action": 7.439, "Shooter": 4.09, "RPG": 3.675, "Sports & Racing": 2.924, "Strategy": 2.328, "Obby & Platformer": 1.909, "Party & Casual": 1.827, "Adventure": 1.243, "Shopping": 0.888, "Other": 0.593, "Puzzle": 0.43, "Social": 0.412, "Entertainment": 0.246}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3201.6,"min_ccu":2596,"max_ccu":4076,"samples":24,"sess":12.64,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":5858.4,"min_ccu":3940,"max_ccu":8068,"samples":24,"sess":8.45,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":2051.8,"min_ccu":1190,"max_ccu":2796,"samples":24,"sess":8.19,"sess_h":23.0,"like":92.53},
@@ -475,7 +475,7 @@
 "10739112966":{"name":"🎃 Street Soccer Pro","avg_ccu":9488.1,"min_ccu":5479,"max_ccu":12702,"samples":24,"sess":12.59,"sess_h":23.0,"like":84.91},
 "10739137760":{"name":"[🎃] The Cosalazo 2","avg_ccu":3172.0,"min_ccu":297,"max_ccu":6373,"samples":24,"sess":12.65,"sess_h":23.0,"like":92.44},
 "10740316645":{"name":"⛏️ My Anime Mine","avg_ccu":10348.4,"min_ccu":9178,"max_ccu":11869,"samples":24,"sess":24.01,"sess_h":23.0,"like":98.92},
-"10741302505":{"name":"[🌍WORLD 3] Collect 1 Million Items","avg_ccu":1247.8,"min_ccu":722,"max_ccu":1709,"samples":24,"sess":15.12,"sess_h":23.0,"like":97.9},
+"10741302505":{"name":"Collect 1 Million Items [✨]","avg_ccu":1247.8,"min_ccu":722,"max_ccu":1709,"samples":24,"sess":15.12,"sess_h":23.0,"like":97.9},
 "10741654282":{"name":"Build and Kill Zombies","avg_ccu":5582.5,"min_ccu":3588,"max_ccu":8155,"samples":24,"sess":20.49,"sess_h":23.0,"like":98.0},
 "10741792653":{"name":"Survive The Swarm [GUILDS]","avg_ccu":1713.4,"min_ccu":1266,"max_ccu":2274,"samples":24,"sess":11.12,"sess_h":23.0,"like":96.72},
 "10742937135":{"name":"[NEW MAP SOON] Survive The Hulk","avg_ccu":788.5,"min_ccu":433,"max_ccu":1382,"samples":24,"sess":8.48,"sess_h":23.0,"like":80.49},
