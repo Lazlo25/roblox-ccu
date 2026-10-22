@@ -1,4 +1,4 @@
-{"date": "2026-10-20", "timezone": "America/New_York", "generated_utc": "2026-10-22T00:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-21T03:10:00Z", 8694099], "genres": {"Simulation": 41.92, "Survival": 18.564, "Roleplay & Avatar Sim": 11.385, "Action": 7.501, "Shooter": 4.164, "RPG": 3.855, "Sports & Racing": 2.95, "Strategy": 2.384, "Obby & Platformer": 1.951, "Party & Casual": 1.72, "Adventure": 1.089, "Shopping": 0.903, "Other": 0.518, "Social": 0.425, "Puzzle": 0.408, "Entertainment": 0.264}, "genre_hours": 24,"games":{
+{"date": "2026-10-20", "timezone": "America/New_York", "generated_utc": "2026-10-22T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-21T03:10:00Z", 8694099], "genres": {"Simulation": 41.92, "Survival": 18.564, "Roleplay & Avatar Sim": 11.385, "Action": 7.501, "Shooter": 4.164, "RPG": 3.855, "Sports & Racing": 2.95, "Strategy": 2.384, "Obby & Platformer": 1.951, "Party & Casual": 1.72, "Adventure": 1.089, "Shopping": 0.903, "Other": 0.518, "Social": 0.425, "Puzzle": 0.408, "Entertainment": 0.264}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3031.6,"min_ccu":2355,"max_ccu":3824,"samples":24,"sess":12.74,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6013.2,"min_ccu":4230,"max_ccu":8277,"samples":24,"sess":8.69,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":1781.9,"min_ccu":1112,"max_ccu":2382,"samples":24,"sess":8.22,"sess_h":23.0,"like":92.53},
@@ -638,7 +638,7 @@
 "10768202113":{"name":"🎀 Make Dresses","avg_ccu":2182.3,"min_ccu":1385,"max_ccu":3781,"samples":24,"sess":15.38,"sess_h":23.0,"like":83.77},
 "10768214226":{"name":"Lolcat Clicker 😸 [BETA]","avg_ccu":0.0,"min_ccu":0,"max_ccu":0,"samples":7,"sess":0.0,"sess_h":6.0,"like":30.3},
 "10768235926":{"name":"Throw A Football!","avg_ccu":2452.5,"min_ccu":559,"max_ccu":6119,"samples":24,"sess":9.97,"sess_h":23.0,"like":95.47},
-"10768284407":{"name":"[🎃] Bike Universe 🚨🚓","avg_ccu":16157.0,"min_ccu":7888,"max_ccu":25328,"samples":24,"sess":12.64,"sess_h":23.0,"like":83.6},
+"10768284407":{"name":"[🎃] Bike Universe","avg_ccu":16157.0,"min_ccu":7888,"max_ccu":25328,"samples":24,"sess":12.64,"sess_h":23.0,"like":83.6},
 "10768292556":{"name":"[🌱] Grow a Plant","avg_ccu":5586.3,"min_ccu":4216,"max_ccu":7943,"samples":24,"sess":19.62,"sess_h":23.0,"like":96.6},
 "10768316438":{"name":"Lift Rock For Eggs","avg_ccu":8101.4,"min_ccu":4882,"max_ccu":12019,"samples":24,"sess":16.78,"sess_h":23.0,"like":90.83},
 "10768321406":{"name":"Save The Egg","avg_ccu":1693.9,"min_ccu":951,"max_ccu":2988,"samples":24,"sess":17.72,"sess_h":23.0,"like":95.18},
