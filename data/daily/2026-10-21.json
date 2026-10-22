@@ -1,4 +1,4 @@
-{"date": "2026-10-21", "timezone": "America/New_York", "generated_utc": "2026-10-22T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-22T03:10:00Z", 8777146], "genres": {"Simulation": 41.509, "Survival": 19.709, "Roleplay & Avatar Sim": 10.78, "Action": 7.439, "Shooter": 4.09, "RPG": 3.675, "Sports & Racing": 2.924, "Strategy": 2.328, "Obby & Platformer": 1.909, "Party & Casual": 1.827, "Adventure": 1.243, "Shopping": 0.888, "Other": 0.593, "Puzzle": 0.43, "Social": 0.412, "Entertainment": 0.246}, "genre_hours": 24,"games":{
+{"date": "2026-10-21", "timezone": "America/New_York", "generated_utc": "2026-10-22T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-22T03:10:00Z", 8777146], "genres": {"Simulation": 41.509, "Survival": 19.709, "Roleplay & Avatar Sim": 10.78, "Action": 7.439, "Shooter": 4.09, "RPG": 3.675, "Sports & Racing": 2.924, "Strategy": 2.328, "Obby & Platformer": 1.909, "Party & Casual": 1.827, "Adventure": 1.243, "Shopping": 0.888, "Other": 0.593, "Puzzle": 0.43, "Social": 0.412, "Entertainment": 0.246}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3201.6,"min_ccu":2596,"max_ccu":4076,"samples":24,"sess":12.64,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":5858.4,"min_ccu":3940,"max_ccu":8068,"samples":24,"sess":8.45,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":2051.8,"min_ccu":1190,"max_ccu":2796,"samples":24,"sess":8.19,"sess_h":23.0,"like":92.53},
@@ -6,7 +6,7 @@
 "31970568":{"name":"Theme Park Tycoon 2","avg_ccu":2830.1,"min_ccu":1651,"max_ccu":3672,"samples":24,"sess":22.59,"sess_h":23.0,"like":89.03},
 "66654135":{"name":"Murder Mystery 2","avg_ccu":666499.0,"min_ccu":576787,"max_ccu":788987,"samples":24,"sess":21.48,"sess_h":23.0,"like":90.82},
 "73885730":{"name":"Prison Life","avg_ccu":4964.9,"min_ccu":3381,"max_ccu":6549,"samples":24,"sess":11.12,"sess_h":23.0,"like":85.04},
-"88070565":{"name":"[🦇] Welcome to Bloxburg","avg_ccu":14102.6,"min_ccu":8045,"max_ccu":19396,"samples":24,"sess":22.25,"sess_h":23.0,"like":88.49},
+"88070565":{"name":"[🏚️] Welcome to Bloxburg","avg_ccu":14102.6,"min_ccu":8045,"max_ccu":19396,"samples":24,"sess":22.25,"sess_h":23.0,"like":88.49},
 "97314177":{"name":"[UPDATE💪] Ninja Tycoon (v4.8)","avg_ccu":718.9,"min_ccu":418,"max_ccu":998,"samples":24,"sess":17.45,"sess_h":23.0,"like":89.49},
 "98839997":{"name":"[🎃Halloween Part 1!] Dinosaur Simulator","avg_ccu":311.3,"min_ccu":217,"max_ccu":420,"samples":24,"sess":12.63,"sess_h":23.0,"like":80.53},
 "98929893":{"name":"Dragon Ball Rage","avg_ccu":1722.0,"min_ccu":805,"max_ccu":2407,"samples":24,"sess":16.74,"sess_h":23.0,"like":90.51},
@@ -451,7 +451,7 @@
 "10648555380":{"name":"[🤑WORKS] Donation Central 💸","avg_ccu":190.8,"min_ccu":104,"max_ccu":300,"samples":24,"sess":8.37,"sess_h":23.0,"like":94.65},
 "10648640958":{"name":"Hood Rivals","avg_ccu":2011.8,"min_ccu":1049,"max_ccu":3393,"samples":24,"sess":5.75,"sess_h":23.0,"like":90.31},
 "10648820673":{"name":"[🍲] Karinderya!","avg_ccu":6038.8,"min_ccu":1285,"max_ccu":30290,"samples":24,"sess":21.26,"sess_h":23.0,"like":97.49},
-"10667357873":{"name":"[4hr] 💭Dream Car Collection","avg_ccu":4578.0,"min_ccu":3132,"max_ccu":6431,"samples":24,"sess":14.45,"sess_h":23.0,"like":94.67},
+"10667357873":{"name":"[3hr] 💭Dream Car Collection","avg_ccu":4578.0,"min_ccu":3132,"max_ccu":6431,"samples":24,"sess":14.45,"sess_h":23.0,"like":94.67},
 "10673920146":{"name":"Survive a Million Monkeys","avg_ccu":8068.2,"min_ccu":5737,"max_ccu":17779,"samples":24,"sess":11.44,"sess_h":23.0,"like":97.61},
 "10674335214":{"name":"Roll Your Height","avg_ccu":771.1,"min_ccu":576,"max_ccu":1040,"samples":24,"sess":19.81,"sess_h":23.0,"like":90.16},
 "10675117523":{"name":"Anime Breaker [🎃HALLOWEEN]","avg_ccu":10068.0,"min_ccu":9282,"max_ccu":10789,"samples":24,"sess":28.74,"sess_h":23.0,"like":95.52},
