@@ -1,4 +1,4 @@
-{"date": "2026-10-21", "timezone": "America/New_York", "generated_utc": "2026-10-22T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-22T03:10:00Z", 8777146], "genres": {"Simulation": 41.509, "Survival": 19.709, "Roleplay & Avatar Sim": 10.78, "Action": 7.439, "Shooter": 4.09, "RPG": 3.675, "Sports & Racing": 2.924, "Strategy": 2.328, "Obby & Platformer": 1.909, "Party & Casual": 1.827, "Adventure": 1.243, "Shopping": 0.888, "Other": 0.593, "Puzzle": 0.43, "Social": 0.412, "Entertainment": 0.246}, "genre_hours": 24,"games":{
+{"date": "2026-10-21", "timezone": "America/New_York", "generated_utc": "2026-10-22T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-22T03:10:00Z", 8777146], "genres": {"Simulation": 41.509, "Survival": 19.709, "Roleplay & Avatar Sim": 10.78, "Action": 7.439, "Shooter": 4.09, "RPG": 3.675, "Sports & Racing": 2.924, "Strategy": 2.328, "Obby & Platformer": 1.909, "Party & Casual": 1.827, "Adventure": 1.243, "Shopping": 0.888, "Other": 0.593, "Puzzle": 0.43, "Social": 0.412, "Entertainment": 0.246}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3201.6,"min_ccu":2596,"max_ccu":4076,"samples":24,"sess":12.64,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":5858.4,"min_ccu":3940,"max_ccu":8068,"samples":24,"sess":8.45,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":2051.8,"min_ccu":1190,"max_ccu":2796,"samples":24,"sess":8.19,"sess_h":23.0,"like":92.53},
@@ -287,7 +287,7 @@
 "9145063979":{"name":"⛏️Dig to Escape","avg_ccu":4158.7,"min_ccu":2600,"max_ccu":5757,"samples":24,"sess":9.78,"sess_h":23.0,"like":97.77},
 "9150731899":{"name":"PRISON RP","avg_ccu":1593.0,"min_ccu":933,"max_ccu":2389,"samples":24,"sess":27.61,"sess_h":23.0,"like":78.6},
 "9167377564":{"name":"100 Days At Sea","avg_ccu":14363.5,"min_ccu":9611,"max_ccu":19255,"samples":24,"sess":16.66,"sess_h":23.0,"like":97.09},
-"9237322219":{"name":"[🐍] Jungle Life","avg_ccu":466.3,"min_ccu":238,"max_ccu":677,"samples":24,"sess":10.59,"sess_h":23.0,"like":92.69},
+"9237322219":{"name":"Jungle Life","avg_ccu":466.3,"min_ccu":238,"max_ccu":677,"samples":24,"sess":10.59,"sess_h":23.0,"like":92.69},
 "9255613188":{"name":"Slide into Freddy Fazbear","avg_ccu":36.8,"min_ccu":21,"max_ccu":84,"samples":24,"sess":6.2,"sess_h":23.0,"like":74.78},
 "9294074907":{"name":"[FPS] One Tap","avg_ccu":14879.1,"min_ccu":10735,"max_ccu":20820,"samples":24,"sess":8.79,"sess_h":23.0,"like":87.9},
 "9296042754":{"name":"Riot City 🚨 Prison Escape","avg_ccu":3480.7,"min_ccu":2316,"max_ccu":4988,"samples":24,"sess":12.03,"sess_h":23.0,"like":97.74},
