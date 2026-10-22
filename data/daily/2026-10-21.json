@@ -1,4 +1,4 @@
-{"date": "2026-10-21", "timezone": "America/New_York", "generated_utc": "2026-10-22T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-22T03:10:00Z", 8777146], "genres": {"Simulation": 41.509, "Survival": 19.709, "Roleplay & Avatar Sim": 10.78, "Action": 7.439, "Shooter": 4.09, "RPG": 3.675, "Sports & Racing": 2.924, "Strategy": 2.328, "Obby & Platformer": 1.909, "Party & Casual": 1.827, "Adventure": 1.243, "Shopping": 0.888, "Other": 0.593, "Puzzle": 0.43, "Social": 0.412, "Entertainment": 0.246}, "genre_hours": 24,"games":{
+{"date": "2026-10-21", "timezone": "America/New_York", "generated_utc": "2026-10-22T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-22T03:10:00Z", 8777146], "genres": {"Simulation": 41.509, "Survival": 19.709, "Roleplay & Avatar Sim": 10.78, "Action": 7.439, "Shooter": 4.09, "RPG": 3.675, "Sports & Racing": 2.924, "Strategy": 2.328, "Obby & Platformer": 1.909, "Party & Casual": 1.827, "Adventure": 1.243, "Shopping": 0.888, "Other": 0.593, "Puzzle": 0.43, "Social": 0.412, "Entertainment": 0.246}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3201.6,"min_ccu":2596,"max_ccu":4076,"samples":24,"sess":12.64,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":5858.4,"min_ccu":3940,"max_ccu":8068,"samples":24,"sess":8.45,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":2051.8,"min_ccu":1190,"max_ccu":2796,"samples":24,"sess":8.19,"sess_h":23.0,"like":92.53},
@@ -379,7 +379,7 @@
 "10308844888":{"name":"[🎃] Board Of Hell","avg_ccu":3653.9,"min_ccu":2412,"max_ccu":5524,"samples":24,"sess":8.41,"sess_h":23.0,"like":82.0},
 "10309128556":{"name":"[🎃] HELLHOLE","avg_ccu":448.7,"min_ccu":263,"max_ccu":612,"samples":24,"sess":13.78,"sess_h":23.0,"like":98.22},
 "10310563053":{"name":"[🎃] Keyboard Wars","avg_ccu":1732.2,"min_ccu":1185,"max_ccu":2242,"samples":24,"sess":8.37,"sess_h":23.0,"like":80.68},
-"10310999762":{"name":"💪 +1 Strength to Grow Your Arm！","avg_ccu":1675.3,"min_ccu":1266,"max_ccu":2041,"samples":24,"sess":13.23,"sess_h":23.0,"like":96.37},
+"10310999762":{"name":"[🎃]  +1 力量，让你的手臂更加强壮！","avg_ccu":1675.3,"min_ccu":1266,"max_ccu":2041,"samples":24,"sess":13.23,"sess_h":23.0,"like":96.37},
 "10321202755":{"name":"[⚡] Anime Fighting Simulator","avg_ccu":5809.3,"min_ccu":5490,"max_ccu":6184,"samples":24,"sess":55.51,"sess_h":23.0,"like":98.29},
 "10332674979":{"name":"THROTTLE (BETA) ADVANCED MODS  Motorcycle racing","avg_ccu":527.3,"min_ccu":341,"max_ccu":765,"samples":24,"sess":3.39,"sess_h":23.0,"like":93.5},
 "10338952197":{"name":"Grow a Chicken Fighter","avg_ccu":2949.1,"min_ccu":2551,"max_ccu":3583,"samples":24,"sess":22.11,"sess_h":23.0,"like":97.78},
@@ -694,7 +694,7 @@
 "10769401598":{"name":"🔥 LAVA MODE PRISON RUN ESCAPE! (Obby)","avg_ccu":1173.0,"min_ccu":817,"max_ccu":1827,"samples":24,"sess":7.08,"sess_h":23.0,"like":63.11},
 "10769415620":{"name":"🧪Realistic Phone Drop Test","avg_ccu":8797.8,"min_ccu":4429,"max_ccu":13131,"samples":24,"sess":10.94,"sess_h":23.0,"like":90.18},
 "10769464063":{"name":"[🌍WORLD 2] +1 Venom Evolution","avg_ccu":16965.2,"min_ccu":9017,"max_ccu":23822,"samples":24,"sess":13.62,"sess_h":23.0,"like":96.59},
-"10769465606":{"name":"[🛴] ScootX ● Build & Ride","avg_ccu":2956.3,"min_ccu":655,"max_ccu":6655,"samples":24,"sess":7.18,"sess_h":23.0,"like":84.7},
+"10769465606":{"name":"[🛴] ScootX ● Scooter & BMX","avg_ccu":2956.3,"min_ccu":655,"max_ccu":6655,"samples":24,"sess":7.18,"sess_h":23.0,"like":84.7},
 "10769477076":{"name":"[🎃] Donation Bay","avg_ccu":150.9,"min_ccu":64,"max_ccu":386,"samples":24,"sess":13.22,"sess_h":23.0,"like":95.75},
 "10769484703":{"name":"What If Disasters","avg_ccu":6234.1,"min_ccu":4007,"max_ccu":8027,"samples":24,"sess":14.13,"sess_h":23.0,"like":90.55},
 "10769501542":{"name":"[WORLD 2] Bullets VS Everything","avg_ccu":3403.0,"min_ccu":2406,"max_ccu":4317,"samples":8,"sess":17.03,"sess_h":7.0,"like":94.13},
