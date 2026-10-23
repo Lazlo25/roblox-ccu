@@ -1,4 +1,4 @@
-{"date": "2026-10-21", "timezone": "America/New_York", "generated_utc": "2026-10-23T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-22T03:10:00Z", 8777146], "genres": {"Simulation": 41.509, "Survival": 19.709, "Roleplay & Avatar Sim": 10.78, "Action": 7.439, "Shooter": 4.09, "RPG": 3.675, "Sports & Racing": 2.924, "Strategy": 2.328, "Obby & Platformer": 1.909, "Party & Casual": 1.827, "Adventure": 1.243, "Shopping": 0.888, "Other": 0.593, "Puzzle": 0.43, "Social": 0.412, "Entertainment": 0.246}, "genre_hours": 24,"games":{
+{"date": "2026-10-21", "timezone": "America/New_York", "generated_utc": "2026-10-23T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-22T03:10:00Z", 8777146], "genres": {"Simulation": 41.509, "Survival": 19.709, "Roleplay & Avatar Sim": 10.78, "Action": 7.439, "Shooter": 4.09, "RPG": 3.675, "Sports & Racing": 2.924, "Strategy": 2.328, "Obby & Platformer": 1.909, "Party & Casual": 1.827, "Adventure": 1.243, "Shopping": 0.888, "Other": 0.593, "Puzzle": 0.43, "Social": 0.412, "Entertainment": 0.246}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3201.6,"min_ccu":2596,"max_ccu":4076,"samples":24,"sess":12.64,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":5858.4,"min_ccu":3940,"max_ccu":8068,"samples":24,"sess":8.45,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":2051.8,"min_ccu":1190,"max_ccu":2796,"samples":24,"sess":8.19,"sess_h":23.0,"like":92.53},
@@ -553,8 +553,8 @@
 "10765703059":{"name":"🎃HALLOWEEN Would You Rather: Style Contest Tower","avg_ccu":2737.3,"min_ccu":1925,"max_ccu":3815,"samples":24,"sess":6.37,"sess_h":23.0,"like":62.27},
 "10765751583":{"name":"Voltline: Realistic E-Scooter Simulator [Beta]","avg_ccu":1307.7,"min_ccu":472,"max_ccu":2324,"samples":24,"sess":7.33,"sess_h":23.0,"like":85.15},
 "10765760839":{"name":"+1 Forge Blade Loot","avg_ccu":2427.2,"min_ccu":1666,"max_ccu":3299,"samples":11,"sess":19.03,"sess_h":10.0,"like":92.03},
-"10765799968":{"name":"[🎃YUNO+MEREOLEONA🎃] CloverFall","avg_ccu":994.1,"min_ccu":727,"max_ccu":1250,"samples":24,"sess":26.44,"sess_h":23.0,"like":94.22},
-"10765841403":{"name":"Steal Or Die [MASSIVE HALLOWEEN UPD!]","avg_ccu":6062.7,"min_ccu":2656,"max_ccu":9736,"samples":24,"sess":18.43,"sess_h":23.0,"like":89.5},
+"10765799968":{"name":"[🎃] CloverFall","avg_ccu":994.1,"min_ccu":727,"max_ccu":1250,"samples":24,"sess":26.44,"sess_h":23.0,"like":94.22},
+"10765841403":{"name":"🎤 Steal Or Die [VC ONLY SERVERS! 🎃]","avg_ccu":6062.7,"min_ccu":2656,"max_ccu":9736,"samples":24,"sess":18.43,"sess_h":23.0,"like":89.5},
 "10765902945":{"name":"[UPDATE 2.5] Anime Legacy Simulator","avg_ccu":9541.7,"min_ccu":9231,"max_ccu":9833,"samples":24,"sess":32.93,"sess_h":23.0,"like":96.29},
 "10765907187":{"name":"[🎃] Drive An Egg","avg_ccu":1607.8,"min_ccu":1030,"max_ccu":2193,"samples":18,"sess":13.07,"sess_h":17.0,"like":86.79},
 "10765938934":{"name":"[🎃] Roll A Stickman!","avg_ccu":6619.6,"min_ccu":5179,"max_ccu":7429,"samples":24,"sess":21.96,"sess_h":23.0,"like":95.14},
@@ -655,7 +655,7 @@
 "10768498581":{"name":"Tribes 3v3","avg_ccu":9462.0,"min_ccu":6414,"max_ccu":12324,"samples":24,"sess":2.33,"sess_h":23.0,"like":63.15},
 "10768506428":{"name":"Rush To School! 🚌","avg_ccu":327.6,"min_ccu":189,"max_ccu":518,"samples":17,"sess":8.2,"sess_h":16.0,"like":40.53},
 "10768539156":{"name":"Draw a Dumpling!","avg_ccu":1091.0,"min_ccu":794,"max_ccu":1620,"samples":24,"sess":8.76,"sess_h":23.0,"like":77.72},
-"10768541373":{"name":"Don’t Get Fired At Work! 🧳 [LIMITED SKIN❗]","avg_ccu":1781.2,"min_ccu":1105,"max_ccu":2277,"samples":24,"sess":10.61,"sess_h":23.0,"like":89.18},
+"10768541373":{"name":"Don’t Get Fired At Work!","avg_ccu":1781.2,"min_ccu":1105,"max_ccu":2277,"samples":24,"sess":10.61,"sess_h":23.0,"like":89.18},
 "10768542976":{"name":"Be a Pirate","avg_ccu":2100.0,"min_ccu":1385,"max_ccu":3116,"samples":24,"sess":24.28,"sess_h":23.0,"like":90.96},
 "10768550253":{"name":"Run an Airline✈️","avg_ccu":3717.7,"min_ccu":2360,"max_ccu":5191,"samples":24,"sess":17.96,"sess_h":23.0,"like":90.08},
 "10768586153":{"name":"Make Me Pretty!","avg_ccu":1408.4,"min_ccu":813,"max_ccu":1893,"samples":8,"sess":11.48,"sess_h":7.0,"like":80.25},
