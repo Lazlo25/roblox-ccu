@@ -1,4 +1,4 @@
-{"date": "2026-10-22", "timezone": "America/New_York", "generated_utc": "2026-10-23T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-23T03:10:00Z", 9506618], "genres": {"Simulation": 41.104, "Survival": 19.495, "Roleplay & Avatar Sim": 10.767, "Action": 7.446, "Shooter": 4.09, "RPG": 3.561, "Sports & Racing": 2.859, "Strategy": 2.248, "Obby & Platformer": 2.044, "Party & Casual": 1.95, "Adventure": 1.313, "Shopping": 0.89, "Entertainment": 0.777, "Other": 0.686, "Social": 0.402, "Puzzle": 0.371}, "genre_hours": 24,"games":{
+{"date": "2026-10-22", "timezone": "America/New_York", "generated_utc": "2026-10-23T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-23T03:10:00Z", 9506618], "genres": {"Simulation": 41.104, "Survival": 19.495, "Roleplay & Avatar Sim": 10.767, "Action": 7.446, "Shooter": 4.09, "RPG": 3.561, "Sports & Racing": 2.859, "Strategy": 2.248, "Obby & Platformer": 2.044, "Party & Casual": 1.95, "Adventure": 1.313, "Shopping": 0.89, "Entertainment": 0.777, "Other": 0.686, "Social": 0.402, "Puzzle": 0.371}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3234.4,"min_ccu":2666,"max_ccu":4341,"samples":24,"sess":12.82,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":5989.2,"min_ccu":3928,"max_ccu":8334,"samples":24,"sess":8.34,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":1348.7,"min_ccu":1301,"max_ccu":1407,"samples":3,"like":92.53},
@@ -21,7 +21,7 @@
 "358276974":{"name":"Apocalypse Rising 2","avg_ccu":1782.2,"min_ccu":1261,"max_ccu":2144,"samples":24,"sess":17.27,"sess_h":23.0,"like":85.86},
 "371263894":{"name":"Greenville RP","avg_ccu":3683.6,"min_ccu":2082,"max_ccu":5288,"samples":24,"sess":15.48,"sess_h":23.0,"like":87.89},
 "372226183":{"name":"Flee the Facility","avg_ccu":23295.9,"min_ccu":7,"max_ccu":82605,"samples":24,"sess":9.93,"sess_h":23.0,"like":92.1},
-"383310974":{"name":"[4H⏳] Adopt Me!","avg_ccu":159310.0,"min_ccu":98227,"max_ccu":207476,"samples":24,"sess":25.06,"sess_h":23.0,"like":86.35},
+"383310974":{"name":"[3H⏳] Adopt Me!","avg_ccu":159310.0,"min_ccu":98227,"max_ccu":207476,"samples":24,"sess":25.06,"sess_h":23.0,"like":86.35},
 "540382210":{"name":"[UPDATE!!!] FMR","avg_ccu":998.2,"min_ccu":520,"max_ccu":1395,"samples":24,"sess":11.62,"sess_h":23.0,"like":94.88},
 "547524060":{"name":"Feather Family 🎃 [Bearded Vulture]","avg_ccu":3640.0,"min_ccu":2089,"max_ccu":5142,"samples":24,"sess":13.32,"sess_h":23.0,"like":91.64},
 "578392296":{"name":"ABA","avg_ccu":10940.9,"min_ccu":7856,"max_ccu":14199,"samples":24,"sess":17.19,"sess_h":23.0,"like":80.67},
@@ -259,7 +259,7 @@
 "8524572339":{"name":"Bridger: WESTERN","avg_ccu":1969.1,"min_ccu":1102,"max_ccu":2818,"samples":24,"sess":21.09,"sess_h":23.0,"like":78.37},
 "8618660961":{"name":"(🍂FALL + 🛠️ CAR MODS!) Mojave Valley (Alpha)","avg_ccu":582.0,"min_ccu":338,"max_ccu":728,"samples":24,"sess":11.12,"sess_h":23.0,"like":88.93},
 "8640389608":{"name":"[🎃] Summer Donations🌴","avg_ccu":200.3,"min_ccu":166,"max_ccu":268,"samples":24,"sess":11.09,"sess_h":23.0,"like":88.77},
-"8719555347":{"name":"[🔧Tires🔧] Southern Mudding 🚜 OffRoading","avg_ccu":10903.0,"min_ccu":7761,"max_ccu":13260,"samples":24,"sess":13.18,"sess_h":23.0,"like":92.52},
+"8719555347":{"name":"[⏳] Southern Mudding 🚜 OffRoading","avg_ccu":10903.0,"min_ccu":7761,"max_ccu":13260,"samples":24,"sess":13.18,"sess_h":23.0,"like":92.52},
 "8829204428":{"name":"[🎃UPD] Case Simulator RNG","avg_ccu":2075.9,"min_ccu":1523,"max_ccu":2952,"samples":24,"sess":17.79,"sess_h":23.0,"like":97.35},
 "8836568224":{"name":"[SEASON 3] Kayak and Surf  🌊","avg_ccu":3387.2,"min_ccu":1617,"max_ccu":10106,"samples":24,"sess":12.63,"sess_h":23.0,"like":97.84},
 "8841437826":{"name":"[🎃] Capybaras VS Plants","avg_ccu":1246.8,"min_ccu":993,"max_ccu":1507,"samples":24,"sess":16.19,"sess_h":23.0,"like":96.99},
@@ -412,7 +412,7 @@
 "10550257968":{"name":"[4X] Steal A Verity!","avg_ccu":7720.5,"min_ccu":6106,"max_ccu":10935,"samples":24,"sess":9.63,"sess_h":23.0,"like":72.03},
 "10552240401":{"name":"[UPD 9] Defeat Anime RNG","avg_ccu":4610.5,"min_ccu":4270,"max_ccu":5022,"samples":24,"sess":40.93,"sess_h":23.0,"like":96.4},
 "10552540426":{"name":"[🎃] My Toll Farm!","avg_ccu":1051.2,"min_ccu":870,"max_ccu":1273,"samples":24,"sess":23.89,"sess_h":23.0,"like":98.33},
-"10556383571":{"name":"[🌴] Become a Trillionaire","avg_ccu":558.6,"min_ccu":391,"max_ccu":720,"samples":24,"sess":19.18,"sess_h":23.0,"like":98.34},
+"10556383571":{"name":"[🐉] Become a Trillionaire","avg_ccu":558.6,"min_ccu":391,"max_ccu":720,"samples":24,"sess":19.18,"sess_h":23.0,"like":98.34},
 "10561166339":{"name":"[🎃] Destroy a Vault","avg_ccu":5905.1,"min_ccu":3707,"max_ccu":8746,"samples":24,"sess":16.54,"sess_h":23.0,"like":95.61},
 "10563114921":{"name":"Steal An Egg","avg_ccu":1009237.4,"min_ccu":779947,"max_ccu":1344466,"samples":24,"sess":15.0,"sess_h":23.0,"like":91.8},
 "10566677406":{"name":"[将] Shogun's Reign","avg_ccu":2197.6,"min_ccu":1666,"max_ccu":2597,"samples":18,"sess":32.08,"sess_h":17.0,"like":89.9},
