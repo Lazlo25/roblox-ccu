@@ -1,4 +1,4 @@
-{"date": "2026-10-22", "timezone": "America/New_York", "generated_utc": "2026-10-23T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-23T03:10:00Z", 9506618], "genres": {"Simulation": 41.104, "Survival": 19.495, "Roleplay & Avatar Sim": 10.767, "Action": 7.446, "Shooter": 4.09, "RPG": 3.561, "Sports & Racing": 2.859, "Strategy": 2.248, "Obby & Platformer": 2.044, "Party & Casual": 1.95, "Adventure": 1.313, "Shopping": 0.89, "Entertainment": 0.777, "Other": 0.686, "Social": 0.402, "Puzzle": 0.371}, "genre_hours": 24,"games":{
+{"date": "2026-10-22", "timezone": "America/New_York", "generated_utc": "2026-10-23T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-23T03:10:00Z", 9506618], "genres": {"Simulation": 41.104, "Survival": 19.495, "Roleplay & Avatar Sim": 10.767, "Action": 7.446, "Shooter": 4.09, "RPG": 3.561, "Sports & Racing": 2.859, "Strategy": 2.248, "Obby & Platformer": 2.044, "Party & Casual": 1.95, "Adventure": 1.313, "Shopping": 0.89, "Entertainment": 0.777, "Other": 0.686, "Social": 0.402, "Puzzle": 0.371}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3234.4,"min_ccu":2666,"max_ccu":4341,"samples":24,"sess":12.82,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":5989.2,"min_ccu":3928,"max_ccu":8334,"samples":24,"sess":8.34,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":1348.7,"min_ccu":1301,"max_ccu":1407,"samples":3,"like":92.53},
@@ -69,7 +69,7 @@
 "2274830359":{"name":"Escape Running Head","avg_ccu":5967.4,"min_ccu":4585,"max_ccu":7498,"samples":18,"sess":10.17,"sess_h":17.0,"like":74.93},
 "2309918273":{"name":"[🎃HOLLOVVEEN] VV: ULTIMATUM","avg_ccu":1720.8,"min_ccu":1018,"max_ccu":2372,"samples":24,"sess":19.53,"sess_h":23.0,"like":90.27},
 "2350840700":{"name":"[CONSOLE!] Project Flight | Alpha","avg_ccu":640.8,"min_ccu":287,"max_ccu":1069,"samples":24,"sess":13.93,"sess_h":23.0,"like":91.9},
-"2380077519":{"name":"[UPDATE👁️] Slap Battles👏","avg_ccu":6041.0,"min_ccu":3658,"max_ccu":7732,"samples":24,"sess":11.84,"sess_h":23.0,"like":86.06},
+"2380077519":{"name":"Slap Battles👏","avg_ccu":6041.0,"min_ccu":3658,"max_ccu":7732,"samples":24,"sess":11.84,"sess_h":23.0,"like":86.06},
 "2440500124":{"name":"DOORS 🍬🍭","avg_ccu":50655.8,"min_ccu":13843,"max_ccu":161335,"samples":24,"sess":9.99,"sess_h":23.0,"like":93.03},
 "2527789729":{"name":"Prior Extinction - Dinosaur Survival!","avg_ccu":2614.9,"min_ccu":1911,"max_ccu":3355,"samples":24,"sess":17.32,"sess_h":23.0,"like":78.64},
 "2583564222":{"name":"[🎃] Boxing Beta! 🥊","avg_ccu":3679.4,"min_ccu":2924,"max_ccu":4641,"samples":24,"sess":9.31,"sess_h":23.0,"like":80.87},
@@ -467,7 +467,7 @@
 "10742937135":{"name":"[NEW MAP SOON] Survive The Hulk","avg_ccu":685.1,"min_ccu":407,"max_ccu":1061,"samples":24,"sess":8.74,"sess_h":23.0,"like":80.52},
 "10744310825":{"name":"[NOW] Paint to Get Rich 🎨","avg_ccu":10114.7,"min_ccu":5905,"max_ccu":16433,"samples":24,"sess":12.65,"sess_h":23.0,"like":75.17},
 "10746305948":{"name":"Don't Press The Button 7","avg_ccu":4958.9,"min_ccu":3418,"max_ccu":6782,"samples":24,"sess":11.15,"sess_h":23.0,"like":62.59},
-"10747719434":{"name":"[V3] Feed A Mosquito","avg_ccu":22624.7,"min_ccu":17418,"max_ccu":30175,"samples":24,"sess":15.91,"sess_h":23.0,"like":79.9},
+"10747719434":{"name":"[🎃V3] Feed A Mosquito","avg_ccu":22624.7,"min_ccu":17418,"max_ccu":30175,"samples":24,"sess":15.91,"sess_h":23.0,"like":79.9},
 "10747894435":{"name":"Duck Pond🦆","avg_ccu":769.3,"min_ccu":577,"max_ccu":944,"samples":24,"sess":15.49,"sess_h":23.0,"like":97.26},
 "10748543623":{"name":"[BATTLES!⭐] Pack A Rare Card","avg_ccu":1161.8,"min_ccu":975,"max_ccu":1302,"samples":24,"sess":16.97,"sess_h":23.0,"like":98.63},
 "10751939592":{"name":"ASMR Auto Wallhop Tower 2","avg_ccu":3283.8,"min_ccu":1752,"max_ccu":4842,"samples":24,"sess":9.44,"sess_h":23.0,"like":76.73},
