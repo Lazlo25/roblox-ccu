@@ -1,4 +1,4 @@
-{"date": "2026-10-22", "timezone": "America/New_York", "generated_utc": "2026-10-23T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-23T03:10:00Z", 9506618], "genres": {"Simulation": 41.104, "Survival": 19.495, "Roleplay & Avatar Sim": 10.767, "Action": 7.446, "Shooter": 4.09, "RPG": 3.561, "Sports & Racing": 2.859, "Strategy": 2.248, "Obby & Platformer": 2.044, "Party & Casual": 1.95, "Adventure": 1.313, "Shopping": 0.89, "Entertainment": 0.777, "Other": 0.686, "Social": 0.402, "Puzzle": 0.371}, "genre_hours": 24,"games":{
+{"date": "2026-10-22", "timezone": "America/New_York", "generated_utc": "2026-10-23T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-23T03:10:00Z", 9506618], "genres": {"Simulation": 41.104, "Survival": 19.495, "Roleplay & Avatar Sim": 10.767, "Action": 7.446, "Shooter": 4.09, "RPG": 3.561, "Sports & Racing": 2.859, "Strategy": 2.248, "Obby & Platformer": 2.044, "Party & Casual": 1.95, "Adventure": 1.313, "Shopping": 0.89, "Entertainment": 0.777, "Other": 0.686, "Social": 0.402, "Puzzle": 0.371}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3234.4,"min_ccu":2666,"max_ccu":4341,"samples":24,"sess":12.82,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":5989.2,"min_ccu":3928,"max_ccu":8334,"samples":24,"sess":8.34,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":1348.7,"min_ccu":1301,"max_ccu":1407,"samples":3,"like":92.53},
@@ -538,7 +538,7 @@
 "10765751583":{"name":"Voltline: Realistic E-Scooter Simulator [Beta]","avg_ccu":1396.1,"min_ccu":485,"max_ccu":2233,"samples":18,"sess":7.3,"sess_h":17.0,"like":84.97},
 "10765760839":{"name":"+1 Forge Blade Loot","avg_ccu":2686.3,"min_ccu":1711,"max_ccu":3934,"samples":24,"sess":18.21,"sess_h":23.0,"like":92.08},
 "10765799968":{"name":"[🎃] CloverFall","avg_ccu":1015.5,"min_ccu":725,"max_ccu":1258,"samples":24,"sess":25.58,"sess_h":23.0,"like":94.29},
-"10765841403":{"name":"🎤 Steal Or Die [VC ONLY SERVERS! 🎃]","avg_ccu":6140.5,"min_ccu":3533,"max_ccu":8208,"samples":24,"sess":17.79,"sess_h":23.0,"like":89.63},
+"10765841403":{"name":"🎃 Steal Or Die [VC ONLY SERVERS! 🎤]","avg_ccu":6140.5,"min_ccu":3533,"max_ccu":8208,"samples":24,"sess":17.79,"sess_h":23.0,"like":89.63},
 "10765902945":{"name":"[UPDATE 2.5] Anime Legacy Simulator","avg_ccu":9246.6,"min_ccu":8818,"max_ccu":9724,"samples":24,"sess":32.15,"sess_h":23.0,"like":96.23},
 "10765938934":{"name":"[🎃] Roll A Stickman!","avg_ccu":7410.6,"min_ccu":6577,"max_ccu":7958,"samples":24,"sess":22.25,"sess_h":23.0,"like":95.53},
 "10765950109":{"name":"Steal A Baddie Egg!","avg_ccu":1518.5,"min_ccu":1205,"max_ccu":1901,"samples":24,"sess":15.19,"sess_h":23.0,"like":86.91},
