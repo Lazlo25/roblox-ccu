@@ -1,4 +1,4 @@
-{"date": "2026-10-22", "timezone": "America/New_York", "generated_utc": "2026-10-23T03:10:00Z", "through_et": "23:10", "platform_now": ["2026-10-23T03:10:00Z", 9506618], "genres": {"Simulation": 41.104, "Survival": 19.495, "Roleplay & Avatar Sim": 10.767, "Action": 7.446, "Shooter": 4.09, "RPG": 3.561, "Sports & Racing": 2.859, "Strategy": 2.248, "Obby & Platformer": 2.044, "Party & Casual": 1.95, "Adventure": 1.313, "Shopping": 0.89, "Entertainment": 0.777, "Other": 0.686, "Social": 0.402, "Puzzle": 0.371}, "genre_hours": 24,"games":{
+{"date": "2026-10-22", "timezone": "America/New_York", "generated_utc": "2026-10-23T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-23T03:10:00Z", 9506618], "genres": {"Simulation": 41.104, "Survival": 19.495, "Roleplay & Avatar Sim": 10.767, "Action": 7.446, "Shooter": 4.09, "RPG": 3.561, "Sports & Racing": 2.859, "Strategy": 2.248, "Obby & Platformer": 2.044, "Party & Casual": 1.95, "Adventure": 1.313, "Shopping": 0.89, "Entertainment": 0.777, "Other": 0.686, "Social": 0.402, "Puzzle": 0.371}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3234.4,"min_ccu":2666,"max_ccu":4341,"samples":24,"sess":12.82,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":5989.2,"min_ccu":3928,"max_ccu":8334,"samples":24,"sess":8.34,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"🎃 Notoriety: A PAYDAY® Experience","avg_ccu":1348.7,"min_ccu":1301,"max_ccu":1407,"samples":3,"like":92.53},
@@ -549,7 +549,7 @@
 "10766056678":{"name":"Steal Animal Egg","avg_ccu":3343.8,"min_ccu":2280,"max_ccu":5011,"samples":24,"sess":10.74,"sess_h":23.0,"like":93.94},
 "10766109756":{"name":"+1 Web Escape 🕸️","avg_ccu":3738.5,"min_ccu":1902,"max_ccu":5809,"samples":24,"sess":9.08,"sess_h":23.0,"like":96.82},
 "10766135603":{"name":"+1 Lift Rock for Treasure","avg_ccu":3425.0,"min_ccu":2533,"max_ccu":4728,"samples":24,"sess":15.67,"sess_h":23.0,"like":96.24},
-"10766212164":{"name":"[UP🎖️] +1 Money Per Click 💸","avg_ccu":7446.4,"min_ccu":4137,"max_ccu":10419,"samples":24,"sess":13.02,"sess_h":23.0,"like":86.68},
+"10766212164":{"name":"+1 Money Per Click 💸","avg_ccu":7446.4,"min_ccu":4137,"max_ccu":10419,"samples":24,"sess":13.02,"sess_h":23.0,"like":86.68},
 "10766240516":{"name":"[🎃] Shoot For Eggs","avg_ccu":1070.2,"min_ccu":759,"max_ccu":1579,"samples":24,"sess":15.66,"sess_h":23.0,"like":86.06},
 "10766249514":{"name":"Anomaly Party","avg_ccu":2166.5,"min_ccu":1213,"max_ccu":3054,"samples":24,"sess":9.95,"sess_h":23.0,"like":97.7},
 "10766350628":{"name":"Steal An Egg ROLEPLAY","avg_ccu":3245.4,"min_ccu":2514,"max_ccu":4320,"samples":24,"sess":10.01,"sess_h":23.0,"like":77.53},
@@ -587,7 +587,7 @@
 "10767634248":{"name":"Firefighting Sim 🚒","avg_ccu":7443.2,"min_ccu":5370,"max_ccu":10790,"samples":24,"sess":12.62,"sess_h":23.0,"like":91.73},
 "10767717500":{"name":"[🏰 NEW!] Collect Cat Cards!","avg_ccu":1998.0,"min_ccu":1462,"max_ccu":3187,"samples":24,"sess":22.65,"sess_h":23.0,"like":90.82},
 "10767747849":{"name":"🌈 NEW Treadmill Game","avg_ccu":2.1,"min_ccu":0,"max_ccu":4,"samples":7,"sess":3.54,"sess_h":6.0,"like":83.72},
-"10767751602":{"name":"Fart Obby [1-2 Player] 🎃","avg_ccu":1695.1,"min_ccu":787,"max_ccu":3092,"samples":24,"sess":10.09,"sess_h":23.0,"like":95.61},
+"10767751602":{"name":"Fart Obby [1-2 Player]","avg_ccu":1695.1,"min_ccu":787,"max_ccu":3092,"samples":24,"sess":10.09,"sess_h":23.0,"like":95.61},
 "10767755908":{"name":"[🎃] Cliff Dive Masters","avg_ccu":483.4,"min_ccu":231,"max_ccu":827,"samples":24,"sess":5.81,"sess_h":23.0,"like":91.32},
 "10767774668":{"name":"[🥞] Paint a Pancake","avg_ccu":3808.3,"min_ccu":2633,"max_ccu":5330,"samples":24,"sess":8.79,"sess_h":23.0,"like":75.95},
 "10767784294":{"name":"[🎃] Steal an Clown Egg","avg_ccu":6196.2,"min_ccu":595,"max_ccu":11335,"samples":24,"sess":13.56,"sess_h":23.0,"like":93.74},
