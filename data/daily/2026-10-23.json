@@ -1,4 +1,4 @@
-{"date": "2026-10-23", "timezone": "America/New_York", "generated_utc": "2026-10-24T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-24T03:10:00Z", 14846807], "genres": {"Simulation": 38.295, "Survival": 22.097, "Roleplay & Avatar Sim": 10.99, "Action": 8.034, "Shooter": 4.052, "RPG": 3.27, "Sports & Racing": 2.681, "Strategy": 2.132, "Obby & Platformer": 2.124, "Party & Casual": 1.758, "Adventure": 1.373, "Entertainment": 0.933, "Shopping": 0.84, "Other": 0.739, "Puzzle": 0.348, "Social": 0.333}, "genre_hours": 24,"games":{
+{"date": "2026-10-23", "timezone": "America/New_York", "generated_utc": "2026-10-24T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-24T03:10:00Z", 14846807], "genres": {"Simulation": 38.295, "Survival": 22.097, "Roleplay & Avatar Sim": 10.99, "Action": 8.034, "Shooter": 4.052, "RPG": 3.27, "Sports & Racing": 2.681, "Strategy": 2.132, "Obby & Platformer": 2.124, "Party & Casual": 1.758, "Adventure": 1.373, "Entertainment": 0.933, "Shopping": 0.84, "Other": 0.739, "Puzzle": 0.348, "Social": 0.333}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3528.5,"min_ccu":2598,"max_ccu":4365,"samples":24,"sess":12.9,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7078.7,"min_ccu":4387,"max_ccu":10948,"samples":24,"sess":8.35,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4395.5,"min_ccu":2389,"max_ccu":6069,"samples":24,"sess":12.43,"sess_h":23.0,"like":93.27},
@@ -44,7 +44,7 @@
 "1268927906":{"name":"🎃Muscle Legends","avg_ccu":6279.5,"min_ccu":4318,"max_ccu":12607,"samples":24,"sess":20.0,"sess_h":23.0,"like":88.26},
 "1271059807":{"name":"[BOSS FIGHT💗🌵] Stevos Gem Eras Roleplay","avg_ccu":2474.6,"min_ccu":547,"max_ccu":7308,"samples":24,"sess":14.97,"sess_h":23.0,"like":91.24},
 "1278035280":{"name":"Warrior Cats: Ultimate Edition","avg_ccu":5865.9,"min_ccu":2648,"max_ccu":7876,"samples":24,"sess":22.13,"sess_h":23.0,"like":93.09},
-"1312971993":{"name":"[EVENT🎃] Saber Simulator","avg_ccu":2284.4,"min_ccu":2058,"max_ccu":2495,"samples":24,"sess":36.32,"sess_h":23.0,"like":86.27},
+"1312971993":{"name":"[PT3🎃] Saber Simulator","avg_ccu":2284.4,"min_ccu":2058,"max_ccu":2495,"samples":24,"sess":36.32,"sess_h":23.0,"like":86.27},
 "1374118848":{"name":"[PATH 2 & MOBILE] Dragon Generations","avg_ccu":3521.0,"min_ccu":1958,"max_ccu":4726,"samples":24,"sess":34.25,"sess_h":23.0,"like":87.92},
 "1390601379":{"name":"🎃 Combat Warriors","avg_ccu":2225.1,"min_ccu":1188,"max_ccu":5536,"samples":24,"sess":15.1,"sess_h":23.0,"like":83.43},
 "1451439645":{"name":"King Legacy","avg_ccu":5716.3,"min_ccu":4172,"max_ccu":7847,"samples":24,"sess":21.12,"sess_h":23.0,"like":91.48},
@@ -100,7 +100,7 @@
 "3457700596":{"name":"[OPE V2] Fruit Battlegrounds","avg_ccu":2211.1,"min_ccu":1765,"max_ccu":2552,"samples":24,"sess":18.62,"sess_h":23.0,"like":89.74},
 "3508322461":{"name":"[HIRED KILLER] Jujutsu Shenanigans","avg_ccu":191481.8,"min_ccu":28,"max_ccu":672102,"samples":24,"sess":13.96,"sess_h":23.0,"like":86.3},
 "3541611379":{"name":"TB II | Tower Defense X: BETA","avg_ccu":2764.6,"min_ccu":1812,"max_ccu":3856,"samples":24,"sess":15.03,"sess_h":23.0,"like":94.29},
-"3647333358":{"name":"[🎃HLWN] Evade","avg_ccu":62103.2,"min_ccu":41392,"max_ccu":87492,"samples":24,"sess":13.47,"sess_h":23.0,"like":93.9},
+"3647333358":{"name":"[1.5x 🎃HLWN] Evade","avg_ccu":62103.2,"min_ccu":41392,"max_ccu":87492,"samples":24,"sess":13.47,"sess_h":23.0,"like":93.9},
 "3734304510":{"name":"South Bronx: The Trenches❗","avg_ccu":1210.5,"min_ccu":517,"max_ccu":2210,"samples":24,"sess":17.42,"sess_h":23.0,"like":84.62},
 "3747388906":{"name":"[🚂UPD] Fallen Survival🏹","avg_ccu":1503.2,"min_ccu":431,"max_ccu":4032,"samples":24,"sess":27.94,"sess_h":23.0,"like":85.13},
 "3754482795":{"name":"[HALLOWEEN🎃] Elemental Powers Tycoon","avg_ccu":3233.8,"min_ccu":1860,"max_ccu":4284,"samples":24,"sess":10.46,"sess_h":23.0,"like":88.88},
@@ -275,7 +275,7 @@
 "9141743926":{"name":"[NOW] Catch a Monster","avg_ccu":3800.4,"min_ccu":2609,"max_ccu":8354,"samples":24,"sess":13.61,"sess_h":23.0,"like":97.82},
 "9145063979":{"name":"⛏️Dig to Escape","avg_ccu":5556.8,"min_ccu":3347,"max_ccu":7702,"samples":12,"sess":9.98,"sess_h":11.0,"like":97.77},
 "9150731899":{"name":"PRISON RP","avg_ccu":1821.8,"min_ccu":927,"max_ccu":3078,"samples":24,"sess":28.38,"sess_h":23.0,"like":78.56},
-"9167377564":{"name":"100 Days at Sea","avg_ccu":18694.0,"min_ccu":11379,"max_ccu":25014,"samples":24,"sess":16.09,"sess_h":23.0,"like":97.09},
+"9167377564":{"name":"100 Days at Sea [Halloween🎃]","avg_ccu":18694.0,"min_ccu":11379,"max_ccu":25014,"samples":24,"sess":16.09,"sess_h":23.0,"like":97.09},
 "9237322219":{"name":"Jungle Life","avg_ccu":543.2,"min_ccu":271,"max_ccu":722,"samples":24,"sess":11.04,"sess_h":23.0,"like":92.68},
 "9255613188":{"name":"Slide into Freddy Fazbear","avg_ccu":42.4,"min_ccu":21,"max_ccu":76,"samples":11,"sess":6.55,"sess_h":10.0,"like":74.75},
 "9294074907":{"name":"[FPS] One Tap","avg_ccu":18532.7,"min_ccu":12596,"max_ccu":24874,"samples":24,"sess":8.93,"sess_h":23.0,"like":87.89},
