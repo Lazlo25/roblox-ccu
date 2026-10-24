@@ -1,4 +1,4 @@
-{"date": "2026-10-23", "timezone": "America/New_York", "generated_utc": "2026-10-24T03:10:00Z", "through_et": "23:10", "platform_now": ["2026-10-24T03:10:00Z", 14846807], "genres": {"Simulation": 38.295, "Survival": 22.097, "Roleplay & Avatar Sim": 10.99, "Action": 8.034, "Shooter": 4.052, "RPG": 3.27, "Sports & Racing": 2.681, "Strategy": 2.132, "Obby & Platformer": 2.124, "Party & Casual": 1.758, "Adventure": 1.373, "Entertainment": 0.933, "Shopping": 0.84, "Other": 0.739, "Puzzle": 0.348, "Social": 0.333}, "genre_hours": 24,"games":{
+{"date": "2026-10-23", "timezone": "America/New_York", "generated_utc": "2026-10-24T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-24T03:10:00Z", 14846807], "genres": {"Simulation": 38.295, "Survival": 22.097, "Roleplay & Avatar Sim": 10.99, "Action": 8.034, "Shooter": 4.052, "RPG": 3.27, "Sports & Racing": 2.681, "Strategy": 2.132, "Obby & Platformer": 2.124, "Party & Casual": 1.758, "Adventure": 1.373, "Entertainment": 0.933, "Shopping": 0.84, "Other": 0.739, "Puzzle": 0.348, "Social": 0.333}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3528.5,"min_ccu":2598,"max_ccu":4365,"samples":24,"sess":12.9,"sess_h":23.0,"like":92.91},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7078.7,"min_ccu":4387,"max_ccu":10948,"samples":24,"sess":8.35,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4395.5,"min_ccu":2389,"max_ccu":6069,"samples":24,"sess":12.43,"sess_h":23.0,"like":93.27},
@@ -289,7 +289,7 @@
 "9491545867":{"name":"[🧟EVENT] Break a Brainrot Egg!","avg_ccu":6998.1,"min_ccu":5586,"max_ccu":8953,"samples":24,"sess":12.04,"sess_h":23.0,"like":81.71},
 "9514625031":{"name":"[🍁] Fling Playground","avg_ccu":5801.8,"min_ccu":3531,"max_ccu":7740,"samples":24,"sess":12.93,"sess_h":23.0,"like":60.06},
 "9534705677":{"name":"[🎃Event] Sniper Arena","avg_ccu":16315.4,"min_ccu":11693,"max_ccu":22376,"samples":24,"sess":12.9,"sess_h":23.0,"like":91.76},
-"9551044479":{"name":"Final Swarm [1 DAY⌛]","avg_ccu":953.7,"min_ccu":649,"max_ccu":1535,"samples":24,"sess":11.81,"sess_h":23.0,"like":97.09},
+"9551044479":{"name":"Final Swarm [12 HOURS⌛]","avg_ccu":953.7,"min_ccu":649,"max_ccu":1535,"samples":24,"sess":11.81,"sess_h":23.0,"like":97.09},
 "9561553764":{"name":"[🎃] Murder Duels","avg_ccu":12592.5,"min_ccu":8701,"max_ccu":16004,"samples":24,"sess":8.69,"sess_h":23.0,"like":93.48},
 "9582986239":{"name":"Fish an Anime RNG 🎲","avg_ccu":2397.5,"min_ccu":2267,"max_ccu":2572,"samples":24,"sess":25.92,"sess_h":23.0,"like":95.02},
 "9584852943":{"name":"[🎵] +1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":69488.2,"min_ccu":34629,"max_ccu":103943,"samples":24,"sess":8.97,"sess_h":23.0,"like":96.78},
