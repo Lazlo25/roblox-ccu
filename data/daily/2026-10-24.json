@@ -1,4 +1,4 @@
-{"date": "2026-10-24", "timezone": "America/New_York", "generated_utc": "2026-10-25T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-25T03:10:00Z", 16954832], "genres": {"Simulation": 39.662, "Survival": 23.647, "Roleplay & Avatar Sim": 10.553, "Action": 7.527, "Shooter": 3.498, "RPG": 2.954, "Sports & Racing": 2.651, "Obby & Platformer": 2.1, "Strategy": 1.789, "Party & Casual": 1.444, "Adventure": 1.422, "Other": 0.781, "Shopping": 0.774, "Entertainment": 0.654, "Puzzle": 0.327, "Social": 0.217}, "genre_hours": 24,"games":{
+{"date": "2026-10-24", "timezone": "America/New_York", "generated_utc": "2026-10-25T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-25T03:10:00Z", 16954832], "genres": {"Simulation": 39.662, "Survival": 23.647, "Roleplay & Avatar Sim": 10.553, "Action": 7.527, "Shooter": 3.498, "RPG": 2.954, "Sports & Racing": 2.651, "Obby & Platformer": 2.1, "Strategy": 1.789, "Party & Casual": 1.444, "Adventure": 1.422, "Other": 0.781, "Shopping": 0.774, "Entertainment": 0.654, "Puzzle": 0.327, "Social": 0.217}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4509.9,"min_ccu":3629,"max_ccu":5529,"samples":24,"sess":13.02,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":8991.8,"min_ccu":5812,"max_ccu":13262,"samples":24,"sess":8.45,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5368.1,"min_ccu":3697,"max_ccu":7340,"samples":24,"sess":12.66,"sess_h":23.0,"like":93.27},
@@ -238,7 +238,7 @@
 "7661378108":{"name":"[Paint Overhaul🎨] Trails","avg_ccu":1128.1,"min_ccu":504,"max_ccu":1651,"samples":24,"sess":11.16,"sess_h":23.0,"like":79.79},
 "7671049560":{"name":"🎃 The Forge [Guilds]","avg_ccu":9052.0,"min_ccu":6844,"max_ccu":11683,"samples":24,"sess":25.67,"sess_h":23.0,"like":94.43},
 "7673659635":{"name":"[RAIN] Fix It Up!","avg_ccu":3911.6,"min_ccu":2270,"max_ccu":5444,"samples":24,"sess":15.84,"sess_h":23.0,"like":85.34},
-"7703614594":{"name":"[🎃x2🍀] Garden Tower Defense 🌻","avg_ccu":8113.9,"min_ccu":4541,"max_ccu":18520,"samples":24,"sess":10.67,"sess_h":23.0,"like":98.22},
+"7703614594":{"name":"[🎃] Garden Tower Defense 🌻","avg_ccu":8113.9,"min_ccu":4541,"max_ccu":18520,"samples":24,"sess":10.67,"sess_h":23.0,"like":98.22},
 "7709344486":{"name":"[💀] Steal a Brainrot","avg_ccu":257785.7,"min_ccu":140377,"max_ccu":912514,"samples":24,"sess":13.63,"sess_h":23.0,"like":85.13},
 "7738524573":{"name":"☣️AREA 51 | Retro Tower Defense","avg_ccu":3299.1,"min_ccu":2626,"max_ccu":3947,"samples":24,"sess":8.97,"sess_h":23.0,"like":91.63},
 "7761516673":{"name":"[NOW] Fight in a Streamer University🎓","avg_ccu":1284.9,"min_ccu":501,"max_ccu":3141,"samples":24,"sess":9.34,"sess_h":23.0,"like":80.41},
@@ -499,7 +499,7 @@
 "10765167636":{"name":"[💵] 2 Player Raid Tycoon","avg_ccu":2437.3,"min_ccu":1367,"max_ccu":3445,"samples":24,"sess":17.8,"sess_h":23.0,"like":89.06},
 "10765288803":{"name":"Break and Steal an Egg","avg_ccu":98629.8,"min_ccu":50069,"max_ccu":131952,"samples":24,"sess":13.92,"sess_h":23.0,"like":97.43},
 "10765298801":{"name":"[🎃] +1 Stone Skipping","avg_ccu":26056.2,"min_ccu":16558,"max_ccu":69744,"samples":24,"sess":18.56,"sess_h":23.0,"like":96.72},
-"10765443218":{"name":"[NOW] Break Freedy's Ankle!","avg_ccu":3374.3,"min_ccu":1329,"max_ccu":5262,"samples":24,"sess":6.09,"sess_h":23.0,"like":77.63},
+"10765443218":{"name":"[🎃] Break Freedy's Ankle!","avg_ccu":3374.3,"min_ccu":1329,"max_ccu":5262,"samples":24,"sess":6.09,"sess_h":23.0,"like":77.63},
 "10765484533":{"name":"[🎃] +1 Laser Destruction 🔥","avg_ccu":2044.9,"min_ccu":1343,"max_ccu":3050,"samples":24,"sess":12.82,"sess_h":23.0,"like":82.7},
 "10765490774":{"name":"[🎃]Climb For Animals Eggs🥚","avg_ccu":61009.4,"min_ccu":27097,"max_ccu":120823,"samples":24,"sess":15.36,"sess_h":23.0,"like":98.79},
 "10765491459":{"name":"Superhero Arena","avg_ccu":13303.2,"min_ccu":9039,"max_ccu":18232,"samples":24,"sess":13.39,"sess_h":23.0,"like":90.72},
@@ -647,7 +647,7 @@
 "10769290949":{"name":"Eat The Supermarket","avg_ccu":4384.0,"min_ccu":2882,"max_ccu":5950,"samples":24,"sess":13.52,"sess_h":23.0,"like":78.82},
 "10769294383":{"name":"Jump Highest Skydive!","avg_ccu":512.2,"min_ccu":267,"max_ccu":667,"samples":14,"sess":9.61,"sess_h":13.0,"like":33.96},
 "10769324921":{"name":"Makeup All Stars [NEW THEMES]💄","avg_ccu":8942.3,"min_ccu":4906,"max_ccu":12830,"samples":24,"sess":8.47,"sess_h":23.0,"like":80.57},
-"10769362627":{"name":"EAT the Groceries!!! [SPOOK]","avg_ccu":3094.8,"min_ccu":2803,"max_ccu":3882,"samples":4,"like":87.97},
+"10769362627":{"name":"EAT the Groceries!!! [GIANT FOOD]","avg_ccu":3094.8,"min_ccu":2803,"max_ccu":3882,"samples":4,"like":87.97},
 "10769374148":{"name":"VANITY [Realistic Makeup Studio] ALL AGES!!!","avg_ccu":1822.1,"min_ccu":1026,"max_ccu":2858,"samples":13,"sess":10.79,"sess_h":12.0,"like":78.96},
 "10769384180":{"name":"[🎃] Fake an Egg","avg_ccu":31532.3,"min_ccu":21967,"max_ccu":41575,"samples":24,"sess":10.96,"sess_h":23.0,"like":89.16},
 "10769393753":{"name":"[⚽ INTERNATIONAL] Become A Striker","avg_ccu":5678.9,"min_ccu":3588,"max_ccu":8167,"samples":24,"sess":14.48,"sess_h":23.0,"like":70.31},
