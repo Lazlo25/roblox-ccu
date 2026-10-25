@@ -1,4 +1,4 @@
-{"date": "2026-10-24", "timezone": "America/New_York", "generated_utc": "2026-10-25T03:10:00Z", "through_et": "23:10", "platform_now": ["2026-10-25T03:10:00Z", 16954832], "genres": {"Simulation": 39.662, "Survival": 23.647, "Roleplay & Avatar Sim": 10.553, "Action": 7.527, "Shooter": 3.498, "RPG": 2.954, "Sports & Racing": 2.651, "Obby & Platformer": 2.1, "Strategy": 1.789, "Party & Casual": 1.444, "Adventure": 1.422, "Other": 0.781, "Shopping": 0.774, "Entertainment": 0.654, "Puzzle": 0.327, "Social": 0.217}, "genre_hours": 24,"games":{
+{"date": "2026-10-24", "timezone": "America/New_York", "generated_utc": "2026-10-25T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-25T03:10:00Z", 16954832], "genres": {"Simulation": 39.662, "Survival": 23.647, "Roleplay & Avatar Sim": 10.553, "Action": 7.527, "Shooter": 3.498, "RPG": 2.954, "Sports & Racing": 2.651, "Obby & Platformer": 2.1, "Strategy": 1.789, "Party & Casual": 1.444, "Adventure": 1.422, "Other": 0.781, "Shopping": 0.774, "Entertainment": 0.654, "Puzzle": 0.327, "Social": 0.217}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4509.9,"min_ccu":3629,"max_ccu":5529,"samples":24,"sess":13.02,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":8991.8,"min_ccu":5812,"max_ccu":13262,"samples":24,"sess":8.45,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5368.1,"min_ccu":3697,"max_ccu":7340,"samples":24,"sess":12.66,"sess_h":23.0,"like":93.27},
@@ -488,7 +488,7 @@
 "10764702969":{"name":"❄️ Voxel Winter Survival ❄️","avg_ccu":9247.1,"min_ccu":4222,"max_ccu":12462,"samples":24,"sess":15.45,"sess_h":23.0,"like":70.88},
 "10764887435":{"name":"[🤑WORKS] Forest Donations","avg_ccu":1450.8,"min_ccu":1144,"max_ccu":1692,"samples":24,"sess":6.91,"sess_h":23.0,"like":93.87},
 "10764959046":{"name":"Locust Murder Mystery","avg_ccu":7847.7,"min_ccu":5548,"max_ccu":13866,"samples":24,"sess":6.88,"sess_h":23.0,"like":84.23},
-"10764989090":{"name":"Anime Ball Duels","avg_ccu":2200.9,"min_ccu":1517,"max_ccu":2845,"samples":24,"sess":14.47,"sess_h":23.0,"like":84.03},
+"10764989090":{"name":"[🎃] Anime Ball Duels","avg_ccu":2200.9,"min_ccu":1517,"max_ccu":2845,"samples":24,"sess":14.47,"sess_h":23.0,"like":84.03},
 "10765012427":{"name":"[Pt. 2 🎃] Build the Pyramid!","avg_ccu":6506.0,"min_ccu":5218,"max_ccu":8643,"samples":24,"sess":16.27,"sess_h":23.0,"like":94.68},
 "10765013362":{"name":"🎃 Dig For Eggs","avg_ccu":8692.8,"min_ccu":5864,"max_ccu":19684,"samples":24,"sess":20.98,"sess_h":23.0,"like":90.8},
 "10765067592":{"name":"[UPD10] Tower Incremental","avg_ccu":2299.4,"min_ccu":1641,"max_ccu":2952,"samples":24,"sess":32.72,"sess_h":23.0,"like":89.2},
@@ -506,7 +506,7 @@
 "10765494545":{"name":"[🎓] Run a Cheer Gym","avg_ccu":1162.8,"min_ccu":426,"max_ccu":2282,"samples":24,"sess":13.06,"sess_h":23.0,"like":96.72},
 "10765525876":{"name":"[🎃MULTIPLAYER] Start Your Blue Lock Career!","avg_ccu":4955.8,"min_ccu":3085,"max_ccu":6621,"samples":24,"sess":19.88,"sess_h":23.0,"like":91.25},
 "10765582175":{"name":"dogs🎃","avg_ccu":4831.8,"min_ccu":0,"max_ccu":7371,"samples":18,"sess":13.43,"sess_h":17.0,"like":88.81},
-"10765591030":{"name":"[WORLD COMPANIONS] + 1 Anime Evolve","avg_ccu":4851.5,"min_ccu":3027,"max_ccu":6676,"samples":24,"sess":15.31,"sess_h":23.0,"like":93.93},
+"10765591030":{"name":"[🎃] + 1 Anime Evolve","avg_ccu":4851.5,"min_ccu":3027,"max_ccu":6676,"samples":24,"sess":15.31,"sess_h":23.0,"like":93.93},
 "10765618402":{"name":"Steel Fighters","avg_ccu":33404.5,"min_ccu":24534,"max_ccu":42218,"samples":24,"sess":19.28,"sess_h":23.0,"like":90.74},
 "10765637643":{"name":"☠️ Steal an EXE Egg ☠️","avg_ccu":716.3,"min_ccu":447,"max_ccu":935,"samples":24,"sess":6.86,"sess_h":23.0,"like":89.85},
 "10765686447":{"name":"Steal ASMR!","avg_ccu":11097.0,"min_ccu":7851,"max_ccu":17366,"samples":24,"sess":12.94,"sess_h":23.0,"like":94.63},
@@ -628,7 +628,7 @@
 "10768944846":{"name":"[TUSK + 4 NEW STANDS] Morioh High","avg_ccu":1758.8,"min_ccu":547,"max_ccu":4288,"samples":24,"sess":12.15,"sess_h":23.0,"like":94.39},
 "10768960729":{"name":"[🎃] Stick Wars","avg_ccu":4042.0,"min_ccu":3072,"max_ccu":5715,"samples":23,"sess":11.3,"sess_h":22.0,"like":89.21},
 "10768992869":{"name":"🥟SQUISHY DUMPLING PRISON RUN! (Obby)","avg_ccu":4534.0,"min_ccu":2818,"max_ccu":6446,"samples":24,"sess":9.08,"sess_h":23.0,"like":80.23},
-"10769037074":{"name":"[DUELS] Rally Panic! [2 Player Rally]","avg_ccu":6012.9,"min_ccu":3166,"max_ccu":9259,"samples":24,"sess":5.37,"sess_h":23.0,"like":86.53},
+"10769037074":{"name":"[DUELS] Rally Panic!","avg_ccu":6012.9,"min_ccu":3166,"max_ccu":9259,"samples":24,"sess":5.37,"sess_h":23.0,"like":86.53},
 "10769043472":{"name":"Superstellar: Next Generation","avg_ccu":1597.4,"min_ccu":882,"max_ccu":2384,"samples":24,"sess":10.47,"sess_h":23.0,"like":95.98},
 "10769049113":{"name":"Would You Rather: Queen Contest Outfit Tower👑","avg_ccu":3295.3,"min_ccu":1923,"max_ccu":4487,"samples":24,"sess":6.03,"sess_h":23.0,"like":68.28},
 "10769066324":{"name":"Bloxx League","avg_ccu":3490.0,"min_ccu":1548,"max_ccu":5358,"samples":24,"sess":3.2,"sess_h":23.0,"like":78.49},
