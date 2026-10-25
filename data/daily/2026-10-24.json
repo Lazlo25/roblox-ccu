@@ -1,4 +1,4 @@
-{"date": "2026-10-24", "timezone": "America/New_York", "generated_utc": "2026-10-25T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-25T03:10:00Z", 16954832], "genres": {"Simulation": 39.662, "Survival": 23.647, "Roleplay & Avatar Sim": 10.553, "Action": 7.527, "Shooter": 3.498, "RPG": 2.954, "Sports & Racing": 2.651, "Obby & Platformer": 2.1, "Strategy": 1.789, "Party & Casual": 1.444, "Adventure": 1.422, "Other": 0.781, "Shopping": 0.774, "Entertainment": 0.654, "Puzzle": 0.327, "Social": 0.217}, "genre_hours": 24,"games":{
+{"date": "2026-10-24", "timezone": "America/New_York", "generated_utc": "2026-10-25T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-25T03:10:00Z", 16954832], "genres": {"Simulation": 39.662, "Survival": 23.647, "Roleplay & Avatar Sim": 10.553, "Action": 7.527, "Shooter": 3.498, "RPG": 2.954, "Sports & Racing": 2.651, "Obby & Platformer": 2.1, "Strategy": 1.789, "Party & Casual": 1.444, "Adventure": 1.422, "Other": 0.781, "Shopping": 0.774, "Entertainment": 0.654, "Puzzle": 0.327, "Social": 0.217}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4509.9,"min_ccu":3629,"max_ccu":5529,"samples":24,"sess":13.02,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":8991.8,"min_ccu":5812,"max_ccu":13262,"samples":24,"sess":8.45,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5368.1,"min_ccu":3697,"max_ccu":7340,"samples":24,"sess":12.66,"sess_h":23.0,"like":93.27},
@@ -688,7 +688,7 @@
 "10770417318":{"name":"Prove Your Innocence!","avg_ccu":5125.1,"min_ccu":2621,"max_ccu":8018,"samples":24,"sess":12.69,"sess_h":23.0,"like":95.02},
 "10770479965":{"name":"Harvest It All 🎃","avg_ccu":1953.7,"min_ccu":1647,"max_ccu":2673,"samples":7,"sess":12.18,"sess_h":6.0,"like":82.08},
 "10770593871":{"name":"Realistic Ragdoll Engine 🩸","avg_ccu":10224.1,"min_ccu":5746,"max_ccu":12347,"samples":20,"sess":12.8,"sess_h":19.0,"like":88.55},
-"10770605947":{"name":"[NOW] Ragdoll Reality 🩸","avg_ccu":47190.7,"min_ccu":38372,"max_ccu":59195,"samples":24,"sess":14.93,"sess_h":23.0,"like":81.68},
+"10770605947":{"name":"Ragdoll Reality 🩸","avg_ccu":47190.7,"min_ccu":38372,"max_ccu":59195,"samples":24,"sess":14.93,"sess_h":23.0,"like":81.68},
 "10770728771":{"name":"The Hollow","avg_ccu":52135.8,"min_ccu":31574,"max_ccu":218120,"samples":24,"sess":4.11,"sess_h":23.0,"like":83.96},
 "10770879065":{"name":"It Hears The Water [DONT SPLASH] 🎃","avg_ccu":6978.3,"min_ccu":3187,"max_ccu":9984,"samples":24,"sess":6.74,"sess_h":23.0,"like":81.79},
 "10770934840":{"name":"[🎃] UNDERTALE Fight!","avg_ccu":6047.7,"min_ccu":5781,"max_ccu":6337,"samples":3,"like":96.05},
