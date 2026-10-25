@@ -1,4 +1,4 @@
-{"date": "2026-10-24", "timezone": "America/New_York", "generated_utc": "2026-10-25T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-25T03:10:00Z", 16954832], "genres": {"Simulation": 39.662, "Survival": 23.647, "Roleplay & Avatar Sim": 10.553, "Action": 7.527, "Shooter": 3.498, "RPG": 2.954, "Sports & Racing": 2.651, "Obby & Platformer": 2.1, "Strategy": 1.789, "Party & Casual": 1.444, "Adventure": 1.422, "Other": 0.781, "Shopping": 0.774, "Entertainment": 0.654, "Puzzle": 0.327, "Social": 0.217}, "genre_hours": 24,"games":{
+{"date": "2026-10-24", "timezone": "America/New_York", "generated_utc": "2026-10-25T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-25T03:10:00Z", 16954832], "genres": {"Simulation": 39.662, "Survival": 23.647, "Roleplay & Avatar Sim": 10.553, "Action": 7.527, "Shooter": 3.498, "RPG": 2.954, "Sports & Racing": 2.651, "Obby & Platformer": 2.1, "Strategy": 1.789, "Party & Casual": 1.444, "Adventure": 1.422, "Other": 0.781, "Shopping": 0.774, "Entertainment": 0.654, "Puzzle": 0.327, "Social": 0.217}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4509.9,"min_ccu":3629,"max_ccu":5529,"samples":24,"sess":13.02,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":8991.8,"min_ccu":5812,"max_ccu":13262,"samples":24,"sess":8.45,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5368.1,"min_ccu":3697,"max_ccu":7340,"samples":24,"sess":12.66,"sess_h":23.0,"like":93.27},
@@ -409,7 +409,7 @@
 "10575295323":{"name":"Highway Patrol [Alpha]","avg_ccu":10044.9,"min_ccu":6178,"max_ccu":14734,"samples":24,"sess":14.69,"sess_h":23.0,"like":80.01},
 "10577588270":{"name":"🦸 +1 Superhero Evolution","avg_ccu":2157.5,"min_ccu":1729,"max_ccu":2769,"samples":24,"sess":20.86,"sess_h":23.0,"like":97.6},
 "10584047390":{"name":"[🧽] Clean the House!","avg_ccu":6107.1,"min_ccu":4375,"max_ccu":7787,"samples":24,"sess":11.14,"sess_h":23.0,"like":80.52},
-"10592694097":{"name":"[UPD] Build a PC","avg_ccu":5375.2,"min_ccu":3239,"max_ccu":7854,"samples":24,"sess":14.68,"sess_h":23.0,"like":82.74},
+"10592694097":{"name":"Build a PC","avg_ccu":5375.2,"min_ccu":3239,"max_ccu":7854,"samples":24,"sess":14.68,"sess_h":23.0,"like":82.74},
 "10593482707":{"name":"[🎃] Build a Keyboard!","avg_ccu":15003.7,"min_ccu":8198,"max_ccu":20545,"samples":24,"sess":11.37,"sess_h":23.0,"like":96.89},
 "10599406058":{"name":"[UPD] Feed the Fire 🔥","avg_ccu":7326.6,"min_ccu":5500,"max_ccu":10645,"samples":24,"sess":15.18,"sess_h":23.0,"like":97.6},
 "10603011269":{"name":"[🎃 EVENT] Sword Hunter","avg_ccu":1107.6,"min_ccu":986,"max_ccu":1554,"samples":24,"sess":32.02,"sess_h":23.0,"like":95.38},
@@ -608,7 +608,7 @@
 "10768542976":{"name":"Be a Pirate","avg_ccu":2878.2,"min_ccu":1797,"max_ccu":4929,"samples":24,"sess":26.68,"sess_h":23.0,"like":90.93},
 "10768550253":{"name":"[CARGO] Run an Airline✈️","avg_ccu":5109.7,"min_ccu":3553,"max_ccu":6950,"samples":24,"sess":18.73,"sess_h":23.0,"like":90.49},
 "10768556372":{"name":"[🎃] Candy Kingdom Defense","avg_ccu":9109.5,"min_ccu":6613,"max_ccu":11520,"samples":24,"sess":11.28,"sess_h":23.0,"like":96.15},
-"10768561721":{"name":"[🏝️] +1 Haki Evolution","avg_ccu":1382.8,"min_ccu":1110,"max_ccu":1758,"samples":24,"sess":25.85,"sess_h":23.0,"like":94.94},
+"10768561721":{"name":"[🏝️ 1.5x] +1 Haki Evolution","avg_ccu":1382.8,"min_ccu":1110,"max_ccu":1758,"samples":24,"sess":25.85,"sess_h":23.0,"like":94.94},
 "10768586153":{"name":"Make Me Pretty!","avg_ccu":2859.0,"min_ccu":1666,"max_ccu":4104,"samples":24,"sess":12.32,"sess_h":23.0,"like":82.94},
 "10768625767":{"name":"Save the Krusty Krab 🍔","avg_ccu":22894.7,"min_ccu":18122,"max_ccu":29052,"samples":24,"sess":15.62,"sess_h":23.0,"like":93.68},
 "10768630078":{"name":"Catastrophic Horse Racing 🎃","avg_ccu":2225.6,"min_ccu":1002,"max_ccu":3145,"samples":24,"sess":7.02,"sess_h":23.0,"like":92.18},
