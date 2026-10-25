@@ -1,4 +1,4 @@
-{"date": "2026-10-24", "timezone": "America/New_York", "generated_utc": "2026-10-25T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-25T03:10:00Z", 16954832], "genres": {"Simulation": 39.662, "Survival": 23.647, "Roleplay & Avatar Sim": 10.553, "Action": 7.527, "Shooter": 3.498, "RPG": 2.954, "Sports & Racing": 2.651, "Obby & Platformer": 2.1, "Strategy": 1.789, "Party & Casual": 1.444, "Adventure": 1.422, "Other": 0.781, "Shopping": 0.774, "Entertainment": 0.654, "Puzzle": 0.327, "Social": 0.217}, "genre_hours": 24,"games":{
+{"date": "2026-10-24", "timezone": "America/New_York", "generated_utc": "2026-10-25T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-25T03:10:00Z", 16954832], "genres": {"Simulation": 39.662, "Survival": 23.647, "Roleplay & Avatar Sim": 10.553, "Action": 7.527, "Shooter": 3.498, "RPG": 2.954, "Sports & Racing": 2.651, "Obby & Platformer": 2.1, "Strategy": 1.789, "Party & Casual": 1.444, "Adventure": 1.422, "Other": 0.781, "Shopping": 0.774, "Entertainment": 0.654, "Puzzle": 0.327, "Social": 0.217}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4509.9,"min_ccu":3629,"max_ccu":5529,"samples":24,"sess":13.02,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":8991.8,"min_ccu":5812,"max_ccu":13262,"samples":24,"sess":8.45,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5368.1,"min_ccu":3697,"max_ccu":7340,"samples":24,"sess":12.66,"sess_h":23.0,"like":93.27},
@@ -286,7 +286,7 @@
 "9363735110":{"name":"[🌊] Escape Tsunami For Brainrots!","avg_ccu":7866.9,"min_ccu":4454,"max_ccu":35729,"samples":24,"sess":10.72,"sess_h":23.0,"like":83.1},
 "9364041968":{"name":"[LIMITEDS🏎️] Car Sales 2 🏎️","avg_ccu":1963.7,"min_ccu":957,"max_ccu":3151,"samples":7,"sess":18.31,"sess_h":6.0,"like":82.89},
 "9456333594":{"name":"Bikelife Baltimore [NEW UPDATE💥]","avg_ccu":4384.8,"min_ccu":2891,"max_ccu":6189,"samples":23,"sess":7.39,"sess_h":22.0,"like":64.5},
-"9491545867":{"name":"[🎃EVENT] Break a Brainrot Egg!","avg_ccu":8611.4,"min_ccu":5821,"max_ccu":14201,"samples":24,"sess":12.41,"sess_h":23.0,"like":81.72},
+"9491545867":{"name":"[🎃SOON] Break a Brainrot Egg!","avg_ccu":8611.4,"min_ccu":5821,"max_ccu":14201,"samples":24,"sess":12.41,"sess_h":23.0,"like":81.72},
 "9514625031":{"name":"[🍁] Fling Playground","avg_ccu":7748.0,"min_ccu":4874,"max_ccu":10610,"samples":24,"sess":13.0,"sess_h":23.0,"like":60.84},
 "9534705677":{"name":"[🎃Event] Sniper Arena","avg_ccu":18497.6,"min_ccu":12079,"max_ccu":22850,"samples":24,"sess":13.16,"sess_h":23.0,"like":91.76},
 "9551044479":{"name":"Final Swarm [NOW🎃]","avg_ccu":2455.2,"min_ccu":918,"max_ccu":5146,"samples":24,"sess":12.04,"sess_h":23.0,"like":97.08},
@@ -451,7 +451,7 @@
 "10741302505":{"name":"Collect 1 Million Items [✨]","avg_ccu":1089.0,"min_ccu":655,"max_ccu":1701,"samples":24,"sess":15.11,"sess_h":23.0,"like":97.9},
 "10741654282":{"name":"Build and Kill Zombies","avg_ccu":7905.5,"min_ccu":3618,"max_ccu":35847,"samples":24,"sess":19.41,"sess_h":23.0,"like":97.98},
 "10741792653":{"name":"Survive The Swarm [NOW🎃]","avg_ccu":2117.1,"min_ccu":1475,"max_ccu":3114,"samples":24,"sess":10.63,"sess_h":23.0,"like":96.71},
-"10742937135":{"name":"[NEW MAP SOON] Survive The Hulk","avg_ccu":706.3,"min_ccu":403,"max_ccu":1015,"samples":24,"sess":8.73,"sess_h":23.0,"like":80.63},
+"10742937135":{"name":"[NEW MALL MAP] Survive The Hulk","avg_ccu":706.3,"min_ccu":403,"max_ccu":1015,"samples":24,"sess":8.73,"sess_h":23.0,"like":80.63},
 "10744310825":{"name":"[UPD🎃] Paint to Get Rich 🎨","avg_ccu":13484.5,"min_ccu":7657,"max_ccu":18683,"samples":24,"sess":13.03,"sess_h":23.0,"like":75.2},
 "10746305948":{"name":"Don't Press The Button 7","avg_ccu":7429.8,"min_ccu":5153,"max_ccu":11019,"samples":24,"sess":11.23,"sess_h":23.0,"like":62.6},
 "10747719434":{"name":"[🎃V3] Feed A Mosquito","avg_ccu":32934.6,"min_ccu":22209,"max_ccu":41659,"samples":24,"sess":15.97,"sess_h":23.0,"like":80.9},
