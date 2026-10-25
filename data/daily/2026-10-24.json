@@ -1,4 +1,4 @@
-{"date": "2026-10-24", "timezone": "America/New_York", "generated_utc": "2026-10-25T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-25T03:10:00Z", 16954832], "genres": {"Simulation": 39.662, "Survival": 23.647, "Roleplay & Avatar Sim": 10.553, "Action": 7.527, "Shooter": 3.498, "RPG": 2.954, "Sports & Racing": 2.651, "Obby & Platformer": 2.1, "Strategy": 1.789, "Party & Casual": 1.444, "Adventure": 1.422, "Other": 0.781, "Shopping": 0.774, "Entertainment": 0.654, "Puzzle": 0.327, "Social": 0.217}, "genre_hours": 24,"games":{
+{"date": "2026-10-24", "timezone": "America/New_York", "generated_utc": "2026-10-25T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-25T03:10:00Z", 16954832], "genres": {"Simulation": 39.662, "Survival": 23.647, "Roleplay & Avatar Sim": 10.553, "Action": 7.527, "Shooter": 3.498, "RPG": 2.954, "Sports & Racing": 2.651, "Obby & Platformer": 2.1, "Strategy": 1.789, "Party & Casual": 1.444, "Adventure": 1.422, "Other": 0.781, "Shopping": 0.774, "Entertainment": 0.654, "Puzzle": 0.327, "Social": 0.217}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4509.9,"min_ccu":3629,"max_ccu":5529,"samples":24,"sess":13.02,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":8991.8,"min_ccu":5812,"max_ccu":13262,"samples":24,"sess":8.45,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5368.1,"min_ccu":3697,"max_ccu":7340,"samples":24,"sess":12.66,"sess_h":23.0,"like":93.27},
@@ -241,7 +241,7 @@
 "7703614594":{"name":"[🎃] Garden Tower Defense 🌻","avg_ccu":8113.9,"min_ccu":4541,"max_ccu":18520,"samples":24,"sess":10.67,"sess_h":23.0,"like":98.22},
 "7709344486":{"name":"[💀] Steal a Brainrot","avg_ccu":257785.7,"min_ccu":140377,"max_ccu":912514,"samples":24,"sess":13.63,"sess_h":23.0,"like":85.13},
 "7738524573":{"name":"☣️AREA 51 | Retro Tower Defense","avg_ccu":3299.1,"min_ccu":2626,"max_ccu":3947,"samples":24,"sess":8.97,"sess_h":23.0,"like":91.63},
-"7761516673":{"name":"[NOW] Fight in a Streamer University🎓","avg_ccu":1284.9,"min_ccu":501,"max_ccu":3141,"samples":24,"sess":9.34,"sess_h":23.0,"like":80.41},
+"7761516673":{"name":"[UPD] Fight in a Streamer University🎓","avg_ccu":1284.9,"min_ccu":501,"max_ccu":3141,"samples":24,"sess":9.34,"sess_h":23.0,"like":80.41},
 "7843413523":{"name":"Supermarket Together","avg_ccu":3081.2,"min_ccu":1672,"max_ccu":4711,"samples":24,"sess":16.52,"sess_h":23.0,"like":94.02},
 "7856039629":{"name":"[🎃] Murder Mystery DUELS","avg_ccu":7040.6,"min_ccu":4903,"max_ccu":9024,"samples":24,"sess":8.95,"sess_h":23.0,"like":88.69},
 "7883776681":{"name":"[EVENT🎃] Racket Rivals","avg_ccu":9297.4,"min_ccu":6429,"max_ccu":12630,"samples":24,"sess":10.79,"sess_h":23.0,"like":94.84},
