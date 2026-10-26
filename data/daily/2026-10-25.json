@@ -1,4 +1,4 @@
-{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-26T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
+{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-26T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":4570.1,"min_ccu":2896,"max_ccu":5879,"samples":24,"sess":13.16,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9516.4,"min_ccu":6368,"max_ccu":12209,"samples":24,"sess":8.6,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4881.5,"min_ccu":2087,"max_ccu":6801,"samples":24,"sess":12.61,"sess_h":23.0,"like":93.27},
@@ -646,7 +646,7 @@
 "10769279468":{"name":"Build An Anime Character","avg_ccu":4142.4,"min_ccu":3329,"max_ccu":4796,"samples":8,"sess":14.93,"sess_h":7.0,"like":58.71},
 "10769288862":{"name":"[300] Kill Your Friend!","avg_ccu":4210.7,"min_ccu":1681,"max_ccu":5980,"samples":24,"sess":12.93,"sess_h":23.0,"like":82.75},
 "10769290949":{"name":"Eat The Supermarket","avg_ccu":3705.0,"min_ccu":1437,"max_ccu":5384,"samples":24,"sess":13.25,"sess_h":23.0,"like":80.24},
-"10769324921":{"name":"Makeup All Stars [NEW THEMES]💄","avg_ccu":8312.2,"min_ccu":3383,"max_ccu":12072,"samples":24,"sess":9.37,"sess_h":23.0,"like":80.81},
+"10769324921":{"name":"Makeup All Stars [UPDATED]💄","avg_ccu":8312.2,"min_ccu":3383,"max_ccu":12072,"samples":24,"sess":9.37,"sess_h":23.0,"like":80.81},
 "10769362627":{"name":"EAT the Groceries!!! [GIANT FOOD]","avg_ccu":3920.2,"min_ccu":1974,"max_ccu":5433,"samples":24,"sess":13.91,"sess_h":23.0,"like":88.07},
 "10769384180":{"name":"[🎃] Fake an Egg","avg_ccu":38252.2,"min_ccu":17065,"max_ccu":137739,"samples":24,"sess":11.13,"sess_h":23.0,"like":89.0},
 "10769393753":{"name":"[⚽ INTERNATIONAL] Become A Striker","avg_ccu":4794.1,"min_ccu":1910,"max_ccu":6700,"samples":24,"sess":14.41,"sess_h":23.0,"like":72.33},
