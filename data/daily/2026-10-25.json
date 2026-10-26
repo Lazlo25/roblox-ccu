@@ -1,4 +1,4 @@
-{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-26T16:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
+{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-26T17:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":4570.1,"min_ccu":2896,"max_ccu":5879,"samples":24,"sess":13.16,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9516.4,"min_ccu":6368,"max_ccu":12209,"samples":24,"sess":8.6,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4881.5,"min_ccu":2087,"max_ccu":6801,"samples":24,"sess":12.61,"sess_h":23.0,"like":93.27},
@@ -221,7 +221,7 @@
 "7143545906":{"name":"Enter Brainrot","avg_ccu":614.0,"min_ccu":367,"max_ccu":815,"samples":24,"sess":7.7,"sess_h":23.0,"like":93.76},
 "7144947546":{"name":"MEDVED 🐻‍❄️ (Hunt & Become Bears)","avg_ccu":8503.3,"min_ccu":5600,"max_ccu":10661,"samples":24,"sess":17.89,"sess_h":23.0,"like":86.02},
 "7178032757":{"name":"[🎃] Rebirth Champions: Ultimate","avg_ccu":5572.9,"min_ccu":5239,"max_ccu":5889,"samples":24,"sess":33.41,"sess_h":23.0,"like":97.51},
-"7219654364":{"name":"[X2🎃DUELS] Murderers VS Sheriffs","avg_ccu":58635.5,"min_ccu":15471,"max_ccu":90258,"samples":24,"sess":12.28,"sess_h":23.0,"like":86.85},
+"7219654364":{"name":"[🎃DUELS] Murderers VS Sheriffs","avg_ccu":58635.5,"min_ccu":15471,"max_ccu":90258,"samples":24,"sess":12.28,"sess_h":23.0,"like":86.85},
 "7235130477":{"name":"Apple iPad Original","avg_ccu":7055.2,"min_ccu":3520,"max_ccu":9721,"samples":24,"sess":5.92,"sess_h":23.0,"like":89.33},
 "7264587281":{"name":"[RANKED] SNIPER DUELS","avg_ccu":3702.4,"min_ccu":2569,"max_ccu":4954,"samples":24,"sess":6.96,"sess_h":23.0,"like":76.67},
 "7265339759":{"name":"[🎃 HALLOWEEN] REDLINER","avg_ccu":862.5,"min_ccu":626,"max_ccu":1081,"samples":24,"sess":7.86,"sess_h":23.0,"like":91.07},
@@ -312,7 +312,7 @@
 "9885372266":{"name":"Unseen Liminality","avg_ccu":4412.8,"min_ccu":2668,"max_ccu":5968,"samples":24,"sess":14.9,"sess_h":23.0,"like":93.79},
 "9908641400":{"name":"Football Fusion 3","avg_ccu":4882.0,"min_ccu":514,"max_ccu":9524,"samples":24,"sess":9.86,"sess_h":23.0,"like":82.98},
 "9910245722":{"name":"Iron Soul: Dungeon","avg_ccu":2245.9,"min_ccu":1425,"max_ccu":2995,"samples":24,"sess":7.86,"sess_h":23.0,"like":98.12},
-"9931749389":{"name":"[+1 DROP] Dungeon Quest Reborn","avg_ccu":6395.2,"min_ccu":4911,"max_ccu":7459,"samples":24,"sess":13.9,"sess_h":23.0,"like":96.46},
+"9931749389":{"name":"Dungeon Quest Reborn","avg_ccu":6395.2,"min_ccu":4911,"max_ccu":7459,"samples":24,"sess":13.9,"sess_h":23.0,"like":96.46},
 "9940812243":{"name":"[PT.2🎃] Anime RNG Defense","avg_ccu":2994.5,"min_ccu":2623,"max_ccu":4178,"samples":24,"sess":36.31,"sess_h":23.0,"like":96.88},
 "9949288829":{"name":"[🎃] Steal from KPOP Idols!","avg_ccu":1959.0,"min_ccu":881,"max_ccu":9075,"samples":24,"sess":18.51,"sess_h":23.0,"like":97.28},
 "9950184599":{"name":"(🦅RP PROPS & CARS) Young Street, Ontario RP","avg_ccu":1662.3,"min_ccu":1139,"max_ccu":2343,"samples":24,"sess":17.64,"sess_h":23.0,"like":97.79},
