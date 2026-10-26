@@ -1,4 +1,4 @@
-{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-26T15:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
+{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-26T16:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":4570.1,"min_ccu":2896,"max_ccu":5879,"samples":24,"sess":13.16,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9516.4,"min_ccu":6368,"max_ccu":12209,"samples":24,"sess":8.6,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4881.5,"min_ccu":2087,"max_ccu":6801,"samples":24,"sess":12.61,"sess_h":23.0,"like":93.27},
@@ -49,7 +49,7 @@
 "1374118848":{"name":"[HALLOWEEN] Dragon Generations","avg_ccu":4738.0,"min_ccu":14,"max_ccu":9794,"samples":24,"sess":36.04,"sess_h":23.0,"like":87.93},
 "1390601379":{"name":"🎃 Combat Warriors","avg_ccu":2418.2,"min_ccu":1933,"max_ccu":3015,"samples":24,"sess":15.99,"sess_h":23.0,"like":83.42},
 "1451439645":{"name":"King Legacy","avg_ccu":7106.9,"min_ccu":4715,"max_ccu":9201,"samples":24,"sess":21.56,"sess_h":23.0,"like":91.48},
-"1494262959":{"name":"[2x + 🎃] Criminality","avg_ccu":3903.0,"min_ccu":2169,"max_ccu":7554,"samples":24,"sess":16.45,"sess_h":23.0,"like":75.19},
+"1494262959":{"name":"[🎃] Criminality","avg_ccu":3903.0,"min_ccu":2169,"max_ccu":7554,"samples":24,"sess":16.45,"sess_h":23.0,"like":75.19},
 "1511883870":{"name":"Shindo Life [250]","avg_ccu":3760.2,"min_ccu":2505,"max_ccu":5170,"samples":24,"sess":23.44,"sess_h":23.0,"like":93.89},
 "1516533665":{"name":"Piggy [FRIGHTFUL CARNIVAL]","avg_ccu":22765.5,"min_ccu":13339,"max_ccu":34417,"samples":24,"sess":12.33,"sess_h":23.0,"like":90.33},
 "1525626450":{"name":"[UPD] Rensselaer County","avg_ccu":4514.4,"min_ccu":2411,"max_ccu":6721,"samples":24,"sess":14.48,"sess_h":23.0,"like":94.59},
