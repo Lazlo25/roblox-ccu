@@ -1,4 +1,4 @@
-{"date": "2026-10-24", "timezone": "America/New_York", "generated_utc": "2026-10-26T00:10:01Z", "through_et": "24:00", "platform_now": ["2026-10-25T03:10:00Z", 16954832], "genres": {"Simulation": 39.662, "Survival": 23.647, "Roleplay & Avatar Sim": 10.553, "Action": 7.527, "Shooter": 3.498, "RPG": 2.954, "Sports & Racing": 2.651, "Obby & Platformer": 2.1, "Strategy": 1.789, "Party & Casual": 1.444, "Adventure": 1.422, "Other": 0.781, "Shopping": 0.774, "Entertainment": 0.654, "Puzzle": 0.327, "Social": 0.217}, "genre_hours": 24,"games":{
+{"date": "2026-10-24", "timezone": "America/New_York", "generated_utc": "2026-10-26T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-25T03:10:00Z", 16954832], "genres": {"Simulation": 39.662, "Survival": 23.647, "Roleplay & Avatar Sim": 10.553, "Action": 7.527, "Shooter": 3.498, "RPG": 2.954, "Sports & Racing": 2.651, "Obby & Platformer": 2.1, "Strategy": 1.789, "Party & Casual": 1.444, "Adventure": 1.422, "Other": 0.781, "Shopping": 0.774, "Entertainment": 0.654, "Puzzle": 0.327, "Social": 0.217}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4509.9,"min_ccu":3629,"max_ccu":5529,"samples":24,"sess":13.02,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":8991.8,"min_ccu":5812,"max_ccu":13262,"samples":24,"sess":8.45,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5368.1,"min_ccu":3697,"max_ccu":7340,"samples":24,"sess":12.66,"sess_h":23.0,"like":93.27},
@@ -195,7 +195,7 @@
 "6688157118":{"name":"Musical Chairs 🎵🪑","avg_ccu":5639.4,"min_ccu":3223,"max_ccu":8352,"samples":24,"sess":7.49,"sess_h":23.0,"like":66.35},
 "6701277882":{"name":"[🎃UPD] Fish It! 🐟","avg_ccu":79979.2,"min_ccu":70769,"max_ccu":147754,"samples":24,"sess":55.48,"sess_h":23.0,"like":82.83},
 "6717464085":{"name":"War of the Worlds","avg_ccu":3934.5,"min_ccu":2570,"max_ccu":7318,"samples":24,"sess":17.53,"sess_h":23.0,"like":86.93},
-"6726637224":{"name":"[2X CASH] Street Life Remastered","avg_ccu":3888.3,"min_ccu":1967,"max_ccu":8860,"samples":24,"sess":16.6,"sess_h":23.0,"like":87.04},
+"6726637224":{"name":"[🎃] Street Life Remastered","avg_ccu":3888.3,"min_ccu":1967,"max_ccu":8860,"samples":24,"sess":16.6,"sess_h":23.0,"like":87.04},
 "6739698191":{"name":"[BUTCHER x 🎃] Violence District","avg_ccu":97700.4,"min_ccu":9,"max_ccu":272922,"samples":24,"sess":15.12,"sess_h":23.0,"like":93.15},
 "6749060816":{"name":"[🎃] Asylum Life 🔊","avg_ccu":8071.5,"min_ccu":5962,"max_ccu":10351,"samples":24,"sess":16.7,"sess_h":23.0,"like":83.26},
 "6751447237":{"name":"Car Zone 🏎️ Racing & Drifting","avg_ccu":4691.5,"min_ccu":2795,"max_ccu":6062,"samples":24,"sess":11.01,"sess_h":23.0,"like":96.67},
@@ -206,7 +206,7 @@
 "6786784563":{"name":"[🚗FREE CAR!] Corsa Legends [ALPHA]","avg_ccu":1233.8,"min_ccu":637,"max_ccu":1763,"samples":24,"sess":12.7,"sess_h":23.0,"like":97.05},
 "6858584271":{"name":"[🎃 PETS] Fully Streetz 2","avg_ccu":1873.8,"min_ccu":530,"max_ccu":3129,"samples":24,"sess":48.67,"sess_h":23.0,"like":87.86},
 "6931042565":{"name":"[UPD] Volleyball Legends","avg_ccu":66372.7,"min_ccu":41069,"max_ccu":133842,"samples":24,"sess":12.66,"sess_h":23.0,"like":95.16},
-"6945584306":{"name":"[ 🔨MAINTENANCE] Azure Latch","avg_ccu":9526.4,"min_ccu":5222,"max_ccu":13102,"samples":24,"sess":17.74,"sess_h":23.0,"like":96.77},
+"6945584306":{"name":"[🌌 QOL] Azure Latch","avg_ccu":9526.4,"min_ccu":5222,"max_ccu":13102,"samples":24,"sess":17.74,"sess_h":23.0,"like":96.77},
 "7008097940":{"name":"[⚔️] Ink Game","avg_ccu":13820.8,"min_ccu":10816,"max_ccu":17421,"samples":24,"sess":13.15,"sess_h":23.0,"like":79.21},
 "7018190066":{"name":"[👻EVENT] Dead Rails","avg_ccu":31425.0,"min_ccu":18823,"max_ccu":56084,"samples":24,"sess":14.56,"sess_h":23.0,"like":92.56},
 "7028566528":{"name":"[🥷NINJA🍥] Basketball: Zero","avg_ccu":12121.8,"min_ccu":7084,"max_ccu":34904,"samples":24,"sess":12.79,"sess_h":23.0,"like":98.28},
