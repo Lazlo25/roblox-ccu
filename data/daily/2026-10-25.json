@@ -1,5 +1,5 @@
-{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-26T03:10:00Z", "through_et": "23:10", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
-"47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4570.1,"min_ccu":2896,"max_ccu":5879,"samples":24,"sess":13.16,"sess_h":23.0,"like":92.92},
+{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-26T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
+"47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":4570.1,"min_ccu":2896,"max_ccu":5879,"samples":24,"sess":13.16,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9516.4,"min_ccu":6368,"max_ccu":12209,"samples":24,"sess":8.6,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4881.5,"min_ccu":2087,"max_ccu":6801,"samples":24,"sess":12.61,"sess_h":23.0,"like":93.27},
 "31970568":{"name":"Theme Park Tycoon 2","avg_ccu":4365.1,"min_ccu":2297,"max_ccu":6032,"samples":24,"sess":22.59,"sess_h":23.0,"like":89.03},
@@ -26,7 +26,7 @@
 "578392296":{"name":"ABA","avg_ccu":12530.4,"min_ccu":8896,"max_ccu":15328,"samples":24,"sess":15.28,"sess_h":23.0,"like":80.66},
 "601130232":{"name":"Bee Swarm Simulator","avg_ccu":34521.5,"min_ccu":30032,"max_ccu":37915,"samples":24,"sess":26.36,"sess_h":23.0,"like":95.6},
 "605887098":{"name":"Car Dealership Tycoon  [🎃]","avg_ccu":6830.3,"min_ccu":4052,"max_ccu":9432,"samples":24,"sess":18.56,"sess_h":23.0,"like":92.91},
-"648454481":{"name":"[😀HALLOWEEN PT 2] Grand Piece Online","avg_ccu":10023.3,"min_ccu":0,"max_ccu":15560,"samples":24,"sess":25.52,"sess_h":23.0,"like":89.81},
+"648454481":{"name":"[🎃HALLOWEEN PT 3] Grand Piece Online","avg_ccu":10023.3,"min_ccu":0,"max_ccu":15560,"samples":24,"sess":25.52,"sess_h":23.0,"like":89.81},
 "703124385":{"name":"Tower of Hell","avg_ccu":31408.0,"min_ccu":10873,"max_ccu":48767,"samples":24,"sess":4.19,"sess_h":23.0,"like":73.62},
 "850110028":{"name":"[🎃 HALLOWEEN EVENT] Roanoke, VA Driving RP","avg_ccu":3371.8,"min_ccu":1773,"max_ccu":4734,"samples":24,"sess":11.79,"sess_h":23.0,"like":91.25},
 "892043755":{"name":"[🎃PT2] Bubble Gum Simulator","avg_ccu":3619.5,"min_ccu":3084,"max_ccu":4004,"samples":24,"sess":59.58,"sess_h":23.0,"like":88.53},
