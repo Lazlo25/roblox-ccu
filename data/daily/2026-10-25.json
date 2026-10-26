@@ -1,4 +1,4 @@
-{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-26T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
+{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-26T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":4570.1,"min_ccu":2896,"max_ccu":5879,"samples":24,"sess":13.16,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9516.4,"min_ccu":6368,"max_ccu":12209,"samples":24,"sess":8.6,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4881.5,"min_ccu":2087,"max_ccu":6801,"samples":24,"sess":12.61,"sess_h":23.0,"like":93.27},
@@ -77,7 +77,7 @@
 "2527789729":{"name":"Prior Extinction - Dinosaur Survival!","avg_ccu":3464.0,"min_ccu":2293,"max_ccu":4419,"samples":24,"sess":18.34,"sess_h":23.0,"like":78.67},
 "2583564222":{"name":"[🎃] Boxing Beta! 🥊","avg_ccu":4964.1,"min_ccu":3731,"max_ccu":6131,"samples":24,"sess":9.43,"sess_h":23.0,"like":80.87},
 "2619619496":{"name":"[🎃PART 2] BedWars","avg_ccu":32836.3,"min_ccu":19635,"max_ccu":39339,"samples":24,"sess":13.81,"sess_h":23.0,"like":82.3},
-"2655311011":{"name":"[🎃2X] Anime Dimensions Simulator","avg_ccu":7547.8,"min_ccu":6603,"max_ccu":8707,"samples":24,"sess":16.06,"sess_h":23.0,"like":97.47},
+"2655311011":{"name":"[🎃] Anime Dimensions Simulator","avg_ccu":7547.8,"min_ccu":6603,"max_ccu":8707,"samples":24,"sess":16.06,"sess_h":23.0,"like":97.47},
 "2668101271":{"name":"Fling Things and People","avg_ccu":38831.1,"min_ccu":23137,"max_ccu":51826,"samples":24,"sess":12.29,"sess_h":23.0,"like":80.4},
 "2682938349":{"name":"🎃👻 Wild Horse Islands","avg_ccu":5540.9,"min_ccu":3109,"max_ccu":8061,"samples":24,"sess":16.84,"sess_h":23.0,"like":92.25},
 "2711375305":{"name":"Catalog Avatar Creator","avg_ccu":75385.5,"min_ccu":55705,"max_ccu":96460,"samples":24,"sess":12.71,"sess_h":23.0,"like":93.69},
@@ -103,7 +103,7 @@
 "3457700596":{"name":"[OPE V2] Fruit Battlegrounds","avg_ccu":2517.2,"min_ccu":2003,"max_ccu":3091,"samples":24,"sess":18.23,"sess_h":23.0,"like":89.75},
 "3508322461":{"name":"[HIRED KILLER] Jujutsu Shenanigans","avg_ccu":198251.4,"min_ccu":122194,"max_ccu":263515,"samples":24,"sess":15.03,"sess_h":23.0,"like":86.32},
 "3541611379":{"name":"TB II | Tower Defense X: BETA","avg_ccu":3074.7,"min_ccu":1821,"max_ccu":3924,"samples":24,"sess":15.13,"sess_h":23.0,"like":94.29},
-"3647333358":{"name":"[1.5x 🎃HLWN] Evade","avg_ccu":75303.8,"min_ccu":41195,"max_ccu":101957,"samples":24,"sess":13.58,"sess_h":23.0,"like":93.9},
+"3647333358":{"name":"[🎃HLWN] Evade","avg_ccu":75303.8,"min_ccu":41195,"max_ccu":101957,"samples":24,"sess":13.58,"sess_h":23.0,"like":93.9},
 "3706757136":{"name":"British Railway","avg_ccu":1610.1,"min_ccu":420,"max_ccu":2860,"samples":13,"sess":22.82,"sess_h":12.0,"like":87.5},
 "3734304510":{"name":"South Bronx: The Trenches❗","avg_ccu":1831.1,"min_ccu":802,"max_ccu":2670,"samples":24,"sess":18.3,"sess_h":23.0,"like":84.63},
 "3747388906":{"name":"[🚂UPD] Fallen Survival🏹","avg_ccu":2228.0,"min_ccu":1408,"max_ccu":3039,"samples":24,"sess":43.49,"sess_h":23.0,"like":85.13},
@@ -428,7 +428,7 @@
 "10648820673":{"name":"[🍲] Karinderya!","avg_ccu":9553.9,"min_ccu":2648,"max_ccu":17870,"samples":24,"sess":20.3,"sess_h":23.0,"like":97.47},
 "10650979742":{"name":"[🥞] Make a Pancake!","avg_ccu":3495.8,"min_ccu":2117,"max_ccu":5031,"samples":24,"sess":10.36,"sess_h":23.0,"like":83.24},
 "10667357873":{"name":"[💸X5]💭Dream Car Collection","avg_ccu":5556.3,"min_ccu":3268,"max_ccu":7341,"samples":24,"sess":15.1,"sess_h":23.0,"like":94.6},
-"10669384399":{"name":"Paint the Face","avg_ccu":7454.9,"min_ccu":4572,"max_ccu":9988,"samples":24,"sess":9.7,"sess_h":23.0,"like":61.17},
+"10669384399":{"name":"Make a Face","avg_ccu":7454.9,"min_ccu":4572,"max_ccu":9988,"samples":24,"sess":9.7,"sess_h":23.0,"like":61.17},
 "10673920146":{"name":"[🎃] Survive a Million Monkeys","avg_ccu":19422.4,"min_ccu":12942,"max_ccu":31591,"samples":24,"sess":12.95,"sess_h":23.0,"like":97.68},
 "10674335214":{"name":"Roll Your Height","avg_ccu":779.0,"min_ccu":664,"max_ccu":967,"samples":12,"sess":19.22,"sess_h":11.0,"like":90.12},
 "10675117523":{"name":"[🎃PART 2] Anime Breaker","avg_ccu":9740.6,"min_ccu":8658,"max_ccu":10646,"samples":24,"sess":29.9,"sess_h":23.0,"like":95.5},
