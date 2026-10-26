@@ -1,4 +1,4 @@
-{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-26T19:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
+{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-26T20:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":4570.1,"min_ccu":2896,"max_ccu":5879,"samples":24,"sess":13.16,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9516.4,"min_ccu":6368,"max_ccu":12209,"samples":24,"sess":8.6,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4881.5,"min_ccu":2087,"max_ccu":6801,"samples":24,"sess":12.61,"sess_h":23.0,"like":93.27},
@@ -53,7 +53,7 @@
 "1511883870":{"name":"Shindo Life [250]","avg_ccu":3760.2,"min_ccu":2505,"max_ccu":5170,"samples":24,"sess":23.44,"sess_h":23.0,"like":93.89},
 "1516533665":{"name":"Piggy [FRIGHTFUL CARNIVAL]","avg_ccu":22765.5,"min_ccu":13339,"max_ccu":34417,"samples":24,"sess":12.33,"sess_h":23.0,"like":90.33},
 "1525626450":{"name":"[UPD] Rensselaer County","avg_ccu":4514.4,"min_ccu":2411,"max_ccu":6721,"samples":24,"sess":14.48,"sess_h":23.0,"like":94.59},
-"1526814825":{"name":"[⚙️Rework] War Tycoon","avg_ccu":9291.2,"min_ccu":4446,"max_ccu":13466,"samples":24,"sess":19.67,"sess_h":23.0,"like":91.25},
+"1526814825":{"name":"War Tycoon","avg_ccu":9291.2,"min_ccu":4446,"max_ccu":13466,"samples":24,"sess":19.67,"sess_h":23.0,"like":91.25},
 "1531130248":{"name":"Tower Heroes [UPD] 🎃","avg_ccu":2683.1,"min_ccu":1446,"max_ccu":3605,"samples":24,"sess":13.12,"sess_h":23.0,"like":89.3},
 "1686885941":{"name":"Brookhaven 🏡RP","avg_ccu":474466.9,"min_ccu":266583,"max_ccu":656788,"samples":24,"sess":16.85,"sess_h":23.0,"like":85.89},
 "1709917610":{"name":"Regretevator [ ELEVATOR SIMULATOR ]","avg_ccu":3372.0,"min_ccu":2454,"max_ccu":4349,"samples":24,"sess":22.65,"sess_h":23.0,"like":90.01},
@@ -408,7 +408,7 @@
 "10572887321":{"name":"[🎃PART2] Car DUELS","avg_ccu":1658.2,"min_ccu":1219,"max_ccu":2299,"samples":24,"sess":12.09,"sess_h":23.0,"like":94.88},
 "10575295323":{"name":"Highway Patrol [Alpha]","avg_ccu":10575.1,"min_ccu":5299,"max_ccu":15745,"samples":24,"sess":14.83,"sess_h":23.0,"like":80.27},
 "10577588270":{"name":"🦸 +1 Superhero Evolution","avg_ccu":2529.8,"min_ccu":1754,"max_ccu":5980,"samples":24,"sess":22.11,"sess_h":23.0,"like":97.59},
-"10584047390":{"name":"[🧽] Clean the House!","avg_ccu":4779.2,"min_ccu":2233,"max_ccu":6550,"samples":24,"sess":11.16,"sess_h":23.0,"like":80.62},
+"10584047390":{"name":"[🧽 NEW CH3] Clean the House!","avg_ccu":4779.2,"min_ccu":2233,"max_ccu":6550,"samples":24,"sess":11.16,"sess_h":23.0,"like":80.62},
 "10592694097":{"name":"[UPD 2] Build a PC","avg_ccu":4785.8,"min_ccu":1999,"max_ccu":10911,"samples":24,"sess":14.32,"sess_h":23.0,"like":82.85},
 "10593482707":{"name":"[🎃] Build a Keyboard!","avg_ccu":13786.0,"min_ccu":7132,"max_ccu":18683,"samples":24,"sess":11.19,"sess_h":23.0,"like":96.87},
 "10599406058":{"name":"[UPD] Feed the Fire 🔥","avg_ccu":5922.6,"min_ccu":2625,"max_ccu":7790,"samples":24,"sess":15.37,"sess_h":23.0,"like":97.68},
@@ -549,7 +549,7 @@
 "10767360124":{"name":"Choose the Stronger Animal!","avg_ccu":4128.2,"min_ccu":2627,"max_ccu":5860,"samples":24,"sess":2.61,"sess_h":23.0,"like":65.22},
 "10767380385":{"name":"🎃 Sell Fries! [Anomaly] 🍟","avg_ccu":63172.0,"min_ccu":24476,"max_ccu":84188,"samples":24,"sess":16.68,"sess_h":23.0,"like":83.85},
 "10767386157":{"name":"[🎃] Chop A Forest","avg_ccu":37374.5,"min_ccu":16877,"max_ccu":52206,"samples":24,"sess":20.18,"sess_h":23.0,"like":93.23},
-"10767389941":{"name":"[RANKED] +1 Dance Battle Evolution","avg_ccu":15863.4,"min_ccu":7688,"max_ccu":25744,"samples":24,"sess":11.33,"sess_h":23.0,"like":88.07},
+"10767389941":{"name":"+1 Dance Battle Evolution","avg_ccu":15863.4,"min_ccu":7688,"max_ccu":25744,"samples":24,"sess":11.33,"sess_h":23.0,"like":88.07},
 "10767402184":{"name":"[W3] +1 Tackle Evolution","avg_ccu":5007.8,"min_ccu":2300,"max_ccu":7519,"samples":24,"sess":12.27,"sess_h":23.0,"like":88.19},
 "10767408330":{"name":"[🎃] Peel THE Potato","avg_ccu":12511.8,"min_ccu":5699,"max_ccu":16495,"samples":24,"sess":10.72,"sess_h":23.0,"like":94.92},
 "10767494536":{"name":"Hike For Eggs","avg_ccu":5395.2,"min_ccu":4615,"max_ccu":7098,"samples":9,"sess":18.09,"sess_h":8.0,"like":96.85},
