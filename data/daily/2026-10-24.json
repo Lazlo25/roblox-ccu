@@ -1,4 +1,4 @@
-{"date": "2026-10-24", "timezone": "America/New_York", "generated_utc": "2026-10-26T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-25T03:10:00Z", 16954832], "genres": {"Simulation": 39.662, "Survival": 23.647, "Roleplay & Avatar Sim": 10.553, "Action": 7.527, "Shooter": 3.498, "RPG": 2.954, "Sports & Racing": 2.651, "Obby & Platformer": 2.1, "Strategy": 1.789, "Party & Casual": 1.444, "Adventure": 1.422, "Other": 0.781, "Shopping": 0.774, "Entertainment": 0.654, "Puzzle": 0.327, "Social": 0.217}, "genre_hours": 24,"games":{
+{"date": "2026-10-24", "timezone": "America/New_York", "generated_utc": "2026-10-26T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-25T03:10:00Z", 16954832], "genres": {"Simulation": 39.662, "Survival": 23.647, "Roleplay & Avatar Sim": 10.553, "Action": 7.527, "Shooter": 3.498, "RPG": 2.954, "Sports & Racing": 2.651, "Obby & Platformer": 2.1, "Strategy": 1.789, "Party & Casual": 1.444, "Adventure": 1.422, "Other": 0.781, "Shopping": 0.774, "Entertainment": 0.654, "Puzzle": 0.327, "Social": 0.217}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":4509.9,"min_ccu":3629,"max_ccu":5529,"samples":24,"sess":13.02,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":8991.8,"min_ccu":5812,"max_ccu":13262,"samples":24,"sess":8.45,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5368.1,"min_ccu":3697,"max_ccu":7340,"samples":24,"sess":12.66,"sess_h":23.0,"like":93.27},
@@ -614,7 +614,7 @@
 "10768630078":{"name":"Catastrophic Horse Racing 🎃","avg_ccu":2225.6,"min_ccu":1002,"max_ccu":3145,"samples":24,"sess":7.02,"sess_h":23.0,"like":92.18},
 "10768637423":{"name":"[🎃] Roll a Barber RNG","avg_ccu":3659.2,"min_ccu":2521,"max_ccu":4760,"samples":24,"sess":21.34,"sess_h":23.0,"like":91.46},
 "10768650470":{"name":"Lanterns [HALLOWEEN!]","avg_ccu":2422.3,"min_ccu":1548,"max_ccu":3237,"samples":24,"sess":12.72,"sess_h":23.0,"like":92.68},
-"10768676548":{"name":"[ULTRON] Hide From The Hulk","avg_ccu":4650.4,"min_ccu":2965,"max_ccu":6466,"samples":24,"sess":17.58,"sess_h":23.0,"like":90.18},
+"10768676548":{"name":"[FANTASTIC 4] Hide From The Hulk","avg_ccu":4650.4,"min_ccu":2965,"max_ccu":6466,"samples":24,"sess":17.58,"sess_h":23.0,"like":90.18},
 "10768677773":{"name":"RESTORED | Carolina Leaners","avg_ccu":7375.1,"min_ccu":6193,"max_ccu":8447,"samples":7,"sess":18.8,"sess_h":6.0,"like":98.44},
 "10768761562":{"name":"[🎃] Airport Security (Anomaly) ✈️","avg_ccu":7248.7,"min_ccu":3794,"max_ccu":11085,"samples":24,"sess":16.83,"sess_h":23.0,"like":92.48},
 "10768785226":{"name":"A Long Flight [SANDBOX]","avg_ccu":10469.0,"min_ccu":4424,"max_ccu":17655,"samples":24,"sess":12.65,"sess_h":23.0,"like":74.46},
