@@ -1,4 +1,4 @@
-{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-26T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
+{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-26T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":4570.1,"min_ccu":2896,"max_ccu":5879,"samples":24,"sess":13.16,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9516.4,"min_ccu":6368,"max_ccu":12209,"samples":24,"sess":8.6,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4881.5,"min_ccu":2087,"max_ccu":6801,"samples":24,"sess":12.61,"sess_h":23.0,"like":93.27},
@@ -281,7 +281,7 @@
 "9294074907":{"name":"[FPS] One Tap","avg_ccu":22982.1,"min_ccu":13235,"max_ccu":30348,"samples":24,"sess":8.98,"sess_h":23.0,"like":87.9},
 "9296252245":{"name":"[🔥AURA] Phonk Edit Tower 🎶","avg_ccu":8452.0,"min_ccu":5847,"max_ccu":11512,"samples":24,"sess":8.96,"sess_h":23.0,"like":95.23},
 "9312646406":{"name":"Land or Die! 👻 GHOSTS!","avg_ccu":2647.2,"min_ccu":1054,"max_ccu":3949,"samples":24,"sess":7.68,"sess_h":23.0,"like":93.34},
-"9317784977":{"name":"[🎃Event] Knife Arena","avg_ccu":1354.8,"min_ccu":659,"max_ccu":2026,"samples":24,"sess":10.91,"sess_h":23.0,"like":87.95},
+"9317784977":{"name":"[🎃SALE] Knife Arena","avg_ccu":1354.8,"min_ccu":659,"max_ccu":2026,"samples":24,"sess":10.91,"sess_h":23.0,"like":87.95},
 "9344916045":{"name":"[UPDATE!!🤸] Cirque School of Acrobatics","avg_ccu":5034.8,"min_ccu":2453,"max_ccu":8195,"samples":23,"sess":10.74,"sess_h":22.0,"like":93.28},
 "9348272796":{"name":"[🎃] Survive Zombie Arena","avg_ccu":6149.0,"min_ccu":3329,"max_ccu":8937,"samples":24,"sess":12.33,"sess_h":23.0,"like":95.4},
 "9362896961":{"name":"[🎃EVENT] Anime Card Collection","avg_ccu":4263.8,"min_ccu":3902,"max_ccu":4925,"samples":24,"sess":27.71,"sess_h":23.0,"like":98.47},
