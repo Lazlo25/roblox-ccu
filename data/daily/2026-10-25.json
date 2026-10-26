@@ -1,4 +1,4 @@
-{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-26T20:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
+{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-26T21:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":4570.1,"min_ccu":2896,"max_ccu":5879,"samples":24,"sess":13.16,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9516.4,"min_ccu":6368,"max_ccu":12209,"samples":24,"sess":8.6,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4881.5,"min_ccu":2087,"max_ccu":6801,"samples":24,"sess":12.61,"sess_h":23.0,"like":93.27},
@@ -573,7 +573,7 @@
 "10767911858":{"name":"Bit Tensei [DEMON EYES👁️]","avg_ccu":1461.7,"min_ccu":957,"max_ccu":1856,"samples":24,"sess":27.54,"sess_h":23.0,"like":78.88},
 "10767928510":{"name":"Pixel Lineage [🎃Spear Class + Dragon Race]","avg_ccu":6382.1,"min_ccu":5041,"max_ccu":7622,"samples":24,"sess":8.12,"sess_h":23.0,"like":98.91},
 "10767946926":{"name":"HUSH: They can hear. (BETA)","avg_ccu":8581.3,"min_ccu":5271,"max_ccu":12803,"samples":24,"sess":13.94,"sess_h":23.0,"like":79.42},
-"10767957681":{"name":"[UPD 5] Tycoon, but one dropper","avg_ccu":1076.9,"min_ccu":711,"max_ccu":1432,"samples":24,"sess":20.79,"sess_h":23.0,"like":89.19},
+"10767957681":{"name":"Tycoon, but one dropper","avg_ccu":1076.9,"min_ccu":711,"max_ccu":1432,"samples":24,"sess":20.79,"sess_h":23.0,"like":89.19},
 "10768001180":{"name":"My Bus 🚌","avg_ccu":4434.0,"min_ccu":2178,"max_ccu":7122,"samples":24,"sess":10.83,"sess_h":23.0,"like":83.61},
 "10768003706":{"name":"[🎃] Create a Robot Fighter","avg_ccu":9514.0,"min_ccu":5897,"max_ccu":11805,"samples":24,"sess":19.27,"sess_h":23.0,"like":81.88},
 "10768026334":{"name":"[🎨] Hide In Pixels","avg_ccu":4461.1,"min_ccu":2433,"max_ccu":6548,"samples":24,"sess":9.66,"sess_h":23.0,"like":61.13},
