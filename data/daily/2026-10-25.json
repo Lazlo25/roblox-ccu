@@ -1,4 +1,4 @@
-{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-26T22:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
+{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-26T23:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":4570.1,"min_ccu":2896,"max_ccu":5879,"samples":24,"sess":13.16,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9516.4,"min_ccu":6368,"max_ccu":12209,"samples":24,"sess":8.6,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4881.5,"min_ccu":2087,"max_ccu":6801,"samples":24,"sess":12.61,"sess_h":23.0,"like":93.27},
@@ -94,7 +94,7 @@
 "3170483284":{"name":"Croydon: London Bus Simulator","avg_ccu":635.4,"min_ccu":127,"max_ccu":1051,"samples":24,"sess":12.54,"sess_h":23.0,"like":77.87},
 "3183403065":{"name":"[🤹APRIL FOOL'S🤡] Anime Adventures","avg_ccu":47076.0,"min_ccu":31872,"max_ccu":59230,"samples":24,"sess":19.19,"sess_h":23.0,"like":91.85},
 "3240075297":{"name":"Berry Avenue 🏠 RP","avg_ccu":56473.9,"min_ccu":26620,"max_ccu":89265,"samples":24,"sess":12.28,"sess_h":23.0,"like":86.04},
-"3308103880":{"name":"[🎃] Maple Hospital 🍂","avg_ccu":6754.4,"min_ccu":3286,"max_ccu":9763,"samples":24,"sess":13.03,"sess_h":23.0,"like":86.48},
+"3308103880":{"name":"[🎃] Maple Hospital 🏡RP","avg_ccu":6754.4,"min_ccu":3286,"max_ccu":9763,"samples":24,"sess":13.03,"sess_h":23.0,"like":86.48},
 "3310460039":{"name":"🚨BARRY'S PRISON RUN! (OBBY)","avg_ccu":17666.1,"min_ccu":9425,"max_ccu":24498,"samples":24,"sess":9.66,"sess_h":23.0,"like":60.68},
 "3317771874":{"name":"🎉 [PSX] Pet Simulator 99! 🐾","avg_ccu":78973.4,"min_ccu":57352,"max_ccu":97094,"samples":24,"sess":67.63,"sess_h":23.0,"like":94.74},
 "3365661357":{"name":"[🎃] SharkBite 2 🦈","avg_ccu":894.5,"min_ccu":482,"max_ccu":1234,"samples":24,"sess":11.14,"sess_h":23.0,"like":88.3},
@@ -625,7 +625,7 @@
 "10768941204":{"name":"Steal A DNA","avg_ccu":8225.6,"min_ccu":4023,"max_ccu":11136,"samples":24,"sess":16.72,"sess_h":23.0,"like":82.89},
 "10768944292":{"name":"Prehistoric Farm [NEW WORLD 🎃]","avg_ccu":1872.1,"min_ccu":1081,"max_ccu":2440,"samples":24,"sess":18.93,"sess_h":23.0,"like":95.98},
 "10768944846":{"name":"[TUSK + 4 NEW STANDS] Morioh High","avg_ccu":2229.0,"min_ccu":1352,"max_ccu":3011,"samples":24,"sess":13.21,"sess_h":23.0,"like":95.17},
-"10768960729":{"name":"[UPDATED] Stick Wars","avg_ccu":3457.7,"min_ccu":1917,"max_ccu":4633,"samples":24,"sess":11.11,"sess_h":23.0,"like":89.05},
+"10768960729":{"name":"[ABILITIES] Stick Wars 🎃","avg_ccu":3457.7,"min_ccu":1917,"max_ccu":4633,"samples":24,"sess":11.11,"sess_h":23.0,"like":89.05},
 "10768992869":{"name":"🥟SQUISHY DUMPLING PRISON RUN! (Obby)","avg_ccu":4573.2,"min_ccu":3363,"max_ccu":6166,"samples":24,"sess":9.31,"sess_h":23.0,"like":79.88},
 "10769037074":{"name":"[DUELS] Rally Panic! [2 PLAYER RALLY]","avg_ccu":5157.0,"min_ccu":3365,"max_ccu":7392,"samples":24,"sess":5.39,"sess_h":23.0,"like":86.61},
 "10769043472":{"name":"Superstellar: Next Generation","avg_ccu":1580.5,"min_ccu":931,"max_ccu":2489,"samples":24,"sess":10.64,"sess_h":23.0,"like":95.88},
