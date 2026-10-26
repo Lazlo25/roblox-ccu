@@ -1,4 +1,4 @@
-{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-26T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
+{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-26T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":4570.1,"min_ccu":2896,"max_ccu":5879,"samples":24,"sess":13.16,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9516.4,"min_ccu":6368,"max_ccu":12209,"samples":24,"sess":8.6,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4881.5,"min_ccu":2087,"max_ccu":6801,"samples":24,"sess":12.61,"sess_h":23.0,"like":93.27},
@@ -272,7 +272,7 @@
 "9091133975":{"name":"[🏴‍☠️] Catch And Tame!","avg_ccu":2350.3,"min_ccu":2137,"max_ccu":2674,"samples":9,"sess":16.17,"sess_h":8.0,"like":98.02},
 "9091734830":{"name":"[SEASON 1] The Bronx: Duels","avg_ccu":261.0,"min_ccu":135,"max_ccu":428,"samples":12,"sess":6.44,"sess_h":11.0,"like":83.45},
 "9098570654":{"name":"[🎃EVENT] 🧟 Survive the Apocalypse","avg_ccu":12684.5,"min_ccu":8709,"max_ccu":16410,"samples":24,"sess":25.18,"sess_h":23.0,"like":94.12},
-"9112256336":{"name":"[2X Lanterns] Scream City 2 🎃","avg_ccu":689.6,"min_ccu":271,"max_ccu":965,"samples":24,"sess":16.3,"sess_h":23.0,"like":84.19},
+"9112256336":{"name":"Scream City 2 🎃","avg_ccu":689.6,"min_ccu":271,"max_ccu":965,"samples":24,"sess":16.3,"sess_h":23.0,"like":84.19},
 "9125259344":{"name":"My Jail Cell!  (🎃HALLOWEEN!)","avg_ccu":2326.1,"min_ccu":1158,"max_ccu":3540,"samples":24,"sess":12.84,"sess_h":23.0,"like":77.2},
 "9141743926":{"name":"[NOW] Catch a Monster","avg_ccu":3791.1,"min_ccu":3367,"max_ccu":4382,"samples":24,"sess":14.11,"sess_h":23.0,"like":97.82},
 "9150731899":{"name":"PRISON RP","avg_ccu":2161.6,"min_ccu":1266,"max_ccu":3056,"samples":24,"sess":27.03,"sess_h":23.0,"like":78.55},
@@ -294,7 +294,7 @@
 "9551044479":{"name":"Final Swarm [🎃]","avg_ccu":2689.6,"min_ccu":1812,"max_ccu":3248,"samples":24,"sess":12.62,"sess_h":23.0,"like":97.08},
 "9561553764":{"name":"[🎃] Murder Duels","avg_ccu":12857.7,"min_ccu":8378,"max_ccu":16334,"samples":24,"sess":8.42,"sess_h":23.0,"like":93.4},
 "9582986239":{"name":"Fish an Anime RNG 🎲","avg_ccu":2279.4,"min_ccu":1994,"max_ccu":2444,"samples":24,"sess":24.62,"sess_h":23.0,"like":95.01},
-"9584852943":{"name":"[🎵] +1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":71207.1,"min_ccu":21669,"max_ccu":110663,"samples":24,"sess":7.9,"sess_h":23.0,"like":96.74},
+"9584852943":{"name":"[X50] +1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":71207.1,"min_ccu":21669,"max_ccu":110663,"samples":24,"sess":7.9,"sess_h":23.0,"like":96.74},
 "9641502068":{"name":"[🎃] KNIFE DUELS","avg_ccu":11672.2,"min_ccu":6154,"max_ccu":16248,"samples":24,"sess":8.91,"sess_h":23.0,"like":93.8},
 "9656201728":{"name":"[🎃] Dungeon Lootr","avg_ccu":418.7,"min_ccu":344,"max_ccu":493,"samples":24,"sess":15.26,"sess_h":23.0,"like":95.08},
 "9662130710":{"name":"[🎃NOW] Phonk Slap 🎵","avg_ccu":1352.8,"min_ccu":773,"max_ccu":2066,"samples":24,"sess":9.67,"sess_h":23.0,"like":92.07},
@@ -664,7 +664,7 @@
 "10769543567":{"name":"Cat Battles 🐾","avg_ccu":45900.8,"min_ccu":30113,"max_ccu":58604,"samples":24,"sess":7.93,"sess_h":23.0,"like":73.16},
 "10769543742":{"name":"Backseat Rally","avg_ccu":35070.5,"min_ccu":16717,"max_ccu":47490,"samples":24,"sess":10.17,"sess_h":23.0,"like":92.31},
 "10769547438":{"name":"[🎃 HALLOWEEN] Rust Blaster","avg_ccu":1451.0,"min_ccu":1116,"max_ccu":1815,"samples":24,"sess":21.65,"sess_h":23.0,"like":72.97},
-"10769548496":{"name":"[🎃DAY 2] Fix My Phone!","avg_ccu":10501.9,"min_ccu":5804,"max_ccu":15025,"samples":24,"sess":12.52,"sess_h":23.0,"like":90.88},
+"10769548496":{"name":"[🎃DAY 3] Fix My Phone!","avg_ccu":10501.9,"min_ccu":5804,"max_ccu":15025,"samples":24,"sess":12.52,"sess_h":23.0,"like":90.88},
 "10769552054":{"name":"Urban Reload 💀","avg_ccu":6818.2,"min_ccu":5112,"max_ccu":7723,"samples":13,"sess":15.56,"sess_h":12.0,"like":93.19},
 "10769594564":{"name":"[🚀 SPACE] roll the world 🌎","avg_ccu":6237.8,"min_ccu":3417,"max_ccu":10803,"samples":24,"sess":15.03,"sess_h":23.0,"like":83.21},
 "10769616178":{"name":"Get Your Driving License!","avg_ccu":2632.9,"min_ccu":1074,"max_ccu":3815,"samples":24,"sess":11.42,"sess_h":23.0,"like":60.26},
