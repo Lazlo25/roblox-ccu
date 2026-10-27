@@ -1,4 +1,4 @@
-{"date": "2026-10-26", "timezone": "America/New_York", "generated_utc": "2026-10-27T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-27T03:10:00Z", 8684199], "genres": {"Simulation": 41.654, "Survival": 15.654, "Roleplay & Avatar Sim": 11.892, "Action": 7.798, "RPG": 3.954, "Shooter": 3.939, "Obby & Platformer": 3.165, "Sports & Racing": 2.841, "Strategy": 2.475, "Party & Casual": 1.762, "Adventure": 1.542, "Shopping": 0.933, "Other": 0.872, "Entertainment": 0.763, "Puzzle": 0.382, "Social": 0.372}, "genre_hours": 24,"games":{
+{"date": "2026-10-26", "timezone": "America/New_York", "generated_utc": "2026-10-27T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-27T03:10:00Z", 8684199], "genres": {"Simulation": 41.654, "Survival": 15.654, "Roleplay & Avatar Sim": 11.892, "Action": 7.798, "RPG": 3.954, "Shooter": 3.939, "Obby & Platformer": 3.165, "Sports & Racing": 2.841, "Strategy": 2.475, "Party & Casual": 1.762, "Adventure": 1.542, "Shopping": 0.933, "Other": 0.872, "Entertainment": 0.763, "Puzzle": 0.382, "Social": 0.372}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":4068.1,"min_ccu":3367,"max_ccu":4890,"samples":24,"sess":13.31,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6564.5,"min_ccu":4649,"max_ccu":8851,"samples":24,"sess":8.42,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3287.9,"min_ccu":1735,"max_ccu":4616,"samples":24,"sess":12.17,"sess_h":23.0,"like":93.28},
@@ -203,7 +203,7 @@
 "6739698191":{"name":"[BUTCHER x 🎃] Violence District","avg_ccu":66696.0,"min_ccu":40673,"max_ccu":103920,"samples":24,"sess":14.58,"sess_h":23.0,"like":93.05},
 "6749060816":{"name":"[🎃] Asylum Life 🔊","avg_ccu":5268.3,"min_ccu":4112,"max_ccu":6512,"samples":24,"sess":16.72,"sess_h":23.0,"like":83.26},
 "6751447237":{"name":"Car Zone 🏎️ Racing & Drifting","avg_ccu":3509.2,"min_ccu":2046,"max_ccu":4908,"samples":24,"sess":11.26,"sess_h":23.0,"like":96.66},
-"6760085372":{"name":"[🎃 HALLOWEEN ] Jujutsu: Zero","avg_ccu":6111.4,"min_ccu":5631,"max_ccu":6685,"samples":24,"sess":38.24,"sess_h":23.0,"like":95.26},
+"6760085372":{"name":"[🎃 HALLOWEEN ] Jujutsu Zero","avg_ccu":6111.4,"min_ccu":5631,"max_ccu":6685,"samples":24,"sess":38.24,"sess_h":23.0,"like":95.26},
 "6765805766":{"name":"BlockSpin 🔪 [HALLOWEEN UPDATE!]","avg_ccu":17049.6,"min_ccu":13765,"max_ccu":20171,"samples":24,"sess":19.02,"sess_h":23.0,"like":78.7},
 "6774320049":{"name":"[🎃] Dubai 🏡 RP","avg_ccu":12931.0,"min_ccu":7253,"max_ccu":17629,"samples":24,"sess":14.43,"sess_h":23.0,"like":89.05},
 "6786784563":{"name":"[🚗FREE CAR!] Corsa Legends [ALPHA]","avg_ccu":946.6,"min_ccu":609,"max_ccu":1282,"samples":24,"sess":13.3,"sess_h":23.0,"like":97.04},
@@ -345,7 +345,7 @@
 "10199301628":{"name":"[UPD🎃] Merge a Nuke!","avg_ccu":3184.8,"min_ccu":2402,"max_ccu":4837,"samples":24,"sess":10.47,"sess_h":23.0,"like":94.73},
 "10200395747":{"name":"Grow a Garden 2","avg_ccu":1287.8,"min_ccu":938,"max_ccu":1716,"samples":24,"sess":15.39,"sess_h":23.0,"like":87.8},
 "10209534490":{"name":"Chicken Farm 🐣","avg_ccu":2334.3,"min_ccu":1834,"max_ccu":2797,"samples":24,"sess":13.69,"sess_h":23.0,"like":98.95},
-"10222476236":{"name":"🎃Catalog Avatar Runway","avg_ccu":15834.8,"min_ccu":11654,"max_ccu":19582,"samples":24,"sess":18.69,"sess_h":23.0,"like":92.86},
+"10222476236":{"name":"🎃 Avatar Runway","avg_ccu":15834.8,"min_ccu":11654,"max_ccu":19582,"samples":24,"sess":18.69,"sess_h":23.0,"like":92.86},
 "10223976219":{"name":"Climb Scary Worm Tower 3","avg_ccu":2686.5,"min_ccu":2040,"max_ccu":3607,"samples":24,"sess":9.21,"sess_h":23.0,"like":89.23},
 "10226261982":{"name":"[CLOVER🍀] +1 Aura for Anime!","avg_ccu":4571.6,"min_ccu":3585,"max_ccu":5668,"samples":24,"sess":20.36,"sess_h":23.0,"like":99.0},
 "10230942274":{"name":"Ability Arena 💥","avg_ccu":7158.1,"min_ccu":5502,"max_ccu":9216,"samples":24,"sess":16.24,"sess_h":23.0,"like":92.72},
@@ -411,7 +411,7 @@
 "10592694097":{"name":"[UPD 2] Build a PC","avg_ccu":2849.8,"min_ccu":1609,"max_ccu":3972,"samples":24,"sess":14.37,"sess_h":23.0,"like":82.97},
 "10593319486":{"name":"+1 Speed Controller Escape","avg_ccu":3278.7,"min_ccu":142,"max_ccu":20436,"samples":10,"sess":19.89,"sess_h":9.0,"like":97.71},
 "10593482707":{"name":"[🎃] Build a Keyboard!","avg_ccu":9110.8,"min_ccu":6052,"max_ccu":13248,"samples":24,"sess":10.8,"sess_h":23.0,"like":96.86},
-"10599406058":{"name":"[UPD] Feed the Fire 🔥","avg_ccu":2947.7,"min_ccu":1822,"max_ccu":3763,"samples":24,"sess":13.89,"sess_h":23.0,"like":97.69},
+"10599406058":{"name":"Feed the Fire 🔥","avg_ccu":2947.7,"min_ccu":1822,"max_ccu":3763,"samples":24,"sess":13.89,"sess_h":23.0,"like":97.69},
 "10603011269":{"name":"[🎃 EVENT] Sword Hunter","avg_ccu":964.8,"min_ccu":895,"max_ccu":1085,"samples":24,"sess":33.89,"sess_h":23.0,"like":95.37},
 "10623490839":{"name":"[W2🌍] +1 Double Jump Roller Escape!","avg_ccu":6012.5,"min_ccu":3755,"max_ccu":8571,"samples":24,"sess":9.7,"sess_h":23.0,"like":90.71},
 "10624691669":{"name":"MONOCHROME🎃","avg_ccu":4526.6,"min_ccu":2715,"max_ccu":5752,"samples":24,"sess":3.47,"sess_h":23.0,"like":84.67},
