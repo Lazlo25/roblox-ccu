@@ -1,4 +1,4 @@
-{"date": "2026-10-26", "timezone": "America/New_York", "generated_utc": "2026-10-27T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-27T03:10:00Z", 8684199], "genres": {"Simulation": 41.654, "Survival": 15.654, "Roleplay & Avatar Sim": 11.892, "Action": 7.798, "RPG": 3.954, "Shooter": 3.939, "Obby & Platformer": 3.165, "Sports & Racing": 2.841, "Strategy": 2.475, "Party & Casual": 1.762, "Adventure": 1.542, "Shopping": 0.933, "Other": 0.872, "Entertainment": 0.763, "Puzzle": 0.382, "Social": 0.372}, "genre_hours": 24,"games":{
+{"date": "2026-10-26", "timezone": "America/New_York", "generated_utc": "2026-10-27T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-27T03:10:00Z", 8684199], "genres": {"Simulation": 41.654, "Survival": 15.654, "Roleplay & Avatar Sim": 11.892, "Action": 7.798, "RPG": 3.954, "Shooter": 3.939, "Obby & Platformer": 3.165, "Sports & Racing": 2.841, "Strategy": 2.475, "Party & Casual": 1.762, "Adventure": 1.542, "Shopping": 0.933, "Other": 0.872, "Entertainment": 0.763, "Puzzle": 0.382, "Social": 0.372}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":4068.1,"min_ccu":3367,"max_ccu":4890,"samples":24,"sess":13.31,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6564.5,"min_ccu":4649,"max_ccu":8851,"samples":24,"sess":8.42,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3287.9,"min_ccu":1735,"max_ccu":4616,"samples":24,"sess":12.17,"sess_h":23.0,"like":93.28},
@@ -380,7 +380,7 @@
 "10436530264":{"name":"Build An Ant Empire","avg_ccu":4483.1,"min_ccu":3520,"max_ccu":5726,"samples":24,"sess":23.1,"sess_h":23.0,"like":96.09},
 "10439568447":{"name":"[👻UPD + 2X] Anomaly Cafe","avg_ccu":1657.3,"min_ccu":1352,"max_ccu":1951,"samples":24,"sess":19.31,"sess_h":23.0,"like":94.56},
 "10440833423":{"name":"Greedy Growers 🌱","avg_ccu":789.2,"min_ccu":528,"max_ccu":1167,"samples":24,"sess":14.62,"sess_h":23.0,"like":97.88},
-"10447234038":{"name":"[UPD] Host A Rideout!","avg_ccu":603.2,"min_ccu":279,"max_ccu":961,"samples":24,"sess":7.65,"sess_h":23.0,"like":89.75},
+"10447234038":{"name":"[UPD 🎃] Host A Rideout!","avg_ccu":603.2,"min_ccu":279,"max_ccu":961,"samples":24,"sess":7.65,"sess_h":23.0,"like":89.75},
 "10452740285":{"name":"Build a Gun Army","avg_ccu":2356.5,"min_ccu":1645,"max_ccu":3002,"samples":24,"sess":16.76,"sess_h":23.0,"like":98.59},
 "10460801145":{"name":"TROLL Hug Tower","avg_ccu":11568.5,"min_ccu":8751,"max_ccu":14471,"samples":24,"sess":9.91,"sess_h":23.0,"like":85.77},
 "10463578886":{"name":"🎃[UPD] House Tower Defense 2","avg_ccu":1145.3,"min_ccu":972,"max_ccu":1319,"samples":24,"sess":21.62,"sess_h":23.0,"like":97.75},
@@ -456,7 +456,7 @@
 "10751939592":{"name":"ASMR Auto Wallhop Tower 2","avg_ccu":3936.8,"min_ccu":2136,"max_ccu":5902,"samples":24,"sess":9.21,"sess_h":23.0,"like":77.23},
 "10752743876":{"name":"Trending Emote Dance","avg_ccu":10891.3,"min_ccu":7858,"max_ccu":13238,"samples":24,"sess":12.47,"sess_h":23.0,"like":87.24},
 "10755887345":{"name":"[🎃] Tame An Animal","avg_ccu":2936.5,"min_ccu":2714,"max_ccu":3195,"samples":6,"like":98.36},
-"10756011174":{"name":"[IMPOSSIBLE 😈] Search For The Needle","avg_ccu":8694.1,"min_ccu":4451,"max_ccu":16753,"samples":24,"sess":15.82,"sess_h":23.0,"like":95.62},
+"10756011174":{"name":"[x2💎🍀] Search For The Needle","avg_ccu":8694.1,"min_ccu":4451,"max_ccu":16753,"samples":24,"sess":15.82,"sess_h":23.0,"like":95.62},
 "10757247806":{"name":"Build and Conquer [V0.1]","avg_ccu":1908.5,"min_ccu":1160,"max_ccu":2660,"samples":24,"sess":21.74,"sess_h":23.0,"like":85.29},
 "10758824872":{"name":"[🎃] Ride a Dino","avg_ccu":26510.4,"min_ccu":19155,"max_ccu":35292,"samples":24,"sess":19.32,"sess_h":23.0,"like":97.73},
 "10758912149":{"name":"[🧬RACES + 2X] +1 Sword Loot Monarch","avg_ccu":2266.1,"min_ccu":1777,"max_ccu":2751,"samples":24,"sess":26.25,"sess_h":23.0,"like":94.15},
@@ -695,7 +695,7 @@
 "10770284142":{"name":"Night Rider 🏍️ [TESTING]","avg_ccu":2591.9,"min_ccu":1951,"max_ccu":3165,"samples":7,"sess":11.01,"sess_h":6.0,"like":94.56},
 "10770303987":{"name":"[☀️] Celestial Sunlion +Free ADMIN TREADMIN","avg_ccu":0.0,"min_ccu":0,"max_ccu":0,"samples":9,"sess":0.0,"sess_h":8.0,"like":84.13},
 "10770342542":{"name":"Escooter Life [🔥BETA RELEASE]","avg_ccu":2055.0,"min_ccu":636,"max_ccu":3376,"samples":24,"sess":8.5,"sess_h":23.0,"like":88.03},
-"10770355219":{"name":"[🚀] Escape The Walls","avg_ccu":2611.0,"min_ccu":2119,"max_ccu":3067,"samples":6,"like":67.89},
+"10770355219":{"name":"[✊] Escape The Walls","avg_ccu":2611.0,"min_ccu":2119,"max_ccu":3067,"samples":6,"like":67.89},
 "10770417318":{"name":"Prove Your Innocence!","avg_ccu":3765.2,"min_ccu":1743,"max_ccu":5975,"samples":24,"sess":12.6,"sess_h":23.0,"like":95.28},
 "10770458796":{"name":"Fake Dead or DIE","avg_ccu":3256.3,"min_ccu":2460,"max_ccu":3670,"samples":7,"sess":12.56,"sess_h":6.0,"like":72.31},
 "10770479965":{"name":"Harvest It All 🎃","avg_ccu":3661.7,"min_ccu":1307,"max_ccu":7075,"samples":24,"sess":11.27,"sess_h":23.0,"like":81.49},
