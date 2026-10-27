@@ -1,4 +1,4 @@
-{"date": "2026-10-26", "timezone": "America/New_York", "generated_utc": "2026-10-27T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-27T03:10:00Z", 8684199], "genres": {"Simulation": 41.654, "Survival": 15.654, "Roleplay & Avatar Sim": 11.892, "Action": 7.798, "RPG": 3.954, "Shooter": 3.939, "Obby & Platformer": 3.165, "Sports & Racing": 2.841, "Strategy": 2.475, "Party & Casual": 1.762, "Adventure": 1.542, "Shopping": 0.933, "Other": 0.872, "Entertainment": 0.763, "Puzzle": 0.382, "Social": 0.372}, "genre_hours": 24,"games":{
+{"date": "2026-10-26", "timezone": "America/New_York", "generated_utc": "2026-10-27T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-27T03:10:00Z", 8684199], "genres": {"Simulation": 41.654, "Survival": 15.654, "Roleplay & Avatar Sim": 11.892, "Action": 7.798, "RPG": 3.954, "Shooter": 3.939, "Obby & Platformer": 3.165, "Sports & Racing": 2.841, "Strategy": 2.475, "Party & Casual": 1.762, "Adventure": 1.542, "Shopping": 0.933, "Other": 0.872, "Entertainment": 0.763, "Puzzle": 0.382, "Social": 0.372}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":4068.1,"min_ccu":3367,"max_ccu":4890,"samples":24,"sess":13.31,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6564.5,"min_ccu":4649,"max_ccu":8851,"samples":24,"sess":8.42,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3287.9,"min_ccu":1735,"max_ccu":4616,"samples":24,"sess":12.17,"sess_h":23.0,"like":93.28},
@@ -512,7 +512,7 @@
 "10765760839":{"name":"[🎃] +1 Forge Blade Loot","avg_ccu":2562.7,"min_ccu":1637,"max_ccu":3300,"samples":24,"sess":19.45,"sess_h":23.0,"like":92.14},
 "10765774354":{"name":"[⚓] Nuke A Country","avg_ccu":2337.7,"min_ccu":1955,"max_ccu":2868,"samples":6,"like":90.11},
 "10765799968":{"name":"[🎃ANTI + BONE🎃] CloverFall","avg_ccu":1360.6,"min_ccu":1044,"max_ccu":1582,"samples":24,"sess":27.04,"sess_h":23.0,"like":94.23},
-"10765841403":{"name":"🎃 Steal Or Die [VC SERVERS + HALLOWEEN! 🎤]","avg_ccu":5901.8,"min_ccu":3253,"max_ccu":8132,"samples":24,"sess":16.84,"sess_h":23.0,"like":90.2},
+"10765841403":{"name":"🎃 Steal Or Die [NEW MAP!🔥]","avg_ccu":5901.8,"min_ccu":3253,"max_ccu":8132,"samples":24,"sess":16.84,"sess_h":23.0,"like":90.2},
 "10765902945":{"name":"[UPDATE 3.5] Anime Legacy Simulator","avg_ccu":8963.5,"min_ccu":8354,"max_ccu":9556,"samples":24,"sess":30.7,"sess_h":23.0,"like":96.12},
 "10765938934":{"name":"[🎃] Roll A Stickman!","avg_ccu":9215.5,"min_ccu":8639,"max_ccu":10036,"samples":24,"sess":19.78,"sess_h":23.0,"like":96.16},
 "10765950109":{"name":"Steal A Baddie Egg!","avg_ccu":1334.6,"min_ccu":1101,"max_ccu":1608,"samples":24,"sess":15.26,"sess_h":23.0,"like":87.03},
@@ -649,7 +649,7 @@
 "10769324921":{"name":"Makeup All Stars [UPDATED]💄","avg_ccu":5382.0,"min_ccu":2637,"max_ccu":7568,"samples":24,"sess":9.05,"sess_h":23.0,"like":81.04},
 "10769362627":{"name":"EAT the Groceries!!! [GIANT PUMPKIN]","avg_ccu":2532.6,"min_ccu":1539,"max_ccu":3284,"samples":24,"sess":13.1,"sess_h":23.0,"like":87.95},
 "10769384180":{"name":"[🎃] Fake an Egg","avg_ccu":23902.9,"min_ccu":14412,"max_ccu":48679,"samples":24,"sess":10.21,"sess_h":23.0,"like":88.9},
-"10769393753":{"name":"[⚽ INTERNATIONAL] Become A Striker","avg_ccu":2882.4,"min_ccu":1596,"max_ccu":4111,"samples":24,"sess":13.82,"sess_h":23.0,"like":73.19},
+"10769393753":{"name":"[⚽] Become A Striker","avg_ccu":2882.4,"min_ccu":1596,"max_ccu":4111,"samples":24,"sess":13.82,"sess_h":23.0,"like":73.19},
 "10769401924":{"name":"🎃 [HALLOWEEN] Hunting Together RPG","avg_ccu":3774.2,"min_ccu":3620,"max_ccu":4102,"samples":6,"like":96.43},
 "10769415620":{"name":"🧪Realistic Phone Drop Test [SCOOTERS]","avg_ccu":4641.0,"min_ccu":2368,"max_ccu":6651,"samples":24,"sess":10.31,"sess_h":23.0,"like":89.4},
 "10769420234":{"name":"MOUSE 🎃","avg_ccu":3104.7,"min_ccu":2076,"max_ccu":3890,"samples":7,"sess":10.53,"sess_h":6.0,"like":83.96},
