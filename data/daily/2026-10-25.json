@@ -1,4 +1,4 @@
-{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-27T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
+{"date": "2026-10-25", "timezone": "America/New_York", "generated_utc": "2026-10-27T02:10:01Z", "through_et": "24:00", "platform_now": ["2026-10-26T03:10:00Z", 9821579], "genres": {"Simulation": 35.213, "Survival": 26.723, "Roleplay & Avatar Sim": 10.686, "Action": 7.368, "Shooter": 3.547, "RPG": 3.118, "Sports & Racing": 2.712, "Obby & Platformer": 2.537, "Strategy": 1.922, "Party & Casual": 1.605, "Adventure": 1.586, "Other": 0.832, "Shopping": 0.817, "Entertainment": 0.757, "Puzzle": 0.347, "Social": 0.229}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":4570.1,"min_ccu":2896,"max_ccu":5879,"samples":24,"sess":13.16,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9516.4,"min_ccu":6368,"max_ccu":12209,"samples":24,"sess":8.6,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4881.5,"min_ccu":2087,"max_ccu":6801,"samples":24,"sess":12.61,"sess_h":23.0,"like":93.27},
@@ -466,7 +466,7 @@
 "10759337137":{"name":"🎃 Last Stop [Beta]","avg_ccu":3095.7,"min_ccu":1883,"max_ccu":3706,"samples":24,"sess":14.78,"sess_h":23.0,"like":97.12},
 "10759430423":{"name":"[W7] +1 Chop Trees for Treasure","avg_ccu":3196.7,"min_ccu":2111,"max_ccu":4376,"samples":24,"sess":28.95,"sess_h":23.0,"like":96.21},
 "10759594563":{"name":"[🎃] Choose the Stronger Anime!","avg_ccu":3907.6,"min_ccu":3169,"max_ccu":5092,"samples":24,"sess":12.19,"sess_h":23.0,"like":80.19},
-"10759638075":{"name":"[🦇UPD] Pets Universe!","avg_ccu":3856.7,"min_ccu":3322,"max_ccu":4320,"samples":24,"sess":15.89,"sess_h":23.0,"like":98.42},
+"10759638075":{"name":"[🦇] Pets Universe!","avg_ccu":3856.7,"min_ccu":3322,"max_ccu":4320,"samples":24,"sess":15.89,"sess_h":23.0,"like":98.42},
 "10760891576":{"name":"Plant & Steal 🌱 [CO-OP]","avg_ccu":6545.1,"min_ccu":4354,"max_ccu":8369,"samples":24,"sess":14.05,"sess_h":23.0,"like":95.17},
 "10761143648":{"name":"Steal all Cars","avg_ccu":804.1,"min_ccu":212,"max_ccu":1306,"samples":24,"sess":10.59,"sess_h":23.0,"like":96.85},
 "10761375767":{"name":"[🎃🏝️] Surf And Rescue","avg_ccu":11006.2,"min_ccu":5920,"max_ccu":15341,"samples":24,"sess":15.1,"sess_h":23.0,"like":96.97},
@@ -602,7 +602,7 @@
 "10768450860":{"name":"Steal from Gods!","avg_ccu":4084.9,"min_ccu":2292,"max_ccu":6617,"samples":24,"sess":13.65,"sess_h":23.0,"like":86.66},
 "10768458048":{"name":"Army Commander Tycoon [UPDATE 4]","avg_ccu":8124.9,"min_ccu":4787,"max_ccu":10709,"samples":24,"sess":21.1,"sess_h":23.0,"like":92.9},
 "10768473690":{"name":"PERIPHERAL (BETA)","avg_ccu":3787.2,"min_ccu":2661,"max_ccu":4706,"samples":13,"sess":14.28,"sess_h":12.0,"like":79.88},
-"10768498581":{"name":"Tribes 3v3 [1v1 added!]","avg_ccu":12058.3,"min_ccu":8856,"max_ccu":14608,"samples":24,"sess":2.44,"sess_h":23.0,"like":63.57},
+"10768498581":{"name":"Tribes 3v3","avg_ccu":12058.3,"min_ccu":8856,"max_ccu":14608,"samples":24,"sess":2.44,"sess_h":23.0,"like":63.57},
 "10768532216":{"name":"Steal a Wild Horse","avg_ccu":5808.0,"min_ccu":2528,"max_ccu":8782,"samples":24,"sess":14.81,"sess_h":23.0,"like":88.2},
 "10768542976":{"name":"Be a Pirate","avg_ccu":3328.9,"min_ccu":1874,"max_ccu":4858,"samples":24,"sess":25.6,"sess_h":23.0,"like":91.17},
 "10768550253":{"name":"[CARGO] Run an Airline✈️","avg_ccu":4826.7,"min_ccu":2674,"max_ccu":6393,"samples":24,"sess":18.84,"sess_h":23.0,"like":90.71},
@@ -690,7 +690,7 @@
 "10770417318":{"name":"Prove Your Innocence!","avg_ccu":4704.0,"min_ccu":2407,"max_ccu":7230,"samples":24,"sess":12.68,"sess_h":23.0,"like":95.28},
 "10770479965":{"name":"Harvest It All 🎃","avg_ccu":3369.1,"min_ccu":1182,"max_ccu":4983,"samples":24,"sess":11.67,"sess_h":23.0,"like":83.08},
 "10770568427":{"name":"Fart Together [1-4 PLAYER OBBY] 💨","avg_ccu":4763.5,"min_ccu":3689,"max_ccu":6354,"samples":13,"sess":11.87,"sess_h":12.0,"like":95.27},
-"10770593871":{"name":"[UPD] Realistic Ragdoll Engine 🩸","avg_ccu":12787.3,"min_ccu":8222,"max_ccu":18412,"samples":24,"sess":13.41,"sess_h":23.0,"like":88.85},
+"10770593871":{"name":"Realistic Ragdoll Engine 🩸","avg_ccu":12787.3,"min_ccu":8222,"max_ccu":18412,"samples":24,"sess":13.41,"sess_h":23.0,"like":88.85},
 "10770605947":{"name":"Ragdoll Reality 🩸","avg_ccu":43255.1,"min_ccu":24751,"max_ccu":55197,"samples":24,"sess":14.41,"sess_h":23.0,"like":82.68},
 "10770728771":{"name":"The Hollow","avg_ccu":59004.8,"min_ccu":24104,"max_ccu":223840,"samples":24,"sess":4.76,"sess_h":23.0,"like":84.24},
 "10770879065":{"name":"It Hears The Water [DONT SPLASH] 🎃","avg_ccu":9352.1,"min_ccu":5527,"max_ccu":14355,"samples":24,"sess":6.63,"sess_h":23.0,"like":83.98},
