@@ -1,4 +1,4 @@
-{"date": "2026-10-26", "timezone": "America/New_York", "generated_utc": "2026-10-27T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-27T03:10:00Z", 8684199], "genres": {"Simulation": 41.654, "Survival": 15.654, "Roleplay & Avatar Sim": 11.892, "Action": 7.798, "RPG": 3.954, "Shooter": 3.939, "Obby & Platformer": 3.165, "Sports & Racing": 2.841, "Strategy": 2.475, "Party & Casual": 1.762, "Adventure": 1.542, "Shopping": 0.933, "Other": 0.872, "Entertainment": 0.763, "Puzzle": 0.382, "Social": 0.372}, "genre_hours": 24,"games":{
+{"date": "2026-10-26", "timezone": "America/New_York", "generated_utc": "2026-10-27T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-27T03:10:00Z", 8684199], "genres": {"Simulation": 41.654, "Survival": 15.654, "Roleplay & Avatar Sim": 11.892, "Action": 7.798, "RPG": 3.954, "Shooter": 3.939, "Obby & Platformer": 3.165, "Sports & Racing": 2.841, "Strategy": 2.475, "Party & Casual": 1.762, "Adventure": 1.542, "Shopping": 0.933, "Other": 0.872, "Entertainment": 0.763, "Puzzle": 0.382, "Social": 0.372}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":4068.1,"min_ccu":3367,"max_ccu":4890,"samples":24,"sess":13.31,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6564.5,"min_ccu":4649,"max_ccu":8851,"samples":24,"sess":8.42,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3287.9,"min_ccu":1735,"max_ccu":4616,"samples":24,"sess":12.17,"sess_h":23.0,"like":93.28},
@@ -20,7 +20,7 @@
 "358276974":{"name":"Apocalypse Rising 2","avg_ccu":1547.2,"min_ccu":1289,"max_ccu":1809,"samples":24,"sess":17.44,"sess_h":23.0,"like":85.85},
 "371263894":{"name":"Greenville RP (🦇HALLOWEEN EVENT + LIMITED CARS!)","avg_ccu":9110.4,"min_ccu":5694,"max_ccu":12315,"samples":24,"sess":15.1,"sess_h":23.0,"like":87.88},
 "372226183":{"name":"Flee the Facility","avg_ccu":25878.0,"min_ccu":12804,"max_ccu":39370,"samples":24,"sess":11.27,"sess_h":23.0,"like":92.1},
-"383310974":{"name":"[🎃] Adopt Me!","avg_ccu":200547.6,"min_ccu":128610,"max_ccu":239269,"samples":24,"sess":26.87,"sess_h":23.0,"like":86.36},
+"383310974":{"name":"[✏️2D TUESDAY] Adopt Me!","avg_ccu":200547.6,"min_ccu":128610,"max_ccu":239269,"samples":24,"sess":26.87,"sess_h":23.0,"like":86.36},
 "540382210":{"name":"[🎃🎃 EVENT!!!] FMR","avg_ccu":2135.4,"min_ccu":1262,"max_ccu":3126,"samples":24,"sess":11.95,"sess_h":23.0,"like":94.89},
 "547524060":{"name":"Feather Family 🎃 [Bearded Vulture]","avg_ccu":3655.8,"min_ccu":2165,"max_ccu":4745,"samples":24,"sess":13.79,"sess_h":23.0,"like":91.64},
 "578392296":{"name":"ABA","avg_ccu":10111.5,"min_ccu":7439,"max_ccu":13185,"samples":24,"sess":17.47,"sess_h":23.0,"like":80.66},
@@ -492,7 +492,7 @@
 "10765122642":{"name":"Country Battles 🥊💪","avg_ccu":2602.6,"min_ccu":1565,"max_ccu":3748,"samples":24,"sess":10.8,"sess_h":23.0,"like":93.97},
 "10765132338":{"name":"[V2.6: EXPANSION] Project: Iron","avg_ccu":1661.5,"min_ccu":1045,"max_ccu":2427,"samples":24,"sess":21.27,"sess_h":23.0,"like":88.89},
 "10765153945":{"name":"[🎃] Steal A Car","avg_ccu":2409.9,"min_ccu":1882,"max_ccu":3005,"samples":24,"sess":14.38,"sess_h":23.0,"like":89.87},
-"10765167636":{"name":"[💵] 2 Player Raid Tycoon","avg_ccu":1936.9,"min_ccu":1039,"max_ccu":2765,"samples":24,"sess":17.24,"sess_h":23.0,"like":88.92},
+"10765167636":{"name":"[🎃] 2 Player Raid Tycoon","avg_ccu":1936.9,"min_ccu":1039,"max_ccu":2765,"samples":24,"sess":17.24,"sess_h":23.0,"like":88.92},
 "10765288803":{"name":"Break and Steal an Egg","avg_ccu":107713.0,"min_ccu":65895,"max_ccu":161717,"samples":24,"sess":15.73,"sess_h":23.0,"like":97.37},
 "10765298801":{"name":"[🎃] +1 Stone Skipping","avg_ccu":14666.8,"min_ccu":9337,"max_ccu":19495,"samples":24,"sess":18.63,"sess_h":23.0,"like":96.72},
 "10765443218":{"name":"[🎃] Break Freedy's Ankle!","avg_ccu":1564.0,"min_ccu":561,"max_ccu":2471,"samples":24,"sess":5.99,"sess_h":23.0,"like":78.51},
@@ -560,7 +560,7 @@
 "10767751602":{"name":"Fart Obby [1-2 Player]","avg_ccu":1673.5,"min_ccu":719,"max_ccu":3014,"samples":24,"sess":10.1,"sess_h":23.0,"like":95.45},
 "10767774668":{"name":"[🥞] Paint a Pancake","avg_ccu":2930.0,"min_ccu":1975,"max_ccu":4324,"samples":24,"sess":9.03,"sess_h":23.0,"like":76.05},
 "10767784294":{"name":"Steal an Clown Egg","avg_ccu":4717.6,"min_ccu":573,"max_ccu":9228,"samples":24,"sess":12.13,"sess_h":23.0,"like":93.72},
-"10767814721":{"name":"[🎃 WORLD 5] +1 Karate Evolution ⛩️","avg_ccu":3735.3,"min_ccu":2229,"max_ccu":5979,"samples":24,"sess":12.57,"sess_h":23.0,"like":98.66},
+"10767814721":{"name":"[🎃W5] +1 Karate Evolution ⛩️","avg_ccu":3735.3,"min_ccu":2229,"max_ccu":5979,"samples":24,"sess":12.57,"sess_h":23.0,"like":98.66},
 "10767824942":{"name":"[🎃]+1 Assassin Leveling","avg_ccu":11613.4,"min_ccu":8888,"max_ccu":14849,"samples":24,"sess":23.69,"sess_h":23.0,"like":95.89},
 "10767825538":{"name":"Sarab","avg_ccu":7633.8,"min_ccu":1923,"max_ccu":13492,"samples":24,"sess":12.34,"sess_h":23.0,"like":88.74},
 "10767826343":{"name":"[NEW 🚁] Zombie Air Force ✈️","avg_ccu":1275.5,"min_ccu":1075,"max_ccu":1543,"samples":24,"sess":17.76,"sess_h":23.0,"like":88.85},
