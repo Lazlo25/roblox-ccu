@@ -1,4 +1,4 @@
-{"date": "2026-10-26", "timezone": "America/New_York", "generated_utc": "2026-10-27T16:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-27T03:10:00Z", 8684199], "genres": {"Simulation": 41.654, "Survival": 15.654, "Roleplay & Avatar Sim": 11.892, "Action": 7.798, "RPG": 3.954, "Shooter": 3.939, "Obby & Platformer": 3.165, "Sports & Racing": 2.841, "Strategy": 2.475, "Party & Casual": 1.762, "Adventure": 1.542, "Shopping": 0.933, "Other": 0.872, "Entertainment": 0.763, "Puzzle": 0.382, "Social": 0.372}, "genre_hours": 24,"games":{
+{"date": "2026-10-26", "timezone": "America/New_York", "generated_utc": "2026-10-27T17:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-27T03:10:00Z", 8684199], "genres": {"Simulation": 41.654, "Survival": 15.654, "Roleplay & Avatar Sim": 11.892, "Action": 7.798, "RPG": 3.954, "Shooter": 3.939, "Obby & Platformer": 3.165, "Sports & Racing": 2.841, "Strategy": 2.475, "Party & Casual": 1.762, "Adventure": 1.542, "Shopping": 0.933, "Other": 0.872, "Entertainment": 0.763, "Puzzle": 0.382, "Social": 0.372}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":4068.1,"min_ccu":3367,"max_ccu":4890,"samples":24,"sess":13.31,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6564.5,"min_ccu":4649,"max_ccu":8851,"samples":24,"sess":8.42,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3287.9,"min_ccu":1735,"max_ccu":4616,"samples":24,"sess":12.17,"sess_h":23.0,"like":93.28},
@@ -427,7 +427,7 @@
 "10648640958":{"name":"Hood Rivals","avg_ccu":1677.2,"min_ccu":905,"max_ccu":2916,"samples":24,"sess":5.87,"sess_h":23.0,"like":90.33},
 "10648820673":{"name":"[🍲] Karinderya!","avg_ccu":7491.4,"min_ccu":2029,"max_ccu":15910,"samples":24,"sess":21.98,"sess_h":23.0,"like":97.47},
 "10650979742":{"name":"[🥞] Make a Pancake!","avg_ccu":3509.4,"min_ccu":1965,"max_ccu":5270,"samples":24,"sess":10.26,"sess_h":23.0,"like":83.2},
-"10667357873":{"name":"[💸X5]💭Dream Car Collection","avg_ccu":3760.2,"min_ccu":2461,"max_ccu":4904,"samples":24,"sess":14.41,"sess_h":23.0,"like":94.58},
+"10667357873":{"name":"[🍀+💸] 💭Dream Car Collection","avg_ccu":3760.2,"min_ccu":2461,"max_ccu":4904,"samples":24,"sess":14.41,"sess_h":23.0,"like":94.58},
 "10669384399":{"name":"Make a Face","avg_ccu":3490.4,"min_ccu":2517,"max_ccu":4439,"samples":24,"sess":7.56,"sess_h":23.0,"like":60.95},
 "10673920146":{"name":"[🎃] Survive a Million Monkeys","avg_ccu":13927.2,"min_ccu":10490,"max_ccu":26645,"samples":24,"sess":11.25,"sess_h":23.0,"like":97.69},
 "10675117523":{"name":"[🎃PART 2] Anime Breaker","avg_ccu":8513.0,"min_ccu":7873,"max_ccu":9024,"samples":24,"sess":28.45,"sess_h":23.0,"like":95.48},
@@ -535,7 +535,7 @@
 "10766812776":{"name":"WideOpen [MOTORCYCLE, 2XP WEEKEND, CUSTOMIZATION]","avg_ccu":2167.1,"min_ccu":306,"max_ccu":3226,"samples":24,"sess":7.25,"sess_h":23.0,"like":91.67},
 "10766845655":{"name":"Piano Rhythm Tiles","avg_ccu":2530.6,"min_ccu":1809,"max_ccu":3408,"samples":17,"sess":7.58,"sess_h":16.0,"like":69.53},
 "10766874780":{"name":"[🏯UPD5] Build the Great Wall!","avg_ccu":1186.0,"min_ccu":969,"max_ccu":1443,"samples":24,"sess":23.81,"sess_h":23.0,"like":95.61},
-"10766896060":{"name":"[NOW] +1 Animal Mog Evolution","avg_ccu":4503.8,"min_ccu":2812,"max_ccu":6006,"samples":24,"sess":11.81,"sess_h":23.0,"like":92.07},
+"10766896060":{"name":"[W2] +1 Animal Mog Evolution","avg_ccu":4503.8,"min_ccu":2812,"max_ccu":6006,"samples":24,"sess":11.81,"sess_h":23.0,"like":92.07},
 "10766957927":{"name":"[W2] +1 Gun Forge 🎃","avg_ccu":3915.4,"min_ccu":2938,"max_ccu":4988,"samples":24,"sess":27.43,"sess_h":23.0,"like":96.17},
 "10766972131":{"name":"[🎃] Throw Food For Animals","avg_ccu":14174.5,"min_ccu":8070,"max_ccu":23451,"samples":24,"sess":18.02,"sess_h":23.0,"like":92.57},
 "10767012496":{"name":"[🎃] Turbo Soccer : Beta 1.0","avg_ccu":14409.6,"min_ccu":5594,"max_ccu":22923,"samples":24,"sess":4.64,"sess_h":23.0,"like":92.53},
