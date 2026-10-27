@@ -1,4 +1,4 @@
-{"date": "2026-10-26", "timezone": "America/New_York", "generated_utc": "2026-10-27T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-27T03:10:00Z", 8684199], "genres": {"Simulation": 41.654, "Survival": 15.654, "Roleplay & Avatar Sim": 11.892, "Action": 7.798, "RPG": 3.954, "Shooter": 3.939, "Obby & Platformer": 3.165, "Sports & Racing": 2.841, "Strategy": 2.475, "Party & Casual": 1.762, "Adventure": 1.542, "Shopping": 0.933, "Other": 0.872, "Entertainment": 0.763, "Puzzle": 0.382, "Social": 0.372}, "genre_hours": 24,"games":{
+{"date": "2026-10-26", "timezone": "America/New_York", "generated_utc": "2026-10-27T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-27T03:10:00Z", 8684199], "genres": {"Simulation": 41.654, "Survival": 15.654, "Roleplay & Avatar Sim": 11.892, "Action": 7.798, "RPG": 3.954, "Shooter": 3.939, "Obby & Platformer": 3.165, "Sports & Racing": 2.841, "Strategy": 2.475, "Party & Casual": 1.762, "Adventure": 1.542, "Shopping": 0.933, "Other": 0.872, "Entertainment": 0.763, "Puzzle": 0.382, "Social": 0.372}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":4068.1,"min_ccu":3367,"max_ccu":4890,"samples":24,"sess":13.31,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6564.5,"min_ccu":4649,"max_ccu":8851,"samples":24,"sess":8.42,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3287.9,"min_ccu":1735,"max_ccu":4616,"samples":24,"sess":12.17,"sess_h":23.0,"like":93.28},
@@ -327,7 +327,7 @@
 "10069043526":{"name":"Keyboard Bridge Wars! 🧱","avg_ccu":4063.2,"min_ccu":2254,"max_ccu":13399,"samples":24,"sess":12.92,"sess_h":23.0,"like":90.3},
 "10075660664":{"name":"[QOL🎃] Spin a KPOP Idol","avg_ccu":253.1,"min_ccu":197,"max_ccu":348,"samples":24,"sess":22.43,"sess_h":23.0,"like":95.93},
 "10109877123":{"name":"🎃 Drop a Fruit","avg_ccu":1078.1,"min_ccu":800,"max_ccu":1382,"samples":24,"sess":20.54,"sess_h":23.0,"like":94.69},
-"10116272705":{"name":"[ 🎃 UPD 0.75 x Halloween ] Anime Mysterious","avg_ccu":5133.0,"min_ccu":4426,"max_ccu":5435,"samples":24,"sess":84.56,"sess_h":23.0,"like":96.95},
+"10116272705":{"name":"[ 🌌 UPDATE 1 ] Anime Mysterious","avg_ccu":5133.0,"min_ccu":4426,"max_ccu":5435,"samples":24,"sess":84.56,"sess_h":23.0,"like":96.95},
 "10123059921":{"name":"[🎃] Home Alone: Anomalies","avg_ccu":13338.6,"min_ccu":10739,"max_ccu":15816,"samples":9,"sess":5.43,"sess_h":8.0,"like":94.81},
 "10124403207":{"name":"[CAREER MODE] Road to Glory: Football (Beta)","avg_ccu":725.3,"min_ccu":160,"max_ccu":1750,"samples":24,"sess":14.81,"sess_h":23.0,"like":82.48},
 "10126644530":{"name":"[🛒] Run a Sari-Sari Store!","avg_ccu":5135.4,"min_ccu":1753,"max_ccu":8795,"samples":24,"sess":19.82,"sess_h":23.0,"like":96.89},
@@ -365,7 +365,7 @@
 "10332674979":{"name":"THROTTLE (Beta) Moto Racing","avg_ccu":472.5,"min_ccu":357,"max_ccu":686,"samples":24,"sess":4.12,"sess_h":23.0,"like":92.34},
 "10338952197":{"name":"Grow a Chicken Fighter","avg_ccu":3820.1,"min_ccu":2752,"max_ccu":5252,"samples":24,"sess":21.49,"sess_h":23.0,"like":97.75},
 "10381189313":{"name":"[🎃] Catch the Artist!","avg_ccu":785.0,"min_ccu":412,"max_ccu":1535,"samples":24,"sess":6.46,"sess_h":23.0,"like":81.54},
-"10393438342":{"name":"[⭐ UPDATE ⭐] Alliance Tower Defense! ⚔️","avg_ccu":4021.2,"min_ccu":2652,"max_ccu":5568,"samples":24,"sess":11.05,"sess_h":23.0,"like":92.35},
+"10393438342":{"name":"[⌛COUNTDOWN⌛] Alliance Tower Defense! ⚔️","avg_ccu":4021.2,"min_ccu":2652,"max_ccu":5568,"samples":24,"sess":11.05,"sess_h":23.0,"like":92.35},
 "10394873066":{"name":"(NEW TRUCKS🌾) Westville Florida","avg_ccu":134.3,"min_ccu":21,"max_ccu":410,"samples":24,"sess":10.32,"sess_h":23.0,"like":86.62},
 "10399136326":{"name":"Anime Ability Arena","avg_ccu":9827.0,"min_ccu":7468,"max_ccu":12665,"samples":24,"sess":12.82,"sess_h":23.0,"like":87.95},
 "10411998017":{"name":"[HALLOWEEN🎃] Project Bikelife","avg_ccu":2800.8,"min_ccu":1281,"max_ccu":4435,"samples":24,"sess":19.12,"sess_h":23.0,"like":86.91},
