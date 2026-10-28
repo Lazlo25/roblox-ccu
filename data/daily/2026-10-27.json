@@ -1,4 +1,4 @@
-{"date": "2026-10-27", "timezone": "America/New_York", "generated_utc": "2026-10-28T21:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-28T03:10:00Z", 8746605], "genres": {"Simulation": 41.625, "Survival": 16.529, "Roleplay & Avatar Sim": 11.618, "Action": 7.6, "Shooter": 3.848, "RPG": 3.818, "Obby & Platformer": 3.136, "Sports & Racing": 2.856, "Strategy": 2.557, "Party & Casual": 1.632, "Adventure": 1.403, "Shopping": 0.949, "Entertainment": 0.879, "Other": 0.771, "Puzzle": 0.391, "Social": 0.38, "Utility & Other": 0.009}, "genre_hours": 24,"games":{
+{"date": "2026-10-27", "timezone": "America/New_York", "generated_utc": "2026-10-28T22:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-28T03:10:00Z", 8746605], "genres": {"Simulation": 41.625, "Survival": 16.529, "Roleplay & Avatar Sim": 11.618, "Action": 7.6, "Shooter": 3.848, "RPG": 3.818, "Obby & Platformer": 3.136, "Sports & Racing": 2.856, "Strategy": 2.557, "Party & Casual": 1.632, "Adventure": 1.403, "Shopping": 0.949, "Entertainment": 0.879, "Other": 0.771, "Puzzle": 0.391, "Social": 0.38, "Utility & Other": 0.009}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":3703.5,"min_ccu":2789,"max_ccu":4565,"samples":24,"sess":12.56,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6071.3,"min_ccu":4016,"max_ccu":8568,"samples":24,"sess":8.37,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3157.6,"min_ccu":1541,"max_ccu":4399,"samples":24,"sess":12.19,"sess_h":23.0,"like":93.28},
@@ -115,7 +115,7 @@
 "3846592040":{"name":"🎭 Arcane Lineage","avg_ccu":722.0,"min_ccu":528,"max_ccu":854,"samples":24,"sess":8.8,"sess_h":23.0,"like":78.47},
 "3876150506":{"name":"[🎃] Drive World","avg_ccu":4424.8,"min_ccu":2535,"max_ccu":5777,"samples":24,"sess":10.73,"sess_h":23.0,"like":93.57},
 "3936365689":{"name":"[STAR MAGIC + EVENT!] Clover Retribution","avg_ccu":2013.7,"min_ccu":1745,"max_ccu":2263,"samples":24,"sess":23.9,"sess_h":23.0,"like":92.96},
-"3990106548":{"name":"Baddies 💅","avg_ccu":4073.8,"min_ccu":2380,"max_ccu":7220,"samples":24,"sess":9.72,"sess_h":23.0,"like":83.27},
+"3990106548":{"name":"[🎃] Baddies 💅","avg_ccu":4073.8,"min_ccu":2380,"max_ccu":7220,"samples":24,"sess":9.72,"sess_h":23.0,"like":83.27},
 "4049246711":{"name":"Timebomb Duels [Alpha]","avg_ccu":10103.6,"min_ccu":4589,"max_ccu":14892,"samples":24,"sess":8.95,"sess_h":23.0,"like":65.05},
 "4130569984":{"name":"[HALLOWEEN] Jurassic Blocky","avg_ccu":3585.0,"min_ccu":2303,"max_ccu":4523,"samples":24,"sess":12.72,"sess_h":23.0,"like":89.21},
 "4165164803":{"name":"Clip It 😂🎬👗","avg_ccu":4753.6,"min_ccu":1503,"max_ccu":7140,"samples":24,"sess":11.94,"sess_h":23.0,"like":76.33},
@@ -606,7 +606,7 @@
 "10768630078":{"name":"Catastrophic Horse Racing 🎃","avg_ccu":882.1,"min_ccu":374,"max_ccu":1359,"samples":24,"sess":6.75,"sess_h":23.0,"like":92.17},
 "10768637423":{"name":"[🎃] Roll a Barber RNG","avg_ccu":2846.2,"min_ccu":2356,"max_ccu":3252,"samples":24,"sess":21.77,"sess_h":23.0,"like":91.91},
 "10768650470":{"name":"Lanterns [HALLOWEEN!]","avg_ccu":730.5,"min_ccu":430,"max_ccu":924,"samples":24,"sess":11.66,"sess_h":23.0,"like":92.62},
-"10768676548":{"name":"[FANTASTIC 4] Hide From The Hulk","avg_ccu":3362.1,"min_ccu":1734,"max_ccu":5006,"samples":24,"sess":17.29,"sess_h":23.0,"like":89.6},
+"10768676548":{"name":"[CIVIL WAR] Hide From The Hulk","avg_ccu":3362.1,"min_ccu":1734,"max_ccu":5006,"samples":24,"sess":17.29,"sess_h":23.0,"like":89.6},
 "10768677773":{"name":"RESTORED | Carolina Leaners","avg_ccu":4700.3,"min_ccu":891,"max_ccu":13493,"samples":24,"sess":21.18,"sess_h":23.0,"like":98.25},
 "10768761562":{"name":"[🎃] Airport Security (Anomaly) ✈️","avg_ccu":6830.9,"min_ccu":3421,"max_ccu":10779,"samples":24,"sess":16.72,"sess_h":23.0,"like":92.4},
 "10768785226":{"name":"A Long Flight [SANDBOX]","avg_ccu":12897.5,"min_ccu":5183,"max_ccu":20638,"samples":24,"sess":12.71,"sess_h":23.0,"like":74.21},
@@ -620,7 +620,7 @@
 "10768944292":{"name":"Prehistoric Farm [NEW WORLD 🎃]","avg_ccu":829.0,"min_ccu":637,"max_ccu":1162,"samples":24,"sess":16.06,"sess_h":23.0,"like":95.9},
 "10768944846":{"name":"[TUSK + 4 NEW STANDS] Morioh High","avg_ccu":795.5,"min_ccu":480,"max_ccu":1301,"samples":24,"sess":13.35,"sess_h":23.0,"like":95.49},
 "10768949861":{"name":"Secure the Waterpark","avg_ccu":2438.1,"min_ccu":706,"max_ccu":4846,"samples":22,"sess":7.18,"sess_h":21.0,"like":79.25},
-"10768960729":{"name":"[ABILITIES] Stick Wars 🎃","avg_ccu":1801.4,"min_ccu":791,"max_ccu":3305,"samples":24,"sess":11.48,"sess_h":23.0,"like":88.43},
+"10768960729":{"name":"[🎃] Stick Wars","avg_ccu":1801.4,"min_ccu":791,"max_ccu":3305,"samples":24,"sess":11.48,"sess_h":23.0,"like":88.43},
 "10768992869":{"name":"🥟SQUISHY DUMPLING PRISON RUN! (Obby)","avg_ccu":5261.0,"min_ccu":3584,"max_ccu":7597,"samples":24,"sess":8.99,"sess_h":23.0,"like":78.96},
 "10769003719":{"name":"Fix a Console","avg_ccu":860.2,"min_ccu":629,"max_ccu":1027,"samples":4,"like":87.17},
 "10769020044":{"name":"steal a strange egg","avg_ccu":2335.2,"min_ccu":2109,"max_ccu":2557,"samples":9,"sess":12.3,"sess_h":8.0,"like":87.26},
