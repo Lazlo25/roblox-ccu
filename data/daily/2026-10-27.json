@@ -1,4 +1,4 @@
-{"date": "2026-10-27", "timezone": "America/New_York", "generated_utc": "2026-10-28T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-28T03:10:00Z", 8746605], "genres": {"Simulation": 41.625, "Survival": 16.529, "Roleplay & Avatar Sim": 11.618, "Action": 7.6, "Shooter": 3.848, "RPG": 3.818, "Obby & Platformer": 3.136, "Sports & Racing": 2.856, "Strategy": 2.557, "Party & Casual": 1.632, "Adventure": 1.403, "Shopping": 0.949, "Entertainment": 0.879, "Other": 0.771, "Puzzle": 0.391, "Social": 0.38, "Utility & Other": 0.009}, "genre_hours": 24,"games":{
+{"date": "2026-10-27", "timezone": "America/New_York", "generated_utc": "2026-10-28T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-28T03:10:00Z", 8746605], "genres": {"Simulation": 41.625, "Survival": 16.529, "Roleplay & Avatar Sim": 11.618, "Action": 7.6, "Shooter": 3.848, "RPG": 3.818, "Obby & Platformer": 3.136, "Sports & Racing": 2.856, "Strategy": 2.557, "Party & Casual": 1.632, "Adventure": 1.403, "Shopping": 0.949, "Entertainment": 0.879, "Other": 0.771, "Puzzle": 0.391, "Social": 0.38, "Utility & Other": 0.009}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":3703.5,"min_ccu":2789,"max_ccu":4565,"samples":24,"sess":12.56,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6071.3,"min_ccu":4016,"max_ccu":8568,"samples":24,"sess":8.37,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3157.6,"min_ccu":1541,"max_ccu":4399,"samples":24,"sess":12.19,"sess_h":23.0,"like":93.28},
@@ -484,7 +484,7 @@
 "10765067592":{"name":"[UPD10] Tower Incremental","avg_ccu":1818.7,"min_ccu":1301,"max_ccu":2287,"samples":24,"sess":32.69,"sess_h":23.0,"like":89.09},
 "10765091041":{"name":"Open Sea For Animals!","avg_ccu":1115.3,"min_ccu":743,"max_ccu":1530,"samples":24,"sess":14.58,"sess_h":23.0,"like":97.41},
 "10765122642":{"name":"Country Battles 🥊💪","avg_ccu":2009.5,"min_ccu":1110,"max_ccu":3162,"samples":24,"sess":10.61,"sess_h":23.0,"like":93.93},
-"10765132338":{"name":"[V2.6: EXPANSION] Project: Iron","avg_ccu":1808.6,"min_ccu":1068,"max_ccu":2483,"samples":24,"sess":21.34,"sess_h":23.0,"like":89.04},
+"10765132338":{"name":"[V2.7: EXPANSION] Project: Iron","avg_ccu":1808.6,"min_ccu":1068,"max_ccu":2483,"samples":24,"sess":21.34,"sess_h":23.0,"like":89.04},
 "10765153945":{"name":"[🎃] Steal A Car","avg_ccu":1885.8,"min_ccu":1444,"max_ccu":2571,"samples":24,"sess":14.14,"sess_h":23.0,"like":89.9},
 "10765167636":{"name":"[🎃] 2 Player Raid Tycoon","avg_ccu":1758.2,"min_ccu":999,"max_ccu":2592,"samples":24,"sess":17.48,"sess_h":23.0,"like":88.93},
 "10765288803":{"name":"Break and Steal an Egg","avg_ccu":95198.1,"min_ccu":60412,"max_ccu":144116,"samples":24,"sess":15.46,"sess_h":23.0,"like":97.34},
