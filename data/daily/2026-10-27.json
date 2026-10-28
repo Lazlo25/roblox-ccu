@@ -1,4 +1,4 @@
-{"date": "2026-10-27", "timezone": "America/New_York", "generated_utc": "2026-10-28T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-28T03:10:00Z", 8746605], "genres": {"Simulation": 41.625, "Survival": 16.529, "Roleplay & Avatar Sim": 11.618, "Action": 7.6, "Shooter": 3.848, "RPG": 3.818, "Obby & Platformer": 3.136, "Sports & Racing": 2.856, "Strategy": 2.557, "Party & Casual": 1.632, "Adventure": 1.403, "Shopping": 0.949, "Entertainment": 0.879, "Other": 0.771, "Puzzle": 0.391, "Social": 0.38, "Utility & Other": 0.009}, "genre_hours": 24,"games":{
+{"date": "2026-10-27", "timezone": "America/New_York", "generated_utc": "2026-10-28T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-28T03:10:00Z", 8746605], "genres": {"Simulation": 41.625, "Survival": 16.529, "Roleplay & Avatar Sim": 11.618, "Action": 7.6, "Shooter": 3.848, "RPG": 3.818, "Obby & Platformer": 3.136, "Sports & Racing": 2.856, "Strategy": 2.557, "Party & Casual": 1.632, "Adventure": 1.403, "Shopping": 0.949, "Entertainment": 0.879, "Other": 0.771, "Puzzle": 0.391, "Social": 0.38, "Utility & Other": 0.009}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":3703.5,"min_ccu":2789,"max_ccu":4565,"samples":24,"sess":12.56,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6071.3,"min_ccu":4016,"max_ccu":8568,"samples":24,"sess":8.37,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3157.6,"min_ccu":1541,"max_ccu":4399,"samples":24,"sess":12.19,"sess_h":23.0,"like":93.28},
@@ -267,7 +267,7 @@
 "8841437826":{"name":"[👻] Capybaras VS Plants","avg_ccu":921.9,"min_ccu":785,"max_ccu":1051,"samples":24,"sess":15.8,"sess_h":23.0,"like":96.97},
 "8964956538":{"name":"[🎃Season 2] Steel Crossfire","avg_ccu":1444.5,"min_ccu":1083,"max_ccu":1850,"samples":24,"sess":9.34,"sess_h":23.0,"like":96.94},
 "9051406594":{"name":"Dueling Grounds ⚔️","avg_ccu":5801.0,"min_ccu":4665,"max_ccu":7266,"samples":24,"sess":6.16,"sess_h":23.0,"like":96.39},
-"9073513091":{"name":"[8H!] Anime Apocalypse","avg_ccu":1090.5,"min_ccu":836,"max_ccu":1415,"samples":24,"sess":11.09,"sess_h":23.0,"like":95.29},
+"9073513091":{"name":"[4H!] Anime Apocalypse","avg_ccu":1090.5,"min_ccu":836,"max_ccu":1415,"samples":24,"sess":11.09,"sess_h":23.0,"like":95.29},
 "9098570654":{"name":"[🎃EVENT] 🧟 Survive the Apocalypse","avg_ccu":8819.8,"min_ccu":6737,"max_ccu":12580,"samples":24,"sess":24.8,"sess_h":23.0,"like":94.12},
 "9112256336":{"name":"Scream City 2 🎃","avg_ccu":368.0,"min_ccu":183,"max_ccu":655,"samples":24,"sess":13.23,"sess_h":23.0,"like":84.17},
 "9141743926":{"name":"[🎃] Catch a Monster","avg_ccu":2916.2,"min_ccu":2661,"max_ccu":3099,"samples":24,"sess":13.56,"sess_h":23.0,"like":97.82},
@@ -667,7 +667,7 @@
 "10769543567":{"name":"Cat Battles 🐾","avg_ccu":22663.9,"min_ccu":12400,"max_ccu":36917,"samples":24,"sess":7.72,"sess_h":23.0,"like":73.25},
 "10769543742":{"name":"Backseat Rally","avg_ccu":20868.7,"min_ccu":12507,"max_ccu":28780,"samples":24,"sess":9.58,"sess_h":23.0,"like":92.12},
 "10769547438":{"name":"[🎃 HALLOWEEN] Rust Blaster","avg_ccu":836.9,"min_ccu":577,"max_ccu":1071,"samples":24,"sess":20.35,"sess_h":23.0,"like":73.27},
-"10769548496":{"name":"[🎃DAY 4] Fix My Phone!","avg_ccu":4290.8,"min_ccu":2954,"max_ccu":6105,"samples":24,"sess":12.38,"sess_h":23.0,"like":90.67},
+"10769548496":{"name":"[🎃DAY 5] Fix My Phone!","avg_ccu":4290.8,"min_ccu":2954,"max_ccu":6105,"samples":24,"sess":12.38,"sess_h":23.0,"like":90.67},
 "10769552054":{"name":"[🎃] Urban Reload","avg_ccu":5653.4,"min_ccu":3061,"max_ccu":7889,"samples":24,"sess":15.68,"sess_h":23.0,"like":91.44},
 "10769562933":{"name":"Hide to Steal Eggs","avg_ccu":4009.6,"min_ccu":1758,"max_ccu":6577,"samples":24,"sess":12.95,"sess_h":23.0,"like":72.99},
 "10769594564":{"name":"roll the world 🌎","avg_ccu":6337.9,"min_ccu":3610,"max_ccu":9322,"samples":24,"sess":14.14,"sess_h":23.0,"like":84.73},
