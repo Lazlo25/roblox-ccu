@@ -1,4 +1,4 @@
-{"date": "2026-10-27", "timezone": "America/New_York", "generated_utc": "2026-10-28T20:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-28T03:10:00Z", 8746605], "genres": {"Simulation": 41.625, "Survival": 16.529, "Roleplay & Avatar Sim": 11.618, "Action": 7.6, "Shooter": 3.848, "RPG": 3.818, "Obby & Platformer": 3.136, "Sports & Racing": 2.856, "Strategy": 2.557, "Party & Casual": 1.632, "Adventure": 1.403, "Shopping": 0.949, "Entertainment": 0.879, "Other": 0.771, "Puzzle": 0.391, "Social": 0.38, "Utility & Other": 0.009}, "genre_hours": 24,"games":{
+{"date": "2026-10-27", "timezone": "America/New_York", "generated_utc": "2026-10-28T21:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-28T03:10:00Z", 8746605], "genres": {"Simulation": 41.625, "Survival": 16.529, "Roleplay & Avatar Sim": 11.618, "Action": 7.6, "Shooter": 3.848, "RPG": 3.818, "Obby & Platformer": 3.136, "Sports & Racing": 2.856, "Strategy": 2.557, "Party & Casual": 1.632, "Adventure": 1.403, "Shopping": 0.949, "Entertainment": 0.879, "Other": 0.771, "Puzzle": 0.391, "Social": 0.38, "Utility & Other": 0.009}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":3703.5,"min_ccu":2789,"max_ccu":4565,"samples":24,"sess":12.56,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6071.3,"min_ccu":4016,"max_ccu":8568,"samples":24,"sess":8.37,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3157.6,"min_ccu":1541,"max_ccu":4399,"samples":24,"sess":12.19,"sess_h":23.0,"like":93.28},
@@ -555,7 +555,7 @@
 "10767751602":{"name":"Fart Obby [1-2 Player]","avg_ccu":1597.1,"min_ccu":576,"max_ccu":2846,"samples":24,"sess":10.09,"sess_h":23.0,"like":95.27},
 "10767774668":{"name":"[🥞] Paint a Pancake","avg_ccu":2306.0,"min_ccu":1533,"max_ccu":3297,"samples":24,"sess":8.84,"sess_h":23.0,"like":76.07},
 "10767784294":{"name":"Steal an Clown Egg","avg_ccu":4059.4,"min_ccu":429,"max_ccu":8183,"samples":24,"sess":11.87,"sess_h":23.0,"like":93.73},
-"10767814136":{"name":"Ride a Dragon [StarWeaver 💫]","avg_ccu":802.0,"min_ccu":690,"max_ccu":923,"samples":6,"like":85.08},
+"10767814136":{"name":"Ride a Dragon [Halloween🎃]","avg_ccu":802.0,"min_ccu":690,"max_ccu":923,"samples":6,"like":85.08},
 "10767814721":{"name":"[🎃W5] +1 Karate Evolution ⛩️","avg_ccu":2926.2,"min_ccu":1427,"max_ccu":5181,"samples":24,"sess":12.38,"sess_h":23.0,"like":98.66},
 "10767824942":{"name":"[🎃]+1 Assassin Leveling","avg_ccu":10807.5,"min_ccu":8224,"max_ccu":13865,"samples":24,"sess":24.08,"sess_h":23.0,"like":95.93},
 "10767825538":{"name":"Sarab","avg_ccu":7169.6,"min_ccu":1641,"max_ccu":12498,"samples":24,"sess":12.23,"sess_h":23.0,"like":88.67},
@@ -676,7 +676,7 @@
 "10769634720":{"name":"PINKIE PROMISE [HORROR]","avg_ccu":9442.1,"min_ccu":4431,"max_ccu":15405,"samples":24,"sess":15.28,"sess_h":23.0,"like":94.37},
 "10769721516":{"name":"Catch a Plane! [Upd 1]","avg_ccu":4548.7,"min_ccu":2026,"max_ccu":7395,"samples":24,"sess":14.21,"sess_h":23.0,"like":92.77},
 "10769746958":{"name":"+1 Climb to Slide!","avg_ccu":2742.2,"min_ccu":1528,"max_ccu":4240,"samples":24,"sess":10.58,"sess_h":23.0,"like":90.6},
-"10769788746":{"name":"Ro-BassFishing [NEW BOATS!!]","avg_ccu":3310.8,"min_ccu":2767,"max_ccu":3769,"samples":6,"like":86.29},
+"10769788746":{"name":"Ro-BassFishing [HALLOWEEN UPD!!]","avg_ccu":3310.8,"min_ccu":2767,"max_ccu":3769,"samples":6,"like":86.29},
 "10769793498":{"name":"🦄 BUDDY'S PRISON RUN! (Obby)","avg_ccu":2033.4,"min_ccu":1164,"max_ccu":2784,"samples":10,"sess":7.52,"sess_h":9.0,"like":41.3},
 "10769798178":{"name":"Make Rugs!","avg_ccu":5720.3,"min_ccu":3526,"max_ccu":7578,"samples":24,"sess":17.65,"sess_h":23.0,"like":94.54},
 "10769804674":{"name":"Get A Puppy! 🐶","avg_ccu":1467.2,"min_ccu":474,"max_ccu":2285,"samples":24,"sess":14.2,"sess_h":23.0,"like":49.48},
@@ -695,7 +695,7 @@
 "10770018231":{"name":"Clone Baby Care (Anomaly)","avg_ccu":11893.2,"min_ccu":7276,"max_ccu":14762,"samples":24,"sess":11.07,"sess_h":23.0,"like":89.27},
 "10770021080":{"name":"Adopt Your Animal!","avg_ccu":6222.4,"min_ccu":2428,"max_ccu":8493,"samples":24,"sess":13.08,"sess_h":23.0,"like":86.72},
 "10770060507":{"name":"Winter Outfit Towers! [Would You Rather] ❄️","avg_ccu":1585.6,"min_ccu":575,"max_ccu":2262,"samples":22,"sess":6.22,"sess_h":21.0,"like":80.6},
-"10770101026":{"name":"FATHOM [HORROR]","avg_ccu":4281.2,"min_ccu":1755,"max_ccu":6888,"samples":24,"sess":12.02,"sess_h":23.0,"like":95.39},
+"10770101026":{"name":"FATHOM [SOON]","avg_ccu":4281.2,"min_ccu":1755,"max_ccu":6888,"samples":24,"sess":12.02,"sess_h":23.0,"like":95.39},
 "10770109927":{"name":"Baseplate","avg_ccu":1733.9,"min_ccu":0,"max_ccu":5133,"samples":24,"sess":7.83,"sess_h":23.0,"like":85.22},
 "10770204379":{"name":"🍀 Tower Of Luck [1.8]","avg_ccu":6133.2,"min_ccu":2252,"max_ccu":9511,"samples":24,"sess":11.3,"sess_h":23.0,"like":54.77},
 "10770229863":{"name":"T-Rex vs 99 Players","avg_ccu":4311.9,"min_ccu":2993,"max_ccu":5127,"samples":10,"sess":5.5,"sess_h":9.0,"like":93.53},
