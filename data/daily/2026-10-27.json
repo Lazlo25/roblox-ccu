@@ -1,4 +1,4 @@
-{"date": "2026-10-27", "timezone": "America/New_York", "generated_utc": "2026-10-28T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-28T03:10:00Z", 8746605], "genres": {"Simulation": 41.625, "Survival": 16.529, "Roleplay & Avatar Sim": 11.618, "Action": 7.6, "Shooter": 3.848, "RPG": 3.818, "Obby & Platformer": 3.136, "Sports & Racing": 2.856, "Strategy": 2.557, "Party & Casual": 1.632, "Adventure": 1.403, "Shopping": 0.949, "Entertainment": 0.879, "Other": 0.771, "Puzzle": 0.391, "Social": 0.38, "Utility & Other": 0.009}, "genre_hours": 24,"games":{
+{"date": "2026-10-27", "timezone": "America/New_York", "generated_utc": "2026-10-28T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-28T03:10:00Z", 8746605], "genres": {"Simulation": 41.625, "Survival": 16.529, "Roleplay & Avatar Sim": 11.618, "Action": 7.6, "Shooter": 3.848, "RPG": 3.818, "Obby & Platformer": 3.136, "Sports & Racing": 2.856, "Strategy": 2.557, "Party & Casual": 1.632, "Adventure": 1.403, "Shopping": 0.949, "Entertainment": 0.879, "Other": 0.771, "Puzzle": 0.391, "Social": 0.38, "Utility & Other": 0.009}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":3703.5,"min_ccu":2789,"max_ccu":4565,"samples":24,"sess":12.56,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6071.3,"min_ccu":4016,"max_ccu":8568,"samples":24,"sess":8.37,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3157.6,"min_ccu":1541,"max_ccu":4399,"samples":24,"sess":12.19,"sess_h":23.0,"like":93.28},
@@ -189,7 +189,7 @@
 "6504986360":{"name":"[🎃UPD] Bubble Gum Simulator INFINITY","avg_ccu":10465.0,"min_ccu":9362,"max_ccu":11383,"samples":24,"sess":30.5,"sess_h":23.0,"like":96.78},
 "6505338302":{"name":"[🎃] 🏈Football Legends🏈","avg_ccu":1386.5,"min_ccu":214,"max_ccu":4504,"samples":24,"sess":16.09,"sess_h":23.0,"like":86.87},
 "6521100398":{"name":"Dreamville 🏡 RP [Pets! 😺]","avg_ccu":15511.1,"min_ccu":7423,"max_ccu":20247,"samples":24,"sess":16.99,"sess_h":23.0,"like":95.05},
-"6583326485":{"name":"Ground War [2X XP]","avg_ccu":3990.2,"min_ccu":2898,"max_ccu":5395,"samples":24,"sess":12.07,"sess_h":23.0,"like":80.66},
+"6583326485":{"name":"Ground War","avg_ccu":3990.2,"min_ccu":2898,"max_ccu":5395,"samples":24,"sess":12.07,"sess_h":23.0,"like":80.66},
 "6593476325":{"name":"[HALLOWEEN] DUMMY COUNTER YOUR FRIENDS","avg_ccu":1738.0,"min_ccu":815,"max_ccu":4244,"samples":24,"sess":9.3,"sess_h":23.0,"like":90.77},
 "6594435384":{"name":"SpongeBob Tower Defense🍍","avg_ccu":1054.2,"min_ccu":887,"max_ccu":1250,"samples":24,"sess":12.03,"sess_h":23.0,"like":97.72},
 "6635513269":{"name":"he ate them. [HORROR]","avg_ccu":6875.6,"min_ccu":3745,"max_ccu":8920,"samples":24,"sess":6.81,"sess_h":23.0,"like":97.37},
@@ -265,9 +265,9 @@
 "8829204428":{"name":"[🎃UPD] Case Simulator RNG","avg_ccu":1712.5,"min_ccu":1298,"max_ccu":2140,"samples":24,"sess":16.96,"sess_h":23.0,"like":97.22},
 "8836568224":{"name":"[SEASON 3] Kayak and Surf  🌊","avg_ccu":2465.3,"min_ccu":1641,"max_ccu":8879,"samples":24,"sess":15.39,"sess_h":23.0,"like":97.79},
 "8841437826":{"name":"[👻] Capybaras VS Plants","avg_ccu":921.9,"min_ccu":785,"max_ccu":1051,"samples":24,"sess":15.8,"sess_h":23.0,"like":96.97},
-"8964956538":{"name":"[🎃S2] Steel Crossfire","avg_ccu":1444.5,"min_ccu":1083,"max_ccu":1850,"samples":24,"sess":9.34,"sess_h":23.0,"like":96.94},
+"8964956538":{"name":"[🎃Season 2] Steel Crossfire","avg_ccu":1444.5,"min_ccu":1083,"max_ccu":1850,"samples":24,"sess":9.34,"sess_h":23.0,"like":96.94},
 "9051406594":{"name":"Dueling Grounds ⚔️","avg_ccu":5801.0,"min_ccu":4665,"max_ccu":7266,"samples":24,"sess":6.16,"sess_h":23.0,"like":96.39},
-"9073513091":{"name":"[DAVID] Anime Apocalypse","avg_ccu":1090.5,"min_ccu":836,"max_ccu":1415,"samples":24,"sess":11.09,"sess_h":23.0,"like":95.29},
+"9073513091":{"name":"[8H!] Anime Apocalypse","avg_ccu":1090.5,"min_ccu":836,"max_ccu":1415,"samples":24,"sess":11.09,"sess_h":23.0,"like":95.29},
 "9098570654":{"name":"[🎃EVENT] 🧟 Survive the Apocalypse","avg_ccu":8819.8,"min_ccu":6737,"max_ccu":12580,"samples":24,"sess":24.8,"sess_h":23.0,"like":94.12},
 "9112256336":{"name":"Scream City 2 🎃","avg_ccu":368.0,"min_ccu":183,"max_ccu":655,"samples":24,"sess":13.23,"sess_h":23.0,"like":84.17},
 "9141743926":{"name":"[🎃] Catch a Monster","avg_ccu":2916.2,"min_ccu":2661,"max_ccu":3099,"samples":24,"sess":13.56,"sess_h":23.0,"like":97.82},
