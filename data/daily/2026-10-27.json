@@ -1,4 +1,4 @@
-{"date": "2026-10-27", "timezone": "America/New_York", "generated_utc": "2026-10-28T22:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-28T03:10:00Z", 8746605], "genres": {"Simulation": 41.625, "Survival": 16.529, "Roleplay & Avatar Sim": 11.618, "Action": 7.6, "Shooter": 3.848, "RPG": 3.818, "Obby & Platformer": 3.136, "Sports & Racing": 2.856, "Strategy": 2.557, "Party & Casual": 1.632, "Adventure": 1.403, "Shopping": 0.949, "Entertainment": 0.879, "Other": 0.771, "Puzzle": 0.391, "Social": 0.38, "Utility & Other": 0.009}, "genre_hours": 24,"games":{
+{"date": "2026-10-27", "timezone": "America/New_York", "generated_utc": "2026-10-28T23:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-28T03:10:00Z", 8746605], "genres": {"Simulation": 41.625, "Survival": 16.529, "Roleplay & Avatar Sim": 11.618, "Action": 7.6, "Shooter": 3.848, "RPG": 3.818, "Obby & Platformer": 3.136, "Sports & Racing": 2.856, "Strategy": 2.557, "Party & Casual": 1.632, "Adventure": 1.403, "Shopping": 0.949, "Entertainment": 0.879, "Other": 0.771, "Puzzle": 0.391, "Social": 0.38, "Utility & Other": 0.009}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":3703.5,"min_ccu":2789,"max_ccu":4565,"samples":24,"sess":12.56,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6071.3,"min_ccu":4016,"max_ccu":8568,"samples":24,"sess":8.37,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3157.6,"min_ccu":1541,"max_ccu":4399,"samples":24,"sess":12.19,"sess_h":23.0,"like":93.28},
@@ -102,7 +102,7 @@
 "3405618667":{"name":"Sonic Speed Simulator","avg_ccu":2249.3,"min_ccu":1516,"max_ccu":2752,"samples":24,"sess":15.2,"sess_h":23.0,"like":92.04},
 "3457700596":{"name":"[OPE V2] Fruit Battlegrounds","avg_ccu":1837.9,"min_ccu":1472,"max_ccu":2091,"samples":24,"sess":19.67,"sess_h":23.0,"like":89.75},
 "3508322461":{"name":"[HIRED KILLER] Jujutsu Shenanigans","avg_ccu":106417.5,"min_ccu":60255,"max_ccu":146870,"samples":24,"sess":14.42,"sess_h":23.0,"like":86.32},
-"3541611379":{"name":"TB II | Tower Defense X: BETA","avg_ccu":2330.8,"min_ccu":1476,"max_ccu":3032,"samples":24,"sess":14.49,"sess_h":23.0,"like":94.29},
+"3541611379":{"name":"🎃HALLOWEEN | Tower Defense X: BETA","avg_ccu":2330.8,"min_ccu":1476,"max_ccu":3032,"samples":24,"sess":14.49,"sess_h":23.0,"like":94.29},
 "3647333358":{"name":"[🎃HLWN] Evade","avg_ccu":45692.5,"min_ccu":30493,"max_ccu":68886,"samples":24,"sess":12.56,"sess_h":23.0,"like":93.9},
 "3706757136":{"name":"British Railway","avg_ccu":1232.4,"min_ccu":301,"max_ccu":2037,"samples":24,"sess":21.07,"sess_h":23.0,"like":87.53},
 "3734304510":{"name":"South Bronx: The Trenches❗","avg_ccu":1090.1,"min_ccu":497,"max_ccu":2162,"samples":24,"sess":17.64,"sess_h":23.0,"like":84.63},
