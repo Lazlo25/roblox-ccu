@@ -1,4 +1,4 @@
-{"date": "2026-10-27", "timezone": "America/New_York", "generated_utc": "2026-10-28T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-28T03:10:00Z", 8746605], "genres": {"Simulation": 41.625, "Survival": 16.529, "Roleplay & Avatar Sim": 11.618, "Action": 7.6, "Shooter": 3.848, "RPG": 3.818, "Obby & Platformer": 3.136, "Sports & Racing": 2.856, "Strategy": 2.557, "Party & Casual": 1.632, "Adventure": 1.403, "Shopping": 0.949, "Entertainment": 0.879, "Other": 0.771, "Puzzle": 0.391, "Social": 0.38, "Utility & Other": 0.009}, "genre_hours": 24,"games":{
+{"date": "2026-10-27", "timezone": "America/New_York", "generated_utc": "2026-10-28T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-28T03:10:00Z", 8746605], "genres": {"Simulation": 41.625, "Survival": 16.529, "Roleplay & Avatar Sim": 11.618, "Action": 7.6, "Shooter": 3.848, "RPG": 3.818, "Obby & Platformer": 3.136, "Sports & Racing": 2.856, "Strategy": 2.557, "Party & Casual": 1.632, "Adventure": 1.403, "Shopping": 0.949, "Entertainment": 0.879, "Other": 0.771, "Puzzle": 0.391, "Social": 0.38, "Utility & Other": 0.009}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":3703.5,"min_ccu":2789,"max_ccu":4565,"samples":24,"sess":12.56,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6071.3,"min_ccu":4016,"max_ccu":8568,"samples":24,"sess":8.37,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3157.6,"min_ccu":1541,"max_ccu":4399,"samples":24,"sess":12.19,"sess_h":23.0,"like":93.28},
@@ -517,7 +517,7 @@
 "10766053492":{"name":"Thanos Simulator: Infinity Gauntlet (BETA)","avg_ccu":1266.9,"min_ccu":739,"max_ccu":1689,"samples":24,"sess":13.34,"sess_h":23.0,"like":95.96},
 "10766056678":{"name":"Steal Animal Egg","avg_ccu":1580.2,"min_ccu":1022,"max_ccu":2424,"samples":24,"sess":10.33,"sess_h":23.0,"like":93.78},
 "10766135603":{"name":"+1 Lift Rock for Treasure","avg_ccu":2115.0,"min_ccu":1509,"max_ccu":2964,"samples":24,"sess":15.41,"sess_h":23.0,"like":96.2},
-"10766212164":{"name":"+1 Money Per Click 💸","avg_ccu":10943.3,"min_ccu":5486,"max_ccu":14849,"samples":24,"sess":13.66,"sess_h":23.0,"like":88.31},
+"10766212164":{"name":"[UPD🤑] +1 Money Per Click 💸","avg_ccu":10943.3,"min_ccu":5486,"max_ccu":14849,"samples":24,"sess":13.66,"sess_h":23.0,"like":88.31},
 "10766240516":{"name":"[🎃] Shoot For Eggs","avg_ccu":531.2,"min_ccu":273,"max_ccu":897,"samples":24,"sess":15.69,"sess_h":23.0,"like":86.06},
 "10766249514":{"name":"Anomaly Party","avg_ccu":981.8,"min_ccu":642,"max_ccu":1425,"samples":12,"sess":10.93,"sess_h":11.0,"like":97.38},
 "10766345722":{"name":"Pave the Road","avg_ccu":6032.4,"min_ccu":3116,"max_ccu":8984,"samples":24,"sess":10.43,"sess_h":23.0,"like":75.09},
@@ -728,6 +728,6 @@
 "10771406194":{"name":"Flying Tesla Roadster","avg_ccu":5056.8,"min_ccu":1819,"max_ccu":8536,"samples":24,"sess":7.69,"sess_h":23.0,"like":63.61},
 "10771421858":{"name":"DONT SPLASH","avg_ccu":70511.1,"min_ccu":14938,"max_ccu":95849,"samples":24,"sess":8.07,"sess_h":23.0,"like":88.5},
 "10771507608":{"name":"🧸 My Small Business","avg_ccu":16393.7,"min_ccu":9697,"max_ccu":21485,"samples":24,"sess":14.5,"sess_h":23.0,"like":95.64},
-"10772253152":{"name":"Durian Garden 🍈 [Tester]","avg_ccu":9457.8,"min_ccu":1038,"max_ccu":18763,"samples":24,"sess":13.12,"sess_h":23.0,"like":95.73},
+"10772253152":{"name":"Durian Garden 🍈","avg_ccu":9457.8,"min_ccu":1038,"max_ccu":18763,"samples":24,"sess":13.12,"sess_h":23.0,"like":95.73},
 "10772287037":{"name":"[🎃] Facecard: Makeup Showdown (Junior)","avg_ccu":2463.4,"min_ccu":956,"max_ccu":3627,"samples":24,"sess":9.49,"sess_h":23.0,"like":98.2}
 }}
