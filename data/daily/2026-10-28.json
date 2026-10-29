@@ -1,4 +1,4 @@
-{"date": "2026-10-28", "timezone": "America/New_York", "generated_utc": "2026-10-29T16:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-29T03:10:00Z", 8810527], "genres": {"Simulation": 42.604, "Survival": 16.577, "Roleplay & Avatar Sim": 11.383, "Action": 7.409, "Shooter": 3.774, "RPG": 3.722, "Obby & Platformer": 3.188, "Sports & Racing": 2.85, "Strategy": 2.403, "Party & Casual": 1.725, "Adventure": 1.288, "Shopping": 0.913, "Entertainment": 0.772, "Other": 0.649, "Social": 0.374, "Puzzle": 0.35, "Utility & Other": 0.019}, "genre_hours": 23,"games":{
+{"date": "2026-10-28", "timezone": "America/New_York", "generated_utc": "2026-10-29T17:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-29T03:10:00Z", 8810527], "genres": {"Simulation": 42.604, "Survival": 16.577, "Roleplay & Avatar Sim": 11.383, "Action": 7.409, "Shooter": 3.774, "RPG": 3.722, "Obby & Platformer": 3.188, "Sports & Racing": 2.85, "Strategy": 2.403, "Party & Casual": 1.725, "Adventure": 1.288, "Shopping": 0.913, "Entertainment": 0.772, "Other": 0.649, "Social": 0.374, "Puzzle": 0.35, "Utility & Other": 0.019}, "genre_hours": 23,"games":{
 "47545":{"name":"[MAZE]🍕Work at a Pizza Place","avg_ccu":3621.0,"min_ccu":2808,"max_ccu":4316,"samples":24,"sess":11.97,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6065.5,"min_ccu":3994,"max_ccu":8397,"samples":24,"sess":8.46,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3133.2,"min_ccu":1630,"max_ccu":4355,"samples":24,"sess":12.12,"sess_h":23.0,"like":93.28},
@@ -36,7 +36,7 @@
 "1016936714":{"name":"🎃 Your Bizarre Adventure 🎃","avg_ccu":9216.8,"min_ccu":5184,"max_ccu":13033,"samples":24,"sess":10.57,"sess_h":23.0,"like":88.84},
 "1054526971":{"name":"Blackhawk Rescue Mission 5","avg_ccu":10156.9,"min_ccu":7172,"max_ccu":14073,"samples":24,"sess":16.77,"sess_h":23.0,"like":90.14},
 "1176784616":{"name":"[🌙 NIGHT 3] Tower Defense Simulator","avg_ccu":12712.2,"min_ccu":8648,"max_ccu":15842,"samples":24,"sess":12.38,"sess_h":23.0,"like":94.14},
-"1202096104":{"name":"Driving Empire [✨2 NEW LIMITED✨]","avg_ccu":19350.7,"min_ccu":15231,"max_ccu":23493,"samples":24,"sess":14.26,"sess_h":23.0,"like":92.99},
+"1202096104":{"name":"Driving Empire [🎃SPOOKFEST EVENT🎃]","avg_ccu":19350.7,"min_ccu":15231,"max_ccu":23493,"samples":24,"sess":14.26,"sess_h":23.0,"like":92.99},
 "1235188606":{"name":"[🎃] Dragon Adventures 🐉","avg_ccu":6141.9,"min_ccu":4824,"max_ccu":7220,"samples":24,"sess":17.22,"sess_h":23.0,"like":93.4},
 "1268927906":{"name":"🎃Muscle Legends","avg_ccu":4425.2,"min_ccu":3816,"max_ccu":6892,"samples":24,"sess":24.36,"sess_h":23.0,"like":88.27},
 "1271059807":{"name":"[BOSS FIGHT💗🌵] Stevos Gem Eras Roleplay","avg_ccu":1148.9,"min_ccu":543,"max_ccu":2488,"samples":24,"sess":18.19,"sess_h":23.0,"like":91.23},
@@ -181,7 +181,7 @@
 "6336741296":{"name":"Flight World ✈️","avg_ccu":1754.5,"min_ccu":860,"max_ccu":2571,"samples":24,"sess":11.54,"sess_h":23.0,"like":96.17},
 "6353751159":{"name":"Main Street 🏡RP","avg_ccu":6523.0,"min_ccu":2869,"max_ccu":9465,"samples":24,"sess":16.91,"sess_h":23.0,"like":95.19},
 "6371309794":{"name":"[🎃 X3 WINS]💪Ninja Challenge [BETA]","avg_ccu":3661.8,"min_ccu":1881,"max_ccu":5222,"samples":24,"sess":5.9,"sess_h":23.0,"like":77.37},
-"6375110339":{"name":"[ BattleArmor ] ST : Blockade Battlefront","avg_ccu":1325.6,"min_ccu":795,"max_ccu":1809,"samples":24,"sess":15.07,"sess_h":23.0,"like":91.99},
+"6375110339":{"name":"ST : Blockade Battlefront","avg_ccu":1325.6,"min_ccu":795,"max_ccu":1809,"samples":24,"sess":15.07,"sess_h":23.0,"like":91.99},
 "6385532960":{"name":"[HALLOWEEN] Ryujin","avg_ccu":2615.5,"min_ccu":2525,"max_ccu":2716,"samples":24,"sess":43.8,"sess_h":23.0,"like":94.39},
 "6420180292":{"name":"[🎃HALLOWEEN🎃] Mermaid Isle 🌊","avg_ccu":334.4,"min_ccu":255,"max_ccu":413,"samples":24,"sess":15.97,"sess_h":23.0,"like":94.24},
 "6443367640":{"name":"Gym Star Simulator 🎃","avg_ccu":5498.5,"min_ccu":4061,"max_ccu":7243,"samples":24,"sess":14.68,"sess_h":23.0,"like":92.46},
@@ -428,7 +428,7 @@
 "10675117523":{"name":"[🎃PART 2] Anime Breaker","avg_ccu":7825.9,"min_ccu":7331,"max_ccu":8239,"samples":24,"sess":28.33,"sess_h":23.0,"like":95.49},
 "10681914462":{"name":"[☁️WORLD 2] +1 Tongue Escape😛","avg_ccu":3626.5,"min_ccu":2575,"max_ccu":5186,"samples":24,"sess":9.46,"sess_h":23.0,"like":95.29},
 "10684750879":{"name":"[🎃]+1 Loot To Forge","avg_ccu":6288.6,"min_ccu":4637,"max_ccu":8422,"samples":24,"sess":19.98,"sess_h":23.0,"like":96.62},
-"10685282333":{"name":"[🎃] Ball VS Ball","avg_ccu":15062.8,"min_ccu":10532,"max_ccu":22258,"samples":24,"sess":10.15,"sess_h":23.0,"like":88.75},
+"10685282333":{"name":"Ball VS Ball [RANKED]","avg_ccu":15062.8,"min_ccu":10532,"max_ccu":22258,"samples":24,"sess":10.15,"sess_h":23.0,"like":88.75},
 "10700618962":{"name":"[🎃] Blue Lock Farm","avg_ccu":8005.3,"min_ccu":6383,"max_ccu":10003,"samples":24,"sess":15.93,"sess_h":23.0,"like":98.1},
 "10701622575":{"name":"Steal an Anime Pack","avg_ccu":5826.2,"min_ccu":3672,"max_ccu":9665,"samples":24,"sess":15.04,"sess_h":23.0,"like":95.45},
 "10708913337":{"name":"[🎃] Anime Dice","avg_ccu":68791.7,"min_ccu":63239,"max_ccu":74103,"samples":24,"sess":32.5,"sess_h":23.0,"like":99.07},
