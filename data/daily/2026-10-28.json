@@ -1,4 +1,4 @@
-{"date": "2026-10-28", "timezone": "America/New_York", "generated_utc": "2026-10-29T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-29T03:10:00Z", 8810527], "genres": {"Simulation": 42.604, "Survival": 16.577, "Roleplay & Avatar Sim": 11.383, "Action": 7.409, "Shooter": 3.774, "RPG": 3.722, "Obby & Platformer": 3.188, "Sports & Racing": 2.85, "Strategy": 2.403, "Party & Casual": 1.725, "Adventure": 1.288, "Shopping": 0.913, "Entertainment": 0.772, "Other": 0.649, "Social": 0.374, "Puzzle": 0.35, "Utility & Other": 0.019}, "genre_hours": 23,"games":{
+{"date": "2026-10-28", "timezone": "America/New_York", "generated_utc": "2026-10-29T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-29T03:10:00Z", 8810527], "genres": {"Simulation": 42.604, "Survival": 16.577, "Roleplay & Avatar Sim": 11.383, "Action": 7.409, "Shooter": 3.774, "RPG": 3.722, "Obby & Platformer": 3.188, "Sports & Racing": 2.85, "Strategy": 2.403, "Party & Casual": 1.725, "Adventure": 1.288, "Shopping": 0.913, "Entertainment": 0.772, "Other": 0.649, "Social": 0.374, "Puzzle": 0.35, "Utility & Other": 0.019}, "genre_hours": 23,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":3621.0,"min_ccu":2808,"max_ccu":4316,"samples":24,"sess":11.97,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6065.5,"min_ccu":3994,"max_ccu":8397,"samples":24,"sess":8.46,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3133.2,"min_ccu":1630,"max_ccu":4355,"samples":24,"sess":12.12,"sess_h":23.0,"like":93.28},
@@ -372,7 +372,7 @@
 "10424107160":{"name":"[🎃TD] Survive The Night","avg_ccu":2524.2,"min_ccu":1918,"max_ccu":3307,"samples":24,"sess":12.27,"sess_h":23.0,"like":96.26},
 "10430019389":{"name":"[🎃] Spot the Fake For Anime!","avg_ccu":1875.0,"min_ccu":1324,"max_ccu":2316,"samples":24,"sess":18.16,"sess_h":23.0,"like":98.22},
 "10431252960":{"name":"[🎃] Truth or LIE 😈","avg_ccu":1132.8,"min_ccu":575,"max_ccu":1719,"samples":24,"sess":13.32,"sess_h":23.0,"like":88.16},
-"10431718987":{"name":"[UPD] Merge a Mini  Army","avg_ccu":2060.6,"min_ccu":1650,"max_ccu":2417,"samples":24,"sess":16.04,"sess_h":23.0,"like":96.86},
+"10431718987":{"name":"[x5 Points] Merge a Mini  Army","avg_ccu":2060.6,"min_ccu":1650,"max_ccu":2417,"samples":24,"sess":16.04,"sess_h":23.0,"like":96.86},
 "10432260929":{"name":"[🎃] Omni Heroes","avg_ccu":2976.8,"min_ccu":1435,"max_ccu":6111,"samples":24,"sess":6.5,"sess_h":23.0,"like":88.66},
 "10434004927":{"name":"[🎃X150👻] 💪🏻Lifting Simulator: REBORN","avg_ccu":1783.7,"min_ccu":1081,"max_ccu":2436,"samples":24,"sess":21.07,"sess_h":23.0,"like":87.62},
 "10436530264":{"name":"Build An Ant Empire","avg_ccu":5074.9,"min_ccu":3500,"max_ccu":7741,"samples":24,"sess":25.02,"sess_h":23.0,"like":96.07},
@@ -620,7 +620,7 @@
 "10768866246":{"name":"[ANOMALY RALLY] WRONG WAY!","avg_ccu":2105.8,"min_ccu":1264,"max_ccu":3598,"samples":24,"sess":8.65,"sess_h":23.0,"like":90.05},
 "10768891670":{"name":"Make The Logo!","avg_ccu":4067.7,"min_ccu":1992,"max_ccu":6147,"samples":18,"sess":9.0,"sess_h":17.0,"like":63.74},
 "10768910559":{"name":"🎃 IT WANTS IN [HORROR]","avg_ccu":1056.2,"min_ccu":475,"max_ccu":1508,"samples":24,"sess":8.6,"sess_h":23.0,"like":74.65},
-"10768941204":{"name":"Steal A DNA","avg_ccu":2859.2,"min_ccu":1958,"max_ccu":3597,"samples":24,"sess":16.06,"sess_h":23.0,"like":83.04},
+"10768941204":{"name":"[🎃]Steal A DNA","avg_ccu":2859.2,"min_ccu":1958,"max_ccu":3597,"samples":24,"sess":16.06,"sess_h":23.0,"like":83.04},
 "10768944292":{"name":"Prehistoric Farm [NEW WORLD 🎃]","avg_ccu":707.3,"min_ccu":587,"max_ccu":866,"samples":16,"sess":15.56,"sess_h":15.0,"like":95.89},
 "10768944846":{"name":"[TUSK + 4 NEW STANDS] Morioh High","avg_ccu":735.2,"min_ccu":390,"max_ccu":1186,"samples":24,"sess":12.78,"sess_h":23.0,"like":95.6},
 "10768949861":{"name":"Secure the Waterpark","avg_ccu":2824.8,"min_ccu":907,"max_ccu":5506,"samples":24,"sess":7.42,"sess_h":23.0,"like":79.63},
