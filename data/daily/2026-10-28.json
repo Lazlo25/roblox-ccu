@@ -1,4 +1,4 @@
-{"date": "2026-10-28", "timezone": "America/New_York", "generated_utc": "2026-10-29T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-29T03:10:00Z", 8810527], "genres": {"Simulation": 42.604, "Survival": 16.577, "Roleplay & Avatar Sim": 11.383, "Action": 7.409, "Shooter": 3.774, "RPG": 3.722, "Obby & Platformer": 3.188, "Sports & Racing": 2.85, "Strategy": 2.403, "Party & Casual": 1.725, "Adventure": 1.288, "Shopping": 0.913, "Entertainment": 0.772, "Other": 0.649, "Social": 0.374, "Puzzle": 0.35, "Utility & Other": 0.019}, "genre_hours": 23,"games":{
+{"date": "2026-10-28", "timezone": "America/New_York", "generated_utc": "2026-10-29T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-29T03:10:00Z", 8810527], "genres": {"Simulation": 42.604, "Survival": 16.577, "Roleplay & Avatar Sim": 11.383, "Action": 7.409, "Shooter": 3.774, "RPG": 3.722, "Obby & Platformer": 3.188, "Sports & Racing": 2.85, "Strategy": 2.403, "Party & Casual": 1.725, "Adventure": 1.288, "Shopping": 0.913, "Entertainment": 0.772, "Other": 0.649, "Social": 0.374, "Puzzle": 0.35, "Utility & Other": 0.019}, "genre_hours": 23,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":3621.0,"min_ccu":2808,"max_ccu":4316,"samples":24,"sess":11.97,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6065.5,"min_ccu":3994,"max_ccu":8397,"samples":24,"sess":8.46,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3133.2,"min_ccu":1630,"max_ccu":4355,"samples":24,"sess":12.12,"sess_h":23.0,"like":93.28},
@@ -197,7 +197,7 @@
 "6682487255":{"name":"[ 🤖🦾] Anime Card Clash","avg_ccu":3973.1,"min_ccu":3780,"max_ccu":4129,"samples":24,"sess":15.07,"sess_h":23.0,"like":97.49},
 "6688157118":{"name":"Musical Chairs 🎵🪑","avg_ccu":4419.4,"min_ccu":2275,"max_ccu":6251,"samples":24,"sess":7.51,"sess_h":23.0,"like":66.33},
 "6701277882":{"name":"[🎃UPD] Fish It! 🐟","avg_ccu":67179.8,"min_ccu":62672,"max_ccu":70993,"samples":24,"sess":66.29,"sess_h":23.0,"like":82.83},
-"6717464085":{"name":"[UPD] War of the Worlds","avg_ccu":2462.9,"min_ccu":1384,"max_ccu":3373,"samples":24,"sess":16.51,"sess_h":23.0,"like":87.36},
+"6717464085":{"name":"War of the Worlds","avg_ccu":2462.9,"min_ccu":1384,"max_ccu":3373,"samples":24,"sess":16.51,"sess_h":23.0,"like":87.36},
 "6726637224":{"name":"[🎃] Street Life Remastered","avg_ccu":2042.6,"min_ccu":1109,"max_ccu":2988,"samples":24,"sess":15.92,"sess_h":23.0,"like":87.05},
 "6739698191":{"name":"[BUTCHER x 🎃] Violence District","avg_ccu":55289.7,"min_ccu":34573,"max_ccu":85939,"samples":24,"sess":14.64,"sess_h":23.0,"like":93.01},
 "6749060816":{"name":"[🎃] Asylum Life 🔊","avg_ccu":4784.5,"min_ccu":3390,"max_ccu":6013,"samples":24,"sess":16.44,"sess_h":23.0,"like":83.25},
