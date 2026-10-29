@@ -1,4 +1,4 @@
-{"date": "2026-10-27", "timezone": "America/New_York", "generated_utc": "2026-10-28T23:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-28T03:10:00Z", 8746605], "genres": {"Simulation": 41.625, "Survival": 16.529, "Roleplay & Avatar Sim": 11.618, "Action": 7.6, "Shooter": 3.848, "RPG": 3.818, "Obby & Platformer": 3.136, "Sports & Racing": 2.856, "Strategy": 2.557, "Party & Casual": 1.632, "Adventure": 1.403, "Shopping": 0.949, "Entertainment": 0.879, "Other": 0.771, "Puzzle": 0.391, "Social": 0.38, "Utility & Other": 0.009}, "genre_hours": 24,"games":{
+{"date": "2026-10-27", "timezone": "America/New_York", "generated_utc": "2026-10-29T00:10:01Z", "through_et": "24:00", "platform_now": ["2026-10-28T03:10:00Z", 8746605], "genres": {"Simulation": 41.625, "Survival": 16.529, "Roleplay & Avatar Sim": 11.618, "Action": 7.6, "Shooter": 3.848, "RPG": 3.818, "Obby & Platformer": 3.136, "Sports & Racing": 2.856, "Strategy": 2.557, "Party & Casual": 1.632, "Adventure": 1.403, "Shopping": 0.949, "Entertainment": 0.879, "Other": 0.771, "Puzzle": 0.391, "Social": 0.38, "Utility & Other": 0.009}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":3703.5,"min_ccu":2789,"max_ccu":4565,"samples":24,"sess":12.56,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6071.3,"min_ccu":4016,"max_ccu":8568,"samples":24,"sess":8.37,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3157.6,"min_ccu":1541,"max_ccu":4399,"samples":24,"sess":12.19,"sess_h":23.0,"like":93.28},
@@ -549,7 +549,7 @@
 "10767570793":{"name":"Pixel Basketball","avg_ccu":1685.2,"min_ccu":855,"max_ccu":3028,"samples":24,"sess":13.53,"sess_h":23.0,"like":96.33},
 "10767581765":{"name":"[✍️]DRAW SPELLS MAGIC ARENA","avg_ccu":3059.4,"min_ccu":1226,"max_ccu":5306,"samples":24,"sess":5.04,"sess_h":23.0,"like":87.51},
 "10767582899":{"name":"[🎃] 📱 Build a Phone Empire","avg_ccu":9007.4,"min_ccu":5845,"max_ccu":12194,"samples":24,"sess":25.06,"sess_h":23.0,"like":87.53},
-"10767619742":{"name":"[NOW] Portal Sandbox","avg_ccu":3673.9,"min_ccu":1828,"max_ccu":5230,"samples":20,"sess":13.6,"sess_h":19.0,"like":82.08},
+"10767619742":{"name":"[FIX] Portal Sandbox","avg_ccu":3673.9,"min_ccu":1828,"max_ccu":5230,"samples":20,"sess":13.6,"sess_h":19.0,"like":82.08},
 "10767634248":{"name":"Firefighting Sim 🚒","avg_ccu":9206.7,"min_ccu":5937,"max_ccu":12161,"samples":24,"sess":13.02,"sess_h":23.0,"like":92.03},
 "10767717500":{"name":"[🎃 NEW!] Collect Cat Cards!","avg_ccu":2359.7,"min_ccu":1954,"max_ccu":2705,"samples":24,"sess":24.12,"sess_h":23.0,"like":91.42},
 "10767751602":{"name":"Fart Obby [1-2 Player]","avg_ccu":1597.1,"min_ccu":576,"max_ccu":2846,"samples":24,"sess":10.09,"sess_h":23.0,"like":95.27},
@@ -605,7 +605,7 @@
 "10768625767":{"name":"Save the Krusty Krab 🍔","avg_ccu":11159.2,"min_ccu":9486,"max_ccu":14439,"samples":24,"sess":16.16,"sess_h":23.0,"like":93.73},
 "10768630078":{"name":"Catastrophic Horse Racing 🎃","avg_ccu":882.1,"min_ccu":374,"max_ccu":1359,"samples":24,"sess":6.75,"sess_h":23.0,"like":92.17},
 "10768637423":{"name":"[🎃] Roll a Barber RNG","avg_ccu":2846.2,"min_ccu":2356,"max_ccu":3252,"samples":24,"sess":21.77,"sess_h":23.0,"like":91.91},
-"10768650470":{"name":"Lanterns [HALLOWEEN!]","avg_ccu":730.5,"min_ccu":430,"max_ccu":924,"samples":24,"sess":11.66,"sess_h":23.0,"like":92.62},
+"10768650470":{"name":"[🎃] Lanterns [SOON!]","avg_ccu":730.5,"min_ccu":430,"max_ccu":924,"samples":24,"sess":11.66,"sess_h":23.0,"like":92.62},
 "10768676548":{"name":"[CIVIL WAR] Hide From The Hulk","avg_ccu":3362.1,"min_ccu":1734,"max_ccu":5006,"samples":24,"sess":17.29,"sess_h":23.0,"like":89.6},
 "10768677773":{"name":"RESTORED | Carolina Leaners","avg_ccu":4700.3,"min_ccu":891,"max_ccu":13493,"samples":24,"sess":21.18,"sess_h":23.0,"like":98.25},
 "10768761562":{"name":"[🎃] Airport Security (Anomaly) ✈️","avg_ccu":6830.9,"min_ccu":3421,"max_ccu":10779,"samples":24,"sess":16.72,"sess_h":23.0,"like":92.4},
