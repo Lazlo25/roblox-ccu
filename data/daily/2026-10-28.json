@@ -1,4 +1,4 @@
-{"date": "2026-10-28", "timezone": "America/New_York", "generated_utc": "2026-10-29T20:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-29T03:10:00Z", 8810527], "genres": {"Simulation": 42.604, "Survival": 16.577, "Roleplay & Avatar Sim": 11.383, "Action": 7.409, "Shooter": 3.774, "RPG": 3.722, "Obby & Platformer": 3.188, "Sports & Racing": 2.85, "Strategy": 2.403, "Party & Casual": 1.725, "Adventure": 1.288, "Shopping": 0.913, "Entertainment": 0.772, "Other": 0.649, "Social": 0.374, "Puzzle": 0.35, "Utility & Other": 0.019}, "genre_hours": 23,"games":{
+{"date": "2026-10-28", "timezone": "America/New_York", "generated_utc": "2026-10-29T21:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-29T03:10:00Z", 8810527], "genres": {"Simulation": 42.604, "Survival": 16.577, "Roleplay & Avatar Sim": 11.383, "Action": 7.409, "Shooter": 3.774, "RPG": 3.722, "Obby & Platformer": 3.188, "Sports & Racing": 2.85, "Strategy": 2.403, "Party & Casual": 1.725, "Adventure": 1.288, "Shopping": 0.913, "Entertainment": 0.772, "Other": 0.649, "Social": 0.374, "Puzzle": 0.35, "Utility & Other": 0.019}, "genre_hours": 23,"games":{
 "47545":{"name":"[MAZE]🍕Work at a Pizza Place","avg_ccu":3621.0,"min_ccu":2808,"max_ccu":4316,"samples":24,"sess":11.97,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6065.5,"min_ccu":3994,"max_ccu":8397,"samples":24,"sess":8.46,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3133.2,"min_ccu":1630,"max_ccu":4355,"samples":24,"sess":12.12,"sess_h":23.0,"like":93.28},
@@ -128,7 +128,7 @@
 "4408288935":{"name":"🎃 Ecos: La Brea","avg_ccu":1002.8,"min_ccu":506,"max_ccu":1435,"samples":24,"sess":21.61,"sess_h":23.0,"like":91.65},
 "4420562665":{"name":"Ride Storm","avg_ccu":6208.3,"min_ccu":3942,"max_ccu":7763,"samples":24,"sess":12.38,"sess_h":23.0,"like":91.42},
 "4457060041":{"name":"Emergency Emden","avg_ccu":987.0,"min_ccu":128,"max_ccu":1975,"samples":24,"sess":13.94,"sess_h":23.0,"like":87.46},
-"4497460596":{"name":"[2H] MORPH WORLD!","avg_ccu":621.2,"min_ccu":371,"max_ccu":911,"samples":24,"sess":12.98,"sess_h":23.0,"like":86.18},
+"4497460596":{"name":"[1H] MORPH WORLD!","avg_ccu":621.2,"min_ccu":371,"max_ccu":911,"samples":24,"sess":12.98,"sess_h":23.0,"like":86.18},
 "4540138978":{"name":"Metro Life 🏡 City RP","avg_ccu":7230.4,"min_ccu":4834,"max_ccu":10668,"samples":24,"sess":15.54,"sess_h":23.0,"like":86.77},
 "4568630521":{"name":"Heroes Battlegrounds","avg_ccu":3643.8,"min_ccu":2324,"max_ccu":4520,"samples":24,"sess":12.42,"sess_h":23.0,"like":85.51},
 "4582358979":{"name":"Arm Wrestle Simulator","avg_ccu":2554.8,"min_ccu":2143,"max_ccu":2920,"samples":24,"sess":20.23,"sess_h":23.0,"like":94.86},
@@ -274,7 +274,7 @@
 "9141743926":{"name":"[🎃] Catch a Monster","avg_ccu":2782.4,"min_ccu":2608,"max_ccu":2955,"samples":24,"sess":13.51,"sess_h":23.0,"like":97.82},
 "9150731899":{"name":"PRISON RP","avg_ccu":1858.8,"min_ccu":1079,"max_ccu":2611,"samples":24,"sess":27.06,"sess_h":23.0,"like":78.55},
 "9167377564":{"name":"100 Days at Sea [Halloween🎃]","avg_ccu":11628.7,"min_ccu":7723,"max_ccu":16274,"samples":24,"sess":15.03,"sess_h":23.0,"like":97.07},
-"9169166771":{"name":"Tiny Universe RP [GOD OF EARTHQUAKES]","avg_ccu":1544.8,"min_ccu":1123,"max_ccu":2084,"samples":4,"like":79.32},
+"9169166771":{"name":"Tiny Universe RP [PVP UPDATE!!]","avg_ccu":1544.8,"min_ccu":1123,"max_ccu":2084,"samples":4,"like":79.32},
 "9237322219":{"name":"Jungle Life","avg_ccu":368.9,"min_ccu":199,"max_ccu":509,"samples":24,"sess":10.59,"sess_h":23.0,"like":92.62},
 "9294074907":{"name":"[FPS] One Tap","avg_ccu":15418.3,"min_ccu":10616,"max_ccu":21833,"samples":24,"sess":8.76,"sess_h":23.0,"like":87.9},
 "9296252245":{"name":"[🔥AURA] Phonk Edit Tower 🎶","avg_ccu":5894.1,"min_ccu":4599,"max_ccu":7666,"samples":24,"sess":9.0,"sess_h":23.0,"like":95.23},
