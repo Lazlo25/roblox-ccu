@@ -1,4 +1,4 @@
-{"date": "2026-10-28", "timezone": "America/New_York", "generated_utc": "2026-10-29T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-29T03:10:00Z", 8810527], "genres": {"Simulation": 42.604, "Survival": 16.577, "Roleplay & Avatar Sim": 11.383, "Action": 7.409, "Shooter": 3.774, "RPG": 3.722, "Obby & Platformer": 3.188, "Sports & Racing": 2.85, "Strategy": 2.403, "Party & Casual": 1.725, "Adventure": 1.288, "Shopping": 0.913, "Entertainment": 0.772, "Other": 0.649, "Social": 0.374, "Puzzle": 0.35, "Utility & Other": 0.019}, "genre_hours": 23,"games":{
+{"date": "2026-10-28", "timezone": "America/New_York", "generated_utc": "2026-10-29T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-29T03:10:00Z", 8810527], "genres": {"Simulation": 42.604, "Survival": 16.577, "Roleplay & Avatar Sim": 11.383, "Action": 7.409, "Shooter": 3.774, "RPG": 3.722, "Obby & Platformer": 3.188, "Sports & Racing": 2.85, "Strategy": 2.403, "Party & Casual": 1.725, "Adventure": 1.288, "Shopping": 0.913, "Entertainment": 0.772, "Other": 0.649, "Social": 0.374, "Puzzle": 0.35, "Utility & Other": 0.019}, "genre_hours": 23,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":3621.0,"min_ccu":2808,"max_ccu":4316,"samples":24,"sess":11.97,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6065.5,"min_ccu":3994,"max_ccu":8397,"samples":24,"sess":8.46,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3133.2,"min_ccu":1630,"max_ccu":4355,"samples":24,"sess":12.12,"sess_h":23.0,"like":93.28},
@@ -362,7 +362,7 @@
 "10338952197":{"name":"Grow a Chicken Fighter","avg_ccu":3373.2,"min_ccu":2305,"max_ccu":4666,"samples":24,"sess":21.49,"sess_h":23.0,"like":97.75},
 "10378493761":{"name":"Prison Dodgeball","avg_ccu":3701.3,"min_ccu":2887,"max_ccu":4632,"samples":3,"like":64.29},
 "10381189313":{"name":"[🎃] Catch the Artist!","avg_ccu":316.7,"min_ccu":265,"max_ccu":396,"samples":7,"sess":6.59,"sess_h":6.0,"like":81.54},
-"10393438342":{"name":"[💥 HYPER 💥] Alliance Tower Defense! ⚔️","avg_ccu":4341.5,"min_ccu":2708,"max_ccu":11291,"samples":24,"sess":10.44,"sess_h":23.0,"like":92.3},
+"10393438342":{"name":"[⭐ X2 ⭐] Alliance Tower Defense! ⚔️","avg_ccu":4341.5,"min_ccu":2708,"max_ccu":11291,"samples":24,"sess":10.44,"sess_h":23.0,"like":92.3},
 "10394873066":{"name":"(NEW TRUCKS🌾) Westville Florida","avg_ccu":90.6,"min_ccu":24,"max_ccu":197,"samples":24,"sess":10.04,"sess_h":23.0,"like":86.64},
 "10399136326":{"name":"Anime Ability Arena","avg_ccu":8543.0,"min_ccu":6260,"max_ccu":11344,"samples":24,"sess":13.13,"sess_h":23.0,"like":87.95},
 "10404519332":{"name":"🪓 Carve Wood! [The Hollow]","avg_ccu":1234.4,"min_ccu":920,"max_ccu":2694,"samples":7,"sess":14.76,"sess_h":6.0,"like":82.24},
