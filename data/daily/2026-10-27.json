@@ -1,4 +1,4 @@
-{"date": "2026-10-27", "timezone": "America/New_York", "generated_utc": "2026-10-29T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-28T03:10:00Z", 8746605], "genres": {"Simulation": 41.625, "Survival": 16.529, "Roleplay & Avatar Sim": 11.618, "Action": 7.6, "Shooter": 3.848, "RPG": 3.818, "Obby & Platformer": 3.136, "Sports & Racing": 2.856, "Strategy": 2.557, "Party & Casual": 1.632, "Adventure": 1.403, "Shopping": 0.949, "Entertainment": 0.879, "Other": 0.771, "Puzzle": 0.391, "Social": 0.38, "Utility & Other": 0.009}, "genre_hours": 24,"games":{
+{"date": "2026-10-27", "timezone": "America/New_York", "generated_utc": "2026-10-29T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-28T03:10:00Z", 8746605], "genres": {"Simulation": 41.625, "Survival": 16.529, "Roleplay & Avatar Sim": 11.618, "Action": 7.6, "Shooter": 3.848, "RPG": 3.818, "Obby & Platformer": 3.136, "Sports & Racing": 2.856, "Strategy": 2.557, "Party & Casual": 1.632, "Adventure": 1.403, "Shopping": 0.949, "Entertainment": 0.879, "Other": 0.771, "Puzzle": 0.391, "Social": 0.38, "Utility & Other": 0.009}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":3703.5,"min_ccu":2789,"max_ccu":4565,"samples":24,"sess":12.56,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6071.3,"min_ccu":4016,"max_ccu":8568,"samples":24,"sess":8.37,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3157.6,"min_ccu":1541,"max_ccu":4399,"samples":24,"sess":12.19,"sess_h":23.0,"like":93.28},
@@ -173,7 +173,7 @@
 "6161049307":{"name":"[SPOOKY🎃] Pixel Blade","avg_ccu":3472.8,"min_ccu":2891,"max_ccu":4798,"samples":24,"sess":5.91,"sess_h":23.0,"like":96.77},
 "6170143659":{"name":"[🎃] Demonology🕯️","avg_ccu":5340.1,"min_ccu":3594,"max_ccu":6903,"samples":24,"sess":7.49,"sess_h":23.0,"like":95.61},
 "6174994284":{"name":"Savannah Life","avg_ccu":2642.8,"min_ccu":1419,"max_ccu":3519,"samples":24,"sess":15.31,"sess_h":23.0,"like":93.79},
-"6260656796":{"name":"[RELEASE] Playground Basketball🏀","avg_ccu":703.5,"min_ccu":147,"max_ccu":1940,"samples":24,"sess":8.37,"sess_h":23.0,"like":96.04},
+"6260656796":{"name":"[HALLOWEEN] Playground Basketball🎃","avg_ccu":703.5,"min_ccu":147,"max_ccu":1940,"samples":24,"sess":8.37,"sess_h":23.0,"like":96.04},
 "6272727021":{"name":"[🎃HALLOWEEN🎃] Undertale Adventures X","avg_ccu":4237.0,"min_ccu":3876,"max_ccu":4663,"samples":24,"sess":21.32,"sess_h":23.0,"like":92.77},
 "6275120808":{"name":"[HALLOWEEN] Jump Showdown","avg_ccu":1033.5,"min_ccu":544,"max_ccu":1488,"samples":24,"sess":14.28,"sess_h":23.0,"like":77.31},
 "6325068386":{"name":"[QOL] Blue Lock: Rivals","avg_ccu":10327.8,"min_ccu":5827,"max_ccu":14475,"samples":24,"sess":13.8,"sess_h":23.0,"like":96.63},
@@ -258,7 +258,7 @@
 "8342498724":{"name":"[🌊UPD] Heavyweight Fishing","avg_ccu":9944.7,"min_ccu":6558,"max_ccu":15144,"samples":24,"sess":25.18,"sess_h":23.0,"like":96.05},
 "8458039984":{"name":"Find or Die! 🔎","avg_ccu":2844.7,"min_ccu":1444,"max_ccu":6389,"samples":24,"sess":12.79,"sess_h":23.0,"like":95.96},
 "8520148363":{"name":"💥 Tank Game! [2.4]","avg_ccu":3310.5,"min_ccu":2454,"max_ccu":3898,"samples":24,"sess":13.01,"sess_h":23.0,"like":89.35},
-"8524572339":{"name":"Bridger: WESTERN (UPDATE)","avg_ccu":2701.1,"min_ccu":1421,"max_ccu":4213,"samples":24,"sess":24.88,"sess_h":23.0,"like":78.39},
+"8524572339":{"name":"bridger: WESTERN (🎃HALLOWEEN )","avg_ccu":2701.1,"min_ccu":1421,"max_ccu":4213,"samples":24,"sess":24.88,"sess_h":23.0,"like":78.39},
 "8618660961":{"name":"Mojave Valley (Alpha)","avg_ccu":477.2,"min_ccu":293,"max_ccu":600,"samples":24,"sess":11.72,"sess_h":23.0,"like":88.97},
 "8640389608":{"name":"[🎃] Summer Donations🌴","avg_ccu":211.8,"min_ccu":145,"max_ccu":270,"samples":24,"sess":12.28,"sess_h":23.0,"like":88.84},
 "8719555347":{"name":"[🗺️MAP🗺️] Southern Mudding 🚜 OffRoading","avg_ccu":12565.9,"min_ccu":9546,"max_ccu":14925,"samples":24,"sess":12.94,"sess_h":23.0,"like":92.54},
@@ -391,7 +391,7 @@
 "10533638982":{"name":"🍰 Eat the Cake Mountain 🥄","avg_ccu":937.2,"min_ccu":432,"max_ccu":1647,"samples":24,"sess":15.44,"sess_h":23.0,"like":94.41},
 "10539411000":{"name":"🍂🎃 Clean all the Leaves","avg_ccu":3832.5,"min_ccu":2698,"max_ccu":5078,"samples":24,"sess":15.44,"sess_h":23.0,"like":86.58},
 "10541331578":{"name":"[🌊BEACH] Poly Loot⚔️","avg_ccu":2625.5,"min_ccu":2013,"max_ccu":3349,"samples":24,"sess":20.51,"sess_h":23.0,"like":90.41},
-"10550257968":{"name":"[4X] Steal A Verity!","avg_ccu":6685.8,"min_ccu":5179,"max_ccu":8769,"samples":24,"sess":9.2,"sess_h":23.0,"like":72.18},
+"10550257968":{"name":"[TRADE] Steal A Verity!","avg_ccu":6685.8,"min_ccu":5179,"max_ccu":8769,"samples":24,"sess":9.2,"sess_h":23.0,"like":72.18},
 "10552240401":{"name":"[UPD 10] Defeat Anime RNG 🎃","avg_ccu":5587.7,"min_ccu":5324,"max_ccu":5966,"samples":24,"sess":42.27,"sess_h":23.0,"like":96.44},
 "10552540426":{"name":"[🎃] My Toll Farm!","avg_ccu":890.6,"min_ccu":714,"max_ccu":1080,"samples":24,"sess":25.53,"sess_h":23.0,"like":98.33},
 "10561166339":{"name":"[🎃] Destroy a Vault","avg_ccu":4113.3,"min_ccu":2757,"max_ccu":5615,"samples":24,"sess":16.96,"sess_h":23.0,"like":95.47},
