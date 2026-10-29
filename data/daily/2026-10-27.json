@@ -1,4 +1,4 @@
-{"date": "2026-10-27", "timezone": "America/New_York", "generated_utc": "2026-10-29T00:10:01Z", "through_et": "24:00", "platform_now": ["2026-10-28T03:10:00Z", 8746605], "genres": {"Simulation": 41.625, "Survival": 16.529, "Roleplay & Avatar Sim": 11.618, "Action": 7.6, "Shooter": 3.848, "RPG": 3.818, "Obby & Platformer": 3.136, "Sports & Racing": 2.856, "Strategy": 2.557, "Party & Casual": 1.632, "Adventure": 1.403, "Shopping": 0.949, "Entertainment": 0.879, "Other": 0.771, "Puzzle": 0.391, "Social": 0.38, "Utility & Other": 0.009}, "genre_hours": 24,"games":{
+{"date": "2026-10-27", "timezone": "America/New_York", "generated_utc": "2026-10-29T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-28T03:10:00Z", 8746605], "genres": {"Simulation": 41.625, "Survival": 16.529, "Roleplay & Avatar Sim": 11.618, "Action": 7.6, "Shooter": 3.848, "RPG": 3.818, "Obby & Platformer": 3.136, "Sports & Racing": 2.856, "Strategy": 2.557, "Party & Casual": 1.632, "Adventure": 1.403, "Shopping": 0.949, "Entertainment": 0.879, "Other": 0.771, "Puzzle": 0.391, "Social": 0.38, "Utility & Other": 0.009}, "genre_hours": 24,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":3703.5,"min_ccu":2789,"max_ccu":4565,"samples":24,"sess":12.56,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6071.3,"min_ccu":4016,"max_ccu":8568,"samples":24,"sess":8.37,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3157.6,"min_ccu":1541,"max_ccu":4399,"samples":24,"sess":12.19,"sess_h":23.0,"like":93.28},
@@ -577,7 +577,7 @@
 "10768172922":{"name":"RoWorld [World PvP]","avg_ccu":16875.8,"min_ccu":10393,"max_ccu":23463,"samples":24,"sess":5.61,"sess_h":23.0,"like":83.18},
 "10768176407":{"name":"[☢️UPD] Smash the City","avg_ccu":1642.2,"min_ccu":969,"max_ccu":2578,"samples":24,"sess":11.04,"sess_h":23.0,"like":90.09},
 "10768201235":{"name":"Draw a Monster!","avg_ccu":1296.3,"min_ccu":768,"max_ccu":1713,"samples":24,"sess":8.47,"sess_h":23.0,"like":68.51},
-"10768235926":{"name":"Throw A Football!","avg_ccu":1726.9,"min_ccu":363,"max_ccu":4554,"samples":24,"sess":9.56,"sess_h":23.0,"like":95.1},
+"10768235926":{"name":"Throw A Football","avg_ccu":1726.9,"min_ccu":363,"max_ccu":4554,"samples":24,"sess":9.56,"sess_h":23.0,"like":95.1},
 "10768284407":{"name":"[🎃] Bike Universe","avg_ccu":30943.4,"min_ccu":19396,"max_ccu":37878,"samples":24,"sess":11.63,"sess_h":23.0,"like":87.19},
 "10768292556":{"name":"[🌱] Grow a Plant","avg_ccu":2976.3,"min_ccu":2195,"max_ccu":4074,"samples":24,"sess":16.29,"sess_h":23.0,"like":96.69},
 "10768316438":{"name":"Lift Rock For Eggs","avg_ccu":6288.6,"min_ccu":3479,"max_ccu":11273,"samples":24,"sess":17.58,"sess_h":23.0,"like":90.64},
@@ -600,7 +600,7 @@
 "10768542976":{"name":"Be a Pirate","avg_ccu":2026.5,"min_ccu":1330,"max_ccu":2894,"samples":24,"sess":25.71,"sess_h":23.0,"like":91.4},
 "10768550253":{"name":"[UPD] Run an Airline✈️","avg_ccu":2702.7,"min_ccu":1811,"max_ccu":3616,"samples":24,"sess":17.79,"sess_h":23.0,"like":90.82},
 "10768556372":{"name":"[🎃] Candy Kingdom Defense","avg_ccu":5253.9,"min_ccu":4096,"max_ccu":6697,"samples":24,"sess":11.9,"sess_h":23.0,"like":96.27},
-"10768561721":{"name":"[🏝️W3] +1 Haki Evolution","avg_ccu":1524.0,"min_ccu":1149,"max_ccu":1904,"samples":24,"sess":30.41,"sess_h":23.0,"like":94.77},
+"10768561721":{"name":"[🌩️] +1 Haki Evolution","avg_ccu":1524.0,"min_ccu":1149,"max_ccu":1904,"samples":24,"sess":30.41,"sess_h":23.0,"like":94.77},
 "10768586153":{"name":"Make Me Pretty!","avg_ccu":1387.0,"min_ccu":617,"max_ccu":1879,"samples":24,"sess":11.71,"sess_h":23.0,"like":84.5},
 "10768625767":{"name":"Save the Krusty Krab 🍔","avg_ccu":11159.2,"min_ccu":9486,"max_ccu":14439,"samples":24,"sess":16.16,"sess_h":23.0,"like":93.73},
 "10768630078":{"name":"Catastrophic Horse Racing 🎃","avg_ccu":882.1,"min_ccu":374,"max_ccu":1359,"samples":24,"sess":6.75,"sess_h":23.0,"like":92.17},
@@ -710,7 +710,7 @@
 "10770479965":{"name":"Harvest It All 🎃","avg_ccu":4323.7,"min_ccu":2201,"max_ccu":6505,"samples":24,"sess":11.57,"sess_h":23.0,"like":82.18},
 "10770565121":{"name":"[Free Matrix] Scope Sim","avg_ccu":1248.6,"min_ccu":2,"max_ccu":4035,"samples":24,"sess":11.11,"sess_h":23.0,"like":82.22},
 "10770568427":{"name":"Fart Together [1-4 PLAYER OBBY] 💨","avg_ccu":4513.6,"min_ccu":2576,"max_ccu":7360,"samples":24,"sess":11.55,"sess_h":23.0,"like":95.66},
-"10770593871":{"name":"Realistic Ragdoll Engine 🩸","avg_ccu":21875.9,"min_ccu":7996,"max_ccu":37325,"samples":24,"sess":13.33,"sess_h":23.0,"like":86.89},
+"10770593871":{"name":"[🎃] Realistic Ragdoll Engine 🩸","avg_ccu":21875.9,"min_ccu":7996,"max_ccu":37325,"samples":24,"sess":13.33,"sess_h":23.0,"like":86.89},
 "10770605947":{"name":"Ragdoll Reality 🩸","avg_ccu":29882.8,"min_ccu":17747,"max_ccu":36515,"samples":24,"sess":13.05,"sess_h":23.0,"like":83.17},
 "10770653580":{"name":"[1-4 Players] Fart Raft!🌊","avg_ccu":3105.5,"min_ccu":1984,"max_ccu":5379,"samples":24,"sess":13.79,"sess_h":23.0,"like":94.62},
 "10770699460":{"name":"Raise The Biggest Family","avg_ccu":2961.4,"min_ccu":1743,"max_ccu":3988,"samples":8,"sess":13.11,"sess_h":7.0,"like":76.33},
