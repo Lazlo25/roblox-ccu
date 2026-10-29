@@ -1,4 +1,4 @@
-{"date": "2026-10-28", "timezone": "America/New_York", "generated_utc": "2026-10-29T22:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-29T03:10:00Z", 8810527], "genres": {"Simulation": 42.604, "Survival": 16.577, "Roleplay & Avatar Sim": 11.383, "Action": 7.409, "Shooter": 3.774, "RPG": 3.722, "Obby & Platformer": 3.188, "Sports & Racing": 2.85, "Strategy": 2.403, "Party & Casual": 1.725, "Adventure": 1.288, "Shopping": 0.913, "Entertainment": 0.772, "Other": 0.649, "Social": 0.374, "Puzzle": 0.35, "Utility & Other": 0.019}, "genre_hours": 23,"games":{
+{"date": "2026-10-28", "timezone": "America/New_York", "generated_utc": "2026-10-29T23:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-29T03:10:00Z", 8810527], "genres": {"Simulation": 42.604, "Survival": 16.577, "Roleplay & Avatar Sim": 11.383, "Action": 7.409, "Shooter": 3.774, "RPG": 3.722, "Obby & Platformer": 3.188, "Sports & Racing": 2.85, "Strategy": 2.403, "Party & Casual": 1.725, "Adventure": 1.288, "Shopping": 0.913, "Entertainment": 0.772, "Other": 0.649, "Social": 0.374, "Puzzle": 0.35, "Utility & Other": 0.019}, "genre_hours": 23,"games":{
 "47545":{"name":"[MAZE]🍕Work at a Pizza Place","avg_ccu":3621.0,"min_ccu":2808,"max_ccu":4316,"samples":24,"sess":11.97,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6065.5,"min_ccu":3994,"max_ccu":8397,"samples":24,"sess":8.46,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3133.2,"min_ccu":1630,"max_ccu":4355,"samples":24,"sess":12.12,"sess_h":23.0,"like":93.28},
@@ -128,7 +128,7 @@
 "4408288935":{"name":"🎃 Ecos: La Brea","avg_ccu":1002.8,"min_ccu":506,"max_ccu":1435,"samples":24,"sess":21.61,"sess_h":23.0,"like":91.65},
 "4420562665":{"name":"Ride Storm","avg_ccu":6208.3,"min_ccu":3942,"max_ccu":7763,"samples":24,"sess":12.38,"sess_h":23.0,"like":91.42},
 "4457060041":{"name":"Emergency Emden","avg_ccu":987.0,"min_ccu":128,"max_ccu":1975,"samples":24,"sess":13.94,"sess_h":23.0,"like":87.46},
-"4497460596":{"name":"[30 MINUTES] MORPH WORLD!","avg_ccu":621.2,"min_ccu":371,"max_ccu":911,"samples":24,"sess":12.98,"sess_h":23.0,"like":86.18},
+"4497460596":{"name":"MORPH WORLD! 🌟 [NEW MASSIVE UPDATE]","avg_ccu":621.2,"min_ccu":371,"max_ccu":911,"samples":24,"sess":12.98,"sess_h":23.0,"like":86.18},
 "4540138978":{"name":"Metro Life 🏡 City RP","avg_ccu":7230.4,"min_ccu":4834,"max_ccu":10668,"samples":24,"sess":15.54,"sess_h":23.0,"like":86.77},
 "4568630521":{"name":"Heroes Battlegrounds","avg_ccu":3643.8,"min_ccu":2324,"max_ccu":4520,"samples":24,"sess":12.42,"sess_h":23.0,"like":85.51},
 "4582358979":{"name":"Arm Wrestle Simulator","avg_ccu":2554.8,"min_ccu":2143,"max_ccu":2920,"samples":24,"sess":20.23,"sess_h":23.0,"like":94.86},
@@ -551,7 +551,7 @@
 "10767582899":{"name":"[🎃] 📱 Build a Phone Empire","avg_ccu":7598.1,"min_ccu":5071,"max_ccu":10104,"samples":24,"sess":25.09,"sess_h":23.0,"like":87.57},
 "10767619742":{"name":"[UPDATE] Portal Sandbox","avg_ccu":3646.0,"min_ccu":1797,"max_ccu":5532,"samples":24,"sess":13.34,"sess_h":23.0,"like":77.35},
 "10767634248":{"name":"Firefighting Sim 🚒","avg_ccu":8933.2,"min_ccu":6176,"max_ccu":11735,"samples":24,"sess":13.5,"sess_h":23.0,"like":92.06},
-"10767707794":{"name":"Wholesale Empire (Sea Freight UPD 🎃)","avg_ccu":719.8,"min_ccu":619,"max_ccu":795,"samples":4,"like":72.42},
+"10767707794":{"name":"Wholesale Empire (🎃)","avg_ccu":719.8,"min_ccu":619,"max_ccu":795,"samples":4,"like":72.42},
 "10767717500":{"name":"[🎃 NEW!] Collect Cat Cards!","avg_ccu":2304.1,"min_ccu":1850,"max_ccu":2873,"samples":24,"sess":24.33,"sess_h":23.0,"like":91.52},
 "10767751602":{"name":"Fart Obby [1-2 Player]","avg_ccu":1246.2,"min_ccu":573,"max_ccu":2343,"samples":16,"sess":10.57,"sess_h":15.0,"like":95.22},
 "10767774668":{"name":"[🥞] Paint a Pancake","avg_ccu":2098.2,"min_ccu":1406,"max_ccu":3048,"samples":24,"sess":8.65,"sess_h":23.0,"like":75.9},
@@ -711,7 +711,7 @@
 "10770355219":{"name":"[✊] Escape The Walls","avg_ccu":6782.0,"min_ccu":4116,"max_ccu":9709,"samples":24,"sess":14.5,"sess_h":23.0,"like":74.96},
 "10770382905":{"name":"[NEW CARS] Teach Your Sister How To Drive! 🎙️","avg_ccu":4676.6,"min_ccu":839,"max_ccu":9453,"samples":24,"sess":7.9,"sess_h":23.0,"like":56.88},
 "10770417318":{"name":"Prove Your Innocence!","avg_ccu":1503.8,"min_ccu":837,"max_ccu":2111,"samples":24,"sess":12.23,"sess_h":23.0,"like":95.31},
-"10770431439":{"name":"[🪜ATTIC] 7 Days as a Pet","avg_ccu":5254.7,"min_ccu":1376,"max_ccu":8620,"samples":21,"sess":11.69,"sess_h":20.0,"like":87.68},
+"10770431439":{"name":"[WEEK 3] 7 Days as a Pet","avg_ccu":5254.7,"min_ccu":1376,"max_ccu":8620,"samples":21,"sess":11.69,"sess_h":20.0,"like":87.68},
 "10770458796":{"name":"Fake Dead or DIE","avg_ccu":5004.8,"min_ccu":2820,"max_ccu":6811,"samples":24,"sess":11.17,"sess_h":23.0,"like":73.44},
 "10770479965":{"name":"Harvest It All 🎃","avg_ccu":3955.0,"min_ccu":2121,"max_ccu":5592,"samples":24,"sess":11.69,"sess_h":23.0,"like":81.8},
 "10770495905":{"name":"Makeup For Prom Tonight!","avg_ccu":572.6,"min_ccu":65,"max_ccu":1303,"samples":21,"sess":6.81,"sess_h":20.0,"like":75.32},
