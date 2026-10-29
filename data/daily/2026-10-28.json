@@ -1,4 +1,4 @@
-{"date": "2026-10-28", "timezone": "America/New_York", "generated_utc": "2026-10-29T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-29T03:10:00Z", 8810527], "genres": {"Simulation": 42.604, "Survival": 16.577, "Roleplay & Avatar Sim": 11.383, "Action": 7.409, "Shooter": 3.774, "RPG": 3.722, "Obby & Platformer": 3.188, "Sports & Racing": 2.85, "Strategy": 2.403, "Party & Casual": 1.725, "Adventure": 1.288, "Shopping": 0.913, "Entertainment": 0.772, "Other": 0.649, "Social": 0.374, "Puzzle": 0.35, "Utility & Other": 0.019}, "genre_hours": 23,"games":{
+{"date": "2026-10-28", "timezone": "America/New_York", "generated_utc": "2026-10-29T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-29T03:10:00Z", 8810527], "genres": {"Simulation": 42.604, "Survival": 16.577, "Roleplay & Avatar Sim": 11.383, "Action": 7.409, "Shooter": 3.774, "RPG": 3.722, "Obby & Platformer": 3.188, "Sports & Racing": 2.85, "Strategy": 2.403, "Party & Casual": 1.725, "Adventure": 1.288, "Shopping": 0.913, "Entertainment": 0.772, "Other": 0.649, "Social": 0.374, "Puzzle": 0.35, "Utility & Other": 0.019}, "genre_hours": 23,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":3621.0,"min_ccu":2808,"max_ccu":4316,"samples":24,"sess":11.97,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6065.5,"min_ccu":3994,"max_ccu":8397,"samples":24,"sess":8.46,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3133.2,"min_ccu":1630,"max_ccu":4355,"samples":24,"sess":12.12,"sess_h":23.0,"like":93.28},
@@ -116,7 +116,7 @@
 "3876150506":{"name":"[🎃] Drive World","avg_ccu":4242.6,"min_ccu":2739,"max_ccu":5689,"samples":24,"sess":10.85,"sess_h":23.0,"like":93.57},
 "3936365689":{"name":"[STAR MAGIC + EVENT!] Clover Retribution","avg_ccu":1885.2,"min_ccu":1681,"max_ccu":2069,"samples":24,"sess":23.79,"sess_h":23.0,"like":92.96},
 "3990106548":{"name":"[🎃] Baddies 💅","avg_ccu":4044.6,"min_ccu":2191,"max_ccu":7139,"samples":24,"sess":9.63,"sess_h":23.0,"like":83.27},
-"4049246711":{"name":"Timebomb Duels [Alpha]","avg_ccu":10549.8,"min_ccu":4647,"max_ccu":15965,"samples":24,"sess":8.99,"sess_h":23.0,"like":65.09},
+"4049246711":{"name":"🎃 Timebomb Duels [Alpha]","avg_ccu":10549.8,"min_ccu":4647,"max_ccu":15965,"samples":24,"sess":8.99,"sess_h":23.0,"like":65.09},
 "4130569984":{"name":"[HALLOWEEN] Jurassic Blocky","avg_ccu":3264.0,"min_ccu":2124,"max_ccu":4257,"samples":24,"sess":12.3,"sess_h":23.0,"like":89.21},
 "4165164803":{"name":"Clip It 😂🎬👗","avg_ccu":4682.3,"min_ccu":1596,"max_ccu":7247,"samples":24,"sess":11.89,"sess_h":23.0,"like":76.34},
 "4261077741":{"name":"[🤑WORKS] PLS WAIT 💸","avg_ccu":1008.2,"min_ccu":715,"max_ccu":1227,"samples":24,"sess":10.72,"sess_h":23.0,"like":84.47},
@@ -302,7 +302,7 @@
 "9796898051":{"name":"Drill to Earth’s Core 🎃👻","avg_ccu":11053.5,"min_ccu":8026,"max_ccu":16065,"samples":24,"sess":25.52,"sess_h":23.0,"like":92.19},
 "9807649116":{"name":"[🎃] Tactical: Swat Simulator","avg_ccu":3313.5,"min_ccu":2230,"max_ccu":4404,"samples":24,"sess":5.28,"sess_h":23.0,"like":96.05},
 "9825259729":{"name":"Duck Duck (Tag) 🦆","avg_ccu":1506.4,"min_ccu":945,"max_ccu":2071,"samples":24,"sess":8.87,"sess_h":23.0,"like":87.82},
-"9826885587":{"name":"Evomon[S3 TRADE]","avg_ccu":2850.5,"min_ccu":2525,"max_ccu":3533,"samples":24,"sess":24.41,"sess_h":23.0,"like":97.18},
+"9826885587":{"name":"Evomon[🎃S4 StarUp]","avg_ccu":2850.5,"min_ccu":2525,"max_ccu":3533,"samples":24,"sess":24.41,"sess_h":23.0,"like":97.18},
 "9837612476":{"name":"[🎃] Mini War","avg_ccu":10903.4,"min_ccu":9403,"max_ccu":12384,"samples":24,"sess":28.81,"sess_h":23.0,"like":96.46},
 "9855761734":{"name":"[🎃 EVENT] San Diego Roleplay","avg_ccu":7815.5,"min_ccu":4772,"max_ccu":10654,"samples":24,"sess":16.49,"sess_h":23.0,"like":85.5},
 "9872734936":{"name":"[LARP] Junk Mechanics","avg_ccu":5423.5,"min_ccu":3936,"max_ccu":7216,"samples":24,"sess":14.45,"sess_h":23.0,"like":87.86},
