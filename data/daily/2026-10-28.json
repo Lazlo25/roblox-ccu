@@ -1,4 +1,4 @@
-{"date": "2026-10-28", "timezone": "America/New_York", "generated_utc": "2026-10-29T03:10:00Z", "through_et": "23:10", "platform_now": ["2026-10-29T03:10:00Z", 8810527], "genres": {"Simulation": 42.604, "Survival": 16.577, "Roleplay & Avatar Sim": 11.383, "Action": 7.409, "Shooter": 3.774, "RPG": 3.722, "Obby & Platformer": 3.188, "Sports & Racing": 2.85, "Strategy": 2.403, "Party & Casual": 1.725, "Adventure": 1.288, "Shopping": 0.913, "Entertainment": 0.772, "Other": 0.649, "Social": 0.374, "Puzzle": 0.35, "Utility & Other": 0.019}, "genre_hours": 23,"games":{
+{"date": "2026-10-28", "timezone": "America/New_York", "generated_utc": "2026-10-29T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-29T03:10:00Z", 8810527], "genres": {"Simulation": 42.604, "Survival": 16.577, "Roleplay & Avatar Sim": 11.383, "Action": 7.409, "Shooter": 3.774, "RPG": 3.722, "Obby & Platformer": 3.188, "Sports & Racing": 2.85, "Strategy": 2.403, "Party & Casual": 1.725, "Adventure": 1.288, "Shopping": 0.913, "Entertainment": 0.772, "Other": 0.649, "Social": 0.374, "Puzzle": 0.35, "Utility & Other": 0.019}, "genre_hours": 23,"games":{
 "47545":{"name":"[🍬Trick-or-Treat]🍕Work at a Pizza Place","avg_ccu":3621.0,"min_ccu":2808,"max_ccu":4316,"samples":24,"sess":11.97,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6065.5,"min_ccu":3994,"max_ccu":8397,"samples":24,"sess":8.46,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3133.2,"min_ccu":1630,"max_ccu":4355,"samples":24,"sess":12.12,"sess_h":23.0,"like":93.28},
@@ -292,7 +292,7 @@
 "9551044479":{"name":"Final Swarm [🎃]","avg_ccu":1377.1,"min_ccu":991,"max_ccu":2045,"samples":24,"sess":12.82,"sess_h":23.0,"like":97.06},
 "9561553764":{"name":"[🎃] Murder Duels","avg_ccu":10307.5,"min_ccu":6541,"max_ccu":14396,"samples":24,"sess":7.9,"sess_h":23.0,"like":93.29},
 "9582986239":{"name":"Fish an Anime RNG 🎲","avg_ccu":1892.9,"min_ccu":1759,"max_ccu":2021,"samples":24,"sess":25.52,"sess_h":23.0,"like":95.0},
-"9584852943":{"name":"X100| +1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":43313.5,"min_ccu":15098,"max_ccu":328151,"samples":24,"sess":9.44,"sess_h":23.0,"like":96.73},
+"9584852943":{"name":"+1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":43313.5,"min_ccu":15098,"max_ccu":328151,"samples":24,"sess":9.44,"sess_h":23.0,"like":96.73},
 "9641502068":{"name":"[🎃] KNIFE DUELS","avg_ccu":9084.5,"min_ccu":5071,"max_ccu":13402,"samples":24,"sess":8.95,"sess_h":23.0,"like":93.8},
 "9656201728":{"name":"[🎃] Dungeon Lootr","avg_ccu":250.1,"min_ccu":210,"max_ccu":302,"samples":24,"sess":17.6,"sess_h":23.0,"like":95.05},
 "9662130710":{"name":"[🎃NOW] Phonk Slap 🎵","avg_ccu":790.8,"min_ccu":438,"max_ccu":1074,"samples":24,"sess":9.15,"sess_h":23.0,"like":91.97},
@@ -308,7 +308,7 @@
 "9872734936":{"name":"[LARP] Junk Mechanics","avg_ccu":5423.5,"min_ccu":3936,"max_ccu":7216,"samples":24,"sess":14.45,"sess_h":23.0,"like":87.86},
 "9880286438":{"name":"Legacy Piece [🎃Castorice & Aizen]","avg_ccu":5853.4,"min_ccu":5277,"max_ccu":6525,"samples":24,"sess":26.32,"sess_h":23.0,"like":96.86},
 "9881334755":{"name":"[🚧] Warrior Cats: Lake Territory","avg_ccu":511.0,"min_ccu":256,"max_ccu":844,"samples":24,"sess":28.14,"sess_h":23.0,"like":97.87},
-"9885372266":{"name":"[2 DAYS] Unseen Liminality","avg_ccu":2696.5,"min_ccu":1613,"max_ccu":3771,"samples":24,"sess":13.73,"sess_h":23.0,"like":93.81},
+"9885372266":{"name":"Unseen Liminality","avg_ccu":2696.5,"min_ccu":1613,"max_ccu":3771,"samples":24,"sess":13.73,"sess_h":23.0,"like":93.81},
 "9908641400":{"name":"Football Fusion 3","avg_ccu":2514.5,"min_ccu":368,"max_ccu":8246,"samples":24,"sess":9.7,"sess_h":23.0,"like":83.1},
 "9910245722":{"name":"Iron Soul: Dungeon","avg_ccu":1405.9,"min_ccu":1083,"max_ccu":1906,"samples":24,"sess":8.03,"sess_h":23.0,"like":98.12},
 "9931749389":{"name":"Dungeon Quest Reborn","avg_ccu":3725.2,"min_ccu":3077,"max_ccu":4325,"samples":24,"sess":13.61,"sess_h":23.0,"like":96.45},
