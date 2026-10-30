@@ -1,4 +1,4 @@
-{"date": "2026-10-29", "timezone": "America/New_York", "generated_utc": "2026-10-30T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-30T03:10:00Z", 9604279], "genres": {"Simulation": 40.86, "Survival": 17.342, "Roleplay & Avatar Sim": 11.544, "Action": 7.621, "Shooter": 3.926, "RPG": 3.611, "Obby & Platformer": 3.386, "Sports & Racing": 2.79, "Strategy": 2.218, "Party & Casual": 2.044, "Adventure": 1.504, "Shopping": 0.923, "Entertainment": 0.833, "Other": 0.688, "Social": 0.372, "Puzzle": 0.338}, "genre_hours": 24,"games":{
+{"date": "2026-10-29", "timezone": "America/New_York", "generated_utc": "2026-10-30T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-30T03:10:00Z", 9604279], "genres": {"Simulation": 40.86, "Survival": 17.342, "Roleplay & Avatar Sim": 11.544, "Action": 7.621, "Shooter": 3.926, "RPG": 3.611, "Obby & Platformer": 3.386, "Sports & Racing": 2.79, "Strategy": 2.218, "Party & Casual": 2.044, "Adventure": 1.504, "Shopping": 0.923, "Entertainment": 0.833, "Other": 0.688, "Social": 0.372, "Puzzle": 0.338}, "genre_hours": 24,"games":{
 "47545":{"name":"[MAZE]🍕Work at a Pizza Place","avg_ccu":3618.8,"min_ccu":2718,"max_ccu":4482,"samples":24,"sess":11.89,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6695.5,"min_ccu":4408,"max_ccu":9142,"samples":24,"sess":8.64,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3224.3,"min_ccu":1659,"max_ccu":4405,"samples":24,"sess":12.11,"sess_h":23.0,"like":93.28},
@@ -495,7 +495,7 @@
 "10765525876":{"name":"[🎃MULTIPLAYER] Start Your Blue Lock Career!","avg_ccu":2749.3,"min_ccu":1427,"max_ccu":3881,"samples":24,"sess":19.17,"sess_h":23.0,"like":91.34},
 "10765571340":{"name":"Push and Steal A Car","avg_ccu":2345.9,"min_ccu":1902,"max_ccu":2737,"samples":24,"sess":19.34,"sess_h":23.0,"like":91.82},
 "10765582175":{"name":"dogs🎃","avg_ccu":1727.7,"min_ccu":1249,"max_ccu":2010,"samples":24,"sess":13.02,"sess_h":23.0,"like":88.65},
-"10765618402":{"name":"Steel Fighters","avg_ccu":13727.7,"min_ccu":10664,"max_ccu":17747,"samples":24,"sess":19.68,"sess_h":23.0,"like":90.7},
+"10765618402":{"name":"[x2💵] Steel Fighters","avg_ccu":13727.7,"min_ccu":10664,"max_ccu":17747,"samples":24,"sess":19.68,"sess_h":23.0,"like":90.7},
 "10765635650":{"name":"Impossible Animals","avg_ccu":6386.4,"min_ccu":4586,"max_ccu":8454,"samples":24,"sess":16.05,"sess_h":23.0,"like":98.8},
 "10765686447":{"name":"Steal ASMR!","avg_ccu":4615.8,"min_ccu":3356,"max_ccu":6047,"samples":24,"sess":12.62,"sess_h":23.0,"like":94.63},
 "10765703059":{"name":"Would You Rather: Style Contest Tower","avg_ccu":2054.6,"min_ccu":1317,"max_ccu":2632,"samples":24,"sess":6.04,"sess_h":23.0,"like":61.65},
@@ -610,7 +610,7 @@
 "10768866246":{"name":"[ANOMALY RALLY] WRONG WAY!","avg_ccu":1756.1,"min_ccu":1119,"max_ccu":2971,"samples":24,"sess":8.5,"sess_h":23.0,"like":89.97},
 "10768891670":{"name":"Make The Logo!","avg_ccu":4999.8,"min_ccu":1621,"max_ccu":8209,"samples":24,"sess":9.05,"sess_h":23.0,"like":64.04},
 "10768910559":{"name":"🎃 IT WANTS IN [HORROR]","avg_ccu":1107.4,"min_ccu":383,"max_ccu":1658,"samples":24,"sess":8.67,"sess_h":23.0,"like":74.76},
-"10768941204":{"name":"Steal A DNA[🎃UPD SOON]","avg_ccu":2772.4,"min_ccu":1804,"max_ccu":3613,"samples":24,"sess":16.01,"sess_h":23.0,"like":83.1},
+"10768941204":{"name":"Steal A DNA[🎃HALLOWEEN UPD]","avg_ccu":2772.4,"min_ccu":1804,"max_ccu":3613,"samples":24,"sess":16.01,"sess_h":23.0,"like":83.1},
 "10768944846":{"name":"[TUSK + 4 NEW STANDS] Morioh High","avg_ccu":613.4,"min_ccu":314,"max_ccu":907,"samples":24,"sess":13.08,"sess_h":23.0,"like":95.69},
 "10768949861":{"name":"Secure the Waterpark","avg_ccu":1418.0,"min_ccu":566,"max_ccu":3224,"samples":24,"sess":7.58,"sess_h":23.0,"like":81.31},
 "10768960729":{"name":"[🎃] Stick Wars","avg_ccu":1167.3,"min_ccu":554,"max_ccu":2162,"samples":24,"sess":12.28,"sess_h":23.0,"like":88.13},
