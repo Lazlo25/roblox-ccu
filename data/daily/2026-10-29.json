@@ -1,4 +1,4 @@
-{"date": "2026-10-29", "timezone": "America/New_York", "generated_utc": "2026-10-30T14:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-30T03:10:00Z", 9604279], "genres": {"Simulation": 40.86, "Survival": 17.342, "Roleplay & Avatar Sim": 11.544, "Action": 7.621, "Shooter": 3.926, "RPG": 3.611, "Obby & Platformer": 3.386, "Sports & Racing": 2.79, "Strategy": 2.218, "Party & Casual": 2.044, "Adventure": 1.504, "Shopping": 0.923, "Entertainment": 0.833, "Other": 0.688, "Social": 0.372, "Puzzle": 0.338}, "genre_hours": 24,"games":{
+{"date": "2026-10-29", "timezone": "America/New_York", "generated_utc": "2026-10-30T15:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-30T03:10:00Z", 9604279], "genres": {"Simulation": 40.86, "Survival": 17.342, "Roleplay & Avatar Sim": 11.544, "Action": 7.621, "Shooter": 3.926, "RPG": 3.611, "Obby & Platformer": 3.386, "Sports & Racing": 2.79, "Strategy": 2.218, "Party & Casual": 2.044, "Adventure": 1.504, "Shopping": 0.923, "Entertainment": 0.833, "Other": 0.688, "Social": 0.372, "Puzzle": 0.338}, "genre_hours": 24,"games":{
 "47545":{"name":"[MAZE]🍕Work at a Pizza Place","avg_ccu":3618.8,"min_ccu":2718,"max_ccu":4482,"samples":24,"sess":11.89,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6695.5,"min_ccu":4408,"max_ccu":9142,"samples":24,"sess":8.64,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3224.3,"min_ccu":1659,"max_ccu":4405,"samples":24,"sess":12.11,"sess_h":23.0,"like":93.28},
@@ -19,7 +19,7 @@
 "321778215":{"name":"Royale🎃High","avg_ccu":5601.6,"min_ccu":3543,"max_ccu":7585,"samples":24,"sess":15.03,"sess_h":23.0,"like":85.91},
 "371263894":{"name":"Greenville RP (🦇HALLOWEEN EVENT + LIMITED CARS!)","avg_ccu":6103.4,"min_ccu":3416,"max_ccu":8589,"samples":24,"sess":15.51,"sess_h":23.0,"like":87.89},
 "372226183":{"name":"Flee the Facility","avg_ccu":21929.2,"min_ccu":9667,"max_ccu":34833,"samples":24,"sess":11.23,"sess_h":23.0,"like":92.1},
-"383310974":{"name":"[1H⏳] Adopt Me!","avg_ccu":191776.8,"min_ccu":118744,"max_ccu":240813,"samples":24,"sess":27.41,"sess_h":23.0,"like":86.37},
+"383310974":{"name":"[1.2X🎃] Adopt Me!","avg_ccu":191776.8,"min_ccu":118744,"max_ccu":240813,"samples":24,"sess":27.41,"sess_h":23.0,"like":86.37},
 "540382210":{"name":"[🎃🎃 EVENT!!!] FMR","avg_ccu":1720.2,"min_ccu":941,"max_ccu":2409,"samples":24,"sess":11.82,"sess_h":23.0,"like":94.9},
 "547524060":{"name":"Feather Family 🎃 [Bearded Vulture]","avg_ccu":3429.8,"min_ccu":1986,"max_ccu":4331,"samples":24,"sess":13.51,"sess_h":23.0,"like":91.64},
 "578392296":{"name":"ABA","avg_ccu":10158.0,"min_ccu":7192,"max_ccu":13782,"samples":24,"sess":16.95,"sess_h":23.0,"like":80.66},
@@ -139,7 +139,7 @@
 "4723764956":{"name":"🎥My Movie","avg_ccu":9475.3,"min_ccu":4887,"max_ccu":14658,"samples":24,"sess":18.01,"sess_h":23.0,"like":93.67},
 "4730278139":{"name":"[AKUMA] untitled boxing game🥊","avg_ccu":9608.8,"min_ccu":7094,"max_ccu":12628,"samples":24,"sess":12.66,"sess_h":23.0,"like":87.06},
 "4750561026":{"name":"Cold War [SPALLING]","avg_ccu":4391.8,"min_ccu":2277,"max_ccu":8174,"samples":24,"sess":16.76,"sess_h":23.0,"like":90.68},
-"4762958317":{"name":"[DEATH GAME MODE] Sword Art: Eternity","avg_ccu":719.6,"min_ccu":459,"max_ccu":907,"samples":24,"sess":24.2,"sess_h":23.0,"like":85.28},
+"4762958317":{"name":"[FLOOR 3] Sword Art: Eternity","avg_ccu":719.6,"min_ccu":459,"max_ccu":907,"samples":24,"sess":24.2,"sess_h":23.0,"like":85.28},
 "4777817887":{"name":"Blade Ball","avg_ccu":13836.2,"min_ccu":9135,"max_ccu":16934,"samples":24,"sess":11.71,"sess_h":23.0,"like":93.46},
 "4778845442":{"name":"[LEGACY] Toilet Tower Defense","avg_ccu":4315.5,"min_ccu":2796,"max_ccu":6152,"samples":24,"sess":13.61,"sess_h":23.0,"like":85.56},
 "4785982047":{"name":"[🎃] FLASHPOINT⚡","avg_ccu":852.8,"min_ccu":571,"max_ccu":1077,"samples":24,"sess":13.55,"sess_h":23.0,"like":98.39},
@@ -660,7 +660,7 @@
 "10769543567":{"name":"Cat Battles 🐾","avg_ccu":20666.6,"min_ccu":11159,"max_ccu":32744,"samples":24,"sess":7.2,"sess_h":23.0,"like":73.25},
 "10769543742":{"name":"Backseat Rally","avg_ccu":22874.6,"min_ccu":13332,"max_ccu":32099,"samples":24,"sess":9.35,"sess_h":23.0,"like":92.0},
 "10769547438":{"name":"[🎃 HALLOWEEN] Rust Blaster","avg_ccu":580.8,"min_ccu":445,"max_ccu":722,"samples":24,"sess":19.66,"sess_h":23.0,"like":73.44},
-"10769548496":{"name":"[🎃DAY 4] Fix My Phone!","avg_ccu":2772.3,"min_ccu":2015,"max_ccu":3756,"samples":24,"sess":12.93,"sess_h":23.0,"like":90.61},
+"10769548496":{"name":"[🎃FINALE] Fix My Phone!","avg_ccu":2772.3,"min_ccu":2015,"max_ccu":3756,"samples":24,"sess":12.93,"sess_h":23.0,"like":90.61},
 "10769552054":{"name":"[🎃] Urban Reload","avg_ccu":7172.3,"min_ccu":3585,"max_ccu":10486,"samples":24,"sess":16.27,"sess_h":23.0,"like":88.09},
 "10769562933":{"name":"Hide to Steal Eggs","avg_ccu":10633.8,"min_ccu":5963,"max_ccu":15249,"samples":24,"sess":13.19,"sess_h":23.0,"like":74.6},
 "10769594564":{"name":"roll the world 🌎","avg_ccu":6505.3,"min_ccu":3908,"max_ccu":8293,"samples":24,"sess":14.54,"sess_h":23.0,"like":85.97},
