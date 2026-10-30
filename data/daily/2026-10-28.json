@@ -1,4 +1,4 @@
-{"date": "2026-10-28", "timezone": "America/New_York", "generated_utc": "2026-10-30T00:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-29T03:10:00Z", 8810527], "genres": {"Simulation": 42.604, "Survival": 16.577, "Roleplay & Avatar Sim": 11.383, "Action": 7.409, "Shooter": 3.774, "RPG": 3.722, "Obby & Platformer": 3.188, "Sports & Racing": 2.85, "Strategy": 2.403, "Party & Casual": 1.725, "Adventure": 1.288, "Shopping": 0.913, "Entertainment": 0.772, "Other": 0.649, "Social": 0.374, "Puzzle": 0.35, "Utility & Other": 0.019}, "genre_hours": 23,"games":{
+{"date": "2026-10-28", "timezone": "America/New_York", "generated_utc": "2026-10-30T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-29T03:10:00Z", 8810527], "genres": {"Simulation": 42.604, "Survival": 16.577, "Roleplay & Avatar Sim": 11.383, "Action": 7.409, "Shooter": 3.774, "RPG": 3.722, "Obby & Platformer": 3.188, "Sports & Racing": 2.85, "Strategy": 2.403, "Party & Casual": 1.725, "Adventure": 1.288, "Shopping": 0.913, "Entertainment": 0.772, "Other": 0.649, "Social": 0.374, "Puzzle": 0.35, "Utility & Other": 0.019}, "genre_hours": 23,"games":{
 "47545":{"name":"[MAZE]🍕Work at a Pizza Place","avg_ccu":3621.0,"min_ccu":2808,"max_ccu":4316,"samples":24,"sess":11.97,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6065.5,"min_ccu":3994,"max_ccu":8397,"samples":24,"sess":8.46,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3133.2,"min_ccu":1630,"max_ccu":4355,"samples":24,"sess":12.12,"sess_h":23.0,"like":93.28},
@@ -255,7 +255,7 @@
 "8178086002":{"name":"[🎃] Lethal Ape Experience","avg_ccu":16523.4,"min_ccu":14027,"max_ccu":21185,"samples":24,"sess":11.06,"sess_h":23.0,"like":93.38},
 "8198412649":{"name":"Dinosaur Life","avg_ccu":894.8,"min_ccu":526,"max_ccu":1140,"samples":24,"sess":14.14,"sess_h":23.0,"like":89.2},
 "8316902627":{"name":"[🎃] Plants & Brainrots 🌻","avg_ccu":2312.6,"min_ccu":1728,"max_ccu":2932,"samples":19,"sess":11.5,"sess_h":18.0,"like":94.78},
-"8342498724":{"name":"Heavyweight Fishing","avg_ccu":9210.4,"min_ccu":6240,"max_ccu":13861,"samples":24,"sess":24.8,"sess_h":23.0,"like":96.05},
+"8342498724":{"name":"[🎃Halloween] Heavyweight Fishing","avg_ccu":9210.4,"min_ccu":6240,"max_ccu":13861,"samples":24,"sess":24.8,"sess_h":23.0,"like":96.05},
 "8458039984":{"name":"Find or Die! 🔎","avg_ccu":2698.1,"min_ccu":1535,"max_ccu":6262,"samples":24,"sess":12.68,"sess_h":23.0,"like":95.94},
 "8520148363":{"name":"💥 Tank Game! [2.4]","avg_ccu":3451.4,"min_ccu":2447,"max_ccu":4127,"samples":24,"sess":13.18,"sess_h":23.0,"like":89.34},
 "8524572339":{"name":"bridger: WESTERN (🎃HALLOWEEN )","avg_ccu":2734.1,"min_ccu":1322,"max_ccu":5380,"samples":24,"sess":22.08,"sess_h":23.0,"like":78.39},
@@ -443,7 +443,7 @@
 "10739137760":{"name":"[UPDATE] The Cosalazo 2","avg_ccu":3157.0,"min_ccu":293,"max_ccu":5789,"samples":24,"sess":12.41,"sess_h":23.0,"like":92.52},
 "10740316645":{"name":"⛏️ My Anime Mine","avg_ccu":15631.0,"min_ccu":13846,"max_ccu":17855,"samples":24,"sess":25.39,"sess_h":23.0,"like":98.94},
 "10741654282":{"name":"Build and Kill Zombies","avg_ccu":2505.5,"min_ccu":1870,"max_ccu":3117,"samples":10,"sess":17.26,"sess_h":9.0,"like":97.97},
-"10741792653":{"name":"Survive The Swarm 🎃","avg_ccu":1527.0,"min_ccu":1095,"max_ccu":2557,"samples":24,"sess":10.48,"sess_h":23.0,"like":96.68},
+"10741792653":{"name":"Survive The Swarm [2x loot]","avg_ccu":1527.0,"min_ccu":1095,"max_ccu":2557,"samples":24,"sess":10.48,"sess_h":23.0,"like":96.68},
 "10742937135":{"name":"[HUGE REVAMP+THOR] Survive The Hulk","avg_ccu":275.3,"min_ccu":153,"max_ccu":473,"samples":24,"sess":8.48,"sess_h":23.0,"like":80.62},
 "10744310825":{"name":"🎃 Paint to Get Rich 🎨","avg_ccu":7297.8,"min_ccu":3757,"max_ccu":10367,"samples":24,"sess":12.74,"sess_h":23.0,"like":75.09},
 "10746305948":{"name":"Don't Press The Button 7","avg_ccu":7719.2,"min_ccu":3538,"max_ccu":10371,"samples":24,"sess":11.56,"sess_h":23.0,"like":63.53},
