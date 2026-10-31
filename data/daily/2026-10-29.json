@@ -1,4 +1,4 @@
-{"date": "2026-10-29", "timezone": "America/New_York", "generated_utc": "2026-10-30T23:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-30T03:10:00Z", 9604279], "genres": {"Simulation": 40.86, "Survival": 17.342, "Roleplay & Avatar Sim": 11.544, "Action": 7.621, "Shooter": 3.926, "RPG": 3.611, "Obby & Platformer": 3.386, "Sports & Racing": 2.79, "Strategy": 2.218, "Party & Casual": 2.044, "Adventure": 1.504, "Shopping": 0.923, "Entertainment": 0.833, "Other": 0.688, "Social": 0.372, "Puzzle": 0.338}, "genre_hours": 24,"games":{
+{"date": "2026-10-29", "timezone": "America/New_York", "generated_utc": "2026-10-31T00:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-30T03:10:00Z", 9604279], "genres": {"Simulation": 40.86, "Survival": 17.342, "Roleplay & Avatar Sim": 11.544, "Action": 7.621, "Shooter": 3.926, "RPG": 3.611, "Obby & Platformer": 3.386, "Sports & Racing": 2.79, "Strategy": 2.218, "Party & Casual": 2.044, "Adventure": 1.504, "Shopping": 0.923, "Entertainment": 0.833, "Other": 0.688, "Social": 0.372, "Puzzle": 0.338}, "genre_hours": 24,"games":{
 "47545":{"name":"[MAZE]🍕Work at a Pizza Place","avg_ccu":3618.8,"min_ccu":2718,"max_ccu":4482,"samples":24,"sess":11.89,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6695.5,"min_ccu":4408,"max_ccu":9142,"samples":24,"sess":8.64,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3224.3,"min_ccu":1659,"max_ccu":4405,"samples":24,"sess":12.11,"sess_h":23.0,"like":93.28},
@@ -50,7 +50,7 @@
 "1489026993":{"name":"🔪Survive the Killer!","avg_ccu":13950.5,"min_ccu":11704,"max_ccu":16883,"samples":24,"sess":12.61,"sess_h":23.0,"like":90.26},
 "1494262959":{"name":"[🎃] Criminality","avg_ccu":2484.9,"min_ccu":1387,"max_ccu":4998,"samples":24,"sess":15.85,"sess_h":23.0,"like":75.18},
 "1511883870":{"name":"Shindo Life [251]","avg_ccu":2479.8,"min_ccu":1576,"max_ccu":3305,"samples":24,"sess":22.57,"sess_h":23.0,"like":93.89},
-"1516533665":{"name":"Piggy [FRIGHTFUL CARNIVAL]","avg_ccu":9400.0,"min_ccu":4071,"max_ccu":13620,"samples":24,"sess":11.12,"sess_h":23.0,"like":90.33},
+"1516533665":{"name":"Piggy [THE HOLLOW]","avg_ccu":9400.0,"min_ccu":4071,"max_ccu":13620,"samples":24,"sess":11.12,"sess_h":23.0,"like":90.33},
 "1525626450":{"name":"[🎃] Rensselaer County","avg_ccu":2779.2,"min_ccu":1447,"max_ccu":4140,"samples":24,"sess":14.12,"sess_h":23.0,"like":94.59},
 "1526814825":{"name":"War Tycoon","avg_ccu":6305.5,"min_ccu":3370,"max_ccu":8823,"samples":24,"sess":18.73,"sess_h":23.0,"like":91.25},
 "1531130248":{"name":"Tower Heroes [UPD] 🎃","avg_ccu":2220.1,"min_ccu":1221,"max_ccu":3197,"samples":24,"sess":12.1,"sess_h":23.0,"like":89.3},
@@ -237,7 +237,7 @@
 "7661378108":{"name":"[HD11🔥] Trails","avg_ccu":850.9,"min_ccu":278,"max_ccu":2551,"samples":24,"sess":10.43,"sess_h":23.0,"like":80.75},
 "7665084235":{"name":"🌊 Navy Tycoon","avg_ccu":229.5,"min_ccu":147,"max_ccu":321,"samples":24,"sess":15.88,"sess_h":23.0,"like":90.81},
 "7671049560":{"name":"🎃 The Forge [Guilds]","avg_ccu":10032.7,"min_ccu":6808,"max_ccu":12876,"samples":24,"sess":25.68,"sess_h":23.0,"like":94.44},
-"7673659635":{"name":"[RAIN] Fix It Up!","avg_ccu":2401.8,"min_ccu":1240,"max_ccu":3605,"samples":24,"sess":15.69,"sess_h":23.0,"like":85.34},
+"7673659635":{"name":"[UPD] Fix It Up!","avg_ccu":2401.8,"min_ccu":1240,"max_ccu":3605,"samples":24,"sess":15.69,"sess_h":23.0,"like":85.34},
 "7703614594":{"name":"[⏳🎃🍀] Garden Tower Defense 🌻","avg_ccu":5430.5,"min_ccu":4486,"max_ccu":7110,"samples":24,"sess":13.87,"sess_h":23.0,"like":98.21},
 "7709344486":{"name":"[💀] Steal a Brainrot","avg_ccu":231178.0,"min_ccu":214634,"max_ccu":276347,"samples":24,"sess":16.47,"sess_h":23.0,"like":85.13},
 "7738524573":{"name":"🎃UPD | Retro Tower Defense","avg_ccu":1227.3,"min_ccu":780,"max_ccu":1528,"samples":24,"sess":9.12,"sess_h":23.0,"like":91.62},
@@ -309,7 +309,7 @@
 "9872734936":{"name":"[LARP] Junk Mechanics","avg_ccu":5026.1,"min_ccu":3907,"max_ccu":6380,"samples":24,"sess":14.45,"sess_h":23.0,"like":87.83},
 "9880286438":{"name":"Legacy Piece [🎃Castorice & Aizen]","avg_ccu":5410.0,"min_ccu":4938,"max_ccu":6118,"samples":24,"sess":26.27,"sess_h":23.0,"like":96.86},
 "9881334755":{"name":"[🚧] Warrior Cats: Lake Territory","avg_ccu":464.3,"min_ccu":181,"max_ccu":818,"samples":24,"sess":26.5,"sess_h":23.0,"like":97.87},
-"9885372266":{"name":"[🎃 UPD] Unseen Liminality","avg_ccu":2793.5,"min_ccu":1706,"max_ccu":3894,"samples":24,"sess":14.14,"sess_h":23.0,"like":93.82},
+"9885372266":{"name":"[🎃UPD] Unseen Liminality","avg_ccu":2793.5,"min_ccu":1706,"max_ccu":3894,"samples":24,"sess":14.14,"sess_h":23.0,"like":93.82},
 "9908641400":{"name":"Football Fusion 3","avg_ccu":2352.7,"min_ccu":305,"max_ccu":7048,"samples":24,"sess":9.56,"sess_h":23.0,"like":83.13},
 "9910245722":{"name":"[🎃]Iron Soul: Dungeon","avg_ccu":1351.3,"min_ccu":917,"max_ccu":1920,"samples":24,"sess":8.09,"sess_h":23.0,"like":98.12},
 "9931749389":{"name":"[2x EXP] Dungeon Quest Reborn","avg_ccu":3076.5,"min_ccu":2463,"max_ccu":3606,"samples":24,"sess":12.37,"sess_h":23.0,"like":96.46},
