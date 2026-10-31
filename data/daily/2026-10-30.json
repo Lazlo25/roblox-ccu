@@ -1,4 +1,4 @@
-{"date": "2026-10-30", "timezone": "America/New_York", "generated_utc": "2026-10-31T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-31T03:10:00Z", 14038679], "genres": {"Simulation": 40.196, "Survival": 17.119, "Roleplay & Avatar Sim": 12.134, "Action": 7.652, "Shooter": 4.177, "RPG": 3.46, "Obby & Platformer": 3.355, "Sports & Racing": 3.072, "Strategy": 2.171, "Party & Casual": 2.005, "Adventure": 1.625, "Shopping": 0.904, "Entertainment": 0.833, "Other": 0.61, "Puzzle": 0.353, "Social": 0.334}, "genre_hours": 24,"games":{
+{"date": "2026-10-30", "timezone": "America/New_York", "generated_utc": "2026-10-31T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-31T03:10:00Z", 14038679], "genres": {"Simulation": 40.196, "Survival": 17.119, "Roleplay & Avatar Sim": 12.134, "Action": 7.652, "Shooter": 4.177, "RPG": 3.46, "Obby & Platformer": 3.355, "Sports & Racing": 3.072, "Strategy": 2.171, "Party & Casual": 2.005, "Adventure": 1.625, "Shopping": 0.904, "Entertainment": 0.833, "Other": 0.61, "Puzzle": 0.353, "Social": 0.334}, "genre_hours": 24,"games":{
 "47545":{"name":"[MAZE]🍕Work at a Pizza Place","avg_ccu":3769.6,"min_ccu":2718,"max_ccu":4598,"samples":24,"sess":12.04,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7797.2,"min_ccu":5009,"max_ccu":11065,"samples":24,"sess":8.77,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3988.6,"min_ccu":1947,"max_ccu":5369,"samples":24,"sess":12.31,"sess_h":23.0,"like":93.28},
@@ -328,7 +328,7 @@
 "9978329815":{"name":"Mukbang Game [Testing]🎃🍝!","avg_ccu":16965.0,"min_ccu":13347,"max_ccu":22506,"samples":24,"sess":11.43,"sess_h":23.0,"like":92.66},
 "9979684281":{"name":"🔧 Mechanic Legends [BETA]","avg_ccu":6674.0,"min_ccu":3192,"max_ccu":9532,"samples":24,"sess":16.8,"sess_h":23.0,"like":92.79},
 "10004244222":{"name":"[🎃] Kick a Lucky Block","avg_ccu":10182.0,"min_ccu":7489,"max_ccu":13036,"samples":24,"sess":11.6,"sess_h":23.0,"like":94.97},
-"10031505426":{"name":"FPS🎃AirDrop Arena [S5]🎃","avg_ccu":4121.7,"min_ccu":2999,"max_ccu":5477,"samples":24,"sess":14.04,"sess_h":23.0,"like":97.35},
+"10031505426":{"name":"FPS🎃AirDrop Arena [S6]🎃","avg_ccu":4121.7,"min_ccu":2999,"max_ccu":5477,"samples":24,"sess":14.04,"sess_h":23.0,"like":97.35},
 "10031562156":{"name":"[UPDATE] Backrooms Company","avg_ccu":2835.2,"min_ccu":1447,"max_ccu":3726,"samples":24,"sess":16.01,"sess_h":23.0,"like":88.77},
 "10035204815":{"name":"[💫] Ride A Pet","avg_ccu":16386.0,"min_ccu":10882,"max_ccu":21129,"samples":24,"sess":13.25,"sess_h":23.0,"like":96.22},
 "10057343903":{"name":"+1 Speed Evolve 🦊","avg_ccu":2254.8,"min_ccu":1237,"max_ccu":3186,"samples":24,"sess":11.0,"sess_h":23.0,"like":94.73},
@@ -420,7 +420,7 @@
 "10629695169":{"name":"[👻] Tap Simulator REBORN","avg_ccu":37808.3,"min_ccu":33316,"max_ccu":41472,"samples":24,"sess":28.45,"sess_h":23.0,"like":94.24},
 "10634461028":{"name":"Drive A Kukirin!","avg_ccu":6371.3,"min_ccu":858,"max_ccu":11695,"samples":24,"sess":9.28,"sess_h":23.0,"like":89.25},
 "10636331438":{"name":"[🎃SPOOKY] Roll a Fisherman 🎣","avg_ccu":1347.9,"min_ccu":1219,"max_ccu":1514,"samples":24,"sess":23.36,"sess_h":23.0,"like":98.26},
-"10638886777":{"name":"[⏳ 24H] 🧈 Stack A Butter Squishy [ASMR]","avg_ccu":6544.6,"min_ccu":4642,"max_ccu":8104,"samples":24,"sess":10.56,"sess_h":23.0,"like":86.96},
+"10638886777":{"name":"[⏳ 12H] 🧈 Stack A Butter Squishy [ASMR]","avg_ccu":6544.6,"min_ccu":4642,"max_ccu":8104,"samples":24,"sess":10.56,"sess_h":23.0,"like":86.96},
 "10643795368":{"name":"Idle Mafia Game","avg_ccu":3415.9,"min_ccu":3127,"max_ccu":4550,"samples":24,"sess":26.46,"sess_h":23.0,"like":87.96},
 "10643993738":{"name":"Motel Maniac [HORROR]","avg_ccu":2436.7,"min_ccu":1113,"max_ccu":3337,"samples":24,"sess":13.72,"sess_h":23.0,"like":83.32},
 "10648555380":{"name":"[🤑WORKS] Donation Central 💸","avg_ccu":235.1,"min_ccu":149,"max_ccu":309,"samples":24,"sess":7.35,"sess_h":23.0,"like":94.44},
