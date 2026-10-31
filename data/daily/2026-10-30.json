@@ -1,4 +1,4 @@
-{"date": "2026-10-30", "timezone": "America/New_York", "generated_utc": "2026-10-31T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-31T03:10:00Z", 14038679], "genres": {"Simulation": 40.196, "Survival": 17.119, "Roleplay & Avatar Sim": 12.134, "Action": 7.652, "Shooter": 4.177, "RPG": 3.46, "Obby & Platformer": 3.355, "Sports & Racing": 3.072, "Strategy": 2.171, "Party & Casual": 2.005, "Adventure": 1.625, "Shopping": 0.904, "Entertainment": 0.833, "Other": 0.61, "Puzzle": 0.353, "Social": 0.334}, "genre_hours": 24,"games":{
+{"date": "2026-10-30", "timezone": "America/New_York", "generated_utc": "2026-10-31T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-31T03:10:00Z", 14038679], "genres": {"Simulation": 40.196, "Survival": 17.119, "Roleplay & Avatar Sim": 12.134, "Action": 7.652, "Shooter": 4.177, "RPG": 3.46, "Obby & Platformer": 3.355, "Sports & Racing": 3.072, "Strategy": 2.171, "Party & Casual": 2.005, "Adventure": 1.625, "Shopping": 0.904, "Entertainment": 0.833, "Other": 0.61, "Puzzle": 0.353, "Social": 0.334}, "genre_hours": 24,"games":{
 "47545":{"name":"[MAZE]🍕Work at a Pizza Place","avg_ccu":3769.6,"min_ccu":2718,"max_ccu":4598,"samples":24,"sess":12.04,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7797.2,"min_ccu":5009,"max_ccu":11065,"samples":24,"sess":8.77,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3988.6,"min_ccu":1947,"max_ccu":5369,"samples":24,"sess":12.31,"sess_h":23.0,"like":93.28},
@@ -119,7 +119,7 @@
 "3846592040":{"name":"🎭 Arcane Lineage","avg_ccu":635.3,"min_ccu":452,"max_ccu":897,"samples":17,"sess":8.6,"sess_h":16.0,"like":78.47},
 "3876150506":{"name":"[🚀] Drive World","avg_ccu":4319.8,"min_ccu":2803,"max_ccu":5761,"samples":24,"sess":10.93,"sess_h":23.0,"like":93.56},
 "3936365689":{"name":"[STAR MAGIC + EVENT!] Clover Retribution","avg_ccu":1858.0,"min_ccu":1652,"max_ccu":2002,"samples":24,"sess":24.22,"sess_h":23.0,"like":92.95},
-"3990106548":{"name":"[🎃] Baddies 💅","avg_ccu":4214.9,"min_ccu":2324,"max_ccu":7015,"samples":24,"sess":9.64,"sess_h":23.0,"like":83.27},
+"3990106548":{"name":"Baddies 💅","avg_ccu":4214.9,"min_ccu":2324,"max_ccu":7015,"samples":24,"sess":9.64,"sess_h":23.0,"like":83.27},
 "4049246711":{"name":"🎃 Timebomb Duels [Alpha]","avg_ccu":14230.2,"min_ccu":5952,"max_ccu":20010,"samples":24,"sess":8.53,"sess_h":23.0,"like":65.19},
 "4130569984":{"name":"[HALLOWEEN] Jurassic Blocky","avg_ccu":3328.9,"min_ccu":2036,"max_ccu":4204,"samples":24,"sess":12.12,"sess_h":23.0,"like":89.2},
 "4165164803":{"name":"Clip It 😂🎬👗","avg_ccu":5614.4,"min_ccu":1692,"max_ccu":8486,"samples":24,"sess":12.0,"sess_h":23.0,"like":76.33},
