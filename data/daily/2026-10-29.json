@@ -1,4 +1,4 @@
-{"date": "2026-10-29", "timezone": "America/New_York", "generated_utc": "2026-10-31T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-30T03:10:00Z", 9604279], "genres": {"Simulation": 40.86, "Survival": 17.342, "Roleplay & Avatar Sim": 11.544, "Action": 7.621, "Shooter": 3.926, "RPG": 3.611, "Obby & Platformer": 3.386, "Sports & Racing": 2.79, "Strategy": 2.218, "Party & Casual": 2.044, "Adventure": 1.504, "Shopping": 0.923, "Entertainment": 0.833, "Other": 0.688, "Social": 0.372, "Puzzle": 0.338}, "genre_hours": 24,"games":{
+{"date": "2026-10-29", "timezone": "America/New_York", "generated_utc": "2026-10-31T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-30T03:10:00Z", 9604279], "genres": {"Simulation": 40.86, "Survival": 17.342, "Roleplay & Avatar Sim": 11.544, "Action": 7.621, "Shooter": 3.926, "RPG": 3.611, "Obby & Platformer": 3.386, "Sports & Racing": 2.79, "Strategy": 2.218, "Party & Casual": 2.044, "Adventure": 1.504, "Shopping": 0.923, "Entertainment": 0.833, "Other": 0.688, "Social": 0.372, "Puzzle": 0.338}, "genre_hours": 24,"games":{
 "47545":{"name":"[MAZE]🍕Work at a Pizza Place","avg_ccu":3618.8,"min_ccu":2718,"max_ccu":4482,"samples":24,"sess":11.89,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6695.5,"min_ccu":4408,"max_ccu":9142,"samples":24,"sess":8.64,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3224.3,"min_ccu":1659,"max_ccu":4405,"samples":24,"sess":12.11,"sess_h":23.0,"like":93.28},
@@ -393,7 +393,7 @@
 "10532995815":{"name":"[🎃] Mine Antarctica","avg_ccu":953.0,"min_ccu":756,"max_ccu":1271,"samples":24,"sess":21.78,"sess_h":23.0,"like":97.58},
 "10539411000":{"name":"🍂🎃 Clean all the Leaves","avg_ccu":6751.2,"min_ccu":2805,"max_ccu":10125,"samples":24,"sess":15.42,"sess_h":23.0,"like":86.37},
 "10541331578":{"name":"[🌊BEACH] Poly Loot⚔️","avg_ccu":2419.8,"min_ccu":1820,"max_ccu":3079,"samples":24,"sess":20.58,"sess_h":23.0,"like":90.34},
-"10550257968":{"name":"[TRADE] Steal A Verity!","avg_ccu":7440.8,"min_ccu":5545,"max_ccu":9660,"samples":24,"sess":9.06,"sess_h":23.0,"like":72.22},
+"10550257968":{"name":"[4X] Steal A Verity!","avg_ccu":7440.8,"min_ccu":5545,"max_ccu":9660,"samples":24,"sess":9.06,"sess_h":23.0,"like":72.22},
 "10552240401":{"name":"[UPD 10] Defeat Anime RNG 🎃","avg_ccu":5556.5,"min_ccu":5245,"max_ccu":5952,"samples":24,"sess":43.17,"sess_h":23.0,"like":96.44},
 "10552540426":{"name":"[🎃] My Toll Farm!","avg_ccu":735.5,"min_ccu":595,"max_ccu":869,"samples":24,"sess":25.59,"sess_h":23.0,"like":98.33},
 "10561166339":{"name":"[🎃] Destroy a Vault","avg_ccu":3199.8,"min_ccu":2325,"max_ccu":3919,"samples":24,"sess":17.05,"sess_h":23.0,"like":95.48},
@@ -604,7 +604,7 @@
 "10768676548":{"name":"[WINTER SOLDIER] Hide From The Hulk","avg_ccu":3442.3,"min_ccu":1975,"max_ccu":4914,"samples":24,"sess":15.2,"sess_h":23.0,"like":89.09},
 "10768677773":{"name":"RESTORED | Carolina Leaners","avg_ccu":4315.4,"min_ccu":924,"max_ccu":10818,"samples":24,"sess":20.44,"sess_h":23.0,"like":98.1},
 "10768761562":{"name":"[🎃] Airport Security (Anomaly) ✈️","avg_ccu":6316.2,"min_ccu":3206,"max_ccu":9238,"samples":24,"sess":17.37,"sess_h":23.0,"like":92.65},
-"10768785226":{"name":"A Long Flight [SANDBOX]","avg_ccu":11117.3,"min_ccu":5452,"max_ccu":15835,"samples":24,"sess":12.4,"sess_h":23.0,"like":74.37},
+"10768785226":{"name":"A Long Flight [HALLOWEEN 🎃]","avg_ccu":11117.3,"min_ccu":5452,"max_ccu":15835,"samples":24,"sess":12.4,"sess_h":23.0,"like":74.37},
 "10768827250":{"name":"Thai Word Chain [ 🎃 Halloween ]","avg_ccu":1877.0,"min_ccu":224,"max_ccu":3704,"samples":24,"sess":10.52,"sess_h":23.0,"like":92.57},
 "10768843989":{"name":"Stop The Train","avg_ccu":3255.5,"min_ccu":1458,"max_ccu":5170,"samples":24,"sess":14.94,"sess_h":23.0,"like":92.37},
 "10768866246":{"name":"[ANOMALY RALLY] WRONG WAY!","avg_ccu":1756.1,"min_ccu":1119,"max_ccu":2971,"samples":24,"sess":8.5,"sess_h":23.0,"like":89.97},
