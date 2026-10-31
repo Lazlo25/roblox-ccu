@@ -1,4 +1,4 @@
-{"date": "2026-10-30", "timezone": "America/New_York", "generated_utc": "2026-10-31T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-31T03:10:00Z", 14038679], "genres": {"Simulation": 40.196, "Survival": 17.119, "Roleplay & Avatar Sim": 12.134, "Action": 7.652, "Shooter": 4.177, "RPG": 3.46, "Obby & Platformer": 3.355, "Sports & Racing": 3.072, "Strategy": 2.171, "Party & Casual": 2.005, "Adventure": 1.625, "Shopping": 0.904, "Entertainment": 0.833, "Other": 0.61, "Puzzle": 0.353, "Social": 0.334}, "genre_hours": 24,"games":{
+{"date": "2026-10-30", "timezone": "America/New_York", "generated_utc": "2026-10-31T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-10-31T03:10:00Z", 14038679], "genres": {"Simulation": 40.196, "Survival": 17.119, "Roleplay & Avatar Sim": 12.134, "Action": 7.652, "Shooter": 4.177, "RPG": 3.46, "Obby & Platformer": 3.355, "Sports & Racing": 3.072, "Strategy": 2.171, "Party & Casual": 2.005, "Adventure": 1.625, "Shopping": 0.904, "Entertainment": 0.833, "Other": 0.61, "Puzzle": 0.353, "Social": 0.334}, "genre_hours": 24,"games":{
 "47545":{"name":"[MAZE]🍕Work at a Pizza Place","avg_ccu":3769.6,"min_ccu":2718,"max_ccu":4598,"samples":24,"sess":12.04,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7797.2,"min_ccu":5009,"max_ccu":11065,"samples":24,"sess":8.77,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3988.6,"min_ccu":1947,"max_ccu":5369,"samples":24,"sess":12.31,"sess_h":23.0,"like":93.28},
@@ -102,7 +102,7 @@
 "3365661357":{"name":"[🎃] SharkBite 2 🦈","avg_ccu":577.5,"min_ccu":204,"max_ccu":1100,"samples":24,"sess":10.12,"sess_h":23.0,"like":88.29},
 "3405618667":{"name":"Sonic Speed Simulator","avg_ccu":3013.4,"min_ccu":1444,"max_ccu":6026,"samples":24,"sess":15.3,"sess_h":23.0,"like":92.04},
 "3457700596":{"name":"[OPE V2] Fruit Battlegrounds","avg_ccu":2032.8,"min_ccu":1599,"max_ccu":2396,"samples":24,"sess":18.37,"sess_h":23.0,"like":89.75},
-"3472976893":{"name":"Backrooms🎃","avg_ccu":6303.8,"min_ccu":3728,"max_ccu":8722,"samples":24,"sess":12.21,"sess_h":23.0,"like":82.17},
+"3472976893":{"name":"[CAVE] Backrooms🎃","avg_ccu":6303.8,"min_ccu":3728,"max_ccu":8722,"samples":24,"sess":12.21,"sess_h":23.0,"like":82.17},
 "3508322461":{"name":"[🎃] Jujutsu Shenanigans","avg_ccu":128331.2,"min_ccu":69441,"max_ccu":170623,"samples":24,"sess":15.06,"sess_h":23.0,"like":86.32},
 "3541611379":{"name":"🎃2x | Tower Defense X: BETA","avg_ccu":5645.9,"min_ccu":3654,"max_ccu":7348,"samples":24,"sess":12.28,"sess_h":23.0,"like":94.26},
 "3647333358":{"name":"[SOON 🎃HLWN] Evade","avg_ccu":50022.8,"min_ccu":34940,"max_ccu":69408,"samples":24,"sess":12.38,"sess_h":23.0,"like":93.91},
@@ -527,7 +527,7 @@
 "10766957927":{"name":"[W2] +1 Gun Forge 🎃","avg_ccu":4171.4,"min_ccu":3206,"max_ccu":5390,"samples":24,"sess":26.18,"sess_h":23.0,"like":96.2},
 "10766972131":{"name":"[🎃] Throw Food For Animals","avg_ccu":83940.0,"min_ccu":47580,"max_ccu":130730,"samples":24,"sess":19.92,"sess_h":23.0,"like":93.51},
 "10767012496":{"name":"[🎃] Turbo Soccer : Beta 1.0","avg_ccu":17649.8,"min_ccu":5894,"max_ccu":26865,"samples":24,"sess":4.57,"sess_h":23.0,"like":92.39},
-"10767138232":{"name":"[🎃] Kukirin Life [Testing]","avg_ccu":34846.3,"min_ccu":7084,"max_ccu":144229,"samples":24,"sess":12.91,"sess_h":23.0,"like":85.51},
+"10767138232":{"name":"Kukirin Life [Testing]","avg_ccu":34846.3,"min_ccu":7084,"max_ccu":144229,"samples":24,"sess":12.91,"sess_h":23.0,"like":85.51},
 "10767201394":{"name":"Scooter Duo 🛴 [2 Player Obby]","avg_ccu":4583.1,"min_ccu":2356,"max_ccu":7210,"samples":24,"sess":7.62,"sess_h":23.0,"like":97.14},
 "10767218742":{"name":"[👮🚨] You and Me in Cali 🏡 RP","avg_ccu":6657.1,"min_ccu":3882,"max_ccu":9190,"samples":24,"sess":16.9,"sess_h":23.0,"like":75.82},
 "10767380385":{"name":"🎃 Sell Fries! [Anomaly] 🍟","avg_ccu":34362.5,"min_ccu":17570,"max_ccu":45683,"samples":24,"sess":15.44,"sess_h":23.0,"like":84.26},
@@ -536,7 +536,7 @@
 "10767389941":{"name":"[🎃] +1 Dance Battle Evolution","avg_ccu":8798.4,"min_ccu":5751,"max_ccu":13784,"samples":24,"sess":11.1,"sess_h":23.0,"like":87.55},
 "10767402184":{"name":"[🎃] +1 Tackle Evolution","avg_ccu":2332.2,"min_ccu":1337,"max_ccu":3004,"samples":24,"sess":10.78,"sess_h":23.0,"like":88.43},
 "10767408330":{"name":"[🎃] Peel THE Potato","avg_ccu":7382.2,"min_ccu":4559,"max_ccu":10088,"samples":24,"sess":10.61,"sess_h":23.0,"like":94.56},
-"10767494536":{"name":"Hike For Eggs","avg_ccu":8631.8,"min_ccu":4942,"max_ccu":19025,"samples":24,"sess":18.44,"sess_h":23.0,"like":96.51},
+"10767494536":{"name":"[🎃] Hike For Eggs","avg_ccu":8631.8,"min_ccu":4942,"max_ccu":19025,"samples":24,"sess":18.44,"sess_h":23.0,"like":96.51},
 "10767537135":{"name":"Evermore High 🦢","avg_ccu":12807.4,"min_ccu":9485,"max_ccu":17010,"samples":7,"sess":19.13,"sess_h":6.0,"like":91.38},
 "10767566226":{"name":"Don't Steal My Eggs!","avg_ccu":5741.8,"min_ccu":4410,"max_ccu":7290,"samples":24,"sess":12.12,"sess_h":23.0,"like":94.92},
 "10767567751":{"name":"Bunker vs Verity","avg_ccu":7203.5,"min_ccu":5435,"max_ccu":9456,"samples":24,"sess":22.06,"sess_h":23.0,"like":83.35},
