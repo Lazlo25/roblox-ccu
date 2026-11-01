@@ -1,4 +1,4 @@
-{"date": "2026-10-31", "timezone": "America/New_York", "generated_utc": "2026-11-01T22:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-01T03:10:01Z", 14034673], "genres": {"Simulation": 43.238, "Survival": 15.391, "Roleplay & Avatar Sim": 10.71, "Action": 7.101, "RPG": 5.068, "Shooter": 4.256, "Sports & Racing": 3.005, "Obby & Platformer": 2.961, "Strategy": 2.202, "Party & Casual": 1.767, "Adventure": 1.492, "Entertainment": 0.89, "Shopping": 0.803, "Other": 0.557, "Puzzle": 0.309, "Social": 0.249}, "genre_hours": 20,"games":{
+{"date": "2026-10-31", "timezone": "America/New_York", "generated_utc": "2026-11-01T23:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-01T03:10:01Z", 14034673], "genres": {"Simulation": 43.238, "Survival": 15.391, "Roleplay & Avatar Sim": 10.71, "Action": 7.101, "RPG": 5.068, "Shooter": 4.256, "Sports & Racing": 3.005, "Obby & Platformer": 2.961, "Strategy": 2.202, "Party & Casual": 1.767, "Adventure": 1.492, "Entertainment": 0.89, "Shopping": 0.803, "Other": 0.557, "Puzzle": 0.309, "Social": 0.249}, "genre_hours": 20,"games":{
 "47545":{"name":"[MAZE]🍕Work at a Pizza Place","avg_ccu":3832.5,"min_ccu":3026,"max_ccu":5030,"samples":20,"sess":11.53,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":8350.2,"min_ccu":5936,"max_ccu":11224,"samples":20,"sess":8.5,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4315.7,"min_ccu":2916,"max_ccu":6401,"samples":20,"sess":11.81,"sess_h":23.0,"like":93.28},
@@ -209,7 +209,7 @@
 "6945584306":{"name":"[🌌 QOL] Azure Latch","avg_ccu":8396.8,"min_ccu":5034,"max_ccu":12048,"samples":20,"sess":16.5,"sess_h":23.0,"like":96.76},
 "7008097940":{"name":"[⚔️] Ink Game","avg_ccu":14751.4,"min_ccu":12851,"max_ccu":18255,"samples":20,"sess":12.62,"sess_h":23.0,"like":79.22},
 "7018190066":{"name":"[👻EVENT] Dead Rails","avg_ccu":25150.6,"min_ccu":21117,"max_ccu":31712,"samples":20,"sess":15.07,"sess_h":23.0,"like":92.56},
-"7028566528":{"name":"[🎃HALLOWEEN] Basketball: Zero","avg_ccu":8232.5,"min_ccu":5467,"max_ccu":14301,"samples":20,"sess":9.89,"sess_h":23.0,"like":98.28},
+"7028566528":{"name":"[🎃] Basketball: Zero","avg_ccu":8232.5,"min_ccu":5467,"max_ccu":14301,"samples":20,"sess":9.89,"sess_h":23.0,"like":98.28},
 "7058980030":{"name":"[🎃] Survive Overnight in a Mega Store","avg_ccu":6791.2,"min_ccu":4814,"max_ccu":9246,"samples":20,"sess":9.29,"sess_h":23.0,"like":94.96},
 "7084172542":{"name":"[SUMMON QUEST]Momo City [Beta]","avg_ccu":409.3,"min_ccu":212,"max_ccu":740,"samples":20,"sess":21.77,"sess_h":23.0,"like":89.94},
 "7089588429":{"name":"(WHEELIE STYLE x BIG UPDATE) Drag Drive Simulator","avg_ccu":18210.7,"min_ccu":1964,"max_ccu":27085,"samples":20,"sess":12.85,"sess_h":23.0,"like":95.61},
@@ -305,7 +305,7 @@
 "9837612476":{"name":"[🎃] Mini War","avg_ccu":12751.2,"min_ccu":10855,"max_ccu":21066,"samples":20,"sess":24.32,"sess_h":23.0,"like":96.45},
 "9855761734":{"name":"[🏁UPD] San Diego Roleplay","avg_ccu":8402.8,"min_ccu":5887,"max_ccu":11591,"samples":20,"sess":14.34,"sess_h":23.0,"like":85.5},
 "9872734936":{"name":"[🎃] Junk Mechanics","avg_ccu":5790.7,"min_ccu":4696,"max_ccu":8820,"samples":20,"sess":12.8,"sess_h":23.0,"like":87.78},
-"9880286438":{"name":"Legacy Piece [🎃Alucard & Denji]","avg_ccu":5106.2,"min_ccu":4368,"max_ccu":5623,"samples":20,"sess":26.35,"sess_h":23.0,"like":96.84},
+"9880286438":{"name":"[🎃]Legacy Piece","avg_ccu":5106.2,"min_ccu":4368,"max_ccu":5623,"samples":20,"sess":26.35,"sess_h":23.0,"like":96.84},
 "9881334755":{"name":"[🚧] Warrior Cats: Lake Territory","avg_ccu":434.6,"min_ccu":237,"max_ccu":680,"samples":20,"sess":23.52,"sess_h":23.0,"like":97.88},
 "9885372266":{"name":"[🎃UPD] Unseen Liminality","avg_ccu":8488.4,"min_ccu":6047,"max_ccu":11532,"samples":20,"sess":16.0,"sess_h":23.0,"like":93.86},
 "9908641400":{"name":"Football Fusion 3","avg_ccu":2787.6,"min_ccu":431,"max_ccu":5257,"samples":20,"sess":8.28,"sess_h":23.0,"like":83.23},
