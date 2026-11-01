@@ -1,4 +1,4 @@
-{"date": "2026-10-31", "timezone": "America/New_York", "generated_utc": "2026-11-01T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-01T03:10:01Z", 14034673], "genres": {"Simulation": 43.238, "Survival": 15.391, "Roleplay & Avatar Sim": 10.71, "Action": 7.101, "RPG": 5.068, "Shooter": 4.256, "Sports & Racing": 3.005, "Obby & Platformer": 2.961, "Strategy": 2.202, "Party & Casual": 1.767, "Adventure": 1.492, "Entertainment": 0.89, "Shopping": 0.803, "Other": 0.557, "Puzzle": 0.309, "Social": 0.249}, "genre_hours": 20,"games":{
+{"date": "2026-10-31", "timezone": "America/New_York", "generated_utc": "2026-11-01T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-01T03:10:01Z", 14034673], "genres": {"Simulation": 43.238, "Survival": 15.391, "Roleplay & Avatar Sim": 10.71, "Action": 7.101, "RPG": 5.068, "Shooter": 4.256, "Sports & Racing": 3.005, "Obby & Platformer": 2.961, "Strategy": 2.202, "Party & Casual": 1.767, "Adventure": 1.492, "Entertainment": 0.89, "Shopping": 0.803, "Other": 0.557, "Puzzle": 0.309, "Social": 0.249}, "genre_hours": 20,"games":{
 "47545":{"name":"[MAZE]🍕Work at a Pizza Place","avg_ccu":3832.5,"min_ccu":3026,"max_ccu":5030,"samples":20,"sess":11.53,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":8350.2,"min_ccu":5936,"max_ccu":11224,"samples":20,"sess":8.5,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4315.7,"min_ccu":2916,"max_ccu":6401,"samples":20,"sess":11.81,"sess_h":23.0,"like":93.28},
@@ -481,7 +481,7 @@
 "10765494545":{"name":"[🎓] Run a Cheer Gym","avg_ccu":462.1,"min_ccu":196,"max_ccu":948,"samples":13,"sess":9.86,"sess_h":16.0,"like":96.82},
 "10765525876":{"name":"[🎃MULTIPLAYER] Start Your Blue Lock Career!","avg_ccu":3257.9,"min_ccu":2033,"max_ccu":4573,"samples":20,"sess":18.46,"sess_h":23.0,"like":91.29},
 "10765571340":{"name":"Push and Steal A Car","avg_ccu":2103.3,"min_ccu":1766,"max_ccu":2613,"samples":20,"sess":18.87,"sess_h":23.0,"like":91.75},
-"10765582175":{"name":"dogs🎃","avg_ccu":1568.2,"min_ccu":1221,"max_ccu":1931,"samples":20,"sess":12.5,"sess_h":23.0,"like":88.58},
+"10765582175":{"name":"[🎃] dogs","avg_ccu":1568.2,"min_ccu":1221,"max_ccu":1931,"samples":20,"sess":12.5,"sess_h":23.0,"like":88.58},
 "10765618402":{"name":"[x2💵] Steel Fighters","avg_ccu":17507.7,"min_ccu":13425,"max_ccu":21301,"samples":20,"sess":20.95,"sess_h":23.0,"like":90.88},
 "10765635650":{"name":"Impossible Animals","avg_ccu":8827.4,"min_ccu":7165,"max_ccu":12441,"samples":20,"sess":16.04,"sess_h":23.0,"like":98.8},
 "10765686447":{"name":"Steal ASMR!","avg_ccu":5421.1,"min_ccu":3979,"max_ccu":7133,"samples":20,"sess":12.1,"sess_h":23.0,"like":94.61},
@@ -615,7 +615,7 @@
 "10769315427":{"name":"[🎃] Steal A Pet And Ride It!","avg_ccu":43492.2,"min_ccu":22920,"max_ccu":103018,"samples":20,"sess":17.58,"sess_h":23.0,"like":94.6},
 "10769324921":{"name":"Makeup All Stars 💄 [🎃 THEMES]","avg_ccu":5593.6,"min_ccu":3411,"max_ccu":9193,"samples":20,"sess":9.04,"sess_h":23.0,"like":81.13},
 "10769384180":{"name":"[🎃] Fake an Egg","avg_ccu":37464.8,"min_ccu":23981,"max_ccu":54280,"samples":20,"sess":11.59,"sess_h":23.0,"like":88.71},
-"10769401924":{"name":"🎃 [HALLOWEEN] Hunting Together RPG","avg_ccu":4436.4,"min_ccu":3957,"max_ccu":5116,"samples":20,"sess":23.72,"sess_h":23.0,"like":93.67},
+"10769401924":{"name":"⚔️ [DUNGEON] Hunting Together RPG","avg_ccu":4436.4,"min_ccu":3957,"max_ccu":5116,"samples":20,"sess":23.72,"sess_h":23.0,"like":93.67},
 "10769415620":{"name":"🧪Realistic Phone Drop Test 🎃🍬","avg_ccu":4068.6,"min_ccu":2379,"max_ccu":6371,"samples":20,"sess":9.46,"sess_h":23.0,"like":89.34},
 "10769420234":{"name":"MOUSE 🎃","avg_ccu":6977.1,"min_ccu":4098,"max_ccu":10638,"samples":20,"sess":9.25,"sess_h":23.0,"like":84.52},
 "10769460022":{"name":"🐛 +1 Shrink Worm Escape","avg_ccu":5687.6,"min_ccu":2678,"max_ccu":9515,"samples":20,"sess":10.5,"sess_h":23.0,"like":89.1},
@@ -698,7 +698,7 @@
 "10770934840":{"name":"[🎃 HALLOWEEN PT 2] UNDERTALE Fight!","avg_ccu":6714.6,"min_ccu":5091,"max_ccu":8884,"samples":20,"sess":14.17,"sess_h":23.0,"like":97.13},
 "10770962822":{"name":"[🎃] SAEM But FREE ADMIN PANEL X999 LAST UPDATE","avg_ccu":220.4,"min_ccu":132,"max_ccu":321,"samples":20,"sess":10.29,"sess_h":23.0,"like":65.4},
 "10770976916":{"name":"Don't Be Late For Exam! 🏫","avg_ccu":730.3,"min_ccu":397,"max_ccu":870,"samples":20,"sess":8.17,"sess_h":23.0,"like":35.81},
-"10771051754":{"name":"[4H] Realistic Car Destruction","avg_ccu":13546.6,"min_ccu":8449,"max_ccu":20080,"samples":20,"sess":11.79,"sess_h":23.0,"like":77.87},
+"10771051754":{"name":"[3H] Realistic Car Destruction","avg_ccu":13546.6,"min_ccu":8449,"max_ccu":20080,"samples":20,"sess":11.79,"sess_h":23.0,"like":77.87},
 "10771062824":{"name":"[UPD👥CO-OP] Lawn Care Empire 🌱","avg_ccu":1225.8,"min_ccu":738,"max_ccu":2092,"samples":20,"sess":10.84,"sess_h":23.0,"like":92.73},
 "10771096069":{"name":"Where Is Fahd?","avg_ccu":2763.7,"min_ccu":387,"max_ccu":4197,"samples":12,"sess":5.96,"sess_h":11.0,"like":68.23},
 "10771124452":{"name":"TROLL Jail Hug Tower","avg_ccu":8966.8,"min_ccu":5368,"max_ccu":15084,"samples":20,"sess":9.79,"sess_h":23.0,"like":71.49},
