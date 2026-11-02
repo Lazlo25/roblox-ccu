@@ -1,4 +1,4 @@
-{"date": "2026-10-31", "timezone": "America/New_York", "generated_utc": "2026-11-02T03:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-01T03:10:01Z", 14034673], "genres": {"Simulation": 43.238, "Survival": 15.391, "Roleplay & Avatar Sim": 10.71, "Action": 7.101, "RPG": 5.068, "Shooter": 4.256, "Sports & Racing": 3.005, "Obby & Platformer": 2.961, "Strategy": 2.202, "Party & Casual": 1.767, "Adventure": 1.492, "Entertainment": 0.89, "Shopping": 0.803, "Other": 0.557, "Puzzle": 0.309, "Social": 0.249}, "genre_hours": 20,"games":{
+{"date": "2026-10-31", "timezone": "America/New_York", "generated_utc": "2026-11-02T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-01T03:10:01Z", 14034673], "genres": {"Simulation": 43.238, "Survival": 15.391, "Roleplay & Avatar Sim": 10.71, "Action": 7.101, "RPG": 5.068, "Shooter": 4.256, "Sports & Racing": 3.005, "Obby & Platformer": 2.961, "Strategy": 2.202, "Party & Casual": 1.767, "Adventure": 1.492, "Entertainment": 0.89, "Shopping": 0.803, "Other": 0.557, "Puzzle": 0.309, "Social": 0.249}, "genre_hours": 20,"games":{
 "47545":{"name":"[MAZE]🍕Work at a Pizza Place","avg_ccu":3832.5,"min_ccu":3026,"max_ccu":5030,"samples":20,"sess":11.53,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":8350.2,"min_ccu":5936,"max_ccu":11224,"samples":20,"sess":8.5,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4315.7,"min_ccu":2916,"max_ccu":6401,"samples":20,"sess":11.81,"sess_h":23.0,"like":93.28},
@@ -184,7 +184,7 @@
 "6420180292":{"name":"[🎃HALLOWEEN🎃] Mermaid Isle 🌊","avg_ccu":543.5,"min_ccu":343,"max_ccu":917,"samples":20,"sess":18.48,"sess_h":23.0,"like":94.23},
 "6443367640":{"name":"Gym Star Simulator 🎃","avg_ccu":7901.6,"min_ccu":6284,"max_ccu":10208,"samples":20,"sess":14.88,"sess_h":23.0,"like":92.46},
 "6466404775":{"name":"[🐲] MOUNT RNG","avg_ccu":2776.2,"min_ccu":2565,"max_ccu":3384,"samples":20,"sess":16.23,"sess_h":23.0,"like":95.49},
-"6504986360":{"name":"[🍀5X] Bubble Gum Simulator INFINITY","avg_ccu":11828.4,"min_ccu":9452,"max_ccu":15589,"samples":20,"sess":31.37,"sess_h":23.0,"like":96.78},
+"6504986360":{"name":"[🎃] Bubble Gum Simulator INFINITY","avg_ccu":11828.4,"min_ccu":9452,"max_ccu":15589,"samples":20,"sess":31.37,"sess_h":23.0,"like":96.78},
 "6505338302":{"name":"[🎃] 🏈Football Legends🏈","avg_ccu":1740.5,"min_ccu":262,"max_ccu":2918,"samples":20,"sess":14.45,"sess_h":23.0,"like":86.9},
 "6521100398":{"name":"Dreamville 🏡 RP [Pets! 😺]","avg_ccu":16952.6,"min_ccu":11427,"max_ccu":28886,"samples":20,"sess":15.56,"sess_h":23.0,"like":95.05},
 "6583326485":{"name":"Ground War","avg_ccu":6534.2,"min_ccu":5148,"max_ccu":8164,"samples":12,"sess":11.36,"sess_h":11.0,"like":80.77},
@@ -524,7 +524,7 @@
 "10767567751":{"name":"Bunker vs Verity","avg_ccu":8124.4,"min_ccu":5062,"max_ccu":13493,"samples":20,"sess":20.84,"sess_h":23.0,"like":83.37},
 "10767570793":{"name":"[UPD 2] Pixel Basketball","avg_ccu":1628.1,"min_ccu":948,"max_ccu":2374,"samples":20,"sess":11.87,"sess_h":23.0,"like":96.58},
 "10767582899":{"name":"[🎃] 📱 Build a Phone Empire","avg_ccu":8312.7,"min_ccu":6452,"max_ccu":11445,"samples":20,"sess":23.28,"sess_h":23.0,"like":87.85},
-"10767619742":{"name":"Portal Sandbox","avg_ccu":3240.1,"min_ccu":2337,"max_ccu":4657,"samples":20,"sess":15.02,"sess_h":23.0,"like":75.22},
+"10767619742":{"name":"[FIX] Portal Sandbox","avg_ccu":3240.1,"min_ccu":2337,"max_ccu":4657,"samples":20,"sess":15.02,"sess_h":23.0,"like":75.22},
 "10767634248":{"name":"Firefighting Sim 🚒","avg_ccu":10710.9,"min_ccu":6584,"max_ccu":15693,"samples":20,"sess":13.05,"sess_h":23.0,"like":91.99},
 "10767707794":{"name":"Wholesale Empire (🎃)","avg_ccu":576.0,"min_ccu":336,"max_ccu":845,"samples":20,"sess":20.53,"sess_h":23.0,"like":71.86},
 "10767717500":{"name":"[🎃 NEW!] Collect Cat Cards!","avg_ccu":2473.0,"min_ccu":1965,"max_ccu":3679,"samples":20,"sess":18.24,"sess_h":23.0,"like":91.69},
