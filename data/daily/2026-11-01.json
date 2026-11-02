@@ -1,4 +1,4 @@
-{"date": "2026-11-01", "timezone": "America/New_York", "generated_utc": "2026-11-02T18:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-02T03:10:00Z", 10802244], "genres": {"Simulation": 37.026, "Survival": 15.369, "Roleplay & Avatar Sim": 12.222, "Action": 7.704, "RPG": 7.025, "Shooter": 4.192, "Sports & Racing": 3.639, "Obby & Platformer": 3.391, "Strategy": 2.389, "Party & Casual": 2.105, "Adventure": 1.678, "Entertainment": 1.174, "Shopping": 0.889, "Other": 0.644, "Puzzle": 0.312, "Social": 0.242}, "genre_hours": 25,"games":{
+{"date": "2026-11-01", "timezone": "America/New_York", "generated_utc": "2026-11-02T19:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-02T03:10:00Z", 10802244], "genres": {"Simulation": 37.026, "Survival": 15.369, "Roleplay & Avatar Sim": 12.222, "Action": 7.704, "RPG": 7.025, "Shooter": 4.192, "Sports & Racing": 3.639, "Obby & Platformer": 3.391, "Strategy": 2.389, "Party & Casual": 2.105, "Adventure": 1.678, "Entertainment": 1.174, "Shopping": 0.889, "Other": 0.644, "Puzzle": 0.312, "Social": 0.242}, "genre_hours": 25,"games":{
 "47545":{"name":"[MAZE]🍕Work at a Pizza Place","avg_ccu":3888.7,"min_ccu":2771,"max_ccu":5101,"samples":25,"sess":12.19,"sess_h":24.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9588.5,"min_ccu":6849,"max_ccu":11330,"samples":25,"sess":8.87,"sess_h":24.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4194.6,"min_ccu":2115,"max_ccu":6072,"samples":25,"sess":12.16,"sess_h":24.0,"like":93.28},
@@ -129,7 +129,7 @@
 "4408288935":{"name":"🎃 Ecos: La Brea","avg_ccu":1072.0,"min_ccu":558,"max_ccu":1670,"samples":25,"sess":20.69,"sess_h":24.0,"like":91.65},
 "4420562665":{"name":"Ride Storm","avg_ccu":7863.6,"min_ccu":6057,"max_ccu":9108,"samples":25,"sess":11.98,"sess_h":24.0,"like":91.5},
 "4457060041":{"name":"Emergency Emden","avg_ccu":997.9,"min_ccu":129,"max_ccu":1993,"samples":25,"sess":13.68,"sess_h":24.0,"like":87.45},
-"4497460596":{"name":"MORPH WORLD 🤡 [HALLOWEEN FINALE]","avg_ccu":1340.7,"min_ccu":532,"max_ccu":2054,"samples":25,"sess":13.66,"sess_h":24.0,"like":86.18},
+"4497460596":{"name":"MORPH WORLD 🤡 [VERITY CLOWNITY]","avg_ccu":1340.7,"min_ccu":532,"max_ccu":2054,"samples":25,"sess":13.66,"sess_h":24.0,"like":86.18},
 "4523856444":{"name":"Color or Die 🎨","avg_ccu":5954.2,"min_ccu":2710,"max_ccu":9091,"samples":23,"sess":11.41,"sess_h":22.0,"like":90.05},
 "4540138978":{"name":"Metro Life 🏡 City RP","avg_ccu":10320.4,"min_ccu":5235,"max_ccu":14798,"samples":25,"sess":15.86,"sess_h":24.0,"like":86.77},
 "4568630521":{"name":"[HALLOWEEN] Heroes Battlegrounds","avg_ccu":8434.2,"min_ccu":5559,"max_ccu":10467,"samples":25,"sess":13.56,"sess_h":24.0,"like":85.52},
@@ -170,7 +170,7 @@
 "6048923315":{"name":"[🎃Part.2] KAIZEN","avg_ccu":789.9,"min_ccu":545,"max_ccu":1197,"samples":25,"sess":16.08,"sess_h":24.0,"like":93.09},
 "6061766680":{"name":"fight in a school","avg_ccu":2650.8,"min_ccu":1163,"max_ccu":3767,"samples":25,"sess":10.83,"sess_h":24.0,"like":79.29},
 "6118645803":{"name":"[💥UPDATEE!] SCP & Siren Head Roleplay","avg_ccu":1158.1,"min_ccu":681,"max_ccu":1628,"samples":25,"sess":12.12,"sess_h":24.0,"like":82.56},
-"6161049307":{"name":"[2x WISHES⭐] Pixel Blade","avg_ccu":3160.2,"min_ccu":2639,"max_ccu":3675,"samples":25,"sess":6.47,"sess_h":24.0,"like":96.77},
+"6161049307":{"name":"[CHRONOS⭐] Pixel Blade","avg_ccu":3160.2,"min_ccu":2639,"max_ccu":3675,"samples":25,"sess":6.47,"sess_h":24.0,"like":96.77},
 "6170143659":{"name":"[🎃] Demonology🕯️","avg_ccu":6376.3,"min_ccu":4633,"max_ccu":8429,"samples":25,"sess":7.61,"sess_h":24.0,"like":95.61},
 "6174994284":{"name":"Savannah Life","avg_ccu":3225.7,"min_ccu":1934,"max_ccu":4615,"samples":25,"sess":15.02,"sess_h":24.0,"like":93.78},
 "6176333237":{"name":"Clarity Over Resonance","avg_ccu":4334.5,"min_ccu":300,"max_ccu":10354,"samples":25,"sess":19.32,"sess_h":24.0,"like":89.63},
@@ -294,7 +294,7 @@
 "9561553764":{"name":"[🎃] Murder Duels","avg_ccu":10367.2,"min_ccu":7258,"max_ccu":12949,"samples":25,"sess":8.54,"sess_h":24.0,"like":93.11},
 "9572842965":{"name":"Logo Glass Bridge","avg_ccu":3078.0,"min_ccu":1639,"max_ccu":4977,"samples":25,"sess":8.02,"sess_h":24.0,"like":74.92},
 "9582986239":{"name":"Fish an Anime RNG 🎲","avg_ccu":1726.9,"min_ccu":1542,"max_ccu":1851,"samples":25,"sess":21.12,"sess_h":24.0,"like":95.0},
-"9584852943":{"name":"[X20] +1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":35678.0,"min_ccu":15434,"max_ccu":55375,"samples":25,"sess":7.92,"sess_h":24.0,"like":96.72},
+"9584852943":{"name":"+1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":35678.0,"min_ccu":15434,"max_ccu":55375,"samples":25,"sess":7.92,"sess_h":24.0,"like":96.72},
 "9641502068":{"name":"[🎃] KNIFE DUELS","avg_ccu":9826.5,"min_ccu":5582,"max_ccu":14015,"samples":25,"sess":8.91,"sess_h":24.0,"like":93.81},
 "9662130710":{"name":"[🎃] Phonk Slap 🎵","avg_ccu":1001.6,"min_ccu":676,"max_ccu":1396,"samples":19,"sess":8.84,"sess_h":18.0,"like":91.84},
 "9735583968":{"name":"[UPD] SCP MORPH","avg_ccu":7967.5,"min_ccu":5059,"max_ccu":10409,"samples":25,"sess":9.06,"sess_h":24.0,"like":91.7},
