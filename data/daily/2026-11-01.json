@@ -1,4 +1,4 @@
-{"date": "2026-11-01", "timezone": "America/New_York", "generated_utc": "2026-11-02T16:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-02T03:10:00Z", 10802244], "genres": {"Simulation": 37.026, "Survival": 15.369, "Roleplay & Avatar Sim": 12.222, "Action": 7.704, "RPG": 7.025, "Shooter": 4.192, "Sports & Racing": 3.639, "Obby & Platformer": 3.391, "Strategy": 2.389, "Party & Casual": 2.105, "Adventure": 1.678, "Entertainment": 1.174, "Shopping": 0.889, "Other": 0.644, "Puzzle": 0.312, "Social": 0.242}, "genre_hours": 25,"games":{
+{"date": "2026-11-01", "timezone": "America/New_York", "generated_utc": "2026-11-02T17:10:01Z", "through_et": "24:00", "platform_now": ["2026-11-02T03:10:00Z", 10802244], "genres": {"Simulation": 37.026, "Survival": 15.369, "Roleplay & Avatar Sim": 12.222, "Action": 7.704, "RPG": 7.025, "Shooter": 4.192, "Sports & Racing": 3.639, "Obby & Platformer": 3.391, "Strategy": 2.389, "Party & Casual": 2.105, "Adventure": 1.678, "Entertainment": 1.174, "Shopping": 0.889, "Other": 0.644, "Puzzle": 0.312, "Social": 0.242}, "genre_hours": 25,"games":{
 "47545":{"name":"[MAZE]🍕Work at a Pizza Place","avg_ccu":3888.7,"min_ccu":2771,"max_ccu":5101,"samples":25,"sess":12.19,"sess_h":24.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9588.5,"min_ccu":6849,"max_ccu":11330,"samples":25,"sess":8.87,"sess_h":24.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4194.6,"min_ccu":2115,"max_ccu":6072,"samples":25,"sess":12.16,"sess_h":24.0,"like":93.28},
@@ -9,7 +9,7 @@
 "97314177":{"name":"[UPDATE💪] Ninja Tycoon (v4.8)","avg_ccu":848.3,"min_ccu":509,"max_ccu":1165,"samples":19,"sess":17.03,"sess_h":18.0,"like":89.49},
 "98839997":{"name":"[🎃Halloween Part 2!] Dinosaur Simulator","avg_ccu":229.3,"min_ccu":162,"max_ccu":300,"samples":25,"sess":18.25,"sess_h":24.0,"like":80.53},
 "98929893":{"name":"[🎃 PT. 2] Dragon Ball Rage","avg_ccu":4423.3,"min_ccu":2257,"max_ccu":6333,"samples":25,"sess":19.24,"sess_h":24.0,"like":90.53},
-"110181652":{"name":"[🎃] Epic Minigames","avg_ccu":1340.5,"min_ccu":869,"max_ccu":1729,"samples":25,"sess":12.97,"sess_h":24.0,"like":90.59},
+"110181652":{"name":"Epic Minigames ✨","avg_ccu":1340.5,"min_ccu":869,"max_ccu":1729,"samples":25,"sess":12.97,"sess_h":24.0,"like":90.59},
 "113491250":{"name":"[Infection!] Phantom Forces","avg_ccu":2791.8,"min_ccu":2041,"max_ccu":3454,"samples":25,"sess":14.85,"sess_h":24.0,"like":90.73},
 "115797356":{"name":"[HALLOWEEN II🎃] Counter Blox","avg_ccu":825.2,"min_ccu":434,"max_ccu":1256,"samples":25,"sess":11.41,"sess_h":24.0,"like":82.27},
 "117307972":{"name":"(Route 9) Loomian Legacy","avg_ccu":5017.8,"min_ccu":4000,"max_ccu":5725,"samples":12,"sess":34.03,"sess_h":11.0,"like":91.69},
@@ -294,7 +294,7 @@
 "9561553764":{"name":"[🎃] Murder Duels","avg_ccu":10367.2,"min_ccu":7258,"max_ccu":12949,"samples":25,"sess":8.54,"sess_h":24.0,"like":93.11},
 "9572842965":{"name":"Logo Glass Bridge","avg_ccu":3078.0,"min_ccu":1639,"max_ccu":4977,"samples":25,"sess":8.02,"sess_h":24.0,"like":74.92},
 "9582986239":{"name":"Fish an Anime RNG 🎲","avg_ccu":1726.9,"min_ccu":1542,"max_ccu":1851,"samples":25,"sess":21.12,"sess_h":24.0,"like":95.0},
-"9584852943":{"name":"+1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":35678.0,"min_ccu":15434,"max_ccu":55375,"samples":25,"sess":7.92,"sess_h":24.0,"like":96.72},
+"9584852943":{"name":"[X20] +1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":35678.0,"min_ccu":15434,"max_ccu":55375,"samples":25,"sess":7.92,"sess_h":24.0,"like":96.72},
 "9641502068":{"name":"[🎃] KNIFE DUELS","avg_ccu":9826.5,"min_ccu":5582,"max_ccu":14015,"samples":25,"sess":8.91,"sess_h":24.0,"like":93.81},
 "9662130710":{"name":"[🎃] Phonk Slap 🎵","avg_ccu":1001.6,"min_ccu":676,"max_ccu":1396,"samples":19,"sess":8.84,"sess_h":18.0,"like":91.84},
 "9735583968":{"name":"[UPD] SCP MORPH","avg_ccu":7967.5,"min_ccu":5059,"max_ccu":10409,"samples":25,"sess":9.06,"sess_h":24.0,"like":91.7},
@@ -432,7 +432,7 @@
 "10737656087":{"name":"(🎃UPDATE🎃) THA BRONX 3","avg_ccu":5005.0,"min_ccu":1375,"max_ccu":7684,"samples":25,"sess":18.93,"sess_h":24.0,"like":91.97},
 "10739112966":{"name":"🎃 Street Soccer Pro","avg_ccu":13989.1,"min_ccu":8390,"max_ccu":18958,"samples":25,"sess":11.54,"sess_h":24.0,"like":84.77},
 "10739137760":{"name":"[UPDATE] The Cosalazo 2","avg_ccu":2544.8,"min_ccu":244,"max_ccu":4211,"samples":25,"sess":11.77,"sess_h":24.0,"like":92.45},
-"10740316645":{"name":"[⌛NOW!!!] ⛏️ My Anime Mine","avg_ccu":15041.3,"min_ccu":12909,"max_ccu":16935,"samples":25,"sess":24.74,"sess_h":24.0,"like":98.95},
+"10740316645":{"name":"⛏️ My Anime Mine","avg_ccu":15041.3,"min_ccu":12909,"max_ccu":16935,"samples":25,"sess":24.74,"sess_h":24.0,"like":98.95},
 "10741792653":{"name":"Survive The Swarm [🎃]","avg_ccu":2122.5,"min_ccu":1623,"max_ccu":4286,"samples":25,"sess":9.54,"sess_h":24.0,"like":96.64},
 "10744310825":{"name":"[UPD] Paint to Get Rich 🎨","avg_ccu":8736.3,"min_ccu":4325,"max_ccu":12267,"samples":25,"sess":13.0,"sess_h":24.0,"like":75.09},
 "10746305948":{"name":"Don't Press The Button 7","avg_ccu":9148.1,"min_ccu":5669,"max_ccu":13616,"samples":25,"sess":11.3,"sess_h":24.0,"like":64.12},
