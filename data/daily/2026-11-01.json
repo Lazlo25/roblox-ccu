@@ -1,4 +1,4 @@
-{"date": "2026-11-01", "timezone": "America/New_York", "generated_utc": "2026-11-02T11:10:01Z", "through_et": "24:00", "platform_now": ["2026-11-02T03:10:00Z", 10802244], "genres": {"Simulation": 37.026, "Survival": 15.369, "Roleplay & Avatar Sim": 12.222, "Action": 7.704, "RPG": 7.025, "Shooter": 4.192, "Sports & Racing": 3.639, "Obby & Platformer": 3.391, "Strategy": 2.389, "Party & Casual": 2.105, "Adventure": 1.678, "Entertainment": 1.174, "Shopping": 0.889, "Other": 0.644, "Puzzle": 0.312, "Social": 0.242}, "genre_hours": 25,"games":{
+{"date": "2026-11-01", "timezone": "America/New_York", "generated_utc": "2026-11-02T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-02T03:10:00Z", 10802244], "genres": {"Simulation": 37.026, "Survival": 15.369, "Roleplay & Avatar Sim": 12.222, "Action": 7.704, "RPG": 7.025, "Shooter": 4.192, "Sports & Racing": 3.639, "Obby & Platformer": 3.391, "Strategy": 2.389, "Party & Casual": 2.105, "Adventure": 1.678, "Entertainment": 1.174, "Shopping": 0.889, "Other": 0.644, "Puzzle": 0.312, "Social": 0.242}, "genre_hours": 25,"games":{
 "47545":{"name":"[MAZE]🍕Work at a Pizza Place","avg_ccu":3888.7,"min_ccu":2771,"max_ccu":5101,"samples":25,"sess":12.19,"sess_h":24.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9588.5,"min_ccu":6849,"max_ccu":11330,"samples":25,"sess":8.87,"sess_h":24.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4194.6,"min_ccu":2115,"max_ccu":6072,"samples":25,"sess":12.16,"sess_h":24.0,"like":93.28},
@@ -397,7 +397,7 @@
 "10577588270":{"name":"🦸 +1 Superhero Evolution","avg_ccu":1389.4,"min_ccu":973,"max_ccu":3034,"samples":25,"sess":21.21,"sess_h":24.0,"like":97.58},
 "10578076062":{"name":"[🎃] Adventure Time RPG","avg_ccu":3836.8,"min_ccu":1942,"max_ccu":6067,"samples":25,"sess":7.05,"sess_h":24.0,"like":97.97},
 "10592694097":{"name":"[🎃] Build a PC","avg_ccu":1161.5,"min_ccu":629,"max_ccu":2566,"samples":25,"sess":16.37,"sess_h":24.0,"like":82.98},
-"10593482707":{"name":"[🎃] Build a Keyboard!","avg_ccu":7924.9,"min_ccu":4531,"max_ccu":10918,"samples":25,"sess":10.65,"sess_h":24.0,"like":96.79},
+"10593482707":{"name":"Build a Keyboard!","avg_ccu":7924.9,"min_ccu":4531,"max_ccu":10918,"samples":25,"sess":10.65,"sess_h":24.0,"like":96.79},
 "10599406058":{"name":"Feed the Fire 🔥","avg_ccu":4171.7,"min_ccu":2453,"max_ccu":5361,"samples":25,"sess":15.02,"sess_h":24.0,"like":96.97},
 "10599505531":{"name":"Game Of Life","avg_ccu":8207.6,"min_ccu":4020,"max_ccu":12137,"samples":25,"sess":13.35,"sess_h":24.0,"like":74.67},
 "10623490839":{"name":"[W2🌍] +1 Double Jump Roller Escape!","avg_ccu":5015.5,"min_ccu":2742,"max_ccu":7039,"samples":25,"sess":9.95,"sess_h":24.0,"like":90.66},
@@ -593,7 +593,7 @@
 "10769049113":{"name":"Would You Rather: Queen Contest Outfit Tower👑","avg_ccu":3484.4,"min_ccu":2427,"max_ccu":4587,"samples":25,"sess":6.19,"sess_h":24.0,"like":69.01},
 "10769074808":{"name":"[ASCENSIONS?] Own a Catboy Café","avg_ccu":2055.9,"min_ccu":1532,"max_ccu":2697,"samples":25,"sess":22.09,"sess_h":24.0,"like":91.74},
 "10769078228":{"name":"ROOM 13 [HORROR]","avg_ccu":2259.0,"min_ccu":1270,"max_ccu":2988,"samples":19,"sess":5.68,"sess_h":18.0,"like":82.98},
-"10769083726":{"name":"[CRATES] Skate Tree","avg_ccu":4834.7,"min_ccu":3465,"max_ccu":6750,"samples":25,"sess":7.99,"sess_h":24.0,"like":92.4},
+"10769083726":{"name":"Skate Tree","avg_ccu":4834.7,"min_ccu":3465,"max_ccu":6750,"samples":25,"sess":7.99,"sess_h":24.0,"like":92.4},
 "10769111944":{"name":"Beat Up Verity","avg_ccu":3628.1,"min_ccu":1683,"max_ccu":5788,"samples":25,"sess":8.84,"sess_h":24.0,"like":83.17},
 "10769120871":{"name":"Climb The Locust Tower","avg_ccu":9006.2,"min_ccu":6158,"max_ccu":12461,"samples":25,"sess":8.5,"sess_h":24.0,"like":78.1},
 "10769146204":{"name":"[🎃] Scooter Empire","avg_ccu":237.7,"min_ccu":61,"max_ccu":430,"samples":25,"sess":7.43,"sess_h":24.0,"like":91.83},
