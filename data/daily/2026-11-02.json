@@ -1,4 +1,4 @@
-{"date": "2026-11-02", "timezone": "America/New_York", "generated_utc": "2026-11-03T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-03T04:10:00Z", 8916897], "genres": {"Simulation": 37.867, "Survival": 15.233, "Roleplay & Avatar Sim": 12.027, "Action": 7.561, "RPG": 7.28, "Shooter": 3.952, "Sports & Racing": 3.538, "Obby & Platformer": 3.387, "Strategy": 2.787, "Party & Casual": 2.022, "Adventure": 1.54, "Shopping": 0.908, "Entertainment": 0.738, "Other": 0.5, "Social": 0.335, "Puzzle": 0.325}, "genre_hours": 24,"games":{
+{"date": "2026-11-02", "timezone": "America/New_York", "generated_utc": "2026-11-03T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-03T04:10:00Z", 8916897], "genres": {"Simulation": 37.867, "Survival": 15.233, "Roleplay & Avatar Sim": 12.027, "Action": 7.561, "RPG": 7.28, "Shooter": 3.952, "Sports & Racing": 3.538, "Obby & Platformer": 3.387, "Strategy": 2.787, "Party & Casual": 2.022, "Adventure": 1.54, "Shopping": 0.908, "Entertainment": 0.738, "Other": 0.5, "Social": 0.335, "Puzzle": 0.325}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2962.1,"min_ccu":2143,"max_ccu":4001,"samples":24,"sess":12.36,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":8002.0,"min_ccu":4904,"max_ccu":10485,"samples":24,"sess":8.79,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3060.6,"min_ccu":1890,"max_ccu":4527,"samples":24,"sess":12.16,"sess_h":23.0,"like":93.28},
@@ -371,7 +371,7 @@
 "10432260929":{"name":"[🎃] Omni Heroes","avg_ccu":1346.4,"min_ccu":870,"max_ccu":1789,"samples":14,"sess":7.24,"sess_h":13.0,"like":87.73},
 "10434004927":{"name":"[🎃X200👻] 💪🏻Lifting Simulator: REBORN","avg_ccu":1435.2,"min_ccu":875,"max_ccu":2104,"samples":24,"sess":22.37,"sess_h":23.0,"like":88.02},
 "10436530264":{"name":"Build An Ant Empire","avg_ccu":3810.6,"min_ccu":3175,"max_ccu":4779,"samples":24,"sess":21.81,"sess_h":23.0,"like":95.94},
-"10439568447":{"name":"[ 🍬CANDY + 3X] Anomaly Cafe","avg_ccu":1078.7,"min_ccu":758,"max_ccu":1309,"samples":24,"sess":17.43,"sess_h":23.0,"like":94.59},
+"10439568447":{"name":"[🍬3X] Anomaly Cafe","avg_ccu":1078.7,"min_ccu":758,"max_ccu":1309,"samples":24,"sess":17.43,"sess_h":23.0,"like":94.59},
 "10448094761":{"name":"[🎃] Run a Hotel","avg_ccu":5146.6,"min_ccu":3861,"max_ccu":6860,"samples":24,"sess":22.46,"sess_h":23.0,"like":98.26},
 "10452740285":{"name":"Build a Gun Army","avg_ccu":1847.3,"min_ccu":1482,"max_ccu":2430,"samples":24,"sess":16.16,"sess_h":23.0,"like":98.6},
 "10460801145":{"name":"TROLL Hug Tower","avg_ccu":13125.4,"min_ccu":10445,"max_ccu":17454,"samples":24,"sess":9.83,"sess_h":23.0,"like":85.73},
