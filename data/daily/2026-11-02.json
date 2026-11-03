@@ -1,4 +1,4 @@
-{"date": "2026-11-02", "timezone": "America/New_York", "generated_utc": "2026-11-03T04:10:00Z", "through_et": "23:10", "platform_now": ["2026-11-03T04:10:00Z", 8916897], "genres": {"Simulation": 37.867, "Survival": 15.233, "Roleplay & Avatar Sim": 12.027, "Action": 7.561, "RPG": 7.28, "Shooter": 3.952, "Sports & Racing": 3.538, "Obby & Platformer": 3.387, "Strategy": 2.787, "Party & Casual": 2.022, "Adventure": 1.54, "Shopping": 0.908, "Entertainment": 0.738, "Other": 0.5, "Social": 0.335, "Puzzle": 0.325}, "genre_hours": 24,"games":{
+{"date": "2026-11-02", "timezone": "America/New_York", "generated_utc": "2026-11-03T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-03T04:10:00Z", 8916897], "genres": {"Simulation": 37.867, "Survival": 15.233, "Roleplay & Avatar Sim": 12.027, "Action": 7.561, "RPG": 7.28, "Shooter": 3.952, "Sports & Racing": 3.538, "Obby & Platformer": 3.387, "Strategy": 2.787, "Party & Casual": 2.022, "Adventure": 1.54, "Shopping": 0.908, "Entertainment": 0.738, "Other": 0.5, "Social": 0.335, "Puzzle": 0.325}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2962.1,"min_ccu":2143,"max_ccu":4001,"samples":24,"sess":12.36,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":8002.0,"min_ccu":4904,"max_ccu":10485,"samples":24,"sess":8.79,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3060.6,"min_ccu":1890,"max_ccu":4527,"samples":24,"sess":12.16,"sess_h":23.0,"like":93.28},
@@ -106,7 +106,7 @@
 "3472976893":{"name":"Backrooms🎃","avg_ccu":4773.7,"min_ccu":2790,"max_ccu":6957,"samples":24,"sess":12.18,"sess_h":23.0,"like":82.29},
 "3508322461":{"name":"[🎃] Jujutsu Shenanigans","avg_ccu":88174.2,"min_ccu":51067,"max_ccu":112018,"samples":24,"sess":14.51,"sess_h":23.0,"like":86.32},
 "3541611379":{"name":"🎃| Tower Defense X: BETA","avg_ccu":3952.1,"min_ccu":2752,"max_ccu":5361,"samples":24,"sess":13.3,"sess_h":23.0,"like":94.24},
-"3647333358":{"name":"[🎃THE HOLLOW🎃] Evade","avg_ccu":46030.5,"min_ccu":30702,"max_ccu":67903,"samples":24,"sess":12.2,"sess_h":23.0,"like":93.89},
+"3647333358":{"name":"[🎃HLWN🎃] Evade","avg_ccu":46030.5,"min_ccu":30702,"max_ccu":67903,"samples":24,"sess":12.2,"sess_h":23.0,"like":93.89},
 "3661343497":{"name":"A Lion's Pride Beta - Lion RP 🦁","avg_ccu":2026.0,"min_ccu":1141,"max_ccu":3054,"samples":24,"sess":16.2,"sess_h":23.0,"like":92.09},
 "3706757136":{"name":"British Railway","avg_ccu":719.8,"min_ccu":248,"max_ccu":1280,"samples":24,"sess":20.04,"sess_h":23.0,"like":87.59},
 "3730079862":{"name":"[🎃 HALLOWED REACTOR] Examination","avg_ccu":5389.3,"min_ccu":3380,"max_ccu":7083,"samples":24,"sess":18.34,"sess_h":23.0,"like":92.09},
