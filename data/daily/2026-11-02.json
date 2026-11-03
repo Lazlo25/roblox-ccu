@@ -1,4 +1,4 @@
-{"date": "2026-11-02", "timezone": "America/New_York", "generated_utc": "2026-11-03T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-03T04:10:00Z", 8916897], "genres": {"Simulation": 37.867, "Survival": 15.233, "Roleplay & Avatar Sim": 12.027, "Action": 7.561, "RPG": 7.28, "Shooter": 3.952, "Sports & Racing": 3.538, "Obby & Platformer": 3.387, "Strategy": 2.787, "Party & Casual": 2.022, "Adventure": 1.54, "Shopping": 0.908, "Entertainment": 0.738, "Other": 0.5, "Social": 0.335, "Puzzle": 0.325}, "genre_hours": 24,"games":{
+{"date": "2026-11-02", "timezone": "America/New_York", "generated_utc": "2026-11-03T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-03T04:10:00Z", 8916897], "genres": {"Simulation": 37.867, "Survival": 15.233, "Roleplay & Avatar Sim": 12.027, "Action": 7.561, "RPG": 7.28, "Shooter": 3.952, "Sports & Racing": 3.538, "Obby & Platformer": 3.387, "Strategy": 2.787, "Party & Casual": 2.022, "Adventure": 1.54, "Shopping": 0.908, "Entertainment": 0.738, "Other": 0.5, "Social": 0.335, "Puzzle": 0.325}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2962.1,"min_ccu":2143,"max_ccu":4001,"samples":24,"sess":12.36,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":8002.0,"min_ccu":4904,"max_ccu":10485,"samples":24,"sess":8.79,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3060.6,"min_ccu":1890,"max_ccu":4527,"samples":24,"sess":12.16,"sess_h":23.0,"like":93.28},
@@ -381,7 +381,7 @@
 "10493707858":{"name":"[CH3] Destroy the Sun ☀️","avg_ccu":3579.7,"min_ccu":2298,"max_ccu":5343,"samples":24,"sess":11.29,"sess_h":23.0,"like":95.59},
 "10512942223":{"name":"[UPD 6] Anime Zero","avg_ccu":2543.5,"min_ccu":1897,"max_ccu":3563,"samples":24,"sess":12.46,"sess_h":23.0,"like":97.23},
 "10520829450":{"name":"Spot and Mark!","avg_ccu":4329.4,"min_ccu":2478,"max_ccu":6413,"samples":24,"sess":7.87,"sess_h":23.0,"like":93.8},
-"10526853622":{"name":"Deep Fishing🎣","avg_ccu":5798.0,"min_ccu":4961,"max_ccu":6801,"samples":24,"sess":21.55,"sess_h":23.0,"like":97.2},
+"10526853622":{"name":"[NOW!] Deep Fishing🎣","avg_ccu":5798.0,"min_ccu":4961,"max_ccu":6801,"samples":24,"sess":21.55,"sess_h":23.0,"like":97.2},
 "10532995815":{"name":"[🎃] Mine Antarctica","avg_ccu":622.2,"min_ccu":515,"max_ccu":779,"samples":24,"sess":20.85,"sess_h":23.0,"like":97.54},
 "10539411000":{"name":"🍂🎃 Clean all the Leaves","avg_ccu":3138.8,"min_ccu":2358,"max_ccu":4099,"samples":24,"sess":16.35,"sess_h":23.0,"like":86.26},
 "10541331578":{"name":"[🏰TOWER] Poly Loot⚔️","avg_ccu":2191.1,"min_ccu":1578,"max_ccu":2842,"samples":24,"sess":18.01,"sess_h":23.0,"like":90.47},
@@ -595,7 +595,7 @@
 "10769188452":{"name":"[🎃] Eat Everything In A Grocery Store","avg_ccu":4254.9,"min_ccu":2527,"max_ccu":6193,"samples":24,"sess":12.47,"sess_h":23.0,"like":89.62},
 "10769194813":{"name":"[💫] Steal the Moon","avg_ccu":203.7,"min_ccu":103,"max_ccu":302,"samples":24,"sess":13.14,"sess_h":23.0,"like":73.63},
 "10769205469":{"name":"💪 Juggernaut 💪 Grapple Strike","avg_ccu":1800.9,"min_ccu":636,"max_ccu":3083,"samples":24,"sess":8.32,"sess_h":23.0,"like":71.08},
-"10769249409":{"name":"[🎃] Drive a Cart Downhill!","avg_ccu":9064.4,"min_ccu":5443,"max_ccu":12679,"samples":24,"sess":8.87,"sess_h":23.0,"like":81.51},
+"10769249409":{"name":"[UPD] Drive a Cart Downhill!","avg_ccu":9064.4,"min_ccu":5443,"max_ccu":12679,"samples":24,"sess":8.87,"sess_h":23.0,"like":81.51},
 "10769259605":{"name":"[🔺] Solve The Cube","avg_ccu":3514.5,"min_ccu":351,"max_ccu":8214,"samples":24,"sess":7.08,"sess_h":23.0,"like":78.47},
 "10769266554":{"name":"[UPD🎃] BRASS HELL [INCREMENTAL]","avg_ccu":5100.5,"min_ccu":3882,"max_ccu":6295,"samples":24,"sess":26.76,"sess_h":23.0,"like":92.79},
 "10769268983":{"name":"Build Whatever! [🔨]","avg_ccu":2145.4,"min_ccu":1576,"max_ccu":2960,"samples":24,"sess":13.79,"sess_h":23.0,"like":53.97},
