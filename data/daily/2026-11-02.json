@@ -1,4 +1,4 @@
-{"date": "2026-11-02", "timezone": "America/New_York", "generated_utc": "2026-11-03T17:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-03T04:10:00Z", 8916897], "genres": {"Simulation": 37.867, "Survival": 15.233, "Roleplay & Avatar Sim": 12.027, "Action": 7.561, "RPG": 7.28, "Shooter": 3.952, "Sports & Racing": 3.538, "Obby & Platformer": 3.387, "Strategy": 2.787, "Party & Casual": 2.022, "Adventure": 1.54, "Shopping": 0.908, "Entertainment": 0.738, "Other": 0.5, "Social": 0.335, "Puzzle": 0.325}, "genre_hours": 24,"games":{
+{"date": "2026-11-02", "timezone": "America/New_York", "generated_utc": "2026-11-03T18:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-03T04:10:00Z", 8916897], "genres": {"Simulation": 37.867, "Survival": 15.233, "Roleplay & Avatar Sim": 12.027, "Action": 7.561, "RPG": 7.28, "Shooter": 3.952, "Sports & Racing": 3.538, "Obby & Platformer": 3.387, "Strategy": 2.787, "Party & Casual": 2.022, "Adventure": 1.54, "Shopping": 0.908, "Entertainment": 0.738, "Other": 0.5, "Social": 0.335, "Puzzle": 0.325}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2962.1,"min_ccu":2143,"max_ccu":4001,"samples":24,"sess":12.36,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":8002.0,"min_ccu":4904,"max_ccu":10485,"samples":24,"sess":8.79,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3060.6,"min_ccu":1890,"max_ccu":4527,"samples":24,"sess":12.16,"sess_h":23.0,"like":93.28},
@@ -53,7 +53,7 @@
 "1494262959":{"name":"[🎃] Criminality","avg_ccu":2491.7,"min_ccu":1604,"max_ccu":4449,"samples":24,"sess":16.26,"sess_h":23.0,"like":75.19},
 "1511883870":{"name":"Shindo Life [251]","avg_ccu":2440.2,"min_ccu":1434,"max_ccu":3158,"samples":24,"sess":23.52,"sess_h":23.0,"like":93.89},
 "1516533665":{"name":"Piggy [X2 SEASON XP]","avg_ccu":11257.2,"min_ccu":5475,"max_ccu":16587,"samples":24,"sess":10.84,"sess_h":23.0,"like":90.33},
-"1525626450":{"name":"[🎃] Rensselaer County","avg_ccu":3055.2,"min_ccu":1496,"max_ccu":4747,"samples":24,"sess":13.59,"sess_h":23.0,"like":94.59},
+"1525626450":{"name":"Rensselaer County","avg_ccu":3055.2,"min_ccu":1496,"max_ccu":4747,"samples":24,"sess":13.59,"sess_h":23.0,"like":94.59},
 "1526814825":{"name":"[Blackhawk DAP] War Tycoon","avg_ccu":6058.2,"min_ccu":3637,"max_ccu":9251,"samples":24,"sess":17.81,"sess_h":23.0,"like":91.24},
 "1531130248":{"name":"Tower Heroes [UPD] 🎃","avg_ccu":2172.5,"min_ccu":1059,"max_ccu":3030,"samples":24,"sess":14.92,"sess_h":23.0,"like":89.3},
 "1686885941":{"name":"Brookhaven 🏡RP","avg_ccu":367848.9,"min_ccu":233262,"max_ccu":536762,"samples":24,"sess":16.83,"sess_h":23.0,"like":85.89},
@@ -227,7 +227,7 @@
 "7274244096":{"name":"[UPDATE] Toilet World Roleplay 2","avg_ccu":5738.7,"min_ccu":4104,"max_ccu":7453,"samples":24,"sess":14.64,"sess_h":23.0,"like":91.52},
 "7321712757":{"name":"[CONTRACTS 🎃] Toons Universe","avg_ccu":957.5,"min_ccu":682,"max_ccu":1200,"samples":24,"sess":11.76,"sess_h":23.0,"like":87.9},
 "7326934954":{"name":"99 Nights in the Forest 🔦","avg_ccu":136234.8,"min_ccu":80822,"max_ccu":197807,"samples":24,"sess":15.74,"sess_h":23.0,"like":90.49},
-"7395930870":{"name":"[🎃] Sell Lemons 🍋","avg_ccu":5690.6,"min_ccu":4271,"max_ccu":7494,"samples":24,"sess":17.05,"sess_h":23.0,"like":94.35},
+"7395930870":{"name":"Sell Lemons 🍋","avg_ccu":5690.6,"min_ccu":4271,"max_ccu":7494,"samples":24,"sess":17.05,"sess_h":23.0,"like":94.35},
 "7398552394":{"name":"A desrt [SANDBOX]","avg_ccu":12205.2,"min_ccu":6235,"max_ccu":20810,"samples":24,"sess":16.37,"sess_h":23.0,"like":89.52},
 "7436755782":{"name":"[🎃] Grow a Garden 🌶️","avg_ccu":16309.5,"min_ccu":12883,"max_ccu":21379,"samples":24,"sess":17.66,"sess_h":23.0,"like":89.94},
 "7450497506":{"name":"HOW TO TRAIN YOUR DRAGON","avg_ccu":1191.0,"min_ccu":955,"max_ccu":1371,"samples":5,"like":94.18},
@@ -444,7 +444,7 @@
 "10759401628":{"name":"Destroy Verity 💥🫠","avg_ccu":6885.5,"min_ccu":3537,"max_ccu":10514,"samples":24,"sess":14.92,"sess_h":23.0,"like":71.6},
 "10759430423":{"name":"[W7] +1 Chop Trees for Treasure","avg_ccu":1268.1,"min_ccu":866,"max_ccu":1874,"samples":24,"sess":27.28,"sess_h":23.0,"like":96.23},
 "10759594563":{"name":"[🎃] Choose the Stronger Anime!","avg_ccu":1955.4,"min_ccu":1538,"max_ccu":2493,"samples":24,"sess":11.2,"sess_h":23.0,"like":79.82},
-"10759638075":{"name":"[👻] Pets Universe!","avg_ccu":2736.1,"min_ccu":2398,"max_ccu":2999,"samples":24,"sess":15.03,"sess_h":23.0,"like":98.4},
+"10759638075":{"name":"[🍀] Pets Universe! 🎃","avg_ccu":2736.1,"min_ccu":2398,"max_ccu":2999,"samples":24,"sess":15.03,"sess_h":23.0,"like":98.4},
 "10761375767":{"name":"[🍄🏝️] Surf And Rescue","avg_ccu":6374.4,"min_ccu":4103,"max_ccu":7854,"samples":24,"sess":14.24,"sess_h":23.0,"like":96.74},
 "10762148295":{"name":"[UPD] Something is Wrong With My Dog...","avg_ccu":2833.4,"min_ccu":1547,"max_ccu":4545,"samples":24,"sess":12.71,"sess_h":23.0,"like":75.46},
 "10762175328":{"name":"[💰 WORKS] Simple DONATIONS","avg_ccu":282.2,"min_ccu":242,"max_ccu":349,"samples":24,"sess":12.57,"sess_h":23.0,"like":86.73},
