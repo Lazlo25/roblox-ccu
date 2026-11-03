@@ -1,4 +1,4 @@
-{"date": "2026-11-02", "timezone": "America/New_York", "generated_utc": "2026-11-03T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-03T04:10:00Z", 8916897], "genres": {"Simulation": 37.867, "Survival": 15.233, "Roleplay & Avatar Sim": 12.027, "Action": 7.561, "RPG": 7.28, "Shooter": 3.952, "Sports & Racing": 3.538, "Obby & Platformer": 3.387, "Strategy": 2.787, "Party & Casual": 2.022, "Adventure": 1.54, "Shopping": 0.908, "Entertainment": 0.738, "Other": 0.5, "Social": 0.335, "Puzzle": 0.325}, "genre_hours": 24,"games":{
+{"date": "2026-11-02", "timezone": "America/New_York", "generated_utc": "2026-11-03T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-03T04:10:00Z", 8916897], "genres": {"Simulation": 37.867, "Survival": 15.233, "Roleplay & Avatar Sim": 12.027, "Action": 7.561, "RPG": 7.28, "Shooter": 3.952, "Sports & Racing": 3.538, "Obby & Platformer": 3.387, "Strategy": 2.787, "Party & Casual": 2.022, "Adventure": 1.54, "Shopping": 0.908, "Entertainment": 0.738, "Other": 0.5, "Social": 0.335, "Puzzle": 0.325}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2962.1,"min_ccu":2143,"max_ccu":4001,"samples":24,"sess":12.36,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":8002.0,"min_ccu":4904,"max_ccu":10485,"samples":24,"sess":8.79,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3060.6,"min_ccu":1890,"max_ccu":4527,"samples":24,"sess":12.16,"sess_h":23.0,"like":93.28},
@@ -20,7 +20,7 @@
 "321778215":{"name":"Royale High","avg_ccu":6482.0,"min_ccu":4510,"max_ccu":7815,"samples":24,"sess":19.93,"sess_h":23.0,"like":85.9},
 "371263894":{"name":"Greenville RP (🦇HALLOWEEN!)","avg_ccu":4886.8,"min_ccu":2591,"max_ccu":7002,"samples":24,"sess":15.93,"sess_h":23.0,"like":87.9},
 "372226183":{"name":"Flee the Facility","avg_ccu":25863.0,"min_ccu":9380,"max_ccu":39381,"samples":24,"sess":11.28,"sess_h":23.0,"like":92.1},
-"383310974":{"name":"[✏️2D TUESDAY] Adopt Me!","avg_ccu":198355.5,"min_ccu":138305,"max_ccu":302970,"samples":24,"sess":24.96,"sess_h":23.0,"like":86.38},
+"383310974":{"name":"[🎃] Adopt Me!","avg_ccu":198355.5,"min_ccu":138305,"max_ccu":302970,"samples":24,"sess":24.96,"sess_h":23.0,"like":86.38},
 "540382210":{"name":"[🎃🎃 EVENT!!!] FMR","avg_ccu":1329.8,"min_ccu":767,"max_ccu":1819,"samples":24,"sess":11.73,"sess_h":23.0,"like":94.9},
 "547524060":{"name":"Feather Family 🍂 [Bearded Vulture]","avg_ccu":4067.1,"min_ccu":2045,"max_ccu":6009,"samples":24,"sess":13.46,"sess_h":23.0,"like":91.64},
 "578392296":{"name":"ABA","avg_ccu":13482.7,"min_ccu":9758,"max_ccu":17207,"samples":24,"sess":15.23,"sess_h":23.0,"like":80.67},
@@ -265,7 +265,7 @@
 "8524572339":{"name":"bridger: WESTERN (🎃+ UPD)","avg_ccu":3168.3,"min_ccu":1609,"max_ccu":4626,"samples":24,"sess":20.53,"sess_h":23.0,"like":78.37},
 "8539298853":{"name":"Scary Shawarma Kiosk: the ANOMALY [horror]","avg_ccu":5268.0,"min_ccu":2740,"max_ccu":7917,"samples":24,"sess":11.45,"sess_h":23.0,"like":89.87},
 "8618660961":{"name":"(🎃 HALLOWEEN EVENT!) Mojave Valley (Alpha)","avg_ccu":1135.2,"min_ccu":945,"max_ccu":1294,"samples":5,"like":89.0},
-"8640389608":{"name":"[🎃UPDATE] Summer Donations🌴","avg_ccu":182.9,"min_ccu":113,"max_ccu":255,"samples":24,"sess":11.75,"sess_h":23.0,"like":88.72},
+"8640389608":{"name":"[🌟NEW MAP] Summer Donations🌴","avg_ccu":182.9,"min_ccu":113,"max_ccu":255,"samples":24,"sess":11.75,"sess_h":23.0,"like":88.72},
 "8719555347":{"name":"[💨BURNOUTS💨] Southern Mudding 🚜 OffRoading","avg_ccu":11265.2,"min_ccu":7566,"max_ccu":14535,"samples":24,"sess":12.34,"sess_h":23.0,"like":92.52},
 "8829204428":{"name":"[🍂UPD] Case Simulator RNG","avg_ccu":1643.1,"min_ccu":1315,"max_ccu":2021,"samples":24,"sess":17.69,"sess_h":23.0,"like":97.06},
 "8906870648":{"name":"FREE Fades! 👊","avg_ccu":867.8,"min_ccu":564,"max_ccu":1141,"samples":24,"sess":8.28,"sess_h":23.0,"like":89.91},
@@ -581,7 +581,7 @@
 "10768992869":{"name":"🥟SQUISHY DUMPLING PRISON RUN! (Obby)","avg_ccu":3403.3,"min_ccu":2419,"max_ccu":4624,"samples":24,"sess":8.74,"sess_h":23.0,"like":78.71},
 "10769020444":{"name":"Scare Your Neighbor","avg_ccu":11080.1,"min_ccu":6939,"max_ccu":15705,"samples":24,"sess":13.52,"sess_h":23.0,"like":98.57},
 "10769024512":{"name":"[FPS] Pixel Arena","avg_ccu":3566.2,"min_ccu":2304,"max_ccu":5793,"samples":24,"sess":12.28,"sess_h":23.0,"like":84.11},
-"10769037074":{"name":"[DUELS] Rally Panic! [2 PLAYER RALLY]","avg_ccu":2931.9,"min_ccu":1940,"max_ccu":4229,"samples":8,"sess":5.59,"sess_h":23.0,"like":86.86},
+"10769037074":{"name":"[🎃] Rally Panic! [2 PLAYER RALLY]","avg_ccu":2931.9,"min_ccu":1940,"max_ccu":4229,"samples":8,"sess":5.59,"sess_h":23.0,"like":86.86},
 "10769037827":{"name":"Lumber Empire 🎃","avg_ccu":4561.8,"min_ccu":2949,"max_ccu":6839,"samples":24,"sess":19.57,"sess_h":23.0,"like":91.86},
 "10769043472":{"name":"Superstellar: Next Generation","avg_ccu":1427.6,"min_ccu":697,"max_ccu":2242,"samples":24,"sess":10.26,"sess_h":23.0,"like":95.79},
 "10769049113":{"name":"Would You Rather: Queen Contest Outfit Tower👑","avg_ccu":2641.2,"min_ccu":2109,"max_ccu":3446,"samples":24,"sess":6.14,"sess_h":23.0,"like":68.88},
