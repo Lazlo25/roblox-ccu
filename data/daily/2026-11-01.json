@@ -1,4 +1,4 @@
-{"date": "2026-11-01", "timezone": "America/New_York", "generated_utc": "2026-11-03T03:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-02T03:10:00Z", 10802244], "genres": {"Simulation": 37.026, "Survival": 15.369, "Roleplay & Avatar Sim": 12.222, "Action": 7.704, "RPG": 7.025, "Shooter": 4.192, "Sports & Racing": 3.639, "Obby & Platformer": 3.391, "Strategy": 2.389, "Party & Casual": 2.105, "Adventure": 1.678, "Entertainment": 1.174, "Shopping": 0.889, "Other": 0.644, "Puzzle": 0.312, "Social": 0.242}, "genre_hours": 25,"games":{
+{"date": "2026-11-01", "timezone": "America/New_York", "generated_utc": "2026-11-03T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-02T03:10:00Z", 10802244], "genres": {"Simulation": 37.026, "Survival": 15.369, "Roleplay & Avatar Sim": 12.222, "Action": 7.704, "RPG": 7.025, "Shooter": 4.192, "Sports & Racing": 3.639, "Obby & Platformer": 3.391, "Strategy": 2.389, "Party & Casual": 2.105, "Adventure": 1.678, "Entertainment": 1.174, "Shopping": 0.889, "Other": 0.644, "Puzzle": 0.312, "Social": 0.242}, "genre_hours": 25,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3888.7,"min_ccu":2771,"max_ccu":5101,"samples":25,"sess":12.19,"sess_h":24.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9588.5,"min_ccu":6849,"max_ccu":11330,"samples":25,"sess":8.87,"sess_h":24.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4194.6,"min_ccu":2115,"max_ccu":6072,"samples":25,"sess":12.16,"sess_h":24.0,"like":93.28},
@@ -47,7 +47,7 @@
 "1281592938":{"name":"ENTRENCHED 🥀[🎖️SUBCLASSES🎖️]","avg_ccu":4504.8,"min_ccu":3275,"max_ccu":5646,"samples":25,"sess":14.42,"sess_h":24.0,"like":92.28},
 "1312971993":{"name":"[🎃] Saber Simulator","avg_ccu":2247.6,"min_ccu":1997,"max_ccu":2472,"samples":25,"sess":36.39,"sess_h":24.0,"like":86.27},
 "1374118848":{"name":"[HALLOWEEN] Dragon Generations","avg_ccu":3278.2,"min_ccu":1795,"max_ccu":4392,"samples":25,"sess":39.41,"sess_h":24.0,"like":87.97},
-"1390601379":{"name":"🎃 Combat Warriors","avg_ccu":1750.0,"min_ccu":1302,"max_ccu":2063,"samples":25,"sess":15.32,"sess_h":24.0,"like":83.42},
+"1390601379":{"name":"Combat Warriors","avg_ccu":1750.0,"min_ccu":1302,"max_ccu":2063,"samples":25,"sess":15.32,"sess_h":24.0,"like":83.42},
 "1415710834":{"name":"[🎃] Banana Eats","avg_ccu":4420.9,"min_ccu":2517,"max_ccu":6144,"samples":25,"sess":8.1,"sess_h":24.0,"like":88.69},
 "1451439645":{"name":"King Legacy","avg_ccu":5801.1,"min_ccu":3841,"max_ccu":7771,"samples":25,"sess":20.43,"sess_h":24.0,"like":91.48},
 "1489026993":{"name":"🔪Survive the Killer!","avg_ccu":8640.4,"min_ccu":5662,"max_ccu":11159,"samples":25,"sess":12.87,"sess_h":24.0,"like":90.26},
@@ -211,7 +211,7 @@
 "7018190066":{"name":"[👻EVENT] Dead Rails","avg_ccu":28670.2,"min_ccu":19626,"max_ccu":37585,"samples":25,"sess":16.1,"sess_h":24.0,"like":92.56},
 "7028566528":{"name":"[🎃] Basketball: Zero","avg_ccu":8576.3,"min_ccu":6111,"max_ccu":10685,"samples":25,"sess":14.35,"sess_h":24.0,"like":98.28},
 "7058980030":{"name":"[🎃] Survive Overnight in a Mega Store","avg_ccu":7184.4,"min_ccu":4213,"max_ccu":9600,"samples":25,"sess":9.75,"sess_h":24.0,"like":94.94},
-"7084172542":{"name":"[SUMMON QUEST]Momo City [Beta]","avg_ccu":458.7,"min_ccu":263,"max_ccu":631,"samples":25,"sess":24.35,"sess_h":24.0,"like":89.93},
+"7084172542":{"name":"[🎃]Momo City [Beta]","avg_ccu":458.7,"min_ccu":263,"max_ccu":631,"samples":25,"sess":24.35,"sess_h":24.0,"like":89.93},
 "7089588429":{"name":"(WHEELIE STYLE x BIG UPDATE) Drag Drive Simulator","avg_ccu":13131.0,"min_ccu":1428,"max_ccu":26492,"samples":25,"sess":11.29,"sess_h":24.0,"like":95.61},
 "7094518649":{"name":"Restaurant Tycoon 3","avg_ccu":8557.3,"min_ccu":5320,"max_ccu":11842,"samples":25,"sess":24.7,"sess_h":24.0,"like":95.29},
 "7108384194":{"name":"[🎃UPD] Knife VS Gun DUELS","avg_ccu":9655.2,"min_ccu":5008,"max_ccu":14904,"samples":25,"sess":11.29,"sess_h":24.0,"like":85.83},
