@@ -1,4 +1,4 @@
-{"date": "2026-11-02", "timezone": "America/New_York", "generated_utc": "2026-11-03T18:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-03T04:10:00Z", 8916897], "genres": {"Simulation": 37.867, "Survival": 15.233, "Roleplay & Avatar Sim": 12.027, "Action": 7.561, "RPG": 7.28, "Shooter": 3.952, "Sports & Racing": 3.538, "Obby & Platformer": 3.387, "Strategy": 2.787, "Party & Casual": 2.022, "Adventure": 1.54, "Shopping": 0.908, "Entertainment": 0.738, "Other": 0.5, "Social": 0.335, "Puzzle": 0.325}, "genre_hours": 24,"games":{
+{"date": "2026-11-02", "timezone": "America/New_York", "generated_utc": "2026-11-03T19:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-03T04:10:00Z", 8916897], "genres": {"Simulation": 37.867, "Survival": 15.233, "Roleplay & Avatar Sim": 12.027, "Action": 7.561, "RPG": 7.28, "Shooter": 3.952, "Sports & Racing": 3.538, "Obby & Platformer": 3.387, "Strategy": 2.787, "Party & Casual": 2.022, "Adventure": 1.54, "Shopping": 0.908, "Entertainment": 0.738, "Other": 0.5, "Social": 0.335, "Puzzle": 0.325}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2962.1,"min_ccu":2143,"max_ccu":4001,"samples":24,"sess":12.36,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":8002.0,"min_ccu":4904,"max_ccu":10485,"samples":24,"sess":8.79,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3060.6,"min_ccu":1890,"max_ccu":4527,"samples":24,"sess":12.16,"sess_h":23.0,"like":93.28},
@@ -177,7 +177,7 @@
 "6170143659":{"name":"[🎃] Demonology🕯️","avg_ccu":4174.6,"min_ccu":3141,"max_ccu":5203,"samples":24,"sess":7.44,"sess_h":23.0,"like":95.61},
 "6174994284":{"name":"Savannah Life","avg_ccu":2732.8,"min_ccu":1490,"max_ccu":4001,"samples":24,"sess":15.0,"sess_h":23.0,"like":93.78},
 "6176333237":{"name":"Clarity Over Resonance","avg_ccu":3956.3,"min_ccu":328,"max_ccu":9931,"samples":24,"sess":19.15,"sess_h":23.0,"like":89.62},
-"6260656796":{"name":"[HALLOWEEN] Playground Basketball🎃","avg_ccu":171.3,"min_ccu":30,"max_ccu":406,"samples":24,"sess":6.94,"sess_h":23.0,"like":96.01},
+"6260656796":{"name":"Playground Basketball 🏀","avg_ccu":171.3,"min_ccu":30,"max_ccu":406,"samples":24,"sess":6.94,"sess_h":23.0,"like":96.01},
 "6272727021":{"name":"[🎃HALLOWEEN🎃] Undertale Adventures X","avg_ccu":2462.8,"min_ccu":2232,"max_ccu":2694,"samples":24,"sess":24.48,"sess_h":23.0,"like":92.72},
 "6325068386":{"name":"[ZENTETSU⚡] Blue Lock: Rivals","avg_ccu":13199.2,"min_ccu":7571,"max_ccu":17221,"samples":24,"sess":14.36,"sess_h":23.0,"like":96.63},
 "6331902150":{"name":"Forsaken","avg_ccu":34020.2,"min_ccu":24306,"max_ccu":41062,"samples":24,"sess":17.15,"sess_h":23.0,"like":84.43},
