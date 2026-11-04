@@ -1,4 +1,4 @@
-{"date": "2026-11-02", "timezone": "America/New_York", "generated_utc": "2026-11-03T23:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-03T04:10:00Z", 8916897], "genres": {"Simulation": 37.867, "Survival": 15.233, "Roleplay & Avatar Sim": 12.027, "Action": 7.561, "RPG": 7.28, "Shooter": 3.952, "Sports & Racing": 3.538, "Obby & Platformer": 3.387, "Strategy": 2.787, "Party & Casual": 2.022, "Adventure": 1.54, "Shopping": 0.908, "Entertainment": 0.738, "Other": 0.5, "Social": 0.335, "Puzzle": 0.325}, "genre_hours": 24,"games":{
+{"date": "2026-11-02", "timezone": "America/New_York", "generated_utc": "2026-11-04T00:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-03T04:10:00Z", 8916897], "genres": {"Simulation": 37.867, "Survival": 15.233, "Roleplay & Avatar Sim": 12.027, "Action": 7.561, "RPG": 7.28, "Shooter": 3.952, "Sports & Racing": 3.538, "Obby & Platformer": 3.387, "Strategy": 2.787, "Party & Casual": 2.022, "Adventure": 1.54, "Shopping": 0.908, "Entertainment": 0.738, "Other": 0.5, "Social": 0.335, "Puzzle": 0.325}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2962.1,"min_ccu":2143,"max_ccu":4001,"samples":24,"sess":12.36,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":8002.0,"min_ccu":4904,"max_ccu":10485,"samples":24,"sess":8.79,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3060.6,"min_ccu":1890,"max_ccu":4527,"samples":24,"sess":12.16,"sess_h":23.0,"like":93.28},
@@ -20,7 +20,7 @@
 "321778215":{"name":"Royale High","avg_ccu":6482.0,"min_ccu":4510,"max_ccu":7815,"samples":24,"sess":19.93,"sess_h":23.0,"like":85.9},
 "371263894":{"name":"Greenville RP (🦇HALLOWEEN!)","avg_ccu":4886.8,"min_ccu":2591,"max_ccu":7002,"samples":24,"sess":15.93,"sess_h":23.0,"like":87.9},
 "372226183":{"name":"Flee the Facility","avg_ccu":25863.0,"min_ccu":9380,"max_ccu":39381,"samples":24,"sess":11.28,"sess_h":23.0,"like":92.1},
-"383310974":{"name":"[🎃] Adopt Me!","avg_ccu":198355.5,"min_ccu":138305,"max_ccu":302970,"samples":24,"sess":24.96,"sess_h":23.0,"like":86.38},
+"383310974":{"name":"[✏️2D TUESDAY] Adopt Me!","avg_ccu":198355.5,"min_ccu":138305,"max_ccu":302970,"samples":24,"sess":24.96,"sess_h":23.0,"like":86.38},
 "540382210":{"name":"[🎃🎃 EVENT!!!] FMR","avg_ccu":1329.8,"min_ccu":767,"max_ccu":1819,"samples":24,"sess":11.73,"sess_h":23.0,"like":94.9},
 "547524060":{"name":"Feather Family 🍂","avg_ccu":4067.1,"min_ccu":2045,"max_ccu":6009,"samples":24,"sess":13.46,"sess_h":23.0,"like":91.64},
 "578392296":{"name":"ABA","avg_ccu":13482.7,"min_ccu":9758,"max_ccu":17207,"samples":24,"sess":15.23,"sess_h":23.0,"like":80.67},
@@ -208,7 +208,7 @@
 "6858584271":{"name":"[🚓 LAWS] Fully Streetz 2","avg_ccu":1119.8,"min_ccu":296,"max_ccu":2159,"samples":24,"sess":52.37,"sess_h":23.0,"like":88.0},
 "6931042565":{"name":"[UPD] Volleyball Legends","avg_ccu":44049.3,"min_ccu":28550,"max_ccu":54910,"samples":24,"sess":13.03,"sess_h":23.0,"like":95.15},
 "6945584306":{"name":"[🎃EVENT!] Azure Latch","avg_ccu":8874.5,"min_ccu":4977,"max_ccu":11739,"samples":24,"sess":17.34,"sess_h":23.0,"like":96.76},
-"7008097940":{"name":"[⚔️] Ink Game","avg_ccu":12418.3,"min_ccu":8975,"max_ccu":16740,"samples":24,"sess":13.86,"sess_h":23.0,"like":79.22},
+"7008097940":{"name":"[🎃] Ink Game","avg_ccu":12418.3,"min_ccu":8975,"max_ccu":16740,"samples":24,"sess":13.86,"sess_h":23.0,"like":79.22},
 "7018190066":{"name":"[👻EVENT] Dead Rails","avg_ccu":21898.9,"min_ccu":14874,"max_ccu":29820,"samples":24,"sess":16.06,"sess_h":23.0,"like":92.56},
 "7028566528":{"name":"[🎃] Basketball: Zero","avg_ccu":5910.6,"min_ccu":4628,"max_ccu":6814,"samples":24,"sess":16.1,"sess_h":23.0,"like":98.28},
 "7058980030":{"name":"Survive Overnight in a Mega Store","avg_ccu":4803.7,"min_ccu":2910,"max_ccu":6911,"samples":24,"sess":9.6,"sess_h":23.0,"like":94.93},
