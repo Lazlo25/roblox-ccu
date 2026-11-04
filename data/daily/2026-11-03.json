@@ -1,4 +1,4 @@
-{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-04T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
+{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-04T06:10:01Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2694.1,"min_ccu":2017,"max_ccu":3458,"samples":24,"sess":12.99,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6952.8,"min_ccu":4453,"max_ccu":9872,"samples":24,"sess":8.55,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2842.0,"min_ccu":1638,"max_ccu":4217,"samples":23,"sess":11.82,"sess_h":23.0,"like":93.28},
@@ -483,7 +483,7 @@
 "10765799968":{"name":"[GUILDS] CloverFall","avg_ccu":261.0,"min_ccu":212,"max_ccu":319,"samples":24,"sess":23.76,"sess_h":23.0,"like":94.21},
 "10765841403":{"name":"👁️Steal Or Die [LIMINAL LUCIDITY!]","avg_ccu":5800.0,"min_ccu":2915,"max_ccu":8328,"samples":24,"sess":17.04,"sess_h":23.0,"like":91.07},
 "10765902945":{"name":"[UPDATE 4.5] Anime Legacy Simulator","avg_ccu":4778.0,"min_ccu":4582,"max_ccu":5307,"samples":24,"sess":31.83,"sess_h":23.0,"like":96.03},
-"10765938934":{"name":"[🎉UPD] Roll A Stickman!","avg_ccu":7179.0,"min_ccu":6559,"max_ccu":7703,"samples":24,"sess":18.81,"sess_h":23.0,"like":96.21},
+"10765938934":{"name":"[🎉UPD 2] Roll A Stickman!","avg_ccu":7179.0,"min_ccu":6559,"max_ccu":7703,"samples":24,"sess":18.81,"sess_h":23.0,"like":96.21},
 "10765969301":{"name":"[⛩️JAPAN] Travel Simulator","avg_ccu":1311.2,"min_ccu":709,"max_ccu":3703,"samples":24,"sess":12.3,"sess_h":23.0,"like":80.93},
 "10766026489":{"name":"[🎃] Avataria Life","avg_ccu":2935.3,"min_ccu":1759,"max_ccu":4338,"samples":24,"sess":11.44,"sess_h":23.0,"like":57.97},
 "10766044605":{"name":"Paint and Hide! 🎨","avg_ccu":10052.5,"min_ccu":4290,"max_ccu":16131,"samples":24,"sess":12.56,"sess_h":23.0,"like":72.63},
