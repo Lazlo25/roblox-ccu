@@ -1,4 +1,4 @@
-{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-04T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
+{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-04T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2694.1,"min_ccu":2017,"max_ccu":3458,"samples":24,"sess":12.99,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6952.8,"min_ccu":4453,"max_ccu":9872,"samples":24,"sess":8.55,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2842.0,"min_ccu":1638,"max_ccu":4217,"samples":23,"sess":11.82,"sess_h":23.0,"like":93.28},
@@ -277,7 +277,7 @@
 "8906870648":{"name":"FREE Fades! 👊","avg_ccu":847.0,"min_ccu":542,"max_ccu":1033,"samples":24,"sess":8.33,"sess_h":23.0,"like":89.91},
 "8964956538":{"name":"[🎃Season 2] Steel Crossfire","avg_ccu":909.8,"min_ccu":599,"max_ccu":1263,"samples":24,"sess":8.78,"sess_h":23.0,"like":96.94},
 "9051406594":{"name":"[EVENT🎃] Dueling Grounds ⚔️","avg_ccu":5199.0,"min_ccu":4262,"max_ccu":6637,"samples":24,"sess":7.0,"sess_h":23.0,"like":96.36},
-"9073513091":{"name":"[24H] Anime Apocalypse","avg_ccu":640.8,"min_ccu":512,"max_ccu":735,"samples":24,"sess":10.7,"sess_h":23.0,"like":95.27},
+"9073513091":{"name":"[8H] Anime Apocalypse","avg_ccu":640.8,"min_ccu":512,"max_ccu":735,"samples":24,"sess":10.7,"sess_h":23.0,"like":95.27},
 "9098570654":{"name":"[🎃EVENT] 🧟 Survive the Apocalypse","avg_ccu":7335.5,"min_ccu":5634,"max_ccu":10448,"samples":24,"sess":23.78,"sess_h":23.0,"like":94.12},
 "9141743926":{"name":"[🎃] Catch a Monster","avg_ccu":2525.1,"min_ccu":2369,"max_ccu":2663,"samples":24,"sess":13.41,"sess_h":23.0,"like":97.82},
 "9150731899":{"name":"PRISON RP","avg_ccu":1774.5,"min_ccu":1098,"max_ccu":2604,"samples":24,"sess":23.37,"sess_h":23.0,"like":78.5},
@@ -704,7 +704,7 @@
 "10771327607":{"name":"Punch Out Of Prison","avg_ccu":5122.2,"min_ccu":2347,"max_ccu":7511,"samples":24,"sess":12.94,"sess_h":23.0,"like":85.3},
 "10771403972":{"name":"Thai Quiz Duels [UPDATES]","avg_ccu":6405.0,"min_ccu":744,"max_ccu":14078,"samples":24,"sess":13.52,"sess_h":23.0,"like":63.73},
 "10771406194":{"name":"Flying Tesla Roadster [Open World Update]","avg_ccu":5206.7,"min_ccu":2078,"max_ccu":9415,"samples":24,"sess":9.46,"sess_h":23.0,"like":64.29},
-"10771410956":{"name":"[BOSSFIGHTS] Realistic Ragdoll Playground 💥","avg_ccu":6925.1,"min_ccu":4106,"max_ccu":9568,"samples":24,"sess":11.18,"sess_h":23.0,"like":72.55},
+"10771410956":{"name":"[UPD 🛠️] Realistic Ragdoll Playground 💥","avg_ccu":6925.1,"min_ccu":4106,"max_ccu":9568,"samples":24,"sess":11.18,"sess_h":23.0,"like":72.55},
 "10771421858":{"name":"DONT SPLASH","avg_ccu":72343.1,"min_ccu":46493,"max_ccu":98386,"samples":23,"sess":7.77,"sess_h":23.0,"like":86.96},
 "10771507608":{"name":"🧸 My Small Business","avg_ccu":15231.8,"min_ccu":10093,"max_ccu":19894,"samples":24,"sess":15.93,"sess_h":23.0,"like":95.67},
 "10771584764":{"name":"[🚗] Create A Disaster💥","avg_ccu":5404.3,"min_ccu":4033,"max_ccu":6480,"samples":23,"sess":7.59,"sess_h":23.0,"like":90.04},
