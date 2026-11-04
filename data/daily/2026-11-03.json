@@ -1,4 +1,4 @@
-{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-04T21:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
+{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-04T22:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2694.1,"min_ccu":2017,"max_ccu":3458,"samples":24,"sess":12.99,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6952.8,"min_ccu":4453,"max_ccu":9872,"samples":24,"sess":8.55,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2842.0,"min_ccu":1638,"max_ccu":4217,"samples":23,"sess":11.82,"sess_h":23.0,"like":93.28},
@@ -642,7 +642,7 @@
 "10769903740":{"name":"+1 Slinky Escape","avg_ccu":1768.4,"min_ccu":940,"max_ccu":2815,"samples":24,"sess":8.06,"sess_h":23.0,"like":79.35},
 "10769917361":{"name":"Deliver My Baby!👶","avg_ccu":1663.1,"min_ccu":954,"max_ccu":2489,"samples":24,"sess":9.51,"sess_h":23.0,"like":80.36},
 "10769925758":{"name":"NexRide [UPDATE🎃]","avg_ccu":2153.4,"min_ccu":955,"max_ccu":3609,"samples":23,"sess":9.89,"sess_h":23.0,"like":85.19},
-"10769957062":{"name":"Bug Evolution [🕷️]","avg_ccu":25844.2,"min_ccu":18296,"max_ccu":36176,"samples":24,"sess":12.81,"sess_h":23.0,"like":79.46},
+"10769957062":{"name":"Bug Evolution [🦟]","avg_ccu":25844.2,"min_ccu":18296,"max_ccu":36176,"samples":24,"sess":12.81,"sess_h":23.0,"like":79.46},
 "10769965862":{"name":"[🎃] Find Animal Bones","avg_ccu":3410.0,"min_ccu":2154,"max_ccu":5212,"samples":23,"sess":14.72,"sess_h":23.0,"like":89.92},
 "10769999776":{"name":"FAITHFUL | BETA","avg_ccu":2758.2,"min_ccu":1443,"max_ccu":4333,"samples":23,"sess":7.49,"sess_h":23.0,"like":61.24},
 "10770018231":{"name":"Clone Baby Care (Anomaly)","avg_ccu":9679.6,"min_ccu":6123,"max_ccu":13466,"samples":24,"sess":10.59,"sess_h":23.0,"like":89.89},
