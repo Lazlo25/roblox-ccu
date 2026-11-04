@@ -1,4 +1,4 @@
-{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-04T04:10:00Z", "through_et": "23:10", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
+{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-04T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2694.1,"min_ccu":2017,"max_ccu":3458,"samples":24,"sess":12.99,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6952.8,"min_ccu":4453,"max_ccu":9872,"samples":24,"sess":8.55,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2842.0,"min_ccu":1638,"max_ccu":4217,"samples":23,"sess":11.82,"sess_h":23.0,"like":93.28},
@@ -148,7 +148,7 @@
 "4762958317":{"name":"[FLOOR 3] Sword Art: Eternity","avg_ccu":493.1,"min_ccu":302,"max_ccu":622,"samples":24,"sess":28.92,"sess_h":23.0,"like":85.53},
 "4777817887":{"name":"Blade Ball","avg_ccu":14332.8,"min_ccu":10730,"max_ccu":18871,"samples":23,"sess":12.49,"sess_h":23.0,"like":93.46},
 "4778845442":{"name":"[🔨FIXES] Toilet Tower Defense","avg_ccu":6982.7,"min_ccu":4406,"max_ccu":10549,"samples":24,"sess":13.32,"sess_h":23.0,"like":85.58},
-"4785982047":{"name":"[🎃] FLASHPOINT⚡","avg_ccu":707.4,"min_ccu":451,"max_ccu":905,"samples":24,"sess":12.21,"sess_h":23.0,"like":98.39},
+"4785982047":{"name":"FLASHPOINT⚡","avg_ccu":707.4,"min_ccu":451,"max_ccu":905,"samples":24,"sess":12.21,"sess_h":23.0,"like":98.39},
 "4793836769":{"name":"[🎃HALLOWEEN]🚗Midnight Chasers: Highway Racing","avg_ccu":2044.7,"min_ccu":1786,"max_ccu":2465,"samples":24,"sess":18.24,"sess_h":23.0,"like":97.53},
 "4839802560":{"name":"LifeTogether 🏠 RP","avg_ccu":25932.4,"min_ccu":10839,"max_ccu":43626,"samples":24,"sess":13.94,"sess_h":23.0,"like":90.32},
 "4925331346":{"name":"Giga Mansion Tycoon 🏝️","avg_ccu":3652.8,"min_ccu":2804,"max_ccu":4605,"samples":17,"sess":17.76,"sess_h":16.0,"like":96.06},
@@ -393,7 +393,7 @@
 "10563114921":{"name":"Steal An Egg","avg_ccu":713360.8,"min_ccu":517642,"max_ccu":987082,"samples":23,"sess":13.98,"sess_h":23.0,"like":91.46},
 "10566677406":{"name":"[将] Shogun's Reign","avg_ccu":3051.0,"min_ccu":2324,"max_ccu":3598,"samples":24,"sess":32.32,"sess_h":23.0,"like":90.26},
 "10572887321":{"name":"[UPD] Car DUELS","avg_ccu":957.1,"min_ccu":577,"max_ccu":1386,"samples":24,"sess":11.47,"sess_h":23.0,"like":94.82},
-"10575295323":{"name":"Highway Patrol [K9 DOG]","avg_ccu":3916.5,"min_ccu":2244,"max_ccu":5882,"samples":24,"sess":12.77,"sess_h":23.0,"like":80.72},
+"10575295323":{"name":"Highway Patrol","avg_ccu":3916.5,"min_ccu":2244,"max_ccu":5882,"samples":24,"sess":12.77,"sess_h":23.0,"like":80.72},
 "10577588270":{"name":"🦸 +1 Superhero Evolution","avg_ccu":1039.0,"min_ccu":841,"max_ccu":1246,"samples":24,"sess":21.19,"sess_h":23.0,"like":97.58},
 "10578076062":{"name":"[🎃] Adventure Time RPG","avg_ccu":2456.0,"min_ccu":1228,"max_ccu":4459,"samples":24,"sess":7.1,"sess_h":23.0,"like":97.94},
 "10592694097":{"name":"[🎃] Build a PC","avg_ccu":626.8,"min_ccu":412,"max_ccu":882,"samples":23,"sess":16.92,"sess_h":23.0,"like":82.99},
