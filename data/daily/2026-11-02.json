@@ -1,4 +1,4 @@
-{"date": "2026-11-02", "timezone": "America/New_York", "generated_utc": "2026-11-04T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-03T04:10:00Z", 8916897], "genres": {"Simulation": 37.867, "Survival": 15.233, "Roleplay & Avatar Sim": 12.027, "Action": 7.561, "RPG": 7.28, "Shooter": 3.952, "Sports & Racing": 3.538, "Obby & Platformer": 3.387, "Strategy": 2.787, "Party & Casual": 2.022, "Adventure": 1.54, "Shopping": 0.908, "Entertainment": 0.738, "Other": 0.5, "Social": 0.335, "Puzzle": 0.325}, "genre_hours": 24,"games":{
+{"date": "2026-11-02", "timezone": "America/New_York", "generated_utc": "2026-11-04T03:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-03T04:10:00Z", 8916897], "genres": {"Simulation": 37.867, "Survival": 15.233, "Roleplay & Avatar Sim": 12.027, "Action": 7.561, "RPG": 7.28, "Shooter": 3.952, "Sports & Racing": 3.538, "Obby & Platformer": 3.387, "Strategy": 2.787, "Party & Casual": 2.022, "Adventure": 1.54, "Shopping": 0.908, "Entertainment": 0.738, "Other": 0.5, "Social": 0.335, "Puzzle": 0.325}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2962.1,"min_ccu":2143,"max_ccu":4001,"samples":24,"sess":12.36,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":8002.0,"min_ccu":4904,"max_ccu":10485,"samples":24,"sess":8.79,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3060.6,"min_ccu":1890,"max_ccu":4527,"samples":24,"sess":12.16,"sess_h":23.0,"like":93.28},
@@ -331,7 +331,7 @@
 "10144280947":{"name":"🐒 +1 Speed Monkey Escape","avg_ccu":3661.2,"min_ccu":2347,"max_ccu":5567,"samples":24,"sess":9.09,"sess_h":23.0,"like":97.8},
 "10144587520":{"name":"[PT2 🎃] Anime Card Farm","avg_ccu":3180.4,"min_ccu":2524,"max_ccu":4055,"samples":24,"sess":26.67,"sess_h":23.0,"like":97.37},
 "10148749921":{"name":"Animal Hospital (Anomaly) 🧪","avg_ccu":23200.1,"min_ccu":13746,"max_ccu":32493,"samples":24,"sess":12.0,"sess_h":23.0,"like":93.13},
-"10155360168":{"name":"[GO-KART!] Illegal Soccer","avg_ccu":39754.2,"min_ccu":22745,"max_ccu":53132,"samples":24,"sess":12.32,"sess_h":23.0,"like":86.58},
+"10155360168":{"name":"Illegal Soccer","avg_ccu":39754.2,"min_ccu":22745,"max_ccu":53132,"samples":24,"sess":12.32,"sess_h":23.0,"like":86.58},
 "10173311467":{"name":"[🎃HALLOWEEN EVENT] Ghost Driver","avg_ccu":6808.2,"min_ccu":4723,"max_ccu":9357,"samples":24,"sess":11.8,"sess_h":23.0,"like":97.39},
 "10187294555":{"name":"[⛰️] Mine a Mountain","avg_ccu":776.1,"min_ccu":523,"max_ccu":1161,"samples":16,"sess":11.23,"sess_h":15.0,"like":96.65},
 "10195997258":{"name":"[🎃] Pull a Lucky Fish","avg_ccu":2889.1,"min_ccu":2443,"max_ccu":3465,"samples":24,"sess":24.99,"sess_h":23.0,"like":95.14},
