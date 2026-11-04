@@ -1,4 +1,4 @@
-{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-04T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
+{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-04T14:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2694.1,"min_ccu":2017,"max_ccu":3458,"samples":24,"sess":12.99,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6952.8,"min_ccu":4453,"max_ccu":9872,"samples":24,"sess":8.55,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2842.0,"min_ccu":1638,"max_ccu":4217,"samples":23,"sess":11.82,"sess_h":23.0,"like":93.28},
@@ -519,7 +519,7 @@
 "10767566226":{"name":"Don't Steal My Eggs!","avg_ccu":2721.5,"min_ccu":2121,"max_ccu":3640,"samples":23,"sess":11.04,"sess_h":23.0,"like":94.81},
 "10767567751":{"name":"Bunker vs Verity","avg_ccu":3709.3,"min_ccu":2566,"max_ccu":5015,"samples":23,"sess":19.59,"sess_h":23.0,"like":83.44},
 "10767570793":{"name":"Pixel Basketball","avg_ccu":765.0,"min_ccu":454,"max_ccu":1190,"samples":24,"sess":11.89,"sess_h":23.0,"like":96.57},
-"10767582899":{"name":"[🎃] 📱 Build a Phone Empire","avg_ccu":5717.0,"min_ccu":3849,"max_ccu":7764,"samples":24,"sess":26.25,"sess_h":23.0,"like":88.01},
+"10767582899":{"name":"📱 Build a Phone Empire","avg_ccu":5717.0,"min_ccu":3849,"max_ccu":7764,"samples":24,"sess":26.25,"sess_h":23.0,"like":88.01},
 "10767634248":{"name":"Firefighting Sim 🚒","avg_ccu":6586.2,"min_ccu":4555,"max_ccu":8787,"samples":24,"sess":12.59,"sess_h":23.0,"like":92.05},
 "10767707794":{"name":"Wholesale Empire [TYCOON]","avg_ccu":435.8,"min_ccu":263,"max_ccu":636,"samples":24,"sess":20.3,"sess_h":23.0,"like":72.46},
 "10767717500":{"name":"[🎃 NEW!] Collect Cat Cards!","avg_ccu":1672.1,"min_ccu":1426,"max_ccu":1824,"samples":24,"sess":23.34,"sess_h":23.0,"like":91.98},
@@ -552,7 +552,7 @@
 "10768403168":{"name":"💻 HACKER","avg_ccu":5.8,"min_ccu":0,"max_ccu":12,"samples":24,"sess":4.96,"sess_h":23.0,"like":84.67},
 "10768409236":{"name":"World of Nukes💥","avg_ccu":5920.4,"min_ccu":3978,"max_ccu":8283,"samples":24,"sess":17.86,"sess_h":23.0,"like":91.92},
 "10768418427":{"name":"[👻] First Person Boxing","avg_ccu":701.7,"min_ccu":458,"max_ccu":1116,"samples":24,"sess":9.44,"sess_h":23.0,"like":90.48},
-"10768447121":{"name":"[🔬] +1 Speed Lab Keyboard Escape!","avg_ccu":2544.2,"min_ccu":1658,"max_ccu":4258,"samples":23,"sess":9.6,"sess_h":23.0,"like":81.9},
+"10768447121":{"name":"[X5!!!] +1 Speed Lab Keyboard Escape!","avg_ccu":2544.2,"min_ccu":1658,"max_ccu":4258,"samples":23,"sess":9.6,"sess_h":23.0,"like":81.9},
 "10768449395":{"name":"[W2] Train Pets for Eggs","avg_ccu":4124.6,"min_ccu":2095,"max_ccu":6766,"samples":24,"sess":16.4,"sess_h":23.0,"like":92.92},
 "10768458048":{"name":"Army Commander Tycoon [UPDATE 5]","avg_ccu":4755.1,"min_ccu":3698,"max_ccu":6075,"samples":24,"sess":20.71,"sess_h":23.0,"like":92.68},
 "10768464991":{"name":"🎃 [Pokemon Brick Bronze] PBF (Halloween) 👻","avg_ccu":2712.6,"min_ccu":1732,"max_ccu":3400,"samples":24,"sess":17.43,"sess_h":23.0,"like":96.59},
