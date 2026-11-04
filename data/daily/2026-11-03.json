@@ -1,4 +1,4 @@
-{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-04T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
+{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-04T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2694.1,"min_ccu":2017,"max_ccu":3458,"samples":24,"sess":12.99,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6952.8,"min_ccu":4453,"max_ccu":9872,"samples":24,"sess":8.55,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2842.0,"min_ccu":1638,"max_ccu":4217,"samples":23,"sess":11.82,"sess_h":23.0,"like":93.28},
@@ -494,7 +494,7 @@
 "10766468833":{"name":"Cut a Rock","avg_ccu":15157.1,"min_ccu":9118,"max_ccu":23691,"samples":24,"sess":20.78,"sess_h":23.0,"like":94.55},
 "10766473593":{"name":"Steal and Cure a Zombie","avg_ccu":2428.8,"min_ccu":1871,"max_ccu":3121,"samples":23,"sess":13.38,"sess_h":23.0,"like":88.27},
 "10766506199":{"name":"7 Days Cat-Sitting","avg_ccu":8502.9,"min_ccu":5346,"max_ccu":12207,"samples":24,"sess":7.57,"sess_h":23.0,"like":74.22},
-"10766620257":{"name":"[🏰] Bike For Egg!","avg_ccu":20928.8,"min_ccu":8891,"max_ccu":37537,"samples":24,"sess":13.19,"sess_h":23.0,"like":94.87},
+"10766620257":{"name":"Bike For Egg!","avg_ccu":20928.8,"min_ccu":8891,"max_ccu":37537,"samples":24,"sess":13.19,"sess_h":23.0,"like":94.87},
 "10766812776":{"name":"WideOpen [TESTING, 2XP WEEKEND, CUSTOMIZATION]","avg_ccu":1420.3,"min_ccu":697,"max_ccu":2136,"samples":24,"sess":6.69,"sess_h":23.0,"like":91.98},
 "10766896060":{"name":"[W3🐵]+1 Animal Mog Evolution","avg_ccu":2199.0,"min_ccu":1226,"max_ccu":3955,"samples":23,"sess":11.27,"sess_h":23.0,"like":91.14},
 "10766954651":{"name":"🎃 Word Game [🇷🇺]","avg_ccu":4372.7,"min_ccu":624,"max_ccu":9012,"samples":24,"sess":10.69,"sess_h":23.0,"like":85.65},
