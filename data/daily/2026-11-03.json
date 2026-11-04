@@ -1,4 +1,4 @@
-{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-04T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
+{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-04T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2694.1,"min_ccu":2017,"max_ccu":3458,"samples":24,"sess":12.99,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6952.8,"min_ccu":4453,"max_ccu":9872,"samples":24,"sess":8.55,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2842.0,"min_ccu":1638,"max_ccu":4217,"samples":23,"sess":11.82,"sess_h":23.0,"like":93.28},
@@ -123,7 +123,7 @@
 "3876150506":{"name":"[🚀] Drive World","avg_ccu":2936.5,"min_ccu":1937,"max_ccu":4007,"samples":24,"sess":11.2,"sess_h":23.0,"like":93.55},
 "3936365689":{"name":"[HALLOWEEN!] Clover Retribution","avg_ccu":1967.2,"min_ccu":1650,"max_ccu":2241,"samples":24,"sess":23.67,"sess_h":23.0,"like":92.95},
 "3990106548":{"name":"Baddies 💅","avg_ccu":4971.2,"min_ccu":2039,"max_ccu":7979,"samples":23,"sess":9.04,"sess_h":23.0,"like":83.27},
-"4049246711":{"name":"Timebomb Duels [Alpha]","avg_ccu":11143.8,"min_ccu":5837,"max_ccu":14182,"samples":16,"sess":8.55,"sess_h":15.0,"like":65.29},
+"4049246711":{"name":"🎃 Timebomb Duels [Alpha]","avg_ccu":11143.8,"min_ccu":5837,"max_ccu":14182,"samples":16,"sess":8.55,"sess_h":15.0,"like":65.29},
 "4130569984":{"name":"[HALLOWEEN] Jurassic Blocky","avg_ccu":1736.4,"min_ccu":977,"max_ccu":2281,"samples":24,"sess":10.48,"sess_h":23.0,"like":89.21},
 "4165164803":{"name":"Clip It 😂🎬👗","avg_ccu":4789.3,"min_ccu":2003,"max_ccu":6919,"samples":24,"sess":11.51,"sess_h":23.0,"like":76.35},
 "4261077741":{"name":"[🤑WORKS] PLS WAIT 💸","avg_ccu":1423.5,"min_ccu":1040,"max_ccu":1839,"samples":24,"sess":10.44,"sess_h":23.0,"like":87.99},
@@ -337,7 +337,7 @@
 "10148749921":{"name":"Animal Hospital (Anomaly) 🧪","avg_ccu":17408.1,"min_ccu":12315,"max_ccu":23793,"samples":24,"sess":10.6,"sess_h":23.0,"like":92.91},
 "10155360168":{"name":"Illegal Soccer","avg_ccu":35185.1,"min_ccu":20276,"max_ccu":45373,"samples":24,"sess":12.07,"sess_h":23.0,"like":86.57},
 "10173311467":{"name":"[🎃HALLOWEEN EVENT] Ghost Driver","avg_ccu":5953.0,"min_ccu":4006,"max_ccu":8185,"samples":24,"sess":11.87,"sess_h":23.0,"like":97.39},
-"10195997258":{"name":"[🎃] Pull a Lucky Fish","avg_ccu":2703.4,"min_ccu":2166,"max_ccu":3273,"samples":24,"sess":24.23,"sess_h":23.0,"like":95.14},
+"10195997258":{"name":"Pull a Lucky Fish","avg_ccu":2703.4,"min_ccu":2166,"max_ccu":3273,"samples":24,"sess":24.23,"sess_h":23.0,"like":95.14},
 "10199301628":{"name":"[UPD💰] Merge a Nuke!","avg_ccu":1670.1,"min_ccu":1250,"max_ccu":2441,"samples":24,"sess":9.92,"sess_h":23.0,"like":94.72},
 "10200395747":{"name":"Grow a Garden 2","avg_ccu":965.2,"min_ccu":697,"max_ccu":1411,"samples":24,"sess":14.24,"sess_h":23.0,"like":87.78},
 "10209534490":{"name":"[🎃] Chicken Farm 🐣","avg_ccu":3779.7,"min_ccu":3279,"max_ccu":4420,"samples":24,"sess":17.37,"sess_h":23.0,"like":98.94},
