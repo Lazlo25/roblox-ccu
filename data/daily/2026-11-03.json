@@ -1,4 +1,4 @@
-{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-04T19:10:13Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
+{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-04T20:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2694.1,"min_ccu":2017,"max_ccu":3458,"samples":24,"sess":12.99,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6952.8,"min_ccu":4453,"max_ccu":9872,"samples":24,"sess":8.55,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2842.0,"min_ccu":1638,"max_ccu":4217,"samples":23,"sess":11.82,"sess_h":23.0,"like":93.28},
@@ -83,7 +83,7 @@
 "2544520106":{"name":"[📢UPDATE] World of Stands","avg_ccu":1264.3,"min_ccu":804,"max_ccu":1796,"samples":23,"sess":11.32,"sess_h":23.0,"like":90.47},
 "2619619496":{"name":"[👻Rereleases] BedWars","avg_ccu":18163.9,"min_ccu":12510,"max_ccu":22960,"samples":23,"sess":13.64,"sess_h":23.0,"like":82.3},
 "2640407187":{"name":"(👻) Car Driving Indonesia","avg_ccu":5137.0,"min_ccu":1715,"max_ccu":10618,"samples":24,"sess":20.48,"sess_h":23.0,"like":86.44},
-"2655311011":{"name":"[🎃] Anime Dimensions Simulator","avg_ccu":7236.5,"min_ccu":6589,"max_ccu":8178,"samples":24,"sess":28.89,"sess_h":23.0,"like":97.5},
+"2655311011":{"name":"[🎃] Anime Dimensions","avg_ccu":7236.5,"min_ccu":6589,"max_ccu":8178,"samples":24,"sess":28.89,"sess_h":23.0,"like":97.5},
 "2668101271":{"name":"Fling Things and People","avg_ccu":29743.1,"min_ccu":18974,"max_ccu":43476,"samples":24,"sess":12.01,"sess_h":23.0,"like":80.43},
 "2682938349":{"name":"Wild Horse Islands","avg_ccu":3186.8,"min_ccu":1586,"max_ccu":4591,"samples":24,"sess":18.55,"sess_h":23.0,"like":92.25},
 "2711375305":{"name":"Catalog Avatar Creator","avg_ccu":52314.2,"min_ccu":32220,"max_ccu":67716,"samples":24,"sess":12.47,"sess_h":23.0,"like":93.68},
@@ -613,7 +613,7 @@
 "10769484703":{"name":"[👽] What If Disasters","avg_ccu":9136.7,"min_ccu":6265,"max_ccu":12033,"samples":24,"sess":14.26,"sess_h":23.0,"like":90.61},
 "10769541317":{"name":"[W3] +1 Titan Evolution!","avg_ccu":3023.6,"min_ccu":2287,"max_ccu":4038,"samples":24,"sess":18.94,"sess_h":23.0,"like":91.02},
 "10769541433":{"name":"Ride Level 1-100 Pets","avg_ccu":2444.6,"min_ccu":1410,"max_ccu":4591,"samples":7,"sess":15.18,"sess_h":6.0,"like":79.84},
-"10769542070":{"name":"[CHAPTER 3] Build and Burn","avg_ccu":278.2,"min_ccu":149,"max_ccu":417,"samples":24,"sess":15.71,"sess_h":23.0,"like":73.59},
+"10769542070":{"name":"[UPDATE] Build and Burn","avg_ccu":278.2,"min_ccu":149,"max_ccu":417,"samples":24,"sess":15.71,"sess_h":23.0,"like":73.59},
 "10769542869":{"name":"Build and Drive","avg_ccu":3734.6,"min_ccu":2511,"max_ccu":4807,"samples":24,"sess":13.67,"sess_h":23.0,"like":67.21},
 "10769543567":{"name":"Cat Battles 🐾","avg_ccu":10028.7,"min_ccu":5096,"max_ccu":18059,"samples":24,"sess":7.39,"sess_h":23.0,"like":73.32},
 "10769543742":{"name":"Backseat Rally","avg_ccu":15085.2,"min_ccu":10015,"max_ccu":21112,"samples":24,"sess":9.12,"sess_h":23.0,"like":91.74},
