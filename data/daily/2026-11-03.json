@@ -1,4 +1,4 @@
-{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-05T00:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
+{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-05T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2694.1,"min_ccu":2017,"max_ccu":3458,"samples":24,"sess":12.99,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6952.8,"min_ccu":4453,"max_ccu":9872,"samples":24,"sess":8.55,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2842.0,"min_ccu":1638,"max_ccu":4217,"samples":23,"sess":11.82,"sess_h":23.0,"like":93.28},
@@ -134,7 +134,7 @@
 "4408288935":{"name":"🎃 Ecos: La Brea","avg_ccu":833.2,"min_ccu":410,"max_ccu":1330,"samples":17,"sess":19.18,"sess_h":16.0,"like":91.66},
 "4420562665":{"name":"Ride Storm","avg_ccu":5764.7,"min_ccu":3871,"max_ccu":7747,"samples":24,"sess":11.9,"sess_h":23.0,"like":91.53},
 "4457060041":{"name":"Emergency Emden","avg_ccu":614.0,"min_ccu":104,"max_ccu":1511,"samples":24,"sess":13.33,"sess_h":23.0,"like":87.46},
-"4497460596":{"name":"MORPH WORLD 🤡 [VERITY CLOWNITY]","avg_ccu":603.1,"min_ccu":357,"max_ccu":837,"samples":24,"sess":12.91,"sess_h":23.0,"like":86.18},
+"4497460596":{"name":"MORPH WORLD! [500 CHARACTERS]","avg_ccu":603.1,"min_ccu":357,"max_ccu":837,"samples":24,"sess":12.91,"sess_h":23.0,"like":86.18},
 "4523856444":{"name":"Color or Die 🎨","avg_ccu":3424.3,"min_ccu":1882,"max_ccu":5240,"samples":24,"sess":11.59,"sess_h":23.0,"like":90.05},
 "4540138978":{"name":"Metro Life 🏡 City RP","avg_ccu":6198.2,"min_ccu":3982,"max_ccu":9008,"samples":24,"sess":15.17,"sess_h":23.0,"like":86.77},
 "4568630521":{"name":"[HALLOWEEN] Heroes Battlegrounds","avg_ccu":4242.5,"min_ccu":2732,"max_ccu":5301,"samples":24,"sess":13.06,"sess_h":23.0,"like":85.52},
