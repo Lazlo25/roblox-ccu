@@ -1,11 +1,11 @@
-{"date": "2026-11-04", "timezone": "America/New_York", "generated_utc": "2026-11-05T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-05T04:10:00Z", 7916867], "genres": {"Simulation": 41.464, "Survival": 13.169, "Roleplay & Avatar Sim": 10.969, "RPG": 7.227, "Action": 7.194, "Shooter": 3.974, "Sports & Racing": 3.494, "Obby & Platformer": 3.48, "Strategy": 3.085, "Party & Casual": 2.082, "Adventure": 1.476, "Shopping": 0.949, "Other": 0.479, "Social": 0.365, "Puzzle": 0.316, "Entertainment": 0.277}, "genre_hours": 20,"games":{
+{"date": "2026-11-04", "timezone": "America/New_York", "generated_utc": "2026-11-05T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-05T04:10:00Z", 7916867], "genres": {"Simulation": 41.464, "Survival": 13.169, "Roleplay & Avatar Sim": 10.969, "RPG": 7.227, "Action": 7.194, "Shooter": 3.974, "Sports & Racing": 3.494, "Obby & Platformer": 3.48, "Strategy": 3.085, "Party & Casual": 2.082, "Adventure": 1.476, "Shopping": 0.949, "Other": 0.479, "Social": 0.365, "Puzzle": 0.316, "Entertainment": 0.277}, "genre_hours": 20,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2411.8,"min_ccu":2000,"max_ccu":2956,"samples":20,"sess":12.62,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6363.4,"min_ccu":4157,"max_ccu":9049,"samples":20,"sess":7.95,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2659.9,"min_ccu":1692,"max_ccu":3638,"samples":20,"sess":11.36,"sess_h":23.0,"like":93.28},
 "31970568":{"name":"Theme Park Tycoon 2","avg_ccu":2139.1,"min_ccu":1399,"max_ccu":2925,"samples":20,"sess":19.21,"sess_h":23.0,"like":89.03},
 "66654135":{"name":"Murder Mystery 2","avg_ccu":185948.2,"min_ccu":127899,"max_ccu":250081,"samples":20,"sess":15.35,"sess_h":23.0,"like":90.8},
 "73885730":{"name":"Prison Life","avg_ccu":5082.9,"min_ccu":3429,"max_ccu":6700,"samples":20,"sess":10.82,"sess_h":23.0,"like":85.03},
-"88070565":{"name":"[🛁] Welcome to Bloxburg","avg_ccu":11817.3,"min_ccu":6223,"max_ccu":17259,"samples":20,"sess":22.57,"sess_h":23.0,"like":88.5},
+"88070565":{"name":"[🫧] Welcome to Bloxburg","avg_ccu":11817.3,"min_ccu":6223,"max_ccu":17259,"samples":20,"sess":22.57,"sess_h":23.0,"like":88.5},
 "98839997":{"name":"[🎃Halloween Part 2!] Dinosaur Simulator","avg_ccu":150.8,"min_ccu":98,"max_ccu":204,"samples":20,"sess":17.99,"sess_h":23.0,"like":80.53},
 "98929893":{"name":"[🎃 PT. 2] Dragon Ball Rage","avg_ccu":2658.2,"min_ccu":1422,"max_ccu":3800,"samples":20,"sess":18.06,"sess_h":23.0,"like":90.53},
 "110181652":{"name":"Epic Minigames ✨","avg_ccu":1016.5,"min_ccu":531,"max_ccu":1480,"samples":20,"sess":10.8,"sess_h":23.0,"like":90.59},
@@ -549,7 +549,7 @@
 "10768561721":{"name":"[🏝️] +1 Haki Evolution","avg_ccu":930.1,"min_ccu":740,"max_ccu":1156,"samples":20,"sess":22.99,"sess_h":23.0,"like":94.47},
 "10768595206":{"name":"+1 Vampire Evolution","avg_ccu":2805.3,"min_ccu":1425,"max_ccu":4304,"samples":20,"sess":11.14,"sess_h":23.0,"like":91.38},
 "10768625767":{"name":"Save the Krusty Krab 🍔","avg_ccu":6022.1,"min_ccu":4615,"max_ccu":8643,"samples":20,"sess":12.81,"sess_h":23.0,"like":93.78},
-"10768637423":{"name":"[🎃] Roll a Barber RNG","avg_ccu":466.6,"min_ccu":377,"max_ccu":544,"samples":20,"sess":19.95,"sess_h":23.0,"like":91.78},
+"10768637423":{"name":"[🎃]Barber RNG","avg_ccu":466.6,"min_ccu":377,"max_ccu":544,"samples":20,"sess":19.95,"sess_h":23.0,"like":91.78},
 "10768645719":{"name":"[🌾] Farming Incremental","avg_ccu":839.8,"min_ccu":529,"max_ccu":1260,"samples":20,"sess":17.25,"sess_h":23.0,"like":82.07},
 "10768676548":{"name":"[DEADPOOL] Hide From The Hulk","avg_ccu":1468.3,"min_ccu":952,"max_ccu":2002,"samples":20,"sess":12.6,"sess_h":23.0,"like":88.56},
 "10768677773":{"name":"ATV/UTV | Carolina Leaners","avg_ccu":4391.6,"min_ccu":752,"max_ccu":10593,"samples":20,"sess":21.03,"sess_h":23.0,"like":97.3},
