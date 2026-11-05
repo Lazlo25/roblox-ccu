@@ -1,4 +1,4 @@
-{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-05T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
+{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-05T03:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2694.1,"min_ccu":2017,"max_ccu":3458,"samples":24,"sess":12.99,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6952.8,"min_ccu":4453,"max_ccu":9872,"samples":24,"sess":8.55,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2842.0,"min_ccu":1638,"max_ccu":4217,"samples":23,"sess":11.82,"sess_h":23.0,"like":93.28},
@@ -293,7 +293,7 @@
 "9364041968":{"name":"[LIMITEDS🏎️] Car Sales 2 🏎️","avg_ccu":1225.9,"min_ccu":514,"max_ccu":2073,"samples":23,"sess":15.83,"sess_h":23.0,"like":83.07},
 "9442472087":{"name":"WARDEN 🐲 Sonaria Horror Escape","avg_ccu":1374.9,"min_ccu":946,"max_ccu":1641,"samples":24,"sess":10.28,"sess_h":23.0,"like":92.19},
 "9456333594":{"name":"Bikelife Baltimore","avg_ccu":3135.1,"min_ccu":2216,"max_ccu":4225,"samples":24,"sess":7.44,"sess_h":23.0,"like":67.57},
-"9491545867":{"name":"[🎃BOSS] Break a Brainrot Egg!","avg_ccu":6052.5,"min_ccu":4455,"max_ccu":8031,"samples":24,"sess":10.91,"sess_h":23.0,"like":81.84},
+"9491545867":{"name":"[🎃SOON] Break a Brainrot Egg!","avg_ccu":6052.5,"min_ccu":4455,"max_ccu":8031,"samples":24,"sess":10.91,"sess_h":23.0,"like":81.84},
 "9514625031":{"name":"[🍁] Fling Playground","avg_ccu":4085.7,"min_ccu":2926,"max_ccu":5560,"samples":24,"sess":11.89,"sess_h":23.0,"like":61.69},
 "9534705677":{"name":"[🔥New Secret] Sniper Arena","avg_ccu":12053.2,"min_ccu":7766,"max_ccu":15780,"samples":23,"sess":12.15,"sess_h":23.0,"like":91.78},
 "9551044479":{"name":"Final Swarm [🎃]","avg_ccu":899.5,"min_ccu":643,"max_ccu":1384,"samples":24,"sess":12.96,"sess_h":23.0,"like":97.03},
@@ -431,7 +431,7 @@
 "10740316645":{"name":"⛏️ My Anime Mine","avg_ccu":13614.8,"min_ccu":12005,"max_ccu":15840,"samples":24,"sess":26.28,"sess_h":23.0,"like":98.96},
 "10741792653":{"name":"Survive The Swarm [🎃]","avg_ccu":1673.0,"min_ccu":1165,"max_ccu":3478,"samples":24,"sess":8.87,"sess_h":23.0,"like":96.62},
 "10746305948":{"name":"Don't Press The Button 7","avg_ccu":5672.4,"min_ccu":3609,"max_ccu":8213,"samples":24,"sess":11.05,"sess_h":23.0,"like":64.05},
-"10747719434":{"name":"[🎃V4] Feed A Mosquito","avg_ccu":10485.1,"min_ccu":8558,"max_ccu":14195,"samples":24,"sess":14.25,"sess_h":23.0,"like":82.26},
+"10747719434":{"name":"[🎃V5] Feed A Mosquito","avg_ccu":10485.1,"min_ccu":8558,"max_ccu":14195,"samples":24,"sess":14.25,"sess_h":23.0,"like":82.26},
 "10752743876":{"name":"Trending Emote Dance","avg_ccu":9171.8,"min_ccu":5950,"max_ccu":12013,"samples":24,"sess":12.03,"sess_h":23.0,"like":87.58},
 "10753847141":{"name":"Meet Spiderman","avg_ccu":2713.2,"min_ccu":2084,"max_ccu":3147,"samples":6,"like":89.27},
 "10755887345":{"name":"[🎃] Tame An Animal","avg_ccu":1526.5,"min_ccu":1258,"max_ccu":1817,"samples":24,"sess":15.0,"sess_h":23.0,"like":98.27},
@@ -535,7 +535,7 @@
 "10767928510":{"name":"Pixel Lineage [Dawn Update]","avg_ccu":1779.7,"min_ccu":1538,"max_ccu":2191,"samples":24,"sess":6.44,"sess_h":23.0,"like":98.8},
 "10767946926":{"name":"HUSH: They can hear. (BETA)","avg_ccu":4443.4,"min_ccu":2619,"max_ccu":6910,"samples":23,"sess":16.27,"sess_h":23.0,"like":78.89},
 "10768001180":{"name":"My Bus 🚌","avg_ccu":5148.9,"min_ccu":2841,"max_ccu":8146,"samples":24,"sess":9.45,"sess_h":23.0,"like":83.65},
-"10768001644":{"name":"[🎃UPD] +1 Ride Pets to Fight","avg_ccu":2586.3,"min_ccu":2088,"max_ccu":3490,"samples":24,"sess":22.16,"sess_h":23.0,"like":99.19},
+"10768001644":{"name":"[💥UPD] +1 Ride to Fight","avg_ccu":2586.3,"min_ccu":2088,"max_ccu":3490,"samples":24,"sess":22.16,"sess_h":23.0,"like":99.19},
 "10768003706":{"name":"Create a Robot Fighter","avg_ccu":2836.0,"min_ccu":2263,"max_ccu":3341,"samples":24,"sess":19.46,"sess_h":23.0,"like":82.95},
 "10768046082":{"name":"My Chiikawa Restaurant! 🎃","avg_ccu":2544.6,"min_ccu":1894,"max_ccu":2951,"samples":23,"sess":20.36,"sess_h":23.0,"like":95.87},
 "10768088991":{"name":"Freeze Tag 🧊","avg_ccu":4150.6,"min_ccu":2561,"max_ccu":5320,"samples":22,"sess":11.39,"sess_h":21.0,"like":79.16},
