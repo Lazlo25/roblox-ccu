@@ -1,4 +1,4 @@
-{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-05T03:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
+{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-05T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2694.1,"min_ccu":2017,"max_ccu":3458,"samples":24,"sess":12.99,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6952.8,"min_ccu":4453,"max_ccu":9872,"samples":24,"sess":8.55,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2842.0,"min_ccu":1638,"max_ccu":4217,"samples":23,"sess":11.82,"sess_h":23.0,"like":93.28},
@@ -647,7 +647,7 @@
 "10769999776":{"name":"FAITHFUL | BETA","avg_ccu":2758.2,"min_ccu":1443,"max_ccu":4333,"samples":23,"sess":7.49,"sess_h":23.0,"like":61.24},
 "10770018231":{"name":"Clone Baby Care (Anomaly)","avg_ccu":9679.6,"min_ccu":6123,"max_ccu":13466,"samples":24,"sess":10.59,"sess_h":23.0,"like":89.89},
 "10770021080":{"name":"[Ride] Adopt Your Animal!","avg_ccu":3693.5,"min_ccu":2109,"max_ccu":5474,"samples":24,"sess":12.44,"sess_h":23.0,"like":85.83},
-"10770101026":{"name":"FATHOM [HORROR]","avg_ccu":3464.0,"min_ccu":1240,"max_ccu":5347,"samples":24,"sess":11.21,"sess_h":23.0,"like":96.13},
+"10770101026":{"name":"[CHAPTER 2] FATHOM","avg_ccu":3464.0,"min_ccu":1240,"max_ccu":5347,"samples":24,"sess":11.21,"sess_h":23.0,"like":96.13},
 "10770104321":{"name":"Draw a Flag!","avg_ccu":3582.1,"min_ccu":1619,"max_ccu":6177,"samples":24,"sess":9.0,"sess_h":23.0,"like":50.33},
 "10770197883":{"name":"🎬 Make a Cartoon!","avg_ccu":11038.2,"min_ccu":6544,"max_ccu":15298,"samples":24,"sess":14.29,"sess_h":23.0,"like":70.33},
 "10770198813":{"name":"[🤪] Wacky Games","avg_ccu":3419.8,"min_ccu":2148,"max_ccu":4708,"samples":23,"sess":11.69,"sess_h":23.0,"like":78.63},
