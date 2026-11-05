@@ -1,4 +1,4 @@
-{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-05T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
+{"date": "2026-11-03", "timezone": "America/New_York", "generated_utc": "2026-11-05T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-04T04:10:00Z", 8008062], "genres": {"Simulation": 40.13, "Survival": 13.269, "Roleplay & Avatar Sim": 11.705, "Action": 7.5, "RPG": 7.251, "Shooter": 3.96, "Sports & Racing": 3.693, "Obby & Platformer": 3.486, "Strategy": 2.935, "Party & Casual": 2.087, "Adventure": 1.499, "Shopping": 0.927, "Other": 0.488, "Entertainment": 0.415, "Social": 0.329, "Puzzle": 0.325}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2694.1,"min_ccu":2017,"max_ccu":3458,"samples":24,"sess":12.99,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6952.8,"min_ccu":4453,"max_ccu":9872,"samples":24,"sess":8.55,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2842.0,"min_ccu":1638,"max_ccu":4217,"samples":23,"sess":11.82,"sess_h":23.0,"like":93.28},
@@ -425,7 +425,7 @@
 "10725799494":{"name":"Wash the Car 🧽","avg_ccu":5560.4,"min_ccu":3351,"max_ccu":8424,"samples":24,"sess":11.87,"sess_h":23.0,"like":88.61},
 "10732236937":{"name":"[ Battra ] Kaiju Alpha","avg_ccu":4828.2,"min_ccu":2623,"max_ccu":6844,"samples":24,"sess":15.01,"sess_h":23.0,"like":92.33},
 "10733617110":{"name":"[👁️‍🗨️MIMIC] Scary Baboon Reimagined","avg_ccu":11622.6,"min_ccu":8029,"max_ccu":14242,"samples":24,"sess":9.56,"sess_h":23.0,"like":88.81},
-"10737656087":{"name":"(🎃UPDATE🎃) THA BRONX 3","avg_ccu":4183.7,"min_ccu":1075,"max_ccu":7236,"samples":24,"sess":19.12,"sess_h":23.0,"like":91.99},
+"10737656087":{"name":"🎃THA BRONX 3🔪","avg_ccu":4183.7,"min_ccu":1075,"max_ccu":7236,"samples":24,"sess":19.12,"sess_h":23.0,"like":91.99},
 "10739112966":{"name":"Street Soccer Pro","avg_ccu":10365.5,"min_ccu":5876,"max_ccu":14063,"samples":24,"sess":11.64,"sess_h":23.0,"like":84.74},
 "10739137760":{"name":"[UPDATE] The Cosalazo 2","avg_ccu":1660.6,"min_ccu":148,"max_ccu":3140,"samples":24,"sess":11.65,"sess_h":23.0,"like":92.46},
 "10740316645":{"name":"⛏️ My Anime Mine","avg_ccu":13614.8,"min_ccu":12005,"max_ccu":15840,"samples":24,"sess":26.28,"sess_h":23.0,"like":98.96},
@@ -593,7 +593,7 @@
 "10769194813":{"name":"[💫] Steal the Moon","avg_ccu":132.0,"min_ccu":81,"max_ccu":208,"samples":23,"sess":12.97,"sess_h":23.0,"like":73.62},
 "10769205469":{"name":"💪 Juggernaut 💪 Grapple Strike","avg_ccu":1776.9,"min_ccu":679,"max_ccu":2942,"samples":24,"sess":8.11,"sess_h":23.0,"like":71.28},
 "10769249409":{"name":"[UPD] Drive a Cart Downhill!","avg_ccu":6466.5,"min_ccu":3865,"max_ccu":8493,"samples":24,"sess":8.49,"sess_h":23.0,"like":81.32},
-"10769259605":{"name":"[🔺] Solve The Cube","avg_ccu":2766.7,"min_ccu":260,"max_ccu":7280,"samples":24,"sess":7.39,"sess_h":23.0,"like":78.33},
+"10769259605":{"name":"[4x4 UPD!] Solve The Cube","avg_ccu":2766.7,"min_ccu":260,"max_ccu":7280,"samples":24,"sess":7.39,"sess_h":23.0,"like":78.33},
 "10769266554":{"name":"[UPD🎃] BRASS HELL [INCREMENTAL]","avg_ccu":4360.5,"min_ccu":3367,"max_ccu":5461,"samples":23,"sess":26.29,"sess_h":23.0,"like":92.58},
 "10769268983":{"name":"Build Whatever! [🔨]","avg_ccu":1759.0,"min_ccu":1275,"max_ccu":2200,"samples":17,"sess":13.64,"sess_h":16.0,"like":54.31},
 "10769279468":{"name":"Build An Anime Character","avg_ccu":3582.9,"min_ccu":2252,"max_ccu":4586,"samples":24,"sess":14.31,"sess_h":23.0,"like":66.16},
