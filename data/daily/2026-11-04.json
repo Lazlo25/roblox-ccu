@@ -1,4 +1,4 @@
-{"date": "2026-11-04", "timezone": "America/New_York", "generated_utc": "2026-11-05T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-05T04:10:00Z", 7916867], "genres": {"Simulation": 41.464, "Survival": 13.169, "Roleplay & Avatar Sim": 10.969, "RPG": 7.227, "Action": 7.194, "Shooter": 3.974, "Sports & Racing": 3.494, "Obby & Platformer": 3.48, "Strategy": 3.085, "Party & Casual": 2.082, "Adventure": 1.476, "Shopping": 0.949, "Other": 0.479, "Social": 0.365, "Puzzle": 0.316, "Entertainment": 0.277}, "genre_hours": 20,"games":{
+{"date": "2026-11-04", "timezone": "America/New_York", "generated_utc": "2026-11-05T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-05T04:10:00Z", 7916867], "genres": {"Simulation": 41.464, "Survival": 13.169, "Roleplay & Avatar Sim": 10.969, "RPG": 7.227, "Action": 7.194, "Shooter": 3.974, "Sports & Racing": 3.494, "Obby & Platformer": 3.48, "Strategy": 3.085, "Party & Casual": 2.082, "Adventure": 1.476, "Shopping": 0.949, "Other": 0.479, "Social": 0.365, "Puzzle": 0.316, "Entertainment": 0.277}, "genre_hours": 20,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2411.8,"min_ccu":2000,"max_ccu":2956,"samples":20,"sess":12.62,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6363.4,"min_ccu":4157,"max_ccu":9049,"samples":20,"sess":7.95,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2659.9,"min_ccu":1692,"max_ccu":3638,"samples":20,"sess":11.36,"sess_h":23.0,"like":93.28},
@@ -383,7 +383,7 @@
 "10572887321":{"name":"[UPD] Car DUELS","avg_ccu":896.5,"min_ccu":609,"max_ccu":1276,"samples":20,"sess":10.94,"sess_h":23.0,"like":94.81},
 "10575295323":{"name":"Highway Patrol","avg_ccu":3223.1,"min_ccu":2065,"max_ccu":4406,"samples":20,"sess":11.99,"sess_h":23.0,"like":80.72},
 "10577588270":{"name":"🦸 +1 Superhero Evolution","avg_ccu":884.3,"min_ccu":791,"max_ccu":1034,"samples":20,"sess":20.4,"sess_h":23.0,"like":97.58},
-"10578076062":{"name":"[🎃] Adventure Time RPG","avg_ccu":2337.2,"min_ccu":1149,"max_ccu":4177,"samples":20,"sess":7.35,"sess_h":23.0,"like":97.95},
+"10578076062":{"name":"Adventure Time RPG","avg_ccu":2337.2,"min_ccu":1149,"max_ccu":4177,"samples":20,"sess":7.35,"sess_h":23.0,"like":97.95},
 "10592694097":{"name":"[🎃] Build a PC","avg_ccu":491.4,"min_ccu":359,"max_ccu":683,"samples":20,"sess":16.18,"sess_h":23.0,"like":83.03},
 "10593482707":{"name":"Build a Keyboard!","avg_ccu":4315.4,"min_ccu":3096,"max_ccu":6239,"samples":20,"sess":10.08,"sess_h":23.0,"like":96.78},
 "10599505531":{"name":"Game Of Life","avg_ccu":4268.6,"min_ccu":2264,"max_ccu":5989,"samples":20,"sess":12.96,"sess_h":23.0,"like":74.92},
