@@ -1,4 +1,4 @@
-{"date": "2026-11-04", "timezone": "America/New_York", "generated_utc": "2026-11-05T20:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-05T04:10:00Z", 7916867], "genres": {"Simulation": 41.464, "Survival": 13.169, "Roleplay & Avatar Sim": 10.969, "RPG": 7.227, "Action": 7.194, "Shooter": 3.974, "Sports & Racing": 3.494, "Obby & Platformer": 3.48, "Strategy": 3.085, "Party & Casual": 2.082, "Adventure": 1.476, "Shopping": 0.949, "Other": 0.479, "Social": 0.365, "Puzzle": 0.316, "Entertainment": 0.277}, "genre_hours": 20,"games":{
+{"date": "2026-11-04", "timezone": "America/New_York", "generated_utc": "2026-11-05T21:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-05T04:10:00Z", 7916867], "genres": {"Simulation": 41.464, "Survival": 13.169, "Roleplay & Avatar Sim": 10.969, "RPG": 7.227, "Action": 7.194, "Shooter": 3.974, "Sports & Racing": 3.494, "Obby & Platformer": 3.48, "Strategy": 3.085, "Party & Casual": 2.082, "Adventure": 1.476, "Shopping": 0.949, "Other": 0.479, "Social": 0.365, "Puzzle": 0.316, "Entertainment": 0.277}, "genre_hours": 20,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2411.8,"min_ccu":2000,"max_ccu":2956,"samples":20,"sess":12.62,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6363.4,"min_ccu":4157,"max_ccu":9049,"samples":20,"sess":7.95,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2659.9,"min_ccu":1692,"max_ccu":3638,"samples":20,"sess":11.36,"sess_h":23.0,"like":93.28},
@@ -652,7 +652,7 @@
 "10770370806":{"name":"Find The Country 🌍","avg_ccu":2189.6,"min_ccu":1106,"max_ccu":4434,"samples":16,"sess":8.72,"sess_h":19.0,"like":46.8},
 "10770382905":{"name":"Teach Your Granny How To Drive! 🎙️","avg_ccu":4494.6,"min_ccu":2344,"max_ccu":6749,"samples":20,"sess":6.59,"sess_h":23.0,"like":57.92},
 "10770404227":{"name":"[UPD] Escape Prison with a Toothpick","avg_ccu":2639.8,"min_ccu":1554,"max_ccu":4073,"samples":20,"sess":15.34,"sess_h":23.0,"like":97.58},
-"10770431439":{"name":"[🎃BUNNY🐇] 7 Days as a Pet","avg_ccu":2605.7,"min_ccu":1253,"max_ccu":3646,"samples":20,"sess":11.13,"sess_h":23.0,"like":88.1},
+"10770431439":{"name":"7 Days as a Pet [🔧MEGA UPDATE🌳]","avg_ccu":2605.7,"min_ccu":1253,"max_ccu":3646,"samples":20,"sess":11.13,"sess_h":23.0,"like":88.1},
 "10770458796":{"name":"Fake Dead or DIE","avg_ccu":3568.2,"min_ccu":2260,"max_ccu":5691,"samples":20,"sess":8.54,"sess_h":23.0,"like":75.7},
 "10770466814":{"name":"[🎃] Clean the Moon!","avg_ccu":11859.1,"min_ccu":6713,"max_ccu":17565,"samples":20,"sess":21.04,"sess_h":23.0,"like":93.96},
 "10770568427":{"name":"Fart Together [1-4 PLAYER OBBY] 💨","avg_ccu":6071.4,"min_ccu":4524,"max_ccu":8335,"samples":20,"sess":9.12,"sess_h":23.0,"like":95.77},
