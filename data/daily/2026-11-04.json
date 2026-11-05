@@ -1,4 +1,4 @@
-{"date": "2026-11-04", "timezone": "America/New_York", "generated_utc": "2026-11-05T22:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-05T04:10:00Z", 7916867], "genres": {"Simulation": 41.464, "Survival": 13.169, "Roleplay & Avatar Sim": 10.969, "RPG": 7.227, "Action": 7.194, "Shooter": 3.974, "Sports & Racing": 3.494, "Obby & Platformer": 3.48, "Strategy": 3.085, "Party & Casual": 2.082, "Adventure": 1.476, "Shopping": 0.949, "Other": 0.479, "Social": 0.365, "Puzzle": 0.316, "Entertainment": 0.277}, "genre_hours": 20,"games":{
+{"date": "2026-11-04", "timezone": "America/New_York", "generated_utc": "2026-11-05T23:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-05T04:10:00Z", 7916867], "genres": {"Simulation": 41.464, "Survival": 13.169, "Roleplay & Avatar Sim": 10.969, "RPG": 7.227, "Action": 7.194, "Shooter": 3.974, "Sports & Racing": 3.494, "Obby & Platformer": 3.48, "Strategy": 3.085, "Party & Casual": 2.082, "Adventure": 1.476, "Shopping": 0.949, "Other": 0.479, "Social": 0.365, "Puzzle": 0.316, "Entertainment": 0.277}, "genre_hours": 20,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2411.8,"min_ccu":2000,"max_ccu":2956,"samples":20,"sess":12.62,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6363.4,"min_ccu":4157,"max_ccu":9049,"samples":20,"sess":7.95,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2659.9,"min_ccu":1692,"max_ccu":3638,"samples":20,"sess":11.36,"sess_h":23.0,"like":93.28},
@@ -16,7 +16,7 @@
 "187796008":{"name":"[HALLOWS] Those Who Remain","avg_ccu":460.9,"min_ccu":314,"max_ccu":664,"samples":20,"sess":16.89,"sess_h":23.0,"like":94.14},
 "210851291":{"name":"Build A Boat For Treasure","avg_ccu":9238.4,"min_ccu":6064,"max_ccu":12776,"samples":20,"sess":17.55,"sess_h":23.0,"like":93.39},
 "245662005":{"name":"Jailbreak 🍁🍁","avg_ccu":3758.1,"min_ccu":2948,"max_ccu":4718,"samples":20,"sess":11.72,"sess_h":23.0,"like":87.73},
-"274816972":{"name":"[TITAN ATTACK💥] Car Crushers 2 - Physics Sim","avg_ccu":1215.0,"min_ccu":775,"max_ccu":1830,"samples":20,"sess":12.99,"sess_h":23.0,"like":93.47},
+"274816972":{"name":"[🍬] Car Crushers 2 - Physics Simulation","avg_ccu":1215.0,"min_ccu":775,"max_ccu":1830,"samples":20,"sess":12.99,"sess_h":23.0,"like":93.47},
 "321778215":{"name":"Royale High","avg_ccu":5211.8,"min_ccu":3709,"max_ccu":6581,"samples":20,"sess":22.52,"sess_h":23.0,"like":85.9},
 "371263894":{"name":"Greenville RP (🦇HALLOWEEN!)","avg_ccu":4125.8,"min_ccu":2356,"max_ccu":6171,"samples":20,"sess":15.81,"sess_h":23.0,"like":87.9},
 "372226183":{"name":"Flee the Facility","avg_ccu":15717.1,"min_ccu":5164,"max_ccu":29234,"samples":20,"sess":11.37,"sess_h":23.0,"like":92.09},
