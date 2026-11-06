@@ -1,4 +1,4 @@
-{"date": "2026-11-04", "timezone": "America/New_York", "generated_utc": "2026-11-06T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-05T04:10:00Z", 7916867], "genres": {"Simulation": 41.464, "Survival": 13.169, "Roleplay & Avatar Sim": 10.969, "RPG": 7.227, "Action": 7.194, "Shooter": 3.974, "Sports & Racing": 3.494, "Obby & Platformer": 3.48, "Strategy": 3.085, "Party & Casual": 2.082, "Adventure": 1.476, "Shopping": 0.949, "Other": 0.479, "Social": 0.365, "Puzzle": 0.316, "Entertainment": 0.277}, "genre_hours": 20,"games":{
+{"date": "2026-11-04", "timezone": "America/New_York", "generated_utc": "2026-11-06T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-05T04:10:00Z", 7916867], "genres": {"Simulation": 41.464, "Survival": 13.169, "Roleplay & Avatar Sim": 10.969, "RPG": 7.227, "Action": 7.194, "Shooter": 3.974, "Sports & Racing": 3.494, "Obby & Platformer": 3.48, "Strategy": 3.085, "Party & Casual": 2.082, "Adventure": 1.476, "Shopping": 0.949, "Other": 0.479, "Social": 0.365, "Puzzle": 0.316, "Entertainment": 0.277}, "genre_hours": 20,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2411.8,"min_ccu":2000,"max_ccu":2956,"samples":20,"sess":12.62,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6363.4,"min_ccu":4157,"max_ccu":9049,"samples":20,"sess":7.95,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2659.9,"min_ccu":1692,"max_ccu":3638,"samples":20,"sess":11.36,"sess_h":23.0,"like":93.28},
@@ -72,7 +72,7 @@
 "2139712082":{"name":"[😈HALLOWEEN PART 5] Project Baki","avg_ccu":302.6,"min_ccu":251,"max_ccu":351,"samples":20,"sess":38.9,"sess_h":23.0,"like":79.91},
 "2157872230":{"name":"Infectious Smile [HALLOWEEN]","avg_ccu":2715.7,"min_ccu":1948,"max_ccu":3502,"samples":20,"sess":12.22,"sess_h":23.0,"like":78.67},
 "2251388500":{"name":"Twisted [BETA]","avg_ccu":1640.8,"min_ccu":1092,"max_ccu":2132,"samples":20,"sess":11.2,"sess_h":23.0,"like":90.4},
-"2294168059":{"name":"[🎃] The Mimic","avg_ccu":4359.9,"min_ccu":3569,"max_ccu":5474,"samples":20,"sess":12.33,"sess_h":23.0,"like":90.07},
+"2294168059":{"name":"[NIGHTMARE] The Mimic","avg_ccu":4359.9,"min_ccu":3569,"max_ccu":5474,"samples":20,"sess":12.33,"sess_h":23.0,"like":90.07},
 "2309918273":{"name":"[🎃HOLLOVVEEN] VV: ULTIMATUM","avg_ccu":1685.5,"min_ccu":1284,"max_ccu":2049,"samples":20,"sess":25.81,"sess_h":23.0,"like":90.34},
 "2316994223":{"name":"Pet Simulator X! 🐾","avg_ccu":718.4,"min_ccu":472,"max_ccu":1113,"samples":20,"sess":11.18,"sess_h":23.0,"like":91.44},
 "2324018757":{"name":"Roblox Is Unbreakable","avg_ccu":2683.7,"min_ccu":1874,"max_ccu":3438,"samples":20,"sess":18.72,"sess_h":23.0,"like":86.74},
@@ -619,7 +619,7 @@
 "10769835310":{"name":"Clean a Painting","avg_ccu":2896.9,"min_ccu":2181,"max_ccu":3892,"samples":20,"sess":16.23,"sess_h":23.0,"like":98.55},
 "10769842326":{"name":"+1 Domino Per Step","avg_ccu":1425.5,"min_ccu":728,"max_ccu":2448,"samples":20,"sess":8.47,"sess_h":23.0,"like":77.35},
 "10769850160":{"name":"Eat THE Ice Cream 🍨","avg_ccu":5810.4,"min_ccu":2305,"max_ccu":9025,"samples":20,"sess":10.14,"sess_h":23.0,"like":91.65},
-"10769851460":{"name":"Criminal Simulator 💰 [ALPHA]","avg_ccu":15977.3,"min_ccu":12088,"max_ccu":21279,"samples":20,"sess":18.01,"sess_h":23.0,"like":91.13},
+"10769851460":{"name":"Criminal Simulator 💰","avg_ccu":15977.3,"min_ccu":12088,"max_ccu":21279,"samples":20,"sess":18.01,"sess_h":23.0,"like":91.13},
 "10769857262":{"name":"REALISTIC HOME DEFENSE","avg_ccu":3039.5,"min_ccu":1827,"max_ccu":4544,"samples":20,"sess":12.6,"sess_h":23.0,"like":81.04},
 "10769869378":{"name":"Don’t Miss Your Flight! ✈️","avg_ccu":1762.2,"min_ccu":968,"max_ccu":3421,"samples":20,"sess":10.45,"sess_h":23.0,"like":55.06},
 "10769892805":{"name":"Hide In Drawings 🎨","avg_ccu":1748.8,"min_ccu":998,"max_ccu":2985,"samples":20,"sess":7.64,"sess_h":23.0,"like":86.35},
