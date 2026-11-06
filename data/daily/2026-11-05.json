@@ -1,4 +1,4 @@
-{"date": "2026-11-05", "timezone": "America/New_York", "generated_utc": "2026-11-06T21:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-06T04:10:00Z", 8701996], "genres": {"Simulation": 41.815, "Survival": 13.475, "Roleplay & Avatar Sim": 10.645, "RPG": 7.204, "Action": 7.015, "Shooter": 4.132, "Obby & Platformer": 3.495, "Sports & Racing": 3.446, "Strategy": 3.095, "Party & Casual": 1.958, "Adventure": 1.5, "Shopping": 0.93, "Other": 0.491, "Social": 0.291, "Puzzle": 0.277, "Entertainment": 0.231}, "genre_hours": 24,"games":{
+{"date": "2026-11-05", "timezone": "America/New_York", "generated_utc": "2026-11-06T22:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-06T04:10:00Z", 8701996], "genres": {"Simulation": 41.815, "Survival": 13.475, "Roleplay & Avatar Sim": 10.645, "RPG": 7.204, "Action": 7.015, "Shooter": 4.132, "Obby & Platformer": 3.495, "Sports & Racing": 3.446, "Strategy": 3.095, "Party & Casual": 1.958, "Adventure": 1.5, "Shopping": 0.93, "Other": 0.491, "Social": 0.291, "Puzzle": 0.277, "Entertainment": 0.231}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2326.0,"min_ccu":1627,"max_ccu":2933,"samples":24,"sess":13.04,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6433.2,"min_ccu":4063,"max_ccu":8977,"samples":24,"sess":8.66,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2882.5,"min_ccu":1650,"max_ccu":4227,"samples":24,"sess":12.04,"sess_h":23.0,"like":93.28},
@@ -475,7 +475,7 @@
 "10766954651":{"name":"🎃 Игра в Слова [🇷🇺]","avg_ccu":2898.4,"min_ccu":391,"max_ccu":6888,"samples":24,"sess":10.31,"sess_h":23.0,"like":85.61},
 "10766957927":{"name":"[⚔️SIEGE] +1 Gun Forge 🎃","avg_ccu":4111.1,"min_ccu":3332,"max_ccu":5142,"samples":24,"sess":33.55,"sess_h":23.0,"like":95.85},
 "10766972131":{"name":"Throw Food For Animals","avg_ccu":122015.9,"min_ccu":77951,"max_ccu":184230,"samples":24,"sess":18.35,"sess_h":23.0,"like":94.16},
-"10767012496":{"name":"[🎃] Turbo Soccer : Beta 1.0","avg_ccu":12167.1,"min_ccu":3971,"max_ccu":20078,"samples":24,"sess":4.74,"sess_h":23.0,"like":92.39},
+"10767012496":{"name":"Turbo Soccer - Beta","avg_ccu":12167.1,"min_ccu":3971,"max_ccu":20078,"samples":24,"sess":4.74,"sess_h":23.0,"like":92.39},
 "10767110259":{"name":"[🎃] +1 Arm Length 💪","avg_ccu":4409.5,"min_ccu":2566,"max_ccu":6030,"samples":24,"sess":10.79,"sess_h":23.0,"like":93.39},
 "10767138232":{"name":"Kukirin Life [Testing]","avg_ccu":15179.0,"min_ccu":4224,"max_ccu":32579,"samples":24,"sess":11.01,"sess_h":23.0,"like":86.48},
 "10767201394":{"name":"Scooter Duo 🛴 [2 Player Obby]","avg_ccu":3081.6,"min_ccu":1819,"max_ccu":4633,"samples":24,"sess":7.76,"sess_h":23.0,"like":97.05},
@@ -553,7 +553,7 @@
 "10768891670":{"name":"Make The Logo!","avg_ccu":6793.5,"min_ccu":3187,"max_ccu":10705,"samples":24,"sess":9.68,"sess_h":23.0,"like":68.58},
 "10768934591":{"name":"[Flood Event] TrenchLine:Tower Defense","avg_ccu":824.2,"min_ccu":674,"max_ccu":912,"samples":19,"sess":9.81,"sess_h":18.0,"like":84.69},
 "10768941204":{"name":"Steal A DNA[✨Weekend 2X]","avg_ccu":998.2,"min_ccu":700,"max_ccu":1410,"samples":24,"sess":15.79,"sess_h":23.0,"like":83.35},
-"10768944846":{"name":"[8 NEW STANDS] Morioh High","avg_ccu":330.5,"min_ccu":216,"max_ccu":450,"samples":24,"sess":12.53,"sess_h":23.0,"like":95.9},
+"10768944846":{"name":"[1 DAY] Morioh High","avg_ccu":330.5,"min_ccu":216,"max_ccu":450,"samples":24,"sess":12.53,"sess_h":23.0,"like":95.9},
 "10768949861":{"name":"Secure the Waterpark","avg_ccu":2290.6,"min_ccu":654,"max_ccu":7393,"samples":24,"sess":8.05,"sess_h":23.0,"like":83.0},
 "10768992869":{"name":"🥟SQUISHY DUMPLING PRISON RUN! (Obby)","avg_ccu":3378.9,"min_ccu":2485,"max_ccu":4925,"samples":24,"sess":8.38,"sess_h":23.0,"like":79.92},
 "10769020444":{"name":"Scare Your Neighbor","avg_ccu":12755.2,"min_ccu":7364,"max_ccu":16415,"samples":24,"sess":12.8,"sess_h":23.0,"like":98.49},
@@ -660,7 +660,7 @@
 "10770628276":{"name":"Sell a Million Sushi","avg_ccu":10267.4,"min_ccu":6905,"max_ccu":13877,"samples":24,"sess":15.98,"sess_h":23.0,"like":98.86},
 "10770631219":{"name":"Ragdoll Fight [NEW]","avg_ccu":1326.7,"min_ccu":920,"max_ccu":1990,"samples":10,"sess":9.17,"sess_h":9.0,"like":68.48},
 "10770642914":{"name":"Find The Animals [280]","avg_ccu":4314.7,"min_ccu":2673,"max_ccu":6281,"samples":24,"sess":14.8,"sess_h":23.0,"like":87.84},
-"10770674395":{"name":"[🎃] Ice Cream Shop [Anomaly] 🍦","avg_ccu":6201.0,"min_ccu":4831,"max_ccu":8304,"samples":24,"sess":12.29,"sess_h":23.0,"like":87.41},
+"10770674395":{"name":"Ice Cream Shop [Anomaly] 🍦","avg_ccu":6201.0,"min_ccu":4831,"max_ccu":8304,"samples":24,"sess":12.29,"sess_h":23.0,"like":87.41},
 "10770699460":{"name":"Raise The Biggest Family","avg_ccu":10884.8,"min_ccu":7826,"max_ccu":13787,"samples":24,"sess":13.65,"sess_h":23.0,"like":73.66},
 "10770703729":{"name":"🎃 KRN: Crosshair","avg_ccu":5756.1,"min_ccu":3119,"max_ccu":7320,"samples":24,"sess":14.69,"sess_h":23.0,"like":79.7},
 "10770707307":{"name":"Raise A Catboy","avg_ccu":5216.0,"min_ccu":3502,"max_ccu":6996,"samples":24,"sess":14.46,"sess_h":23.0,"like":86.86},
