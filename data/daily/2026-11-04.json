@@ -1,4 +1,4 @@
-{"date": "2026-11-04", "timezone": "America/New_York", "generated_utc": "2026-11-06T00:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-05T04:10:00Z", 7916867], "genres": {"Simulation": 41.464, "Survival": 13.169, "Roleplay & Avatar Sim": 10.969, "RPG": 7.227, "Action": 7.194, "Shooter": 3.974, "Sports & Racing": 3.494, "Obby & Platformer": 3.48, "Strategy": 3.085, "Party & Casual": 2.082, "Adventure": 1.476, "Shopping": 0.949, "Other": 0.479, "Social": 0.365, "Puzzle": 0.316, "Entertainment": 0.277}, "genre_hours": 20,"games":{
+{"date": "2026-11-04", "timezone": "America/New_York", "generated_utc": "2026-11-06T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-05T04:10:00Z", 7916867], "genres": {"Simulation": 41.464, "Survival": 13.169, "Roleplay & Avatar Sim": 10.969, "RPG": 7.227, "Action": 7.194, "Shooter": 3.974, "Sports & Racing": 3.494, "Obby & Platformer": 3.48, "Strategy": 3.085, "Party & Casual": 2.082, "Adventure": 1.476, "Shopping": 0.949, "Other": 0.479, "Social": 0.365, "Puzzle": 0.316, "Entertainment": 0.277}, "genre_hours": 20,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2411.8,"min_ccu":2000,"max_ccu":2956,"samples":20,"sess":12.62,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6363.4,"min_ccu":4157,"max_ccu":9049,"samples":20,"sess":7.95,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2659.9,"min_ccu":1692,"max_ccu":3638,"samples":20,"sess":11.36,"sess_h":23.0,"like":93.28},
@@ -585,7 +585,7 @@
 "10769324921":{"name":"Makeup All Stars ⭐  [NEW THEMES]","avg_ccu":2659.3,"min_ccu":1655,"max_ccu":3787,"samples":20,"sess":8.7,"sess_h":23.0,"like":81.32},
 "10769341404":{"name":"[🌊] Steal Eggs From Tsunami!","avg_ccu":8085.4,"min_ccu":5104,"max_ccu":11981,"samples":20,"sess":15.66,"sess_h":23.0,"like":94.35},
 "10769361895":{"name":"LINE UP! Metro Tycoon","avg_ccu":6722.0,"min_ccu":5072,"max_ccu":8738,"samples":20,"sess":19.93,"sess_h":23.0,"like":88.25},
-"10769384180":{"name":"[🧪] Fake an Egg","avg_ccu":22446.3,"min_ccu":14214,"max_ccu":52034,"samples":20,"sess":10.0,"sess_h":23.0,"like":88.45},
+"10769384180":{"name":"[🤝TRADING] Fake an Egg","avg_ccu":22446.3,"min_ccu":14214,"max_ccu":52034,"samples":20,"sess":10.0,"sess_h":23.0,"like":88.45},
 "10769401924":{"name":"⚔️ [DUNGEON] Hunting Together RPG","avg_ccu":3934.5,"min_ccu":3477,"max_ccu":4533,"samples":20,"sess":20.54,"sess_h":23.0,"like":92.17},
 "10769407594":{"name":"Detect and Steal an Egg","avg_ccu":5200.4,"min_ccu":2695,"max_ccu":9311,"samples":20,"sess":15.0,"sess_h":23.0,"like":79.84},
 "10769420234":{"name":"MOUSE 🐭","avg_ccu":7630.3,"min_ccu":3592,"max_ccu":11805,"samples":20,"sess":8.64,"sess_h":23.0,"like":85.22},
