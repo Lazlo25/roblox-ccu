@@ -1,4 +1,4 @@
-{"date": "2026-11-04", "timezone": "America/New_York", "generated_utc": "2026-11-05T23:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-05T04:10:00Z", 7916867], "genres": {"Simulation": 41.464, "Survival": 13.169, "Roleplay & Avatar Sim": 10.969, "RPG": 7.227, "Action": 7.194, "Shooter": 3.974, "Sports & Racing": 3.494, "Obby & Platformer": 3.48, "Strategy": 3.085, "Party & Casual": 2.082, "Adventure": 1.476, "Shopping": 0.949, "Other": 0.479, "Social": 0.365, "Puzzle": 0.316, "Entertainment": 0.277}, "genre_hours": 20,"games":{
+{"date": "2026-11-04", "timezone": "America/New_York", "generated_utc": "2026-11-06T00:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-05T04:10:00Z", 7916867], "genres": {"Simulation": 41.464, "Survival": 13.169, "Roleplay & Avatar Sim": 10.969, "RPG": 7.227, "Action": 7.194, "Shooter": 3.974, "Sports & Racing": 3.494, "Obby & Platformer": 3.48, "Strategy": 3.085, "Party & Casual": 2.082, "Adventure": 1.476, "Shopping": 0.949, "Other": 0.479, "Social": 0.365, "Puzzle": 0.316, "Entertainment": 0.277}, "genre_hours": 20,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2411.8,"min_ccu":2000,"max_ccu":2956,"samples":20,"sess":12.62,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6363.4,"min_ccu":4157,"max_ccu":9049,"samples":20,"sess":7.95,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2659.9,"min_ccu":1692,"max_ccu":3638,"samples":20,"sess":11.36,"sess_h":23.0,"like":93.28},
@@ -577,7 +577,7 @@
 "10769205469":{"name":"💪 Juggernaut 💪 Grapple Strike","avg_ccu":1032.6,"min_ccu":478,"max_ccu":1719,"samples":20,"sess":7.57,"sess_h":23.0,"like":71.44},
 "10769249409":{"name":"[UPD] Drive a Cart Downhill!","avg_ccu":5456.2,"min_ccu":3346,"max_ccu":7240,"samples":20,"sess":8.26,"sess_h":23.0,"like":81.52},
 "10769259605":{"name":"[4x4 UPD!] Solve The Cube","avg_ccu":2748.0,"min_ccu":202,"max_ccu":6349,"samples":20,"sess":8.78,"sess_h":23.0,"like":78.06},
-"10769266554":{"name":"[UPD 2] BRASS HELL [INCREMENTAL]","avg_ccu":3753.8,"min_ccu":2999,"max_ccu":4594,"samples":20,"sess":25.5,"sess_h":23.0,"like":92.59},
+"10769266554":{"name":"BRASS HELL [Ammo Factory Incremental]","avg_ccu":3753.8,"min_ccu":2999,"max_ccu":4594,"samples":20,"sess":25.5,"sess_h":23.0,"like":92.59},
 "10769279468":{"name":"Build An Anime Character","avg_ccu":4492.1,"min_ccu":3213,"max_ccu":6106,"samples":20,"sess":15.23,"sess_h":23.0,"like":67.1},
 "10769291958":{"name":"[W2] +1 Clean Keyboard Adventure","avg_ccu":2857.2,"min_ccu":2404,"max_ccu":3168,"samples":4,"like":95.75},
 "10769293184":{"name":"[🎃] HOOP JAM! 🏀","avg_ccu":3540.8,"min_ccu":1953,"max_ccu":5386,"samples":20,"sess":4.92,"sess_h":23.0,"like":83.83},
