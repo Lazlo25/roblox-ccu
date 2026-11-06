@@ -1,4 +1,4 @@
-{"date": "2026-11-05", "timezone": "America/New_York", "generated_utc": "2026-11-06T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-06T04:10:00Z", 8701996], "genres": {"Simulation": 41.815, "Survival": 13.475, "Roleplay & Avatar Sim": 10.645, "RPG": 7.204, "Action": 7.015, "Shooter": 4.132, "Obby & Platformer": 3.495, "Sports & Racing": 3.446, "Strategy": 3.095, "Party & Casual": 1.958, "Adventure": 1.5, "Shopping": 0.93, "Other": 0.491, "Social": 0.291, "Puzzle": 0.277, "Entertainment": 0.231}, "genre_hours": 24,"games":{
+{"date": "2026-11-05", "timezone": "America/New_York", "generated_utc": "2026-11-06T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-06T04:10:00Z", 8701996], "genres": {"Simulation": 41.815, "Survival": 13.475, "Roleplay & Avatar Sim": 10.645, "RPG": 7.204, "Action": 7.015, "Shooter": 4.132, "Obby & Platformer": 3.495, "Sports & Racing": 3.446, "Strategy": 3.095, "Party & Casual": 1.958, "Adventure": 1.5, "Shopping": 0.93, "Other": 0.491, "Social": 0.291, "Puzzle": 0.277, "Entertainment": 0.231}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2326.0,"min_ccu":1627,"max_ccu":2933,"samples":24,"sess":13.04,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6433.2,"min_ccu":4063,"max_ccu":8977,"samples":24,"sess":8.66,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2882.5,"min_ccu":1650,"max_ccu":4227,"samples":24,"sess":12.04,"sess_h":23.0,"like":93.28},
@@ -479,7 +479,7 @@
 "10767110259":{"name":"[🎃] +1 Arm Length 💪","avg_ccu":4409.5,"min_ccu":2566,"max_ccu":6030,"samples":24,"sess":10.79,"sess_h":23.0,"like":93.39},
 "10767138232":{"name":"Kukirin Life [Testing]","avg_ccu":15179.0,"min_ccu":4224,"max_ccu":32579,"samples":24,"sess":11.01,"sess_h":23.0,"like":86.48},
 "10767201394":{"name":"Scooter Duo 🛴 [2 Player Obby]","avg_ccu":3081.6,"min_ccu":1819,"max_ccu":4633,"samples":24,"sess":7.76,"sess_h":23.0,"like":97.05},
-"10767218742":{"name":"[👮🚨] You and Me in Cali 🏡 RP","avg_ccu":6323.8,"min_ccu":3054,"max_ccu":9941,"samples":24,"sess":15.84,"sess_h":23.0,"like":76.27},
+"10767218742":{"name":"You and Me in Cali 🏡 RP","avg_ccu":6323.8,"min_ccu":3054,"max_ccu":9941,"samples":24,"sess":15.84,"sess_h":23.0,"like":76.27},
 "10767231756":{"name":"Push the Patient [1-2 PLAYER OBBY]","avg_ccu":8097.5,"min_ccu":4953,"max_ccu":12469,"samples":24,"sess":8.85,"sess_h":23.0,"like":86.72},
 "10767330648":{"name":"[👑] CRAZY 8 Ball","avg_ccu":4256.6,"min_ccu":2552,"max_ccu":5456,"samples":24,"sess":5.61,"sess_h":23.0,"like":98.11},
 "10767353295":{"name":"Supernatural Realm","avg_ccu":866.8,"min_ccu":495,"max_ccu":1260,"samples":24,"sess":18.97,"sess_h":23.0,"like":86.41},
