@@ -1,4 +1,4 @@
-{"date": "2026-11-05", "timezone": "America/New_York", "generated_utc": "2026-11-06T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-06T04:10:00Z", 8701996], "genres": {"Simulation": 41.815, "Survival": 13.475, "Roleplay & Avatar Sim": 10.645, "RPG": 7.204, "Action": 7.015, "Shooter": 4.132, "Obby & Platformer": 3.495, "Sports & Racing": 3.446, "Strategy": 3.095, "Party & Casual": 1.958, "Adventure": 1.5, "Shopping": 0.93, "Other": 0.491, "Social": 0.291, "Puzzle": 0.277, "Entertainment": 0.231}, "genre_hours": 24,"games":{
+{"date": "2026-11-05", "timezone": "America/New_York", "generated_utc": "2026-11-06T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-06T04:10:00Z", 8701996], "genres": {"Simulation": 41.815, "Survival": 13.475, "Roleplay & Avatar Sim": 10.645, "RPG": 7.204, "Action": 7.015, "Shooter": 4.132, "Obby & Platformer": 3.495, "Sports & Racing": 3.446, "Strategy": 3.095, "Party & Casual": 1.958, "Adventure": 1.5, "Shopping": 0.93, "Other": 0.491, "Social": 0.291, "Puzzle": 0.277, "Entertainment": 0.231}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2326.0,"min_ccu":1627,"max_ccu":2933,"samples":24,"sess":13.04,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6433.2,"min_ccu":4063,"max_ccu":8977,"samples":24,"sess":8.66,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2882.5,"min_ccu":1650,"max_ccu":4227,"samples":24,"sess":12.04,"sess_h":23.0,"like":93.28},
@@ -409,7 +409,7 @@
 "10740316645":{"name":"⛏️ My Anime Mine","avg_ccu":12429.0,"min_ccu":11557,"max_ccu":13727,"samples":24,"sess":26.65,"sess_h":23.0,"like":98.95},
 "10741792653":{"name":"Survive The Swarm [🎃]","avg_ccu":1459.4,"min_ccu":1089,"max_ccu":3391,"samples":24,"sess":8.23,"sess_h":23.0,"like":96.59},
 "10746305948":{"name":"Don't Press The Button 7","avg_ccu":4786.6,"min_ccu":3056,"max_ccu":6816,"samples":24,"sess":10.98,"sess_h":23.0,"like":64.33},
-"10747719434":{"name":"[🎃V5] Feed A Mosquito","avg_ccu":10251.4,"min_ccu":8192,"max_ccu":14693,"samples":24,"sess":15.11,"sess_h":23.0,"like":82.29},
+"10747719434":{"name":"[V5] Feed A Mosquito","avg_ccu":10251.4,"min_ccu":8192,"max_ccu":14693,"samples":24,"sess":15.11,"sess_h":23.0,"like":82.29},
 "10752743876":{"name":"Trending Emote Dance","avg_ccu":8431.8,"min_ccu":5442,"max_ccu":10533,"samples":24,"sess":12.53,"sess_h":23.0,"like":87.68},
 "10753847141":{"name":"Meet Spiderman","avg_ccu":2543.4,"min_ccu":228,"max_ccu":5363,"samples":24,"sess":9.37,"sess_h":23.0,"like":89.09},
 "10755887345":{"name":"[🎃] Tame An Animal","avg_ccu":1273.2,"min_ccu":1071,"max_ccu":1628,"samples":24,"sess":16.45,"sess_h":23.0,"like":98.24},
