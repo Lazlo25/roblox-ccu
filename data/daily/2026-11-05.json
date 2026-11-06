@@ -1,4 +1,4 @@
-{"date": "2026-11-05", "timezone": "America/New_York", "generated_utc": "2026-11-06T14:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-06T04:10:00Z", 8701996], "genres": {"Simulation": 41.815, "Survival": 13.475, "Roleplay & Avatar Sim": 10.645, "RPG": 7.204, "Action": 7.015, "Shooter": 4.132, "Obby & Platformer": 3.495, "Sports & Racing": 3.446, "Strategy": 3.095, "Party & Casual": 1.958, "Adventure": 1.5, "Shopping": 0.93, "Other": 0.491, "Social": 0.291, "Puzzle": 0.277, "Entertainment": 0.231}, "genre_hours": 24,"games":{
+{"date": "2026-11-05", "timezone": "America/New_York", "generated_utc": "2026-11-06T15:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-06T04:10:00Z", 8701996], "genres": {"Simulation": 41.815, "Survival": 13.475, "Roleplay & Avatar Sim": 10.645, "RPG": 7.204, "Action": 7.015, "Shooter": 4.132, "Obby & Platformer": 3.495, "Sports & Racing": 3.446, "Strategy": 3.095, "Party & Casual": 1.958, "Adventure": 1.5, "Shopping": 0.93, "Other": 0.491, "Social": 0.291, "Puzzle": 0.277, "Entertainment": 0.231}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2326.0,"min_ccu":1627,"max_ccu":2933,"samples":24,"sess":13.04,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6433.2,"min_ccu":4063,"max_ccu":8977,"samples":24,"sess":8.66,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2882.5,"min_ccu":1650,"max_ccu":4227,"samples":24,"sess":12.04,"sess_h":23.0,"like":93.28},
@@ -21,7 +21,7 @@
 "321778215":{"name":"Royale High","avg_ccu":5061.5,"min_ccu":3345,"max_ccu":6550,"samples":24,"sess":23.41,"sess_h":23.0,"like":85.9},
 "371263894":{"name":"Greenville RP (🦇HALLOWEEN!)","avg_ccu":4052.3,"min_ccu":2149,"max_ccu":5963,"samples":24,"sess":16.15,"sess_h":23.0,"like":87.91},
 "372226183":{"name":"Flee the Facility","avg_ccu":15512.8,"min_ccu":4836,"max_ccu":28266,"samples":24,"sess":11.58,"sess_h":23.0,"like":92.09},
-"383310974":{"name":"[2H⏳] Adopt Me!","avg_ccu":120546.8,"min_ccu":86212,"max_ccu":154735,"samples":24,"sess":23.73,"sess_h":23.0,"like":86.38},
+"383310974":{"name":"[1H⏳] Adopt Me!","avg_ccu":120546.8,"min_ccu":86212,"max_ccu":154735,"samples":24,"sess":23.73,"sess_h":23.0,"like":86.38},
 "540382210":{"name":"[🎃🎃 EVENT!!!] FMR","avg_ccu":1037.2,"min_ccu":559,"max_ccu":1609,"samples":24,"sess":11.7,"sess_h":23.0,"like":94.9},
 "547524060":{"name":"Feather Family 🍂","avg_ccu":3271.3,"min_ccu":1845,"max_ccu":4633,"samples":24,"sess":13.74,"sess_h":23.0,"like":91.64},
 "578392296":{"name":"ABA","avg_ccu":10735.6,"min_ccu":7963,"max_ccu":14022,"samples":24,"sess":16.56,"sess_h":23.0,"like":80.66},
@@ -263,7 +263,7 @@
 "8906870648":{"name":"FREE Fades! 👊","avg_ccu":690.5,"min_ccu":444,"max_ccu":1090,"samples":24,"sess":8.72,"sess_h":23.0,"like":89.86},
 "8964956538":{"name":"[🎃Season 2] Steel Crossfire","avg_ccu":858.2,"min_ccu":573,"max_ccu":1155,"samples":24,"sess":8.78,"sess_h":23.0,"like":96.94},
 "9051406594":{"name":"[💥FINAL BOSS] Dueling Grounds ⚔️","avg_ccu":4828.1,"min_ccu":3943,"max_ccu":6048,"samples":24,"sess":7.08,"sess_h":23.0,"like":96.36},
-"9073513091":{"name":"[MOB!] Anime Apocalypse","avg_ccu":786.8,"min_ccu":647,"max_ccu":925,"samples":24,"sess":9.96,"sess_h":23.0,"like":95.27},
+"9073513091":{"name":"[24H!] Anime Apocalypse","avg_ccu":786.8,"min_ccu":647,"max_ccu":925,"samples":24,"sess":9.96,"sess_h":23.0,"like":95.27},
 "9098570654":{"name":"[🎃EVENT] 🧟 Survive the Apocalypse","avg_ccu":6598.2,"min_ccu":4868,"max_ccu":9532,"samples":24,"sess":24.08,"sess_h":23.0,"like":94.1},
 "9141743926":{"name":"[NOW] Catch a Monster","avg_ccu":2332.6,"min_ccu":2211,"max_ccu":2465,"samples":24,"sess":13.6,"sess_h":23.0,"like":97.82},
 "9150731899":{"name":"PRISON RP","avg_ccu":1722.1,"min_ccu":1032,"max_ccu":2524,"samples":24,"sess":23.64,"sess_h":23.0,"like":78.46},
