@@ -1,4 +1,4 @@
-{"date": "2026-11-05", "timezone": "America/New_York", "generated_utc": "2026-11-07T00:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-06T04:10:00Z", 8701996], "genres": {"Simulation": 41.815, "Survival": 13.475, "Roleplay & Avatar Sim": 10.645, "RPG": 7.204, "Action": 7.015, "Shooter": 4.132, "Obby & Platformer": 3.495, "Sports & Racing": 3.446, "Strategy": 3.095, "Party & Casual": 1.958, "Adventure": 1.5, "Shopping": 0.93, "Other": 0.491, "Social": 0.291, "Puzzle": 0.277, "Entertainment": 0.231}, "genre_hours": 24,"games":{
+{"date": "2026-11-05", "timezone": "America/New_York", "generated_utc": "2026-11-07T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-06T04:10:00Z", 8701996], "genres": {"Simulation": 41.815, "Survival": 13.475, "Roleplay & Avatar Sim": 10.645, "RPG": 7.204, "Action": 7.015, "Shooter": 4.132, "Obby & Platformer": 3.495, "Sports & Racing": 3.446, "Strategy": 3.095, "Party & Casual": 1.958, "Adventure": 1.5, "Shopping": 0.93, "Other": 0.491, "Social": 0.291, "Puzzle": 0.277, "Entertainment": 0.231}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2326.0,"min_ccu":1627,"max_ccu":2933,"samples":24,"sess":13.04,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6433.2,"min_ccu":4063,"max_ccu":8977,"samples":24,"sess":8.66,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2882.5,"min_ccu":1650,"max_ccu":4227,"samples":24,"sess":12.04,"sess_h":23.0,"like":93.28},
@@ -280,7 +280,7 @@
 "9534705677":{"name":"[🔥UPD] Sniper Arena","avg_ccu":11024.8,"min_ccu":7048,"max_ccu":14707,"samples":24,"sess":12.34,"sess_h":23.0,"like":91.77},
 "9551044479":{"name":"Final Swarm [🎃]","avg_ccu":755.8,"min_ccu":523,"max_ccu":1207,"samples":24,"sess":12.94,"sess_h":23.0,"like":97.02},
 "9561553764":{"name":"Murder Duels","avg_ccu":6529.2,"min_ccu":4945,"max_ccu":8395,"samples":24,"sess":8.41,"sess_h":23.0,"like":93.09},
-"9584852943":{"name":"[X30] +1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":22546.6,"min_ccu":10789,"max_ccu":35587,"samples":24,"sess":7.54,"sess_h":23.0,"like":96.71},
+"9584852943":{"name":"+1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":22546.6,"min_ccu":10789,"max_ccu":35587,"samples":24,"sess":7.54,"sess_h":23.0,"like":96.71},
 "9641502068":{"name":"[UPD] KNIFE DUELS","avg_ccu":6616.9,"min_ccu":4272,"max_ccu":9883,"samples":24,"sess":8.9,"sess_h":23.0,"like":93.8},
 "9706341960":{"name":"Grab and Decorate","avg_ccu":4640.9,"min_ccu":3630,"max_ccu":6108,"samples":24,"sess":19.31,"sess_h":23.0,"like":88.44},
 "9735583968":{"name":"[UPD] SCP MORPH","avg_ccu":2935.5,"min_ccu":2121,"max_ccu":4086,"samples":24,"sess":9.15,"sess_h":23.0,"like":91.62},
@@ -527,7 +527,7 @@
 "10768359714":{"name":"Muscle Boxing","avg_ccu":992.0,"min_ccu":931,"max_ccu":1088,"samples":5,"like":78.25},
 "10768371135":{"name":"[RANKED!] Anime vs Anime!","avg_ccu":3885.0,"min_ccu":4,"max_ccu":5728,"samples":19,"sess":14.17,"sess_h":18.0,"like":92.84},
 "10768372920":{"name":"[🎃] +1 Upgrade Per Kill","avg_ccu":6941.2,"min_ccu":3962,"max_ccu":10773,"samples":24,"sess":12.25,"sess_h":23.0,"like":45.71},
-"10768383600":{"name":"[💉INJECTIONS] Ragdoll Playground","avg_ccu":15478.7,"min_ccu":8281,"max_ccu":20596,"samples":24,"sess":12.61,"sess_h":23.0,"like":95.14},
+"10768383600":{"name":"[👥UPD] Ragdoll Playground","avg_ccu":15478.7,"min_ccu":8281,"max_ccu":20596,"samples":24,"sess":12.61,"sess_h":23.0,"like":95.14},
 "10768403168":{"name":"💻 HACKER","avg_ccu":1.6,"min_ccu":0,"max_ccu":5,"samples":24,"sess":5.92,"sess_h":23.0,"like":84.68},
 "10768409236":{"name":"World of Nukes💥","avg_ccu":6387.0,"min_ccu":4150,"max_ccu":8595,"samples":24,"sess":17.48,"sess_h":23.0,"like":92.52},
 "10768418427":{"name":"[👻] First Person Boxing","avg_ccu":465.5,"min_ccu":249,"max_ccu":728,"samples":24,"sess":9.03,"sess_h":23.0,"like":90.41},
@@ -540,7 +540,7 @@
 "10768533103":{"name":"+1 Spear Throwing","avg_ccu":3489.0,"min_ccu":1850,"max_ccu":5284,"samples":24,"sess":12.24,"sess_h":23.0,"like":92.54},
 "10768542976":{"name":"Be a Pirate [SEA 12]","avg_ccu":1382.8,"min_ccu":1025,"max_ccu":1963,"samples":24,"sess":24.75,"sess_h":23.0,"like":90.98},
 "10768550253":{"name":"Run an Airline✈️","avg_ccu":682.7,"min_ccu":501,"max_ccu":926,"samples":24,"sess":14.37,"sess_h":23.0,"like":90.75},
-"10768556372":{"name":"[🎃] Candy Kingdom Defense","avg_ccu":728.9,"min_ccu":613,"max_ccu":922,"samples":24,"sess":11.08,"sess_h":23.0,"like":96.19},
+"10768556372":{"name":"[UPD 2🍭] Candy Kingdom Defense","avg_ccu":728.9,"min_ccu":613,"max_ccu":922,"samples":24,"sess":11.08,"sess_h":23.0,"like":96.19},
 "10768561721":{"name":"[🏝️] +1 Haki Evolution","avg_ccu":1147.2,"min_ccu":727,"max_ccu":1553,"samples":24,"sess":24.19,"sess_h":23.0,"like":94.5},
 "10768595206":{"name":"+1 Vampire Evolution","avg_ccu":2958.0,"min_ccu":1890,"max_ccu":4018,"samples":24,"sess":11.74,"sess_h":23.0,"like":91.65},
 "10768625767":{"name":"Save the Krusty Krab 🍔","avg_ccu":6289.5,"min_ccu":4988,"max_ccu":8240,"samples":24,"sess":12.79,"sess_h":23.0,"like":93.75},
