@@ -1,4 +1,4 @@
-{"date": "2026-11-06", "timezone": "America/New_York", "generated_utc": "2026-11-07T05:10:01Z", "through_et": "24:00", "platform_now": ["2026-11-07T04:10:00Z", 13618250], "genres": {"Simulation": 40.199, "Survival": 14.49, "Roleplay & Avatar Sim": 11.274, "Action": 7.388, "RPG": 6.79, "Shooter": 4.205, "Sports & Racing": 3.509, "Obby & Platformer": 3.448, "Strategy": 2.863, "Party & Casual": 1.973, "Adventure": 1.545, "Shopping": 0.908, "Other": 0.491, "Social": 0.363, "Puzzle": 0.311, "Entertainment": 0.243}, "genre_hours": 24,"games":{
+{"date": "2026-11-06", "timezone": "America/New_York", "generated_utc": "2026-11-07T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-07T04:10:00Z", 13618250], "genres": {"Simulation": 40.199, "Survival": 14.49, "Roleplay & Avatar Sim": 11.274, "Action": 7.388, "RPG": 6.79, "Shooter": 4.205, "Sports & Racing": 3.509, "Obby & Platformer": 3.448, "Strategy": 2.863, "Party & Casual": 1.973, "Adventure": 1.545, "Shopping": 0.908, "Other": 0.491, "Social": 0.363, "Puzzle": 0.311, "Entertainment": 0.243}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2670.0,"min_ccu":1691,"max_ccu":3522,"samples":24,"sess":13.09,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7492.5,"min_ccu":4325,"max_ccu":12131,"samples":24,"sess":8.79,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3839.7,"min_ccu":2051,"max_ccu":4739,"samples":24,"sess":12.34,"sess_h":23.0,"like":93.28},
@@ -79,7 +79,7 @@
 "2527789729":{"name":"[HALLOWEEN👻]Prior Extinction - Dinosaur Survival!","avg_ccu":3026.8,"min_ccu":1665,"max_ccu":3915,"samples":24,"sess":13.95,"sess_h":23.0,"like":78.78},
 "2619619496":{"name":"[🔥2X XP] BedWars","avg_ccu":21207.6,"min_ccu":12233,"max_ccu":36195,"samples":24,"sess":13.5,"sess_h":23.0,"like":82.3},
 "2640407187":{"name":"(👻) Car Driving Indonesia","avg_ccu":8962.8,"min_ccu":2135,"max_ccu":43202,"samples":17,"sess":24.58,"sess_h":16.0,"like":86.44},
-"2655311011":{"name":"[🎃] Anime Dimensions","avg_ccu":6920.4,"min_ccu":6406,"max_ccu":7821,"samples":24,"sess":27.06,"sess_h":23.0,"like":97.5},
+"2655311011":{"name":"[🎃2X] Anime Dimensions","avg_ccu":6920.4,"min_ccu":6406,"max_ccu":7821,"samples":24,"sess":27.06,"sess_h":23.0,"like":97.5},
 "2668101271":{"name":"Fling Things and People","avg_ccu":32457.1,"min_ccu":20331,"max_ccu":44792,"samples":24,"sess":12.37,"sess_h":23.0,"like":80.44},
 "2682938349":{"name":"Wild Horse Islands","avg_ccu":3424.0,"min_ccu":1569,"max_ccu":5008,"samples":24,"sess":18.0,"sess_h":23.0,"like":92.25},
 "2711375305":{"name":"Catalog Avatar Creator","avg_ccu":57210.4,"min_ccu":32897,"max_ccu":82265,"samples":24,"sess":12.88,"sess_h":23.0,"like":93.68},
@@ -322,7 +322,7 @@
 "10195997258":{"name":"Pull a Lucky Fish","avg_ccu":2770.3,"min_ccu":2005,"max_ccu":4587,"samples":24,"sess":22.66,"sess_h":23.0,"like":95.14},
 "10199301628":{"name":"[UPD💰] Merge a Nuke!","avg_ccu":1769.3,"min_ccu":1336,"max_ccu":2196,"samples":24,"sess":10.23,"sess_h":23.0,"like":94.72},
 "10200395747":{"name":"Grow a Garden 2","avg_ccu":984.2,"min_ccu":754,"max_ccu":1284,"samples":18,"sess":13.26,"sess_h":17.0,"like":87.78},
-"10209534490":{"name":"[🎃] Chicken Farm 🐣","avg_ccu":2354.7,"min_ccu":1948,"max_ccu":2740,"samples":24,"sess":13.67,"sess_h":23.0,"like":98.94},
+"10209534490":{"name":"Chicken Farm 🐣","avg_ccu":2354.7,"min_ccu":1948,"max_ccu":2740,"samples":24,"sess":13.67,"sess_h":23.0,"like":98.94},
 "10222476236":{"name":"🎃 Catalog Avatar Runway","avg_ccu":18976.7,"min_ccu":12305,"max_ccu":26865,"samples":24,"sess":18.49,"sess_h":23.0,"like":92.3},
 "10226261982":{"name":"[CLOVER🍀] +1 Aura for Anime!","avg_ccu":2486.7,"min_ccu":2091,"max_ccu":3026,"samples":24,"sess":17.16,"sess_h":23.0,"like":98.91},
 "10230942274":{"name":"Ability Arena 💥","avg_ccu":7002.2,"min_ccu":4639,"max_ccu":8694,"samples":24,"sess":16.07,"sess_h":23.0,"like":92.63},
@@ -397,7 +397,7 @@
 "10732236937":{"name":"[ Battra ] Kaiju Alpha","avg_ccu":6394.7,"min_ccu":2637,"max_ccu":13100,"samples":24,"sess":13.49,"sess_h":23.0,"like":92.31},
 "10733617110":{"name":"[👁️‍🗨️MIMIC] Scary Baboon Reimagined","avg_ccu":15521.5,"min_ccu":9634,"max_ccu":25049,"samples":24,"sess":9.27,"sess_h":23.0,"like":88.58},
 "10737656087":{"name":"🎃THA BRONX 3🔪","avg_ccu":3050.2,"min_ccu":858,"max_ccu":5636,"samples":24,"sess":19.13,"sess_h":23.0,"like":92.04},
-"10739112966":{"name":"Street Soccer Pro","avg_ccu":12417.5,"min_ccu":7013,"max_ccu":16250,"samples":24,"sess":11.44,"sess_h":23.0,"like":84.46},
+"10739112966":{"name":"[CLUBS] Street Soccer Pro","avg_ccu":12417.5,"min_ccu":7013,"max_ccu":16250,"samples":24,"sess":11.44,"sess_h":23.0,"like":84.46},
 "10739137760":{"name":"[UPDATE] The Cosalazo 2","avg_ccu":1534.6,"min_ccu":150,"max_ccu":3184,"samples":24,"sess":11.94,"sess_h":23.0,"like":92.42},
 "10740316645":{"name":"⛏️ My Anime Mine","avg_ccu":13848.6,"min_ccu":12403,"max_ccu":15290,"samples":24,"sess":27.63,"sess_h":23.0,"like":98.95},
 "10741792653":{"name":"Survive The Swarm [🎃]","avg_ccu":1272.0,"min_ccu":953,"max_ccu":1590,"samples":24,"sess":8.94,"sess_h":23.0,"like":96.55},
