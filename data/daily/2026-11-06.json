@@ -1,4 +1,4 @@
-{"date": "2026-11-06", "timezone": "America/New_York", "generated_utc": "2026-11-07T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-07T04:10:00Z", 13618250], "genres": {"Simulation": 40.199, "Survival": 14.49, "Roleplay & Avatar Sim": 11.274, "Action": 7.388, "RPG": 6.79, "Shooter": 4.205, "Sports & Racing": 3.509, "Obby & Platformer": 3.448, "Strategy": 2.863, "Party & Casual": 1.973, "Adventure": 1.545, "Shopping": 0.908, "Other": 0.491, "Social": 0.363, "Puzzle": 0.311, "Entertainment": 0.243}, "genre_hours": 24,"games":{
+{"date": "2026-11-06", "timezone": "America/New_York", "generated_utc": "2026-11-07T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-07T04:10:00Z", 13618250], "genres": {"Simulation": 40.199, "Survival": 14.49, "Roleplay & Avatar Sim": 11.274, "Action": 7.388, "RPG": 6.79, "Shooter": 4.205, "Sports & Racing": 3.509, "Obby & Platformer": 3.448, "Strategy": 2.863, "Party & Casual": 1.973, "Adventure": 1.545, "Shopping": 0.908, "Other": 0.491, "Social": 0.363, "Puzzle": 0.311, "Entertainment": 0.243}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2670.0,"min_ccu":1691,"max_ccu":3522,"samples":24,"sess":13.09,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7492.5,"min_ccu":4325,"max_ccu":12131,"samples":24,"sess":8.79,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3839.7,"min_ccu":2051,"max_ccu":4739,"samples":24,"sess":12.34,"sess_h":23.0,"like":93.28},
@@ -378,7 +378,7 @@
 "10629695169":{"name":"✨Tap Simulator REBORN","avg_ccu":34687.2,"min_ccu":32511,"max_ccu":37134,"samples":24,"sess":28.71,"sess_h":23.0,"like":94.0},
 "10634461028":{"name":"Drive A Kukirin!","avg_ccu":3346.5,"min_ccu":441,"max_ccu":7483,"samples":24,"sess":8.27,"sess_h":23.0,"like":89.28},
 "10636331438":{"name":"[🪦GRAVEYARD] Roll a Fisherman 🎣","avg_ccu":505.9,"min_ccu":475,"max_ccu":552,"samples":18,"sess":22.23,"sess_h":17.0,"like":98.23},
-"10638886777":{"name":"[⏳ 24H] [🎃] 🧈 Stack A Butter Squishy [ASMR]","avg_ccu":9149.2,"min_ccu":6161,"max_ccu":14060,"samples":24,"sess":11.88,"sess_h":23.0,"like":87.93},
+"10638886777":{"name":"[⏳ 12H] [🎃] 🧈 Stack A Butter Squishy [ASMR]","avg_ccu":9149.2,"min_ccu":6161,"max_ccu":14060,"samples":24,"sess":11.88,"sess_h":23.0,"like":87.93},
 "10643795368":{"name":"Idle Mafia Game","avg_ccu":3115.7,"min_ccu":2898,"max_ccu":3605,"samples":24,"sess":27.85,"sess_h":23.0,"like":87.81},
 "10648555380":{"name":"[🤑WORKS] Donation Central 💸","avg_ccu":200.4,"min_ccu":141,"max_ccu":251,"samples":24,"sess":7.23,"sess_h":23.0,"like":94.31},
 "10648640958":{"name":"[🏆] Hood Rivals","avg_ccu":1279.9,"min_ccu":574,"max_ccu":2348,"samples":24,"sess":5.87,"sess_h":23.0,"like":90.28},
