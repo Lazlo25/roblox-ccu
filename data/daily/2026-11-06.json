@@ -1,4 +1,4 @@
-{"date": "2026-11-06", "timezone": "America/New_York", "generated_utc": "2026-11-07T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-07T04:10:00Z", 13618250], "genres": {"Simulation": 40.199, "Survival": 14.49, "Roleplay & Avatar Sim": 11.274, "Action": 7.388, "RPG": 6.79, "Shooter": 4.205, "Sports & Racing": 3.509, "Obby & Platformer": 3.448, "Strategy": 2.863, "Party & Casual": 1.973, "Adventure": 1.545, "Shopping": 0.908, "Other": 0.491, "Social": 0.363, "Puzzle": 0.311, "Entertainment": 0.243}, "genre_hours": 24,"games":{
+{"date": "2026-11-06", "timezone": "America/New_York", "generated_utc": "2026-11-07T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-07T04:10:00Z", 13618250], "genres": {"Simulation": 40.199, "Survival": 14.49, "Roleplay & Avatar Sim": 11.274, "Action": 7.388, "RPG": 6.79, "Shooter": 4.205, "Sports & Racing": 3.509, "Obby & Platformer": 3.448, "Strategy": 2.863, "Party & Casual": 1.973, "Adventure": 1.545, "Shopping": 0.908, "Other": 0.491, "Social": 0.363, "Puzzle": 0.311, "Entertainment": 0.243}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2670.0,"min_ccu":1691,"max_ccu":3522,"samples":24,"sess":13.09,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7492.5,"min_ccu":4325,"max_ccu":12131,"samples":24,"sess":8.79,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3839.7,"min_ccu":2051,"max_ccu":4739,"samples":24,"sess":12.34,"sess_h":23.0,"like":93.28},
@@ -223,7 +223,7 @@
 "7395930870":{"name":"Sell Lemons 🍋","avg_ccu":4813.2,"min_ccu":3427,"max_ccu":5820,"samples":24,"sess":16.05,"sess_h":23.0,"like":94.33},
 "7398552394":{"name":"A desrt [SANDBOX]","avg_ccu":9931.5,"min_ccu":4249,"max_ccu":15780,"samples":24,"sess":16.28,"sess_h":23.0,"like":89.54},
 "7434179990":{"name":"🛠️Build and Survive","avg_ccu":6778.8,"min_ccu":3053,"max_ccu":9897,"samples":24,"sess":15.46,"sess_h":23.0,"like":96.68},
-"7436755782":{"name":"[🎃] Grow a Garden 🌶️","avg_ccu":15199.9,"min_ccu":12509,"max_ccu":18704,"samples":24,"sess":18.31,"sess_h":23.0,"like":89.94},
+"7436755782":{"name":"[🐪] Grow a Garden 🌶️","avg_ccu":15199.9,"min_ccu":12509,"max_ccu":18704,"samples":24,"sess":18.31,"sess_h":23.0,"like":89.94},
 "7450497506":{"name":"HOW TO TRAIN YOUR DRAGON","avg_ccu":1485.9,"min_ccu":873,"max_ccu":2056,"samples":24,"sess":13.23,"sess_h":23.0,"like":94.18},
 "7488668004":{"name":"🎃 Bake or Die 💀","avg_ccu":4515.1,"min_ccu":2775,"max_ccu":6868,"samples":24,"sess":17.03,"sess_h":23.0,"like":92.3},
 "7529591378":{"name":"[ALPHA] Practical Basketball","avg_ccu":40016.4,"min_ccu":10387,"max_ccu":99011,"samples":24,"sess":21.49,"sess_h":23.0,"like":92.95},
@@ -399,7 +399,7 @@
 "10737656087":{"name":"🎃THA BRONX 3🔪","avg_ccu":3050.2,"min_ccu":858,"max_ccu":5636,"samples":24,"sess":19.13,"sess_h":23.0,"like":92.04},
 "10739112966":{"name":"[CLUBS] Street Soccer Pro","avg_ccu":12417.5,"min_ccu":7013,"max_ccu":16250,"samples":24,"sess":11.44,"sess_h":23.0,"like":84.46},
 "10739137760":{"name":"[UPDATE] The Cosalazo 2","avg_ccu":1534.6,"min_ccu":150,"max_ccu":3184,"samples":24,"sess":11.94,"sess_h":23.0,"like":92.42},
-"10740316645":{"name":"⛏️ My Anime Mine","avg_ccu":13848.6,"min_ccu":12403,"max_ccu":15290,"samples":24,"sess":27.63,"sess_h":23.0,"like":98.95},
+"10740316645":{"name":"[⌛15H] ⛏️ My Anime Mine","avg_ccu":13848.6,"min_ccu":12403,"max_ccu":15290,"samples":24,"sess":27.63,"sess_h":23.0,"like":98.95},
 "10741792653":{"name":"Survive The Swarm [🎃]","avg_ccu":1272.0,"min_ccu":953,"max_ccu":1590,"samples":24,"sess":8.94,"sess_h":23.0,"like":96.55},
 "10746305948":{"name":"Don't Press The Button 7","avg_ccu":5812.5,"min_ccu":3504,"max_ccu":9368,"samples":24,"sess":11.17,"sess_h":23.0,"like":64.36},
 "10747719434":{"name":"[V5] Feed A Mosquito","avg_ccu":11685.8,"min_ccu":7965,"max_ccu":15899,"samples":24,"sess":14.4,"sess_h":23.0,"like":82.32},
