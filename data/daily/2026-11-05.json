@@ -1,4 +1,4 @@
-{"date": "2026-11-05", "timezone": "America/New_York", "generated_utc": "2026-11-07T03:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-06T04:10:00Z", 8701996], "genres": {"Simulation": 41.815, "Survival": 13.475, "Roleplay & Avatar Sim": 10.645, "RPG": 7.204, "Action": 7.015, "Shooter": 4.132, "Obby & Platformer": 3.495, "Sports & Racing": 3.446, "Strategy": 3.095, "Party & Casual": 1.958, "Adventure": 1.5, "Shopping": 0.93, "Other": 0.491, "Social": 0.291, "Puzzle": 0.277, "Entertainment": 0.231}, "genre_hours": 24,"games":{
+{"date": "2026-11-05", "timezone": "America/New_York", "generated_utc": "2026-11-07T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-06T04:10:00Z", 8701996], "genres": {"Simulation": 41.815, "Survival": 13.475, "Roleplay & Avatar Sim": 10.645, "RPG": 7.204, "Action": 7.015, "Shooter": 4.132, "Obby & Platformer": 3.495, "Sports & Racing": 3.446, "Strategy": 3.095, "Party & Casual": 1.958, "Adventure": 1.5, "Shopping": 0.93, "Other": 0.491, "Social": 0.291, "Puzzle": 0.277, "Entertainment": 0.231}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2326.0,"min_ccu":1627,"max_ccu":2933,"samples":24,"sess":13.04,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6433.2,"min_ccu":4063,"max_ccu":8977,"samples":24,"sess":8.66,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2882.5,"min_ccu":1650,"max_ccu":4227,"samples":24,"sess":12.04,"sess_h":23.0,"like":93.28},
@@ -456,7 +456,7 @@
 "10765774354":{"name":"[🎃] Nuke A Country","avg_ccu":1775.0,"min_ccu":1128,"max_ccu":2391,"samples":24,"sess":10.45,"sess_h":23.0,"like":90.27},
 "10765788154":{"name":"[🐉] My Dino Empire 🦖","avg_ccu":2127.2,"min_ccu":1684,"max_ccu":2616,"samples":24,"sess":20.78,"sess_h":23.0,"like":97.89},
 "10765799968":{"name":"[GUILDS] CloverFall","avg_ccu":181.2,"min_ccu":140,"max_ccu":223,"samples":24,"sess":23.12,"sess_h":23.0,"like":94.23},
-"10765841403":{"name":"👁️Steal Or Die [🔥NEW ITEMS!]","avg_ccu":5542.4,"min_ccu":2650,"max_ccu":8401,"samples":24,"sess":16.84,"sess_h":23.0,"like":91.17},
+"10765841403":{"name":"👁️Steal Or Die [🔥1.5X + UPD!]","avg_ccu":5542.4,"min_ccu":2650,"max_ccu":8401,"samples":24,"sess":16.84,"sess_h":23.0,"like":91.17},
 "10765902945":{"name":"[🥷NINJA] Anime Legacy Simulator","avg_ccu":3800.9,"min_ccu":3594,"max_ccu":4219,"samples":24,"sess":30.93,"sess_h":23.0,"like":95.98},
 "10765938934":{"name":"[🎉UPD 2] Roll A Stickman!","avg_ccu":6441.2,"min_ccu":6124,"max_ccu":6822,"samples":24,"sess":18.17,"sess_h":23.0,"like":96.21},
 "10765969301":{"name":"[⛩️JAPAN] Travel Simulator","avg_ccu":1372.6,"min_ccu":645,"max_ccu":3326,"samples":24,"sess":12.27,"sess_h":23.0,"like":81.0},
@@ -709,7 +709,7 @@
 "10771928551":{"name":"🍦Cozy Lucky Scoop Order","avg_ccu":5133.6,"min_ccu":3713,"max_ccu":5997,"samples":18,"sess":8.46,"sess_h":17.0,"like":92.61},
 "10771935715":{"name":"MAHANAKHON RACING","avg_ccu":4736.9,"min_ccu":850,"max_ccu":10997,"samples":24,"sess":11.68,"sess_h":23.0,"like":97.2},
 "10771966586":{"name":"[🛴] Steal A Scooter","avg_ccu":5058.8,"min_ccu":1811,"max_ccu":8786,"samples":24,"sess":12.71,"sess_h":23.0,"like":98.05},
-"10771991516":{"name":"[🥽 VR + NEW ITEMS] blind but dangerous","avg_ccu":3094.2,"min_ccu":2023,"max_ccu":4078,"samples":24,"sess":14.25,"sess_h":23.0,"like":80.35},
+"10771991516":{"name":"[ 🎃 FINAL ] blind but dangerous","avg_ccu":3094.2,"min_ccu":2023,"max_ccu":4078,"samples":24,"sess":14.25,"sess_h":23.0,"like":80.35},
 "10771996952":{"name":"My Lucky Charm Scoop 🤍  [BUGS FIXED]","avg_ccu":2501.5,"min_ccu":2016,"max_ccu":3014,"samples":24,"sess":12.99,"sess_h":23.0,"like":74.22},
 "10771997908":{"name":"+1 Spider Arm🕷️","avg_ccu":17804.7,"min_ccu":11505,"max_ccu":21517,"samples":24,"sess":9.25,"sess_h":23.0,"like":97.28},
 "10772028037":{"name":"🏠[UPD] Pocket Landlord 🏗️ Build Your Town","avg_ccu":2837.3,"min_ccu":2348,"max_ccu":3441,"samples":19,"sess":7.44,"sess_h":18.0,"like":89.1},
