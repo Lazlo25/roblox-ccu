@@ -1,4 +1,4 @@
-{"date": "2026-11-07", "timezone": "America/New_York", "generated_utc": "2026-11-08T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-08T04:10:00Z", 15297266], "genres": {"Simulation": 42.307, "Survival": 14.683, "Roleplay & Avatar Sim": 11.645, "Action": 6.957, "RPG": 6.087, "Sports & Racing": 3.676, "Shooter": 3.663, "Obby & Platformer": 3.074, "Strategy": 2.576, "Party & Casual": 1.658, "Adventure": 1.546, "Shopping": 0.85, "Other": 0.539, "Puzzle": 0.276, "Entertainment": 0.271, "Social": 0.192}, "genre_hours": 24,"games":{
+{"date": "2026-11-07", "timezone": "America/New_York", "generated_utc": "2026-11-08T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-08T04:10:00Z", 15297266], "genres": {"Simulation": 42.307, "Survival": 14.683, "Roleplay & Avatar Sim": 11.645, "Action": 6.957, "RPG": 6.087, "Sports & Racing": 3.676, "Shooter": 3.663, "Obby & Platformer": 3.074, "Strategy": 2.576, "Party & Casual": 1.658, "Adventure": 1.546, "Shopping": 0.85, "Other": 0.539, "Puzzle": 0.276, "Entertainment": 0.271, "Social": 0.192}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3643.4,"min_ccu":2866,"max_ccu":4546,"samples":24,"sess":13.37,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9468.0,"min_ccu":6026,"max_ccu":13803,"samples":24,"sess":8.96,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5053.9,"min_ccu":3577,"max_ccu":6602,"samples":24,"sess":12.43,"sess_h":23.0,"like":93.28},
@@ -369,7 +369,7 @@
 "10599505531":{"name":"Game Of Life","avg_ccu":5562.7,"min_ccu":2779,"max_ccu":7742,"samples":24,"sess":13.78,"sess_h":23.0,"like":75.02},
 "10624691669":{"name":"MONOCHROME👁️","avg_ccu":3846.0,"min_ccu":2719,"max_ccu":4642,"samples":24,"sess":3.38,"sess_h":23.0,"like":84.72},
 "10629695169":{"name":"[🌎2] Tap Simulator REBORN","avg_ccu":37689.8,"min_ccu":32296,"max_ccu":45396,"samples":24,"sess":27.95,"sess_h":23.0,"like":93.75},
-"10634461028":{"name":"[NOW] Drive A Kukirin!","avg_ccu":4951.2,"min_ccu":591,"max_ccu":20500,"samples":24,"sess":9.04,"sess_h":23.0,"like":89.3},
+"10634461028":{"name":"[UPD] Drive A Kukirin!","avg_ccu":4951.2,"min_ccu":591,"max_ccu":20500,"samples":24,"sess":9.04,"sess_h":23.0,"like":89.3},
 "10638886777":{"name":"[🎃] 🧈 Stack A Butter Squishy [ASMR]","avg_ccu":16254.7,"min_ccu":11976,"max_ccu":38683,"samples":24,"sess":12.62,"sess_h":23.0,"like":88.09},
 "10643795368":{"name":"Idle Mafia Game","avg_ccu":3165.6,"min_ccu":2945,"max_ccu":3707,"samples":24,"sess":26.28,"sess_h":23.0,"like":87.81},
 "10648555380":{"name":"[🤑WORKS] Donation Central 💸","avg_ccu":253.8,"min_ccu":168,"max_ccu":317,"samples":24,"sess":6.93,"sess_h":23.0,"like":94.27},
@@ -644,7 +644,7 @@
 "10770806914":{"name":"[C5] Escape The Jungle","avg_ccu":4280.7,"min_ccu":2615,"max_ccu":5933,"samples":24,"sess":11.35,"sess_h":23.0,"like":87.26},
 "10770868083":{"name":"🌿 DIVINE TITAN + FREE ADMIN","avg_ccu":0.0,"min_ccu":0,"max_ccu":1,"samples":21,"sess":2.48,"sess_h":20.0,"like":83.08},
 "10770879065":{"name":"It Hears The Water [DONT SPLASH] 🎃","avg_ccu":1500.1,"min_ccu":1002,"max_ccu":2211,"samples":24,"sess":4.7,"sess_h":23.0,"like":81.61},
-"10770881168":{"name":"Smash Ball","avg_ccu":1824.0,"min_ccu":865,"max_ccu":2691,"samples":24,"sess":5.43,"sess_h":23.0,"like":69.99},
+"10770881168":{"name":"Smash Ball [NEW]","avg_ccu":1824.0,"min_ccu":865,"max_ccu":2691,"samples":24,"sess":5.43,"sess_h":23.0,"like":69.99},
 "10770933473":{"name":"[🌍UPD] +1 Anime Eyes","avg_ccu":21673.8,"min_ccu":15517,"max_ccu":50803,"samples":24,"sess":20.27,"sess_h":23.0,"like":95.6},
 "10770934840":{"name":"[UPD🌀] UNDERTALE Fight!","avg_ccu":4321.6,"min_ccu":2627,"max_ccu":7150,"samples":24,"sess":13.73,"sess_h":23.0,"like":97.21},
 "10770978952":{"name":"PREHISTORIC [HORROR]","avg_ccu":2700.3,"min_ccu":1474,"max_ccu":3716,"samples":24,"sess":7.8,"sess_h":23.0,"like":72.34},
@@ -683,7 +683,7 @@
 "10771800287":{"name":"Make Viral Candy! 🍬","avg_ccu":7520.2,"min_ccu":5160,"max_ccu":10575,"samples":24,"sess":8.9,"sess_h":23.0,"like":88.77},
 "10771804357":{"name":"Fly Tesla Roadster To Steal Eggs","avg_ccu":3978.9,"min_ccu":2490,"max_ccu":7066,"samples":13,"sess":13.27,"sess_h":12.0,"like":86.15},
 "10771807458":{"name":"[😈] SAEM LAST UPDATE X9999 LUCK AND ADMIN EGGS","avg_ccu":2803.8,"min_ccu":54,"max_ccu":12007,"samples":17,"sess":11.78,"sess_h":16.0,"like":72.17},
-"10771853697":{"name":"[UPDATE] Project Web","avg_ccu":5249.7,"min_ccu":3271,"max_ccu":6975,"samples":17,"sess":7.28,"sess_h":16.0,"like":94.53},
+"10771853697":{"name":"[REVAMP] Project Web","avg_ccu":5249.7,"min_ccu":3271,"max_ccu":6975,"samples":17,"sess":7.28,"sess_h":16.0,"like":94.53},
 "10771871836":{"name":"📸 Say Cheese! [STORY]","avg_ccu":20965.9,"min_ccu":14136,"max_ccu":35079,"samples":24,"sess":10.24,"sess_h":23.0,"like":90.23},
 "10771881861":{"name":"[RED PANDA🐼] FERAL 🐺 Animal Survival","avg_ccu":12860.5,"min_ccu":6930,"max_ccu":18546,"samples":24,"sess":15.09,"sess_h":23.0,"like":78.86},
 "10771928551":{"name":"🍦Cozy Lucky Scoop Order","avg_ccu":15440.4,"min_ccu":11573,"max_ccu":19173,"samples":24,"sess":9.52,"sess_h":23.0,"like":91.62},
