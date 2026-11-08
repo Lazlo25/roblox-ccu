@@ -1,4 +1,4 @@
-{"date": "2026-11-07", "timezone": "America/New_York", "generated_utc": "2026-11-08T21:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-08T04:10:00Z", 15297266], "genres": {"Simulation": 42.307, "Survival": 14.683, "Roleplay & Avatar Sim": 11.645, "Action": 6.957, "RPG": 6.087, "Sports & Racing": 3.676, "Shooter": 3.663, "Obby & Platformer": 3.074, "Strategy": 2.576, "Party & Casual": 1.658, "Adventure": 1.546, "Shopping": 0.85, "Other": 0.539, "Puzzle": 0.276, "Entertainment": 0.271, "Social": 0.192}, "genre_hours": 24,"games":{
+{"date": "2026-11-07", "timezone": "America/New_York", "generated_utc": "2026-11-08T22:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-08T04:10:00Z", 15297266], "genres": {"Simulation": 42.307, "Survival": 14.683, "Roleplay & Avatar Sim": 11.645, "Action": 6.957, "RPG": 6.087, "Sports & Racing": 3.676, "Shooter": 3.663, "Obby & Platformer": 3.074, "Strategy": 2.576, "Party & Casual": 1.658, "Adventure": 1.546, "Shopping": 0.85, "Other": 0.539, "Puzzle": 0.276, "Entertainment": 0.271, "Social": 0.192}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3643.4,"min_ccu":2866,"max_ccu":4546,"samples":24,"sess":13.37,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9468.0,"min_ccu":6026,"max_ccu":13803,"samples":24,"sess":8.96,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5053.9,"min_ccu":3577,"max_ccu":6602,"samples":24,"sess":12.43,"sess_h":23.0,"like":93.28},
@@ -152,7 +152,7 @@
 "5361032378":{"name":"Sol's RNG [ Halloween Event 🎃]","avg_ccu":37479.5,"min_ccu":34583,"max_ccu":41372,"samples":24,"sess":27.54,"sess_h":23.0,"like":91.42},
 "5422546686":{"name":"[S5 🌙] Horse Life","avg_ccu":2345.6,"min_ccu":1707,"max_ccu":3147,"samples":24,"sess":21.69,"sess_h":23.0,"like":95.64},
 "5569032992":{"name":"🌙 Dandy's World [ALPHA]","avg_ccu":153344.0,"min_ccu":125579,"max_ccu":194294,"samples":24,"sess":14.87,"sess_h":23.0,"like":88.26},
-"5578556129":{"name":"Vanguards: 2nd Anniversary","avg_ccu":4751.8,"min_ccu":4162,"max_ccu":5302,"samples":24,"sess":32.01,"sess_h":23.0,"like":96.71},
+"5578556129":{"name":"Vanguards: Trail of the Saint","avg_ccu":4751.8,"min_ccu":4162,"max_ccu":5302,"samples":24,"sess":32.01,"sess_h":23.0,"like":96.71},
 "5595353122":{"name":"Slayers 2","avg_ccu":7434.7,"min_ccu":5858,"max_ccu":9202,"samples":24,"sess":25.65,"sess_h":23.0,"like":97.47},
 "5650396773":{"name":"a dusty trip [🚗CAR]","avg_ccu":21421.4,"min_ccu":16527,"max_ccu":26858,"samples":24,"sess":10.96,"sess_h":23.0,"like":90.04},
 "5750914919":{"name":"Fisch 🦈 [HAMMI]","avg_ccu":124338.2,"min_ccu":75047,"max_ccu":359618,"samples":24,"sess":25.87,"sess_h":23.0,"like":90.81},
@@ -434,7 +434,7 @@
 "10765760839":{"name":"[🗺️] +1 Forge Blade Loot","avg_ccu":2411.5,"min_ccu":1633,"max_ccu":3312,"samples":24,"sess":18.25,"sess_h":23.0,"like":92.08},
 "10765788154":{"name":"[🐉] My Dino Empire 🦖","avg_ccu":2075.8,"min_ccu":1613,"max_ccu":3797,"samples":24,"sess":20.71,"sess_h":23.0,"like":97.9},
 "10765799968":{"name":"[GUILDS] CloverFall","avg_ccu":153.2,"min_ccu":129,"max_ccu":187,"samples":16,"sess":24.77,"sess_h":15.0,"like":94.25},
-"10765841403":{"name":"👁️Steal Or Die [🔥1.5X + UPD!]","avg_ccu":8575.5,"min_ccu":4249,"max_ccu":11879,"samples":24,"sess":18.12,"sess_h":23.0,"like":91.29},
+"10765841403":{"name":"👁️Steal Or Die [🔥NEW ITEMS!]","avg_ccu":8575.5,"min_ccu":4249,"max_ccu":11879,"samples":24,"sess":18.12,"sess_h":23.0,"like":91.29},
 "10765902945":{"name":"[🥷NINJA] Anime Legacy Simulator","avg_ccu":3537.6,"min_ccu":3127,"max_ccu":3906,"samples":24,"sess":29.94,"sess_h":23.0,"like":95.9},
 "10765938934":{"name":"[🎉UPD 3] Roll A Stickman!","avg_ccu":6763.4,"min_ccu":6386,"max_ccu":7160,"samples":24,"sess":18.48,"sess_h":23.0,"like":96.18},
 "10765969301":{"name":"[⛩️JAPAN] Travel Simulator","avg_ccu":1813.2,"min_ccu":1427,"max_ccu":2437,"samples":24,"sess":12.72,"sess_h":23.0,"like":81.08},
@@ -519,7 +519,7 @@
 "10768645719":{"name":"[🌾] Farming Incremental","avg_ccu":742.6,"min_ccu":457,"max_ccu":1057,"samples":24,"sess":17.88,"sess_h":23.0,"like":82.43},
 "10768676548":{"name":"[X-MEN] Hide From The Hulk","avg_ccu":1401.0,"min_ccu":976,"max_ccu":1808,"samples":24,"sess":13.93,"sess_h":23.0,"like":88.5},
 "10768677773":{"name":"UPD | Carolina Leaners","avg_ccu":5762.1,"min_ccu":1202,"max_ccu":9363,"samples":24,"sess":18.66,"sess_h":23.0,"like":97.18},
-"10768761562":{"name":"[🎃] Airport Security (Anomaly) ✈️","avg_ccu":4008.7,"min_ccu":2350,"max_ccu":5442,"samples":24,"sess":18.34,"sess_h":23.0,"like":92.78},
+"10768761562":{"name":"[👹] Airport Security (Anomaly) ✈️","avg_ccu":4008.7,"min_ccu":2350,"max_ccu":5442,"samples":24,"sess":18.34,"sess_h":23.0,"like":92.78},
 "10768785226":{"name":"A Long Flight [BIOMES]","avg_ccu":7939.5,"min_ccu":4686,"max_ccu":11685,"samples":24,"sess":12.31,"sess_h":23.0,"like":75.81},
 "10768835968":{"name":"[😈DEVIL UNIONS] Clover Adventure","avg_ccu":1555.3,"min_ccu":1463,"max_ccu":1604,"samples":3,"like":94.2},
 "10768891670":{"name":"Make The Logo!","avg_ccu":13176.2,"min_ccu":7100,"max_ccu":19035,"samples":24,"sess":10.11,"sess_h":23.0,"like":69.45},
