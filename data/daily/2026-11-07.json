@@ -1,4 +1,4 @@
-{"date": "2026-11-07", "timezone": "America/New_York", "generated_utc": "2026-11-08T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-08T04:10:00Z", 15297266], "genres": {"Simulation": 42.307, "Survival": 14.683, "Roleplay & Avatar Sim": 11.645, "Action": 6.957, "RPG": 6.087, "Sports & Racing": 3.676, "Shooter": 3.663, "Obby & Platformer": 3.074, "Strategy": 2.576, "Party & Casual": 1.658, "Adventure": 1.546, "Shopping": 0.85, "Other": 0.539, "Puzzle": 0.276, "Entertainment": 0.271, "Social": 0.192}, "genre_hours": 24,"games":{
+{"date": "2026-11-07", "timezone": "America/New_York", "generated_utc": "2026-11-08T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-08T04:10:00Z", 15297266], "genres": {"Simulation": 42.307, "Survival": 14.683, "Roleplay & Avatar Sim": 11.645, "Action": 6.957, "RPG": 6.087, "Sports & Racing": 3.676, "Shooter": 3.663, "Obby & Platformer": 3.074, "Strategy": 2.576, "Party & Casual": 1.658, "Adventure": 1.546, "Shopping": 0.85, "Other": 0.539, "Puzzle": 0.276, "Entertainment": 0.271, "Social": 0.192}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3643.4,"min_ccu":2866,"max_ccu":4546,"samples":24,"sess":13.37,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9468.0,"min_ccu":6026,"max_ccu":13803,"samples":24,"sess":8.96,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5053.9,"min_ccu":3577,"max_ccu":6602,"samples":24,"sess":12.43,"sess_h":23.0,"like":93.28},
@@ -512,7 +512,7 @@
 "10768542976":{"name":"Be a Pirate [POWER FRUITS]","avg_ccu":1852.2,"min_ccu":1197,"max_ccu":3047,"samples":24,"sess":27.22,"sess_h":23.0,"like":90.86},
 "10768556372":{"name":"[UPD 2 🍭] Candy Kingdom Defense","avg_ccu":1497.0,"min_ccu":1088,"max_ccu":1940,"samples":24,"sess":10.35,"sess_h":23.0,"like":96.06},
 "10768558548":{"name":"[🍂UPD] Run A Farm!","avg_ccu":12932.8,"min_ccu":6587,"max_ccu":19514,"samples":24,"sess":20.86,"sess_h":23.0,"like":93.1},
-"10768561721":{"name":"[🏝️1.5x] +1 Haki Evolution","avg_ccu":1077.2,"min_ccu":829,"max_ccu":1252,"samples":24,"sess":24.01,"sess_h":23.0,"like":94.5},
+"10768561721":{"name":"[🏝️] +1 Haki Evolution","avg_ccu":1077.2,"min_ccu":829,"max_ccu":1252,"samples":24,"sess":24.01,"sess_h":23.0,"like":94.5},
 "10768595206":{"name":"+1 Vampire Evolution","avg_ccu":3029.6,"min_ccu":2027,"max_ccu":4214,"samples":24,"sess":12.02,"sess_h":23.0,"like":92.21},
 "10768625767":{"name":"Save the Krusty Krab 🍔","avg_ccu":7622.5,"min_ccu":5813,"max_ccu":9668,"samples":24,"sess":14.88,"sess_h":23.0,"like":93.72},
 "10768637423":{"name":"[🎃] Barber RNG","avg_ccu":432.2,"min_ccu":321,"max_ccu":522,"samples":24,"sess":19.51,"sess_h":23.0,"like":91.74},
@@ -697,7 +697,7 @@
 "10772217708":{"name":"[UPD] Tesla Roadster Chase","avg_ccu":19638.0,"min_ccu":11407,"max_ccu":31722,"samples":24,"sess":8.8,"sess_h":23.0,"like":85.66},
 "10772253152":{"name":"[UPD] Durian Garden 🍈","avg_ccu":11752.5,"min_ccu":1290,"max_ccu":19244,"samples":24,"sess":13.6,"sess_h":23.0,"like":93.6},
 "10772281976":{"name":"Unstable SMP FFA [MINECRAFT PVP!]","avg_ccu":14288.9,"min_ccu":11297,"max_ccu":17488,"samples":21,"sess":16.17,"sess_h":20.0,"like":86.99},
-"10772287037":{"name":"[🗳️VOTE] Facecard: Makeup Showdown (Junior)","avg_ccu":10529.6,"min_ccu":5938,"max_ccu":14819,"samples":24,"sess":10.13,"sess_h":23.0,"like":98.04},
+"10772287037":{"name":"Facecard: Makeup Showdown (Junior)","avg_ccu":10529.6,"min_ccu":5938,"max_ccu":14819,"samples":24,"sess":10.13,"sess_h":23.0,"like":98.04},
 "10772440379":{"name":"Monster Maker","avg_ccu":9568.8,"min_ccu":5771,"max_ccu":12343,"samples":24,"sess":10.68,"sess_h":23.0,"like":94.31},
 "10772465573":{"name":"My iPad","avg_ccu":4822.6,"min_ccu":3322,"max_ccu":8183,"samples":17,"sess":9.59,"sess_h":16.0,"like":85.06},
 "10772543706":{"name":"Sweep The Moon 🌕","avg_ccu":19993.1,"min_ccu":4076,"max_ccu":46160,"samples":24,"sess":21.98,"sess_h":23.0,"like":97.51},
