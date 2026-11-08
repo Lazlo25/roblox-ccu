@@ -1,4 +1,4 @@
-{"date": "2026-11-07", "timezone": "America/New_York", "generated_utc": "2026-11-08T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-08T04:10:00Z", 15297266], "genres": {"Simulation": 42.307, "Survival": 14.683, "Roleplay & Avatar Sim": 11.645, "Action": 6.957, "RPG": 6.087, "Sports & Racing": 3.676, "Shooter": 3.663, "Obby & Platformer": 3.074, "Strategy": 2.576, "Party & Casual": 1.658, "Adventure": 1.546, "Shopping": 0.85, "Other": 0.539, "Puzzle": 0.276, "Entertainment": 0.271, "Social": 0.192}, "genre_hours": 24,"games":{
+{"date": "2026-11-07", "timezone": "America/New_York", "generated_utc": "2026-11-08T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-08T04:10:00Z", 15297266], "genres": {"Simulation": 42.307, "Survival": 14.683, "Roleplay & Avatar Sim": 11.645, "Action": 6.957, "RPG": 6.087, "Sports & Racing": 3.676, "Shooter": 3.663, "Obby & Platformer": 3.074, "Strategy": 2.576, "Party & Casual": 1.658, "Adventure": 1.546, "Shopping": 0.85, "Other": 0.539, "Puzzle": 0.276, "Entertainment": 0.271, "Social": 0.192}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3643.4,"min_ccu":2866,"max_ccu":4546,"samples":24,"sess":13.37,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9468.0,"min_ccu":6026,"max_ccu":13803,"samples":24,"sess":8.96,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5053.9,"min_ccu":3577,"max_ccu":6602,"samples":24,"sess":12.43,"sess_h":23.0,"like":93.28},
@@ -576,7 +576,7 @@
 "10769765300":{"name":"Paint the Flag","avg_ccu":2550.0,"min_ccu":1673,"max_ccu":3275,"samples":24,"sess":9.08,"sess_h":23.0,"like":62.6},
 "10769788746":{"name":"Ro-BassFishing [MASSIVEE UPDATE]","avg_ccu":6138.2,"min_ccu":3527,"max_ccu":8760,"samples":24,"sess":15.11,"sess_h":23.0,"like":88.61},
 "10769793590":{"name":"LICENSE PLATE GENERATOR","avg_ccu":7549.3,"min_ccu":5698,"max_ccu":11676,"samples":7,"sess":18.98,"sess_h":6.0,"like":96.65},
-"10769801424":{"name":"Be The Biggest Verity","avg_ccu":3119.2,"min_ccu":1750,"max_ccu":4592,"samples":24,"sess":10.24,"sess_h":23.0,"like":85.17},
+"10769801424":{"name":"[TRADING] Be The Biggest Verity","avg_ccu":3119.2,"min_ccu":1750,"max_ccu":4592,"samples":24,"sess":10.24,"sess_h":23.0,"like":85.17},
 "10769808534":{"name":"Be a Soccer Manager ⚽","avg_ccu":5440.7,"min_ccu":3412,"max_ccu":10586,"samples":24,"sess":19.7,"sess_h":23.0,"like":98.25},
 "10769835283":{"name":"[UPD5 ✨] Depth Incremental","avg_ccu":23459.8,"min_ccu":15931,"max_ccu":32178,"samples":24,"sess":29.95,"sess_h":23.0,"like":96.32},
 "10769835310":{"name":"Clean a Painting","avg_ccu":3337.0,"min_ccu":2274,"max_ccu":8030,"samples":24,"sess":18.9,"sess_h":23.0,"like":98.59},
