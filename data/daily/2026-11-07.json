@@ -1,4 +1,4 @@
-{"date": "2026-11-07", "timezone": "America/New_York", "generated_utc": "2026-11-08T17:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-08T04:10:00Z", 15297266], "genres": {"Simulation": 42.307, "Survival": 14.683, "Roleplay & Avatar Sim": 11.645, "Action": 6.957, "RPG": 6.087, "Sports & Racing": 3.676, "Shooter": 3.663, "Obby & Platformer": 3.074, "Strategy": 2.576, "Party & Casual": 1.658, "Adventure": 1.546, "Shopping": 0.85, "Other": 0.539, "Puzzle": 0.276, "Entertainment": 0.271, "Social": 0.192}, "genre_hours": 24,"games":{
+{"date": "2026-11-07", "timezone": "America/New_York", "generated_utc": "2026-11-08T18:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-08T04:10:00Z", 15297266], "genres": {"Simulation": 42.307, "Survival": 14.683, "Roleplay & Avatar Sim": 11.645, "Action": 6.957, "RPG": 6.087, "Sports & Racing": 3.676, "Shooter": 3.663, "Obby & Platformer": 3.074, "Strategy": 2.576, "Party & Casual": 1.658, "Adventure": 1.546, "Shopping": 0.85, "Other": 0.539, "Puzzle": 0.276, "Entertainment": 0.271, "Social": 0.192}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3643.4,"min_ccu":2866,"max_ccu":4546,"samples":24,"sess":13.37,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9468.0,"min_ccu":6026,"max_ccu":13803,"samples":24,"sess":8.96,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5053.9,"min_ccu":3577,"max_ccu":6602,"samples":24,"sess":12.43,"sess_h":23.0,"like":93.28},
@@ -139,7 +139,7 @@
 "4793836769":{"name":"[SALEEN]🚗Midnight Chasers: Highway Racing","avg_ccu":2895.2,"min_ccu":2374,"max_ccu":4450,"samples":24,"sess":15.44,"sess_h":23.0,"like":97.53},
 "4839802560":{"name":"LifeTogether 🏠 RP","avg_ccu":42972.2,"min_ccu":25603,"max_ccu":64265,"samples":24,"sess":14.53,"sess_h":23.0,"like":90.31},
 "4931927012":{"name":"[🎃]🏀Basketball Legends🏀","avg_ccu":4838.5,"min_ccu":2452,"max_ccu":7239,"samples":24,"sess":14.83,"sess_h":23.0,"like":86.0},
-"4938220315":{"name":"[1 HOUR] Skibi Defense","avg_ccu":1617.5,"min_ccu":928,"max_ccu":2283,"samples":24,"sess":10.5,"sess_h":23.0,"like":92.28},
+"4938220315":{"name":"[ACT 3] Skibi Defense","avg_ccu":1617.5,"min_ccu":928,"max_ccu":2283,"samples":24,"sess":10.5,"sess_h":23.0,"like":92.28},
 "4949420752":{"name":"Realistic Street Soccer","avg_ccu":19444.0,"min_ccu":9127,"max_ccu":29938,"samples":24,"sess":9.97,"sess_h":23.0,"like":84.55},
 "4983034985":{"name":"Conquer The World WW2 [🎃]","avg_ccu":10937.6,"min_ccu":5803,"max_ccu":15584,"samples":24,"sess":16.73,"sess_h":23.0,"like":81.38},
 "4987856151":{"name":"Wanted [💰UPDATE]","avg_ccu":7944.8,"min_ccu":5510,"max_ccu":12629,"samples":24,"sess":15.82,"sess_h":23.0,"like":96.77},
@@ -272,7 +272,7 @@
 "9456333594":{"name":"Bikelife Baltimore","avg_ccu":3229.8,"min_ccu":2340,"max_ccu":4211,"samples":24,"sess":7.3,"sess_h":23.0,"like":68.35},
 "9491545867":{"name":"[🎣FISHING] Break a Brainrot Egg!","avg_ccu":8957.8,"min_ccu":5739,"max_ccu":16705,"samples":24,"sess":12.18,"sess_h":23.0,"like":81.89},
 "9534705677":{"name":"[🔥UPD] Sniper Arena","avg_ccu":14414.6,"min_ccu":9451,"max_ccu":18165,"samples":24,"sess":11.94,"sess_h":23.0,"like":91.77},
-"9551044479":{"name":"Final Swarm [NOW]","avg_ccu":867.2,"min_ccu":713,"max_ccu":1050,"samples":24,"sess":13.26,"sess_h":23.0,"like":97.01},
+"9551044479":{"name":"[💎CAVERN] Final Swarm","avg_ccu":867.2,"min_ccu":713,"max_ccu":1050,"samples":24,"sess":13.26,"sess_h":23.0,"like":97.01},
 "9561553764":{"name":"Murder Duels","avg_ccu":8882.4,"min_ccu":6779,"max_ccu":11222,"samples":24,"sess":8.48,"sess_h":23.0,"like":93.09},
 "9584852943":{"name":"[X3] +1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":80828.0,"min_ccu":18961,"max_ccu":920091,"samples":24,"sess":11.56,"sess_h":23.0,"like":96.7},
 "9641502068":{"name":"[UPD] KNIFE DUELS","avg_ccu":10547.8,"min_ccu":6179,"max_ccu":14732,"samples":24,"sess":9.32,"sess_h":23.0,"like":93.8},
@@ -610,7 +610,7 @@
 "10770254650":{"name":"[💥EVOLUTIONS] Bey Rivals","avg_ccu":6267.8,"min_ccu":3998,"max_ccu":10782,"samples":24,"sess":9.34,"sess_h":23.0,"like":91.29},
 "10770256752":{"name":"[CH3] Punch Walls To Escape","avg_ccu":4199.2,"min_ccu":2934,"max_ccu":5553,"samples":24,"sess":12.71,"sess_h":23.0,"like":85.39},
 "10770259671":{"name":"Hug Tower & TROLL Traps","avg_ccu":3795.3,"min_ccu":2820,"max_ccu":4717,"samples":24,"sess":9.7,"sess_h":23.0,"like":67.5},
-"10770284142":{"name":"Night Rider 🏍️ [TESTING]","avg_ccu":17817.6,"min_ccu":13485,"max_ccu":22680,"samples":24,"sess":10.72,"sess_h":23.0,"like":94.45},
+"10770284142":{"name":"[🏁RACE] Night Rider 🏍️ [TESTING]","avg_ccu":17817.6,"min_ccu":13485,"max_ccu":22680,"samples":24,"sess":10.72,"sess_h":23.0,"like":94.45},
 "10770296110":{"name":"Escape Traffic","avg_ccu":2934.2,"min_ccu":1532,"max_ccu":4382,"samples":24,"sess":15.4,"sess_h":23.0,"like":80.34},
 "10770306793":{"name":"[🫧CH3] 1M Clicks To Escape","avg_ccu":10396.4,"min_ccu":6916,"max_ccu":15594,"samples":24,"sess":15.55,"sess_h":23.0,"like":88.5},
 "10770342542":{"name":"Escooter Life [🎃]","avg_ccu":871.7,"min_ccu":250,"max_ccu":1458,"samples":24,"sess":8.33,"sess_h":23.0,"like":88.09},
