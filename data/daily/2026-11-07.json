@@ -1,4 +1,4 @@
-{"date": "2026-11-07", "timezone": "America/New_York", "generated_utc": "2026-11-08T20:10:01Z", "through_et": "24:00", "platform_now": ["2026-11-08T04:10:00Z", 15297266], "genres": {"Simulation": 42.307, "Survival": 14.683, "Roleplay & Avatar Sim": 11.645, "Action": 6.957, "RPG": 6.087, "Sports & Racing": 3.676, "Shooter": 3.663, "Obby & Platformer": 3.074, "Strategy": 2.576, "Party & Casual": 1.658, "Adventure": 1.546, "Shopping": 0.85, "Other": 0.539, "Puzzle": 0.276, "Entertainment": 0.271, "Social": 0.192}, "genre_hours": 24,"games":{
+{"date": "2026-11-07", "timezone": "America/New_York", "generated_utc": "2026-11-08T21:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-08T04:10:00Z", 15297266], "genres": {"Simulation": 42.307, "Survival": 14.683, "Roleplay & Avatar Sim": 11.645, "Action": 6.957, "RPG": 6.087, "Sports & Racing": 3.676, "Shooter": 3.663, "Obby & Platformer": 3.074, "Strategy": 2.576, "Party & Casual": 1.658, "Adventure": 1.546, "Shopping": 0.85, "Other": 0.539, "Puzzle": 0.276, "Entertainment": 0.271, "Social": 0.192}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3643.4,"min_ccu":2866,"max_ccu":4546,"samples":24,"sess":13.37,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9468.0,"min_ccu":6026,"max_ccu":13803,"samples":24,"sess":8.96,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5053.9,"min_ccu":3577,"max_ccu":6602,"samples":24,"sess":12.43,"sess_h":23.0,"like":93.28},
@@ -191,7 +191,7 @@
 "6739698191":{"name":"[WEEK 3 🎃 x BUTCHER] Violence District","avg_ccu":61236.6,"min_ccu":42340,"max_ccu":86928,"samples":24,"sess":16.33,"sess_h":23.0,"like":92.95},
 "6749060816":{"name":"[UPD] Asylum Life 🔊","avg_ccu":6000.5,"min_ccu":5136,"max_ccu":7197,"samples":24,"sess":16.71,"sess_h":23.0,"like":83.23},
 "6751447237":{"name":"[🎃] Car Zone 🏎️ Racing & Drifting","avg_ccu":4381.8,"min_ccu":2795,"max_ccu":5750,"samples":24,"sess":11.08,"sess_h":23.0,"like":96.63},
-"6760085372":{"name":"[🎃 NOW] Jujutsu: Zero","avg_ccu":3918.0,"min_ccu":3389,"max_ccu":6071,"samples":24,"sess":30.82,"sess_h":23.0,"like":95.22},
+"6760085372":{"name":"[🎃 HALLOWEEN] Jujutsu: Zero","avg_ccu":3918.0,"min_ccu":3389,"max_ccu":6071,"samples":24,"sess":30.82,"sess_h":23.0,"like":95.22},
 "6765805766":{"name":"BlockSpin 🔪","avg_ccu":22796.0,"min_ccu":18207,"max_ccu":25258,"samples":24,"sess":14.84,"sess_h":23.0,"like":78.85},
 "6774320049":{"name":"Dubai 🏡 RP [Newborns! 👶]","avg_ccu":20445.4,"min_ccu":11561,"max_ccu":28985,"samples":24,"sess":16.1,"sess_h":23.0,"like":89.36},
 "6786784563":{"name":"[📸 CAMERA!] Corsa Legends [ALPHA]","avg_ccu":1527.7,"min_ccu":1171,"max_ccu":2025,"samples":24,"sess":11.95,"sess_h":23.0,"like":97.0},
