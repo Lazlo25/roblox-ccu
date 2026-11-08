@@ -1,4 +1,4 @@
-{"date": "2026-11-07", "timezone": "America/New_York", "generated_utc": "2026-11-08T04:10:00Z", "through_et": "23:10", "platform_now": ["2026-11-08T04:10:00Z", 15297266], "genres": {"Simulation": 42.307, "Survival": 14.683, "Roleplay & Avatar Sim": 11.645, "Action": 6.957, "RPG": 6.087, "Sports & Racing": 3.676, "Shooter": 3.663, "Obby & Platformer": 3.074, "Strategy": 2.576, "Party & Casual": 1.658, "Adventure": 1.546, "Shopping": 0.85, "Other": 0.539, "Puzzle": 0.276, "Entertainment": 0.271, "Social": 0.192}, "genre_hours": 24,"games":{
+{"date": "2026-11-07", "timezone": "America/New_York", "generated_utc": "2026-11-08T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-08T04:10:00Z", 15297266], "genres": {"Simulation": 42.307, "Survival": 14.683, "Roleplay & Avatar Sim": 11.645, "Action": 6.957, "RPG": 6.087, "Sports & Racing": 3.676, "Shooter": 3.663, "Obby & Platformer": 3.074, "Strategy": 2.576, "Party & Casual": 1.658, "Adventure": 1.546, "Shopping": 0.85, "Other": 0.539, "Puzzle": 0.276, "Entertainment": 0.271, "Social": 0.192}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3643.4,"min_ccu":2866,"max_ccu":4546,"samples":24,"sess":13.37,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9468.0,"min_ccu":6026,"max_ccu":13803,"samples":24,"sess":8.96,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5053.9,"min_ccu":3577,"max_ccu":6602,"samples":24,"sess":12.43,"sess_h":23.0,"like":93.28},
@@ -18,7 +18,7 @@
 "245662005":{"name":"Jailbreak 🍁🍁","avg_ccu":6031.1,"min_ccu":4632,"max_ccu":8033,"samples":24,"sess":13.78,"sess_h":23.0,"like":87.73},
 "274816972":{"name":"[New Car!🔥] Car Crushers 2 - Physics Simulation","avg_ccu":2048.1,"min_ccu":1425,"max_ccu":2943,"samples":24,"sess":14.53,"sess_h":23.0,"like":93.47},
 "321778215":{"name":"Royale ❄️ High","avg_ccu":11307.8,"min_ccu":7518,"max_ccu":14777,"samples":24,"sess":20.25,"sess_h":23.0,"like":85.9},
-"371263894":{"name":"Greenville RP (🦇HALLOWEEN!)","avg_ccu":5939.3,"min_ccu":3621,"max_ccu":7863,"samples":24,"sess":15.95,"sess_h":23.0,"like":87.91},
+"371263894":{"name":"Greenville RP","avg_ccu":5939.3,"min_ccu":3621,"max_ccu":7863,"samples":24,"sess":15.95,"sess_h":23.0,"like":87.91},
 "372226183":{"name":"Flee the Facility","avg_ccu":22376.0,"min_ccu":6931,"max_ccu":32270,"samples":24,"sess":12.03,"sess_h":23.0,"like":92.09},
 "383310974":{"name":"[⚡] Adopt Me!","avg_ccu":217215.2,"min_ccu":131087,"max_ccu":708110,"samples":24,"sess":23.24,"sess_h":23.0,"like":86.39},
 "540382210":{"name":"[🎃🎃 EVENT!!!] FMR","avg_ccu":1831.2,"min_ccu":1126,"max_ccu":2560,"samples":24,"sess":12.2,"sess_h":23.0,"like":94.9},
@@ -294,7 +294,7 @@
 "9950184599":{"name":"(🌐MARKETPLACE +📱PHONES) Young Street, Ontario RP","avg_ccu":1895.6,"min_ccu":1426,"max_ccu":2482,"samples":24,"sess":19.36,"sess_h":23.0,"like":97.93},
 "9960184903":{"name":"[🏗️] Build Everything!","avg_ccu":6654.2,"min_ccu":4649,"max_ccu":8496,"samples":24,"sess":13.58,"sess_h":23.0,"like":66.79},
 "9970645639":{"name":"Run a Restaurant!","avg_ccu":4638.0,"min_ccu":3872,"max_ccu":5516,"samples":24,"sess":24.2,"sess_h":23.0,"like":98.67},
-"9978329815":{"name":"Mukbang Game [Testing]🦇!","avg_ccu":19089.6,"min_ccu":13307,"max_ccu":23471,"samples":24,"sess":11.44,"sess_h":23.0,"like":92.61},
+"9978329815":{"name":"Mukbang Game [Testing]🫓🍲!","avg_ccu":19089.6,"min_ccu":13307,"max_ccu":23471,"samples":24,"sess":11.44,"sess_h":23.0,"like":92.61},
 "9979684281":{"name":"🔧 Mechanic Legends [UPD🏁]","avg_ccu":7268.2,"min_ccu":5375,"max_ccu":9063,"samples":24,"sess":15.76,"sess_h":23.0,"like":92.26},
 "9996384072":{"name":"Reel for Kpop Idols","avg_ccu":1688.1,"min_ccu":1409,"max_ccu":2032,"samples":24,"sess":20.64,"sess_h":23.0,"like":97.7},
 "10004244222":{"name":"[8x🏄] Kick a Lucky Block","avg_ccu":25578.1,"min_ccu":10423,"max_ccu":122358,"samples":24,"sess":11.89,"sess_h":23.0,"like":94.95},
@@ -517,7 +517,7 @@
 "10768625767":{"name":"Save the Krusty Krab 🍔","avg_ccu":7622.5,"min_ccu":5813,"max_ccu":9668,"samples":24,"sess":14.88,"sess_h":23.0,"like":93.72},
 "10768637423":{"name":"[🎃] Barber RNG","avg_ccu":432.2,"min_ccu":321,"max_ccu":522,"samples":24,"sess":19.51,"sess_h":23.0,"like":91.74},
 "10768645719":{"name":"[🌾] Farming Incremental","avg_ccu":742.6,"min_ccu":457,"max_ccu":1057,"samples":24,"sess":17.88,"sess_h":23.0,"like":82.43},
-"10768676548":{"name":"[DEADPOOL] Hide From The Hulk","avg_ccu":1401.0,"min_ccu":976,"max_ccu":1808,"samples":24,"sess":13.93,"sess_h":23.0,"like":88.5},
+"10768676548":{"name":"[X-MEN] Hide From The Hulk","avg_ccu":1401.0,"min_ccu":976,"max_ccu":1808,"samples":24,"sess":13.93,"sess_h":23.0,"like":88.5},
 "10768677773":{"name":"UPD | Carolina Leaners","avg_ccu":5762.1,"min_ccu":1202,"max_ccu":9363,"samples":24,"sess":18.66,"sess_h":23.0,"like":97.18},
 "10768761562":{"name":"[🎃] Airport Security (Anomaly) ✈️","avg_ccu":4008.7,"min_ccu":2350,"max_ccu":5442,"samples":24,"sess":18.34,"sess_h":23.0,"like":92.78},
 "10768785226":{"name":"A Long Flight [BIOMES]","avg_ccu":7939.5,"min_ccu":4686,"max_ccu":11685,"samples":24,"sess":12.31,"sess_h":23.0,"like":75.81},
