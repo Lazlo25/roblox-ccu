@@ -1,4 +1,4 @@
-{"date": "2026-11-08", "timezone": "America/New_York", "generated_utc": "2026-11-09T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-09T04:10:00Z", 9582495], "genres": {"Simulation": 38.603, "Survival": 16.359, "Roleplay & Avatar Sim": 12.482, "Action": 7.335, "RPG": 6.344, "Sports & Racing": 3.866, "Shooter": 3.668, "Obby & Platformer": 3.137, "Strategy": 2.686, "Party & Casual": 1.659, "Adventure": 1.493, "Shopping": 0.894, "Other": 0.633, "Entertainment": 0.292, "Puzzle": 0.287, "Social": 0.262}, "genre_hours": 24,"games":{
+{"date": "2026-11-08", "timezone": "America/New_York", "generated_utc": "2026-11-09T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-09T04:10:00Z", 9582495], "genres": {"Simulation": 38.603, "Survival": 16.359, "Roleplay & Avatar Sim": 12.482, "Action": 7.335, "RPG": 6.344, "Sports & Racing": 3.866, "Shooter": 3.668, "Obby & Platformer": 3.137, "Strategy": 2.686, "Party & Casual": 1.659, "Adventure": 1.493, "Shopping": 0.894, "Other": 0.633, "Entertainment": 0.292, "Puzzle": 0.287, "Social": 0.262}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3586.0,"min_ccu":2460,"max_ccu":4662,"samples":24,"sess":13.44,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9600.9,"min_ccu":6584,"max_ccu":11465,"samples":24,"sess":9.13,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4354.2,"min_ccu":1953,"max_ccu":6087,"samples":24,"sess":12.38,"sess_h":23.0,"like":93.28},
@@ -141,7 +141,7 @@
 "4931927012":{"name":"[🎃]🏀Basketball Legends🏀","avg_ccu":4762.2,"min_ccu":2516,"max_ccu":6606,"samples":24,"sess":15.59,"sess_h":23.0,"like":86.01},
 "4938220315":{"name":"[ACT 3] Skibi Defense","avg_ccu":1416.8,"min_ccu":12,"max_ccu":4328,"samples":24,"sess":11.24,"sess_h":23.0,"like":92.28},
 "4949420752":{"name":"Realistic Street Soccer","avg_ccu":18734.0,"min_ccu":9118,"max_ccu":34220,"samples":24,"sess":9.26,"sess_h":23.0,"like":84.56},
-"4983034985":{"name":"Conquer The World WW2 [🎃]","avg_ccu":9206.9,"min_ccu":2879,"max_ccu":13905,"samples":24,"sess":16.51,"sess_h":23.0,"like":81.38},
+"4983034985":{"name":"Conquer The World WW2 [🎨]","avg_ccu":9206.9,"min_ccu":2879,"max_ccu":13905,"samples":24,"sess":16.51,"sess_h":23.0,"like":81.38},
 "4987856151":{"name":"Wanted [💰UPDATE]","avg_ccu":7708.7,"min_ccu":3729,"max_ccu":11054,"samples":24,"sess":16.16,"sess_h":23.0,"like":96.77},
 "5026122481":{"name":"Death in the Box","avg_ccu":2419.3,"min_ccu":1479,"max_ccu":3285,"samples":24,"sess":5.66,"sess_h":23.0,"like":89.99},
 "5125369493":{"name":"Driving Simulator","avg_ccu":2429.6,"min_ccu":704,"max_ccu":4852,"samples":24,"sess":16.43,"sess_h":23.0,"like":91.57},
@@ -269,7 +269,7 @@
 "9534705677":{"name":"[🔥UPD] Sniper Arena","avg_ccu":12835.5,"min_ccu":7303,"max_ccu":16785,"samples":24,"sess":12.28,"sess_h":23.0,"like":91.77},
 "9551044479":{"name":"[💎CAVERN] Final Swarm","avg_ccu":1084.7,"min_ccu":664,"max_ccu":1983,"samples":24,"sess":13.31,"sess_h":23.0,"like":97.01},
 "9561553764":{"name":"Murder Duels","avg_ccu":7857.1,"min_ccu":5186,"max_ccu":9947,"samples":24,"sess":8.4,"sess_h":23.0,"like":93.09},
-"9584852943":{"name":"[X20] +1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":28761.8,"min_ccu":11673,"max_ccu":45608,"samples":24,"sess":7.84,"sess_h":23.0,"like":96.7},
+"9584852943":{"name":"+1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":28761.8,"min_ccu":11673,"max_ccu":45608,"samples":24,"sess":7.84,"sess_h":23.0,"like":96.7},
 "9641502068":{"name":"[UPD] KNIFE DUELS","avg_ccu":9914.8,"min_ccu":5653,"max_ccu":13540,"samples":24,"sess":9.4,"sess_h":23.0,"like":93.8},
 "9706341960":{"name":"Grab and Decorate","avg_ccu":6362.3,"min_ccu":6237,"max_ccu":6517,"samples":3,"like":88.42},
 "9735583968":{"name":"[UPD] SCP MORPH","avg_ccu":6132.2,"min_ccu":3614,"max_ccu":8195,"samples":24,"sess":9.71,"sess_h":23.0,"like":91.54},
