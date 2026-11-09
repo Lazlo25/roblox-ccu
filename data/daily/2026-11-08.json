@@ -1,4 +1,4 @@
-{"date": "2026-11-08", "timezone": "America/New_York", "generated_utc": "2026-11-09T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-09T04:10:00Z", 9582495], "genres": {"Simulation": 38.603, "Survival": 16.359, "Roleplay & Avatar Sim": 12.482, "Action": 7.335, "RPG": 6.344, "Sports & Racing": 3.866, "Shooter": 3.668, "Obby & Platformer": 3.137, "Strategy": 2.686, "Party & Casual": 1.659, "Adventure": 1.493, "Shopping": 0.894, "Other": 0.633, "Entertainment": 0.292, "Puzzle": 0.287, "Social": 0.262}, "genre_hours": 24,"games":{
+{"date": "2026-11-08", "timezone": "America/New_York", "generated_utc": "2026-11-09T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-09T04:10:00Z", 9582495], "genres": {"Simulation": 38.603, "Survival": 16.359, "Roleplay & Avatar Sim": 12.482, "Action": 7.335, "RPG": 6.344, "Sports & Racing": 3.866, "Shooter": 3.668, "Obby & Platformer": 3.137, "Strategy": 2.686, "Party & Casual": 1.659, "Adventure": 1.493, "Shopping": 0.894, "Other": 0.633, "Entertainment": 0.292, "Puzzle": 0.287, "Social": 0.262}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3586.0,"min_ccu":2460,"max_ccu":4662,"samples":24,"sess":13.44,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9600.9,"min_ccu":6584,"max_ccu":11465,"samples":24,"sess":9.13,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4354.2,"min_ccu":1953,"max_ccu":6087,"samples":24,"sess":12.38,"sess_h":23.0,"like":93.28},
@@ -200,7 +200,7 @@
 "7058980030":{"name":"Survive Overnight in a Mega Store","avg_ccu":6546.7,"min_ccu":3475,"max_ccu":9157,"samples":24,"sess":9.56,"sess_h":23.0,"like":94.92},
 "7084172542":{"name":"[🎃]Momo City [Beta]","avg_ccu":1386.2,"min_ccu":243,"max_ccu":3478,"samples":24,"sess":18.05,"sess_h":23.0,"like":89.7},
 "7089588429":{"name":"(WHEELIE STYLE x BIG UPDATE) Drag Drive Simulator","avg_ccu":10195.1,"min_ccu":1175,"max_ccu":21183,"samples":24,"sess":11.02,"sess_h":23.0,"like":95.59},
-"7094518649":{"name":"Restaurant Tycoon 3 [TV Update!]","avg_ccu":8492.3,"min_ccu":5840,"max_ccu":11198,"samples":24,"sess":24.64,"sess_h":23.0,"like":95.29},
+"7094518649":{"name":"Restaurant Tycoon 3","avg_ccu":8492.3,"min_ccu":5840,"max_ccu":11198,"samples":24,"sess":24.64,"sess_h":23.0,"like":95.29},
 "7108384194":{"name":"[🎃UPD] Knife VS Gun DUELS","avg_ccu":8859.3,"min_ccu":3649,"max_ccu":13696,"samples":24,"sess":10.39,"sess_h":23.0,"like":85.86},
 "7143545906":{"name":"Enter Brainrot","avg_ccu":520.5,"min_ccu":347,"max_ccu":759,"samples":24,"sess":7.74,"sess_h":23.0,"like":93.73},
 "7144947546":{"name":"MEDVED 🐻‍❄️ (Hunt & Become Bears)","avg_ccu":7032.9,"min_ccu":3711,"max_ccu":9145,"samples":24,"sess":17.85,"sess_h":23.0,"like":89.56},
@@ -269,7 +269,7 @@
 "9534705677":{"name":"[🔥UPD] Sniper Arena","avg_ccu":12835.5,"min_ccu":7303,"max_ccu":16785,"samples":24,"sess":12.28,"sess_h":23.0,"like":91.77},
 "9551044479":{"name":"[💎CAVERN] Final Swarm","avg_ccu":1084.7,"min_ccu":664,"max_ccu":1983,"samples":24,"sess":13.31,"sess_h":23.0,"like":97.01},
 "9561553764":{"name":"Murder Duels","avg_ccu":7857.1,"min_ccu":5186,"max_ccu":9947,"samples":24,"sess":8.4,"sess_h":23.0,"like":93.09},
-"9584852943":{"name":"[X3] +1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":28761.8,"min_ccu":11673,"max_ccu":45608,"samples":24,"sess":7.84,"sess_h":23.0,"like":96.7},
+"9584852943":{"name":"+1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":28761.8,"min_ccu":11673,"max_ccu":45608,"samples":24,"sess":7.84,"sess_h":23.0,"like":96.7},
 "9641502068":{"name":"[UPD] KNIFE DUELS","avg_ccu":9914.8,"min_ccu":5653,"max_ccu":13540,"samples":24,"sess":9.4,"sess_h":23.0,"like":93.8},
 "9706341960":{"name":"Grab and Decorate","avg_ccu":6362.3,"min_ccu":6237,"max_ccu":6517,"samples":3,"like":88.42},
 "9735583968":{"name":"[UPD] SCP MORPH","avg_ccu":6132.2,"min_ccu":3614,"max_ccu":8195,"samples":24,"sess":9.71,"sess_h":23.0,"like":91.54},
