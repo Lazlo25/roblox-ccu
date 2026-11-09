@@ -1,4 +1,4 @@
-{"date": "2026-11-08", "timezone": "America/New_York", "generated_utc": "2026-11-09T16:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-09T04:10:00Z", 9582495], "genres": {"Simulation": 38.603, "Survival": 16.359, "Roleplay & Avatar Sim": 12.482, "Action": 7.335, "RPG": 6.344, "Sports & Racing": 3.866, "Shooter": 3.668, "Obby & Platformer": 3.137, "Strategy": 2.686, "Party & Casual": 1.659, "Adventure": 1.493, "Shopping": 0.894, "Other": 0.633, "Entertainment": 0.292, "Puzzle": 0.287, "Social": 0.262}, "genre_hours": 24,"games":{
+{"date": "2026-11-08", "timezone": "America/New_York", "generated_utc": "2026-11-09T17:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-09T04:10:00Z", 9582495], "genres": {"Simulation": 38.603, "Survival": 16.359, "Roleplay & Avatar Sim": 12.482, "Action": 7.335, "RPG": 6.344, "Sports & Racing": 3.866, "Shooter": 3.668, "Obby & Platformer": 3.137, "Strategy": 2.686, "Party & Casual": 1.659, "Adventure": 1.493, "Shopping": 0.894, "Other": 0.633, "Entertainment": 0.292, "Puzzle": 0.287, "Social": 0.262}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3586.0,"min_ccu":2460,"max_ccu":4662,"samples":24,"sess":13.44,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9600.9,"min_ccu":6584,"max_ccu":11465,"samples":24,"sess":9.13,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4354.2,"min_ccu":1953,"max_ccu":6087,"samples":24,"sess":12.38,"sess_h":23.0,"like":93.28},
@@ -155,7 +155,7 @@
 "5578556129":{"name":"Vanguards: Trail of the Saint","avg_ccu":8084.4,"min_ccu":11,"max_ccu":26304,"samples":24,"sess":24.85,"sess_h":23.0,"like":96.71},
 "5595353122":{"name":"Slayers 2","avg_ccu":6749.7,"min_ccu":5083,"max_ccu":8534,"samples":24,"sess":25.78,"sess_h":23.0,"like":97.46},
 "5650396773":{"name":"a dusty trip [🚗CAR]","avg_ccu":20802.2,"min_ccu":10848,"max_ccu":28559,"samples":24,"sess":11.54,"sess_h":23.0,"like":90.04},
-"5750914919":{"name":"Fisch 🦈 [HAMMI]","avg_ccu":88563.9,"min_ccu":56478,"max_ccu":107780,"samples":24,"sess":26.76,"sess_h":23.0,"like":90.81},
+"5750914919":{"name":"Fisch 🦈","avg_ccu":88563.9,"min_ccu":56478,"max_ccu":107780,"samples":24,"sess":26.76,"sess_h":23.0,"like":90.81},
 "5829613337":{"name":"something evil will happen [🎃🎃🎃]","avg_ccu":2667.9,"min_ccu":2083,"max_ccu":3401,"samples":24,"sess":10.62,"sess_h":23.0,"like":92.62},
 "5835014039":{"name":"[HALLOWEEN] New Journey","avg_ccu":158.5,"min_ccu":97,"max_ccu":222,"samples":24,"sess":12.54,"sess_h":23.0,"like":83.49},
 "5995470825":{"name":"[🔥NEW MYTHIC] Hypershot","avg_ccu":25225.8,"min_ccu":18141,"max_ccu":31598,"samples":24,"sess":13.35,"sess_h":23.0,"like":94.39},
@@ -349,7 +349,7 @@
 "10520829450":{"name":"Spot and Mark!","avg_ccu":5525.2,"min_ccu":4025,"max_ccu":7559,"samples":24,"sess":7.85,"sess_h":23.0,"like":93.66},
 "10526853622":{"name":"[☯️] Deep Fishing🎣","avg_ccu":5076.9,"min_ccu":3869,"max_ccu":10748,"samples":24,"sess":22.33,"sess_h":23.0,"like":97.18},
 "10541331578":{"name":"[🌋VOLCANO] Poly Loot⚔️","avg_ccu":2424.0,"min_ccu":1445,"max_ccu":3155,"samples":24,"sess":21.0,"sess_h":23.0,"like":90.48},
-"10550257968":{"name":"[10X] Steal A Verity!","avg_ccu":6848.2,"min_ccu":4791,"max_ccu":9103,"samples":24,"sess":9.31,"sess_h":23.0,"like":72.29},
+"10550257968":{"name":"[4X] Steal A Verity!","avg_ccu":6848.2,"min_ccu":4791,"max_ccu":9103,"samples":24,"sess":9.31,"sess_h":23.0,"like":72.29},
 "10552240401":{"name":"[UPD 12] Defeat Anime RNG","avg_ccu":6706.3,"min_ccu":6108,"max_ccu":8472,"samples":24,"sess":34.48,"sess_h":23.0,"like":96.44},
 "10561166339":{"name":"[UPD] Destroy a Vault","avg_ccu":1672.6,"min_ccu":1022,"max_ccu":2096,"samples":24,"sess":17.74,"sess_h":23.0,"like":95.38},
 "10563114921":{"name":"Steal An Egg","avg_ccu":934797.4,"min_ccu":578068,"max_ccu":1278027,"samples":24,"sess":14.12,"sess_h":23.0,"like":91.41},
@@ -597,7 +597,7 @@
 "10770306793":{"name":"[🫧CH3] 1M Clicks To Escape","avg_ccu":7112.8,"min_ccu":3426,"max_ccu":9661,"samples":24,"sess":15.84,"sess_h":23.0,"like":88.8},
 "10770342542":{"name":"Escooter Life [🎃]","avg_ccu":692.4,"min_ccu":129,"max_ccu":1202,"samples":24,"sess":8.19,"sess_h":23.0,"like":88.03},
 "10770355219":{"name":"[🚨] Escape The Walls","avg_ccu":4158.2,"min_ccu":2200,"max_ccu":5481,"samples":24,"sess":14.5,"sess_h":23.0,"like":82.55},
-"10770370806":{"name":"Find The Country 🌍","avg_ccu":3018.0,"min_ccu":1350,"max_ccu":6149,"samples":24,"sess":9.99,"sess_h":23.0,"like":52.02},
+"10770370806":{"name":"[UPD] Find The Country 🌍","avg_ccu":3018.0,"min_ccu":1350,"max_ccu":6149,"samples":24,"sess":9.99,"sess_h":23.0,"like":52.02},
 "10770382905":{"name":"Teach Your Granny How To Drive! 🎙️","avg_ccu":5101.1,"min_ccu":2228,"max_ccu":7850,"samples":24,"sess":6.79,"sess_h":23.0,"like":58.88},
 "10770404227":{"name":"[CHAPTER 2] Escape Prison with a Toothpick","avg_ccu":2634.1,"min_ccu":1633,"max_ccu":3570,"samples":24,"sess":17.11,"sess_h":23.0,"like":97.49},
 "10770431439":{"name":"7 Days as a Pet [HAMSTER🐹]","avg_ccu":3730.6,"min_ccu":1359,"max_ccu":6353,"samples":24,"sess":12.49,"sess_h":23.0,"like":88.04},
