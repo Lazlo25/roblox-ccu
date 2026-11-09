@@ -1,4 +1,4 @@
-{"date": "2026-11-07", "timezone": "America/New_York", "generated_utc": "2026-11-09T00:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-08T04:10:00Z", 15297266], "genres": {"Simulation": 42.307, "Survival": 14.683, "Roleplay & Avatar Sim": 11.645, "Action": 6.957, "RPG": 6.087, "Sports & Racing": 3.676, "Shooter": 3.663, "Obby & Platformer": 3.074, "Strategy": 2.576, "Party & Casual": 1.658, "Adventure": 1.546, "Shopping": 0.85, "Other": 0.539, "Puzzle": 0.276, "Entertainment": 0.271, "Social": 0.192}, "genre_hours": 24,"games":{
+{"date": "2026-11-07", "timezone": "America/New_York", "generated_utc": "2026-11-09T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-08T04:10:00Z", 15297266], "genres": {"Simulation": 42.307, "Survival": 14.683, "Roleplay & Avatar Sim": 11.645, "Action": 6.957, "RPG": 6.087, "Sports & Racing": 3.676, "Shooter": 3.663, "Obby & Platformer": 3.074, "Strategy": 2.576, "Party & Casual": 1.658, "Adventure": 1.546, "Shopping": 0.85, "Other": 0.539, "Puzzle": 0.276, "Entertainment": 0.271, "Social": 0.192}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3643.4,"min_ccu":2866,"max_ccu":4546,"samples":24,"sess":13.37,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9468.0,"min_ccu":6026,"max_ccu":13803,"samples":24,"sess":8.96,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5053.9,"min_ccu":3577,"max_ccu":6602,"samples":24,"sess":12.43,"sess_h":23.0,"like":93.28},
@@ -123,7 +123,7 @@
 "4348829796":{"name":"MVSD | Murderers VS Sheriffs Duels","avg_ccu":11719.3,"min_ccu":7981,"max_ccu":16428,"samples":24,"sess":9.51,"sess_h":23.0,"like":84.4},
 "4420562665":{"name":"[UPD] Ride Storm","avg_ccu":10866.1,"min_ccu":7962,"max_ccu":15312,"samples":24,"sess":13.54,"sess_h":23.0,"like":91.6},
 "4457060041":{"name":"Emergency Emden","avg_ccu":1081.0,"min_ccu":203,"max_ccu":1715,"samples":24,"sess":12.21,"sess_h":23.0,"like":87.47},
-"4497460596":{"name":"MORPH WORLD! ⚔️ [SWORD, BOW & SHIELD!]","avg_ccu":1589.3,"min_ccu":606,"max_ccu":4388,"samples":24,"sess":10.39,"sess_h":23.0,"like":86.19},
+"4497460596":{"name":"MORPH WORLD! ⚔️ [MINIGAME UPDATE]","avg_ccu":1589.3,"min_ccu":606,"max_ccu":4388,"samples":24,"sess":10.39,"sess_h":23.0,"like":86.19},
 "4523856444":{"name":"Color or Die 🎨","avg_ccu":3111.5,"min_ccu":3093,"max_ccu":3130,"samples":2,"like":90.05},
 "4540138978":{"name":"Metro Life 🏡 City RP","avg_ccu":11564.2,"min_ccu":6352,"max_ccu":14871,"samples":24,"sess":16.39,"sess_h":23.0,"like":86.76},
 "4568630521":{"name":"[HALLOWEEN] Heroes Battlegrounds","avg_ccu":4965.8,"min_ccu":3825,"max_ccu":5921,"samples":24,"sess":12.91,"sess_h":23.0,"like":85.52},
@@ -176,7 +176,7 @@
 "6375110339":{"name":"ST : Blockade Battlefront","avg_ccu":9298.1,"min_ccu":7,"max_ccu":25097,"samples":24,"sess":16.47,"sess_h":23.0,"like":92.11},
 "6385532960":{"name":"[HALLOWEEN] Ryujin","avg_ccu":2337.2,"min_ccu":2257,"max_ccu":2417,"samples":24,"sess":24.73,"sess_h":23.0,"like":94.39},
 "6443367640":{"name":"Gym Star Simulator 💪","avg_ccu":5460.7,"min_ccu":3990,"max_ccu":6497,"samples":24,"sess":14.6,"sess_h":23.0,"like":92.44},
-"6466404775":{"name":"[X2 LUCK🐲] MOUNT RNG","avg_ccu":2155.7,"min_ccu":2040,"max_ccu":2341,"samples":24,"sess":23.5,"sess_h":23.0,"like":95.5},
+"6466404775":{"name":"[🐲] MOUNT RNG","avg_ccu":2155.7,"min_ccu":2040,"max_ccu":2341,"samples":24,"sess":23.5,"sess_h":23.0,"like":95.5},
 "6504986360":{"name":"[❄️] Bubble Gum Simulator INFINITY","avg_ccu":8795.3,"min_ccu":7706,"max_ccu":10786,"samples":24,"sess":28.45,"sess_h":23.0,"like":96.78},
 "6505338302":{"name":"[🎃] 🏈Football Legends🏈","avg_ccu":2437.5,"min_ccu":254,"max_ccu":4462,"samples":24,"sess":17.81,"sess_h":23.0,"like":86.99},
 "6521100398":{"name":"Dreamville 🏡 RP [Pets! 😺]","avg_ccu":19319.8,"min_ccu":10879,"max_ccu":27523,"samples":24,"sess":17.09,"sess_h":23.0,"like":94.74},
@@ -523,7 +523,7 @@
 "10768785226":{"name":"A Long Flight [BIOMES]","avg_ccu":7939.5,"min_ccu":4686,"max_ccu":11685,"samples":24,"sess":12.31,"sess_h":23.0,"like":75.81},
 "10768835968":{"name":"[😈DEVIL UNIONS] Clover Adventure","avg_ccu":1555.3,"min_ccu":1463,"max_ccu":1604,"samples":3,"like":94.2},
 "10768891670":{"name":"Make The Logo!","avg_ccu":13176.2,"min_ccu":7100,"max_ccu":19035,"samples":24,"sess":10.11,"sess_h":23.0,"like":69.45},
-"10768934591":{"name":"[Hardcore] TrenchLine:Tower Defense","avg_ccu":1118.4,"min_ccu":824,"max_ccu":1489,"samples":24,"sess":9.68,"sess_h":23.0,"like":85.04},
+"10768934591":{"name":"[Gunship] TrenchLine:Tower Defense","avg_ccu":1118.4,"min_ccu":824,"max_ccu":1489,"samples":24,"sess":9.68,"sess_h":23.0,"like":85.04},
 "10768944846":{"name":"[6 NEW STANDS!] Morioh High","avg_ccu":799.2,"min_ccu":315,"max_ccu":1963,"samples":24,"sess":9.69,"sess_h":23.0,"like":95.88},
 "10768949861":{"name":"Secure the Waterpark","avg_ccu":2135.9,"min_ccu":1167,"max_ccu":2983,"samples":24,"sess":7.58,"sess_h":23.0,"like":83.24},
 "10768992869":{"name":"🥟SQUISHY DUMPLING PRISON RUN! (Obby)","avg_ccu":3907.1,"min_ccu":2843,"max_ccu":4845,"samples":24,"sess":8.39,"sess_h":23.0,"like":80.44},
