@@ -1,4 +1,4 @@
-{"date": "2026-11-08", "timezone": "America/New_York", "generated_utc": "2026-11-09T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-09T04:10:00Z", 9582495], "genres": {"Simulation": 38.603, "Survival": 16.359, "Roleplay & Avatar Sim": 12.482, "Action": 7.335, "RPG": 6.344, "Sports & Racing": 3.866, "Shooter": 3.668, "Obby & Platformer": 3.137, "Strategy": 2.686, "Party & Casual": 1.659, "Adventure": 1.493, "Shopping": 0.894, "Other": 0.633, "Entertainment": 0.292, "Puzzle": 0.287, "Social": 0.262}, "genre_hours": 24,"games":{
+{"date": "2026-11-08", "timezone": "America/New_York", "generated_utc": "2026-11-09T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-09T04:10:00Z", 9582495], "genres": {"Simulation": 38.603, "Survival": 16.359, "Roleplay & Avatar Sim": 12.482, "Action": 7.335, "RPG": 6.344, "Sports & Racing": 3.866, "Shooter": 3.668, "Obby & Platformer": 3.137, "Strategy": 2.686, "Party & Casual": 1.659, "Adventure": 1.493, "Shopping": 0.894, "Other": 0.633, "Entertainment": 0.292, "Puzzle": 0.287, "Social": 0.262}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3586.0,"min_ccu":2460,"max_ccu":4662,"samples":24,"sess":13.44,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9600.9,"min_ccu":6584,"max_ccu":11465,"samples":24,"sess":9.13,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4354.2,"min_ccu":1953,"max_ccu":6087,"samples":24,"sess":12.38,"sess_h":23.0,"like":93.28},
@@ -673,7 +673,7 @@
 "10771997908":{"name":"+1 Spider Arm🕷️","avg_ccu":24113.5,"min_ccu":13553,"max_ccu":31031,"samples":24,"sess":9.67,"sess_h":23.0,"like":97.44},
 "10772019175":{"name":"🧟 ZOMBIE MODE PRISON RUN! (Obby)","avg_ccu":1794.5,"min_ccu":843,"max_ccu":2744,"samples":24,"sess":7.74,"sess_h":23.0,"like":79.75},
 "10772028037":{"name":"🏠[UPD] Pocket Landlord 🏗️ Build Your Town","avg_ccu":3932.6,"min_ccu":3073,"max_ccu":5576,"samples":24,"sess":7.09,"sess_h":23.0,"like":89.5},
-"10772066587":{"name":"[UPD] MALAM SAMA OPAH","avg_ccu":30603.2,"min_ccu":1248,"max_ccu":76782,"samples":24,"sess":7.93,"sess_h":23.0,"like":84.27},
+"10772066587":{"name":"MALAM SAMA OPAH","avg_ccu":30603.2,"min_ccu":1248,"max_ccu":76782,"samples":24,"sess":7.93,"sess_h":23.0,"like":84.27},
 "10772114384":{"name":"Build a Bridge","avg_ccu":2464.5,"min_ccu":1296,"max_ccu":4827,"samples":6,"like":94.55},
 "10772139684":{"name":"[NEW] +1 Hacker Evolve","avg_ccu":2786.0,"min_ccu":2786,"max_ccu":2786,"samples":1,"like":89.7},
 "10772217708":{"name":"[UPD] Tesla Roadster Chase","avg_ccu":16042.8,"min_ccu":6211,"max_ccu":24547,"samples":24,"sess":8.48,"sess_h":23.0,"like":86.28},
