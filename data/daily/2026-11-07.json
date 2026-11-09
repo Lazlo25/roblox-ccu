@@ -1,4 +1,4 @@
-{"date": "2026-11-07", "timezone": "America/New_York", "generated_utc": "2026-11-09T03:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-08T04:10:00Z", 15297266], "genres": {"Simulation": 42.307, "Survival": 14.683, "Roleplay & Avatar Sim": 11.645, "Action": 6.957, "RPG": 6.087, "Sports & Racing": 3.676, "Shooter": 3.663, "Obby & Platformer": 3.074, "Strategy": 2.576, "Party & Casual": 1.658, "Adventure": 1.546, "Shopping": 0.85, "Other": 0.539, "Puzzle": 0.276, "Entertainment": 0.271, "Social": 0.192}, "genre_hours": 24,"games":{
+{"date": "2026-11-07", "timezone": "America/New_York", "generated_utc": "2026-11-09T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-08T04:10:00Z", 15297266], "genres": {"Simulation": 42.307, "Survival": 14.683, "Roleplay & Avatar Sim": 11.645, "Action": 6.957, "RPG": 6.087, "Sports & Racing": 3.676, "Shooter": 3.663, "Obby & Platformer": 3.074, "Strategy": 2.576, "Party & Casual": 1.658, "Adventure": 1.546, "Shopping": 0.85, "Other": 0.539, "Puzzle": 0.276, "Entertainment": 0.271, "Social": 0.192}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3643.4,"min_ccu":2866,"max_ccu":4546,"samples":24,"sess":13.37,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9468.0,"min_ccu":6026,"max_ccu":13803,"samples":24,"sess":8.96,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5053.9,"min_ccu":3577,"max_ccu":6602,"samples":24,"sess":12.43,"sess_h":23.0,"like":93.28},
@@ -626,7 +626,7 @@
 "10770568427":{"name":"Fart Together [1-4 PLAYER OBBY] 💨","avg_ccu":9978.0,"min_ccu":6745,"max_ccu":15076,"samples":13,"sess":9.88,"sess_h":12.0,"like":95.66},
 "10770575733":{"name":"Ragdoll Physics 🩸","avg_ccu":44451.3,"min_ccu":26761,"max_ccu":61362,"samples":24,"sess":12.93,"sess_h":23.0,"like":91.16},
 "10770582427":{"name":"SLED SURFERS [WORLD 5🌙]","avg_ccu":2717.8,"min_ccu":1343,"max_ccu":3904,"samples":24,"sess":10.29,"sess_h":23.0,"like":82.22},
-"10770593871":{"name":"[UPD] Realistic Ragdoll Engine 🩸","avg_ccu":20174.8,"min_ccu":13612,"max_ccu":26899,"samples":24,"sess":11.75,"sess_h":23.0,"like":87.78},
+"10770593871":{"name":"Realistic Ragdoll Engine 🩸","avg_ccu":20174.8,"min_ccu":13612,"max_ccu":26899,"samples":24,"sess":11.75,"sess_h":23.0,"like":87.78},
 "10770599659":{"name":"Build A Mech!","avg_ccu":3413.7,"min_ccu":3258,"max_ccu":3605,"samples":3,"like":78.16},
 "10770605947":{"name":"Ragdoll Reality 🩸","avg_ccu":24550.0,"min_ccu":18394,"max_ccu":30469,"samples":24,"sess":11.52,"sess_h":23.0,"like":83.41},
 "10770628276":{"name":"Sell a Million Sushi","avg_ccu":12593.9,"min_ccu":9429,"max_ccu":16359,"samples":24,"sess":16.41,"sess_h":23.0,"like":98.92},
