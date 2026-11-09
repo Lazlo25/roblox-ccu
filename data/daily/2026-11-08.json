@@ -1,4 +1,4 @@
-{"date": "2026-11-08", "timezone": "America/New_York", "generated_utc": "2026-11-09T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-09T04:10:00Z", 9582495], "genres": {"Simulation": 38.603, "Survival": 16.359, "Roleplay & Avatar Sim": 12.482, "Action": 7.335, "RPG": 6.344, "Sports & Racing": 3.866, "Shooter": 3.668, "Obby & Platformer": 3.137, "Strategy": 2.686, "Party & Casual": 1.659, "Adventure": 1.493, "Shopping": 0.894, "Other": 0.633, "Entertainment": 0.292, "Puzzle": 0.287, "Social": 0.262}, "genre_hours": 24,"games":{
+{"date": "2026-11-08", "timezone": "America/New_York", "generated_utc": "2026-11-09T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-09T04:10:00Z", 9582495], "genres": {"Simulation": 38.603, "Survival": 16.359, "Roleplay & Avatar Sim": 12.482, "Action": 7.335, "RPG": 6.344, "Sports & Racing": 3.866, "Shooter": 3.668, "Obby & Platformer": 3.137, "Strategy": 2.686, "Party & Casual": 1.659, "Adventure": 1.493, "Shopping": 0.894, "Other": 0.633, "Entertainment": 0.292, "Puzzle": 0.287, "Social": 0.262}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3586.0,"min_ccu":2460,"max_ccu":4662,"samples":24,"sess":13.44,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9600.9,"min_ccu":6584,"max_ccu":11465,"samples":24,"sess":9.13,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4354.2,"min_ccu":1953,"max_ccu":6087,"samples":24,"sess":12.38,"sess_h":23.0,"like":93.28},
@@ -707,7 +707,7 @@
 "10773510497":{"name":"[🎙️] HATCH THE DIVINE EGG 0.0001%","avg_ccu":1.2,"min_ccu":0,"max_ccu":4,"samples":24,"sess":0.85,"sess_h":23.0,"like":91.39},
 "10773512703":{"name":"Ragdoll Verity Sandbox","avg_ccu":6287.7,"min_ccu":3381,"max_ccu":7995,"samples":24,"sess":9.93,"sess_h":23.0,"like":74.21},
 "10773618503":{"name":"Hyper Realistic Ragdoll","avg_ccu":3738.0,"min_ccu":3738,"max_ccu":3738,"samples":1,"like":93.45},
-"10773680236":{"name":"[VOICE] MALAM SAMA ATOK","avg_ccu":2626.6,"min_ccu":114,"max_ccu":6603,"samples":24,"sess":7.71,"sess_h":23.0,"like":53.45},
+"10773680236":{"name":"[BAB 2] MALAM SAMA ATOK","avg_ccu":2626.6,"min_ccu":114,"max_ccu":6603,"samples":24,"sess":7.71,"sess_h":23.0,"like":53.45},
 "10773912080":{"name":"The Ditch Hotel [HUGE UPDATE!]","avg_ccu":3531.0,"min_ccu":3531,"max_ccu":3531,"samples":1,"like":93.71},
 "10773926254":{"name":"Bloody Ragdoll Physics 🩸","avg_ccu":6822.4,"min_ccu":4234,"max_ccu":7948,"samples":8,"sess":12.6,"sess_h":7.0,"like":85.68}
 }}
