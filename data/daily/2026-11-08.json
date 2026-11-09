@@ -1,4 +1,4 @@
-{"date": "2026-11-08", "timezone": "America/New_York", "generated_utc": "2026-11-09T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-09T04:10:00Z", 9582495], "genres": {"Simulation": 38.603, "Survival": 16.359, "Roleplay & Avatar Sim": 12.482, "Action": 7.335, "RPG": 6.344, "Sports & Racing": 3.866, "Shooter": 3.668, "Obby & Platformer": 3.137, "Strategy": 2.686, "Party & Casual": 1.659, "Adventure": 1.493, "Shopping": 0.894, "Other": 0.633, "Entertainment": 0.292, "Puzzle": 0.287, "Social": 0.262}, "genre_hours": 24,"games":{
+{"date": "2026-11-08", "timezone": "America/New_York", "generated_utc": "2026-11-09T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-09T04:10:00Z", 9582495], "genres": {"Simulation": 38.603, "Survival": 16.359, "Roleplay & Avatar Sim": 12.482, "Action": 7.335, "RPG": 6.344, "Sports & Racing": 3.866, "Shooter": 3.668, "Obby & Platformer": 3.137, "Strategy": 2.686, "Party & Casual": 1.659, "Adventure": 1.493, "Shopping": 0.894, "Other": 0.633, "Entertainment": 0.292, "Puzzle": 0.287, "Social": 0.262}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3586.0,"min_ccu":2460,"max_ccu":4662,"samples":24,"sess":13.44,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9600.9,"min_ccu":6584,"max_ccu":11465,"samples":24,"sess":9.13,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4354.2,"min_ccu":1953,"max_ccu":6087,"samples":24,"sess":12.38,"sess_h":23.0,"like":93.28},
@@ -163,7 +163,7 @@
 "6035872082":{"name":"RIVALS","avg_ccu":173404.1,"min_ccu":89739,"max_ccu":226760,"samples":24,"sess":12.33,"sess_h":23.0,"like":93.64},
 "6048923315":{"name":"[🎃Part.2] KAIZEN","avg_ccu":798.8,"min_ccu":552,"max_ccu":1110,"samples":24,"sess":17.02,"sess_h":23.0,"like":93.08},
 "6061766680":{"name":"fight in a school","avg_ccu":2799.5,"min_ccu":1397,"max_ccu":3820,"samples":24,"sess":11.28,"sess_h":23.0,"like":79.31},
-"6161049307":{"name":"[LAST CHANCE⭐] Pixel Blade","avg_ccu":1815.7,"min_ccu":1458,"max_ccu":2221,"samples":24,"sess":6.06,"sess_h":23.0,"like":96.76},
+"6161049307":{"name":"Pixel Blade","avg_ccu":1815.7,"min_ccu":1458,"max_ccu":2221,"samples":24,"sess":6.06,"sess_h":23.0,"like":96.76},
 "6174994284":{"name":"Savannah Life","avg_ccu":3201.4,"min_ccu":1706,"max_ccu":4639,"samples":24,"sess":14.97,"sess_h":23.0,"like":93.77},
 "6176333237":{"name":"Clarity Over Resonance","avg_ccu":3569.7,"min_ccu":310,"max_ccu":7835,"samples":24,"sess":17.77,"sess_h":23.0,"like":89.57},
 "6272727021":{"name":"[🎃HALLOWEEN🎃] Undertale Adventures X","avg_ccu":1837.5,"min_ccu":1418,"max_ccu":2071,"samples":24,"sess":21.61,"sess_h":23.0,"like":92.7},
@@ -383,10 +383,10 @@
 "10725799494":{"name":"Wash the Car 🧽","avg_ccu":7323.9,"min_ccu":3175,"max_ccu":10207,"samples":24,"sess":13.15,"sess_h":23.0,"like":88.59},
 "10732236937":{"name":"[ Muto Prime ] Kaiju Alpha","avg_ccu":10125.5,"min_ccu":6585,"max_ccu":13177,"samples":24,"sess":15.36,"sess_h":23.0,"like":92.33},
 "10733617110":{"name":"[🧪NEW LAB] Fatal Baboons","avg_ccu":24684.5,"min_ccu":16318,"max_ccu":33795,"samples":24,"sess":9.14,"sess_h":23.0,"like":87.86},
-"10737656087":{"name":"🎃THA BRONX 3🔪","avg_ccu":4232.5,"min_ccu":1128,"max_ccu":6473,"samples":24,"sess":19.19,"sess_h":23.0,"like":92.01},
+"10737656087":{"name":"THA BRONX 3","avg_ccu":4232.5,"min_ccu":1128,"max_ccu":6473,"samples":24,"sess":19.19,"sess_h":23.0,"like":92.01},
 "10739112966":{"name":"[CLUBS] Street Soccer Pro","avg_ccu":12440.8,"min_ccu":7331,"max_ccu":17179,"samples":24,"sess":11.51,"sess_h":23.0,"like":84.38},
 "10739137760":{"name":"[UPDATE] The Cosalazo 2","avg_ccu":1839.8,"min_ccu":195,"max_ccu":3057,"samples":24,"sess":12.0,"sess_h":23.0,"like":92.44},
-"10740316645":{"name":"[⌛NOW!!!] ⛏️ My Anime Mine","avg_ccu":18587.7,"min_ccu":16105,"max_ccu":20500,"samples":24,"sess":30.03,"sess_h":23.0,"like":98.95},
+"10740316645":{"name":"⛏️ My Anime Mine","avg_ccu":18587.7,"min_ccu":16105,"max_ccu":20500,"samples":24,"sess":30.03,"sess_h":23.0,"like":98.95},
 "10741792653":{"name":"Survive The Swarm [🎃]","avg_ccu":1189.8,"min_ccu":798,"max_ccu":1440,"samples":24,"sess":9.95,"sess_h":23.0,"like":96.56},
 "10746305948":{"name":"Don't Press The Button 7","avg_ccu":5918.6,"min_ccu":3804,"max_ccu":8246,"samples":19,"sess":10.95,"sess_h":18.0,"like":64.07},
 "10747719434":{"name":"[V5] Feed A Mosquito","avg_ccu":9431.1,"min_ccu":6292,"max_ccu":12086,"samples":24,"sess":14.95,"sess_h":23.0,"like":82.43},
