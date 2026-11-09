@@ -1,4 +1,4 @@
-{"date": "2026-11-07", "timezone": "America/New_York", "generated_utc": "2026-11-09T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-08T04:10:00Z", 15297266], "genres": {"Simulation": 42.307, "Survival": 14.683, "Roleplay & Avatar Sim": 11.645, "Action": 6.957, "RPG": 6.087, "Sports & Racing": 3.676, "Shooter": 3.663, "Obby & Platformer": 3.074, "Strategy": 2.576, "Party & Casual": 1.658, "Adventure": 1.546, "Shopping": 0.85, "Other": 0.539, "Puzzle": 0.276, "Entertainment": 0.271, "Social": 0.192}, "genre_hours": 24,"games":{
+{"date": "2026-11-07", "timezone": "America/New_York", "generated_utc": "2026-11-09T03:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-08T04:10:00Z", 15297266], "genres": {"Simulation": 42.307, "Survival": 14.683, "Roleplay & Avatar Sim": 11.645, "Action": 6.957, "RPG": 6.087, "Sports & Racing": 3.676, "Shooter": 3.663, "Obby & Platformer": 3.074, "Strategy": 2.576, "Party & Casual": 1.658, "Adventure": 1.546, "Shopping": 0.85, "Other": 0.539, "Puzzle": 0.276, "Entertainment": 0.271, "Social": 0.192}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3643.4,"min_ccu":2866,"max_ccu":4546,"samples":24,"sess":13.37,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9468.0,"min_ccu":6026,"max_ccu":13803,"samples":24,"sess":8.96,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5053.9,"min_ccu":3577,"max_ccu":6602,"samples":24,"sess":12.43,"sess_h":23.0,"like":93.28},
@@ -481,7 +481,7 @@
 "10767808614":{"name":"Ride An Egg","avg_ccu":13606.0,"min_ccu":7631,"max_ccu":38307,"samples":24,"sess":18.27,"sess_h":23.0,"like":97.59},
 "10767814136":{"name":"Ride a Dragon","avg_ccu":2449.5,"min_ccu":1873,"max_ccu":3398,"samples":24,"sess":15.54,"sess_h":23.0,"like":85.91},
 "10767824942":{"name":"[🎃]+1 Assassin Leveling","avg_ccu":8438.7,"min_ccu":6709,"max_ccu":10366,"samples":24,"sess":24.16,"sess_h":23.0,"like":95.84},
-"10767826343":{"name":"[🪖] Zombie Air Force ✈️","avg_ccu":1810.7,"min_ccu":1522,"max_ccu":2117,"samples":24,"sess":18.98,"sess_h":23.0,"like":88.42},
+"10767826343":{"name":"[⚡] Zombie Air Force ✈️","avg_ccu":1810.7,"min_ccu":1522,"max_ccu":2117,"samples":24,"sess":18.98,"sess_h":23.0,"like":88.42},
 "10767876753":{"name":"Martial Arts World [🎃HALLOWEEN]","avg_ccu":1267.7,"min_ccu":1104,"max_ccu":1503,"samples":24,"sess":25.89,"sess_h":23.0,"like":96.16},
 "10767913047":{"name":"Feed to Steal","avg_ccu":4765.8,"min_ccu":2936,"max_ccu":10010,"samples":24,"sess":17.83,"sess_h":23.0,"like":79.51},
 "10767928510":{"name":"Pixel Lineage [Dawn Update]","avg_ccu":1698.3,"min_ccu":1316,"max_ccu":2066,"samples":24,"sess":6.69,"sess_h":23.0,"like":98.75},
