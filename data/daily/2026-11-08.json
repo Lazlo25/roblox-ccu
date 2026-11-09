@@ -1,4 +1,4 @@
-{"date": "2026-11-08", "timezone": "America/New_York", "generated_utc": "2026-11-09T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-09T04:10:00Z", 9582495], "genres": {"Simulation": 38.603, "Survival": 16.359, "Roleplay & Avatar Sim": 12.482, "Action": 7.335, "RPG": 6.344, "Sports & Racing": 3.866, "Shooter": 3.668, "Obby & Platformer": 3.137, "Strategy": 2.686, "Party & Casual": 1.659, "Adventure": 1.493, "Shopping": 0.894, "Other": 0.633, "Entertainment": 0.292, "Puzzle": 0.287, "Social": 0.262}, "genre_hours": 24,"games":{
+{"date": "2026-11-08", "timezone": "America/New_York", "generated_utc": "2026-11-09T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-09T04:10:00Z", 9582495], "genres": {"Simulation": 38.603, "Survival": 16.359, "Roleplay & Avatar Sim": 12.482, "Action": 7.335, "RPG": 6.344, "Sports & Racing": 3.866, "Shooter": 3.668, "Obby & Platformer": 3.137, "Strategy": 2.686, "Party & Casual": 1.659, "Adventure": 1.493, "Shopping": 0.894, "Other": 0.633, "Entertainment": 0.292, "Puzzle": 0.287, "Social": 0.262}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3586.0,"min_ccu":2460,"max_ccu":4662,"samples":24,"sess":13.44,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9600.9,"min_ccu":6584,"max_ccu":11465,"samples":24,"sess":9.13,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4354.2,"min_ccu":1953,"max_ccu":6087,"samples":24,"sess":12.38,"sess_h":23.0,"like":93.28},
@@ -17,7 +17,7 @@
 "210851291":{"name":"Build A Boat For Treasure","avg_ccu":15504.1,"min_ccu":7711,"max_ccu":21851,"samples":24,"sess":19.66,"sess_h":23.0,"like":93.39},
 "245662005":{"name":"Jailbreak 🍁🍁","avg_ccu":5881.1,"min_ccu":3808,"max_ccu":8117,"samples":24,"sess":13.5,"sess_h":23.0,"like":87.73},
 "274816972":{"name":"[New Car!🔥] Car Crushers 2 - Physics Simulation","avg_ccu":1774.2,"min_ccu":847,"max_ccu":2439,"samples":24,"sess":14.84,"sess_h":23.0,"like":93.47},
-"321778215":{"name":"Royale ❄️ High","avg_ccu":10487.2,"min_ccu":7423,"max_ccu":14277,"samples":24,"sess":19.64,"sess_h":23.0,"like":85.91},
+"321778215":{"name":"Royale 🔥❄️ High","avg_ccu":10487.2,"min_ccu":7423,"max_ccu":14277,"samples":24,"sess":19.64,"sess_h":23.0,"like":85.91},
 "371263894":{"name":"Greenville RP","avg_ccu":5846.8,"min_ccu":3547,"max_ccu":8381,"samples":24,"sess":16.21,"sess_h":23.0,"like":87.91},
 "372226183":{"name":"Flee the Facility","avg_ccu":22604.8,"min_ccu":7806,"max_ccu":35415,"samples":24,"sess":12.2,"sess_h":23.0,"like":92.09},
 "383310974":{"name":"[⚡] Adopt Me!","avg_ccu":208978.3,"min_ccu":152852,"max_ccu":267443,"samples":24,"sess":24.53,"sess_h":23.0,"like":86.39},
@@ -247,7 +247,7 @@
 "8524572339":{"name":"bridger: WESTERN (🎃+ UPD)","avg_ccu":3432.6,"min_ccu":2383,"max_ccu":4679,"samples":24,"sess":21.1,"sess_h":23.0,"like":78.32},
 "8618660961":{"name":"(🎃 HALLOWEEN EVENT!) Mojave Valley (Alpha)","avg_ccu":1051.2,"min_ccu":605,"max_ccu":1525,"samples":24,"sess":11.03,"sess_h":23.0,"like":89.04},
 "8640389608":{"name":"[🌟NEW MAP] Summer Donations🌴","avg_ccu":199.6,"min_ccu":147,"max_ccu":284,"samples":24,"sess":11.59,"sess_h":23.0,"like":88.65},
-"8719555347":{"name":"[🚧CONSTRUCTION] Southern Mudding 🚜 OffRoading","avg_ccu":19243.8,"min_ccu":11287,"max_ccu":25600,"samples":24,"sess":14.02,"sess_h":23.0,"like":92.49},
+"8719555347":{"name":"[🚧UPD🚧] Southern Mudding 🚜 OffRoading","avg_ccu":19243.8,"min_ccu":11287,"max_ccu":25600,"samples":24,"sess":14.02,"sess_h":23.0,"like":92.49},
 "8829204428":{"name":"[🔥SKILLS] Case Simulator RNG","avg_ccu":1830.1,"min_ccu":1234,"max_ccu":2305,"samples":24,"sess":18.81,"sess_h":23.0,"like":96.94},
 "8906870648":{"name":"FREE Fades! 👊","avg_ccu":1343.2,"min_ccu":1151,"max_ccu":1594,"samples":24,"sess":9.05,"sess_h":23.0,"like":89.72},
 "8964956538":{"name":"[🛸Season 2] Steel Crossfire","avg_ccu":1308.2,"min_ccu":696,"max_ccu":1815,"samples":24,"sess":8.44,"sess_h":23.0,"like":96.94},
