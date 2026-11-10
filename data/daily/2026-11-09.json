@@ -1,4 +1,4 @@
-{"date": "2026-11-09", "timezone": "America/New_York", "generated_utc": "2026-11-10T16:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-10T04:10:00Z", 8626477], "genres": {"Simulation": 39.754, "Survival": 17.133, "Roleplay & Avatar Sim": 11.28, "Action": 6.763, "RPG": 6.711, "Sports & Racing": 3.584, "Shooter": 3.486, "Strategy": 3.093, "Obby & Platformer": 3.031, "Party & Casual": 1.587, "Adventure": 1.302, "Shopping": 0.88, "Other": 0.552, "Social": 0.385, "Puzzle": 0.257, "Entertainment": 0.202}, "genre_hours": 24,"games":{
+{"date": "2026-11-09", "timezone": "America/New_York", "generated_utc": "2026-11-10T17:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-10T04:10:00Z", 8626477], "genres": {"Simulation": 39.754, "Survival": 17.133, "Roleplay & Avatar Sim": 11.28, "Action": 6.763, "RPG": 6.711, "Sports & Racing": 3.584, "Shooter": 3.486, "Strategy": 3.093, "Obby & Platformer": 3.031, "Party & Casual": 1.587, "Adventure": 1.302, "Shopping": 0.88, "Other": 0.552, "Social": 0.385, "Puzzle": 0.257, "Entertainment": 0.202}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2324.0,"min_ccu":1650,"max_ccu":2825,"samples":24,"sess":13.32,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6966.8,"min_ccu":4359,"max_ccu":9792,"samples":24,"sess":8.95,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2678.0,"min_ccu":1632,"max_ccu":3846,"samples":24,"sess":12.14,"sess_h":23.0,"like":93.28},
@@ -197,7 +197,7 @@
 "6931042565":{"name":"[UPD] Volleyball Legends","avg_ccu":37101.5,"min_ccu":24637,"max_ccu":46435,"samples":24,"sess":13.09,"sess_h":23.0,"like":95.14},
 "6945584306":{"name":"[🧿 RIN + 🎃] Azure Latch","avg_ccu":14835.9,"min_ccu":8598,"max_ccu":23817,"samples":24,"sess":17.58,"sess_h":23.0,"like":96.75},
 "7008097940":{"name":"[🎃] Ink Game","avg_ccu":9066.1,"min_ccu":6884,"max_ccu":11100,"samples":24,"sess":14.18,"sess_h":23.0,"like":79.21},
-"7018190066":{"name":"[👻EVENT] Dead Rails","avg_ccu":16393.2,"min_ccu":12508,"max_ccu":19289,"samples":24,"sess":17.11,"sess_h":23.0,"like":92.54},
+"7018190066":{"name":"Dead Rails","avg_ccu":16393.2,"min_ccu":12508,"max_ccu":19289,"samples":24,"sess":17.11,"sess_h":23.0,"like":92.54},
 "7028566528":{"name":"Basketball: Zero","avg_ccu":3928.5,"min_ccu":2962,"max_ccu":4740,"samples":24,"sess":15.08,"sess_h":23.0,"like":98.27},
 "7058980030":{"name":"Survive Overnight in a Mega Store","avg_ccu":3696.8,"min_ccu":2768,"max_ccu":5411,"samples":24,"sess":9.35,"sess_h":23.0,"like":94.92},
 "7084172542":{"name":"[🎃]Momo City [Beta]","avg_ccu":1242.6,"min_ccu":524,"max_ccu":2213,"samples":24,"sess":16.78,"sess_h":23.0,"like":89.51},
@@ -432,7 +432,7 @@
 "10765708984":{"name":"📍Folk Valley Hide and Seek","avg_ccu":375.2,"min_ccu":231,"max_ccu":587,"samples":24,"sess":9.37,"sess_h":23.0,"like":74.34},
 "10765760839":{"name":"[🗺️] +1 Forge Blade Loot","avg_ccu":948.6,"min_ccu":701,"max_ccu":1270,"samples":24,"sess":15.89,"sess_h":23.0,"like":92.03},
 "10765788154":{"name":"[🐉] My Dino Empire 🦖","avg_ccu":1371.5,"min_ccu":1119,"max_ccu":1590,"samples":24,"sess":20.62,"sess_h":23.0,"like":97.9},
-"10765841403":{"name":"👁️Steal Or Die [🔥NEW ITEMS!]","avg_ccu":5506.0,"min_ccu":2169,"max_ccu":8726,"samples":24,"sess":17.16,"sess_h":23.0,"like":91.4},
+"10765841403":{"name":"👁️Steal Or Die [MIMIC🔥!]","avg_ccu":5506.0,"min_ccu":2169,"max_ccu":8726,"samples":24,"sess":17.16,"sess_h":23.0,"like":91.4},
 "10765902945":{"name":"[🥷NINJA] Anime Legacy Simulator","avg_ccu":2634.4,"min_ccu":2550,"max_ccu":2813,"samples":24,"sess":29.01,"sess_h":23.0,"like":95.86},
 "10765938934":{"name":"[🎉UPD 3] Roll A Stickman!","avg_ccu":5986.0,"min_ccu":5582,"max_ccu":6361,"samples":24,"sess":18.34,"sess_h":23.0,"like":96.1},
 "10765969301":{"name":"[⛩️JAPAN] Travel Simulator","avg_ccu":1006.3,"min_ccu":705,"max_ccu":1490,"samples":24,"sess":12.9,"sess_h":23.0,"like":81.15},
@@ -448,7 +448,7 @@
 "10766764802":{"name":"[UPD2] Prison Bus [ANOMALY]","avg_ccu":2103.0,"min_ccu":1597,"max_ccu":2674,"samples":24,"sess":12.45,"sess_h":23.0,"like":86.53},
 "10766777819":{"name":"[UPD🌸] Climb and Steal an Egg","avg_ccu":6106.0,"min_ccu":4489,"max_ccu":7454,"samples":24,"sess":13.17,"sess_h":23.0,"like":95.49},
 "10766812776":{"name":"WideOpen [TESTING, 2XP WEEKEND, CUSTOMIZATION]","avg_ccu":786.9,"min_ccu":396,"max_ccu":1109,"samples":24,"sess":6.62,"sess_h":23.0,"like":92.0},
-"10766896060":{"name":"[NOW] +1 Animal Mog Evolution","avg_ccu":1585.5,"min_ccu":930,"max_ccu":2434,"samples":24,"sess":11.18,"sess_h":23.0,"like":90.83},
+"10766896060":{"name":"[UPD] +1 Animal Mog Evolution","avg_ccu":1585.5,"min_ccu":930,"max_ccu":2434,"samples":24,"sess":11.18,"sess_h":23.0,"like":90.83},
 "10766954651":{"name":"Word Game [🇷🇺]","avg_ccu":1656.7,"min_ccu":239,"max_ccu":3690,"samples":24,"sess":10.26,"sess_h":23.0,"like":86.0},
 "10766957927":{"name":"[🌊W3] +1 Gun Forge","avg_ccu":9630.6,"min_ccu":7441,"max_ccu":11482,"samples":24,"sess":34.06,"sess_h":23.0,"like":95.0},
 "10766972131":{"name":"Throw Food For Animals","avg_ccu":188016.7,"min_ccu":124874,"max_ccu":281572,"samples":24,"sess":17.78,"sess_h":23.0,"like":94.33},
