@@ -1,4 +1,4 @@
-{"date": "2026-11-09", "timezone": "America/New_York", "generated_utc": "2026-11-10T19:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-10T04:10:00Z", 8626477], "genres": {"Simulation": 39.754, "Survival": 17.133, "Roleplay & Avatar Sim": 11.28, "Action": 6.763, "RPG": 6.711, "Sports & Racing": 3.584, "Shooter": 3.486, "Strategy": 3.093, "Obby & Platformer": 3.031, "Party & Casual": 1.587, "Adventure": 1.302, "Shopping": 0.88, "Other": 0.552, "Social": 0.385, "Puzzle": 0.257, "Entertainment": 0.202}, "genre_hours": 24,"games":{
+{"date": "2026-11-09", "timezone": "America/New_York", "generated_utc": "2026-11-10T20:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-10T04:10:00Z", 8626477], "genres": {"Simulation": 39.754, "Survival": 17.133, "Roleplay & Avatar Sim": 11.28, "Action": 6.763, "RPG": 6.711, "Sports & Racing": 3.584, "Shooter": 3.486, "Strategy": 3.093, "Obby & Platformer": 3.031, "Party & Casual": 1.587, "Adventure": 1.302, "Shopping": 0.88, "Other": 0.552, "Social": 0.385, "Puzzle": 0.257, "Entertainment": 0.202}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2324.0,"min_ccu":1650,"max_ccu":2825,"samples":24,"sess":13.32,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6966.8,"min_ccu":4359,"max_ccu":9792,"samples":24,"sess":8.95,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2678.0,"min_ccu":1632,"max_ccu":3846,"samples":24,"sess":12.14,"sess_h":23.0,"like":93.28},
@@ -649,7 +649,7 @@
 "10771096738":{"name":"Would You Rather: Christmas Outfit Tower 🎄","avg_ccu":714.0,"min_ccu":274,"max_ccu":1238,"samples":24,"sess":6.42,"sess_h":23.0,"like":80.94},
 "10771111717":{"name":"Button Battles","avg_ccu":3646.0,"min_ccu":1701,"max_ccu":6704,"samples":24,"sess":8.43,"sess_h":23.0,"like":88.61},
 "10771124452":{"name":"TROLL Jail Hug Tower","avg_ccu":6960.4,"min_ccu":4837,"max_ccu":9535,"samples":24,"sess":10.06,"sess_h":23.0,"like":68.58},
-"10771143770":{"name":"PORTALS","avg_ccu":1287.5,"min_ccu":662,"max_ccu":2174,"samples":24,"sess":2.8,"sess_h":23.0,"like":87.06},
+"10771143770":{"name":"[UPD]PORTALS","avg_ccu":1287.5,"min_ccu":662,"max_ccu":2174,"samples":24,"sess":2.8,"sess_h":23.0,"like":87.06},
 "10771155665":{"name":"[🎃] Ragdoll Sandbox","avg_ccu":10398.5,"min_ccu":6577,"max_ccu":14117,"samples":24,"sess":12.05,"sess_h":23.0,"like":86.46},
 "10771247057":{"name":"Last Bridge Standing","avg_ccu":3311.4,"min_ccu":2526,"max_ccu":5472,"samples":24,"sess":14.24,"sess_h":23.0,"like":35.35},
 "10771269188":{"name":"[🎯MISSIONS] Ragdoll Physics 2 🩸","avg_ccu":6047.4,"min_ccu":3472,"max_ccu":8606,"samples":24,"sess":8.86,"sess_h":23.0,"like":71.12},
