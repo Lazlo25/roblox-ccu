@@ -1,4 +1,4 @@
-{"date": "2026-11-08", "timezone": "America/New_York", "generated_utc": "2026-11-10T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-09T04:10:00Z", 9582495], "genres": {"Simulation": 38.603, "Survival": 16.359, "Roleplay & Avatar Sim": 12.482, "Action": 7.335, "RPG": 6.344, "Sports & Racing": 3.866, "Shooter": 3.668, "Obby & Platformer": 3.137, "Strategy": 2.686, "Party & Casual": 1.659, "Adventure": 1.493, "Shopping": 0.894, "Other": 0.633, "Entertainment": 0.292, "Puzzle": 0.287, "Social": 0.262}, "genre_hours": 24,"games":{
+{"date": "2026-11-08", "timezone": "America/New_York", "generated_utc": "2026-11-10T03:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-09T04:10:00Z", 9582495], "genres": {"Simulation": 38.603, "Survival": 16.359, "Roleplay & Avatar Sim": 12.482, "Action": 7.335, "RPG": 6.344, "Sports & Racing": 3.866, "Shooter": 3.668, "Obby & Platformer": 3.137, "Strategy": 2.686, "Party & Casual": 1.659, "Adventure": 1.493, "Shopping": 0.894, "Other": 0.633, "Entertainment": 0.292, "Puzzle": 0.287, "Social": 0.262}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3586.0,"min_ccu":2460,"max_ccu":4662,"samples":24,"sess":13.44,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9600.9,"min_ccu":6584,"max_ccu":11465,"samples":24,"sess":9.13,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":4354.2,"min_ccu":1953,"max_ccu":6087,"samples":24,"sess":12.38,"sess_h":23.0,"like":93.28},
@@ -532,7 +532,7 @@
 "10769293184":{"name":"[⭐] HOOP JAM! 🏀","avg_ccu":7613.8,"min_ccu":4488,"max_ccu":10026,"samples":24,"sess":5.03,"sess_h":23.0,"like":86.48},
 "10769315427":{"name":"[🏁] Steal A Pet And Ride It!","avg_ccu":31356.0,"min_ccu":14363,"max_ccu":111518,"samples":24,"sess":15.18,"sess_h":23.0,"like":94.63},
 "10769341404":{"name":"[🌊] Steal Eggs From Tsunami!","avg_ccu":11924.0,"min_ccu":7338,"max_ccu":16298,"samples":24,"sess":14.91,"sess_h":23.0,"like":94.91},
-"10769344844":{"name":"[ ⚔️ ] 1.8 KIT PVP","avg_ccu":8798.4,"min_ccu":4257,"max_ccu":12496,"samples":24,"sess":12.97,"sess_h":23.0,"like":62.97},
+"10769344844":{"name":"[Cosmetics!] 1.8 KIT PVP","avg_ccu":8798.4,"min_ccu":4257,"max_ccu":12496,"samples":24,"sess":12.97,"sess_h":23.0,"like":62.97},
 "10769361895":{"name":"LINE UP! Metro Tycoon","avg_ccu":12036.5,"min_ccu":8405,"max_ccu":15094,"samples":24,"sess":19.74,"sess_h":23.0,"like":88.56},
 "10769384180":{"name":"[🧪] Fake an Egg","avg_ccu":29390.7,"min_ccu":11473,"max_ccu":118950,"samples":24,"sess":12.02,"sess_h":23.0,"like":88.27},
 "10769401924":{"name":"⚔️ [DUNGEON] Hunting Together RPG","avg_ccu":3895.8,"min_ccu":3210,"max_ccu":4345,"samples":24,"sess":20.75,"sess_h":23.0,"like":92.06},
