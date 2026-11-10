@@ -1,4 +1,4 @@
-{"date": "2026-11-09", "timezone": "America/New_York", "generated_utc": "2026-11-10T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-10T04:10:00Z", 8626477], "genres": {"Simulation": 39.754, "Survival": 17.133, "Roleplay & Avatar Sim": 11.28, "Action": 6.763, "RPG": 6.711, "Sports & Racing": 3.584, "Shooter": 3.486, "Strategy": 3.093, "Obby & Platformer": 3.031, "Party & Casual": 1.587, "Adventure": 1.302, "Shopping": 0.88, "Other": 0.552, "Social": 0.385, "Puzzle": 0.257, "Entertainment": 0.202}, "genre_hours": 24,"games":{
+{"date": "2026-11-09", "timezone": "America/New_York", "generated_utc": "2026-11-10T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-10T04:10:00Z", 8626477], "genres": {"Simulation": 39.754, "Survival": 17.133, "Roleplay & Avatar Sim": 11.28, "Action": 6.763, "RPG": 6.711, "Sports & Racing": 3.584, "Shooter": 3.486, "Strategy": 3.093, "Obby & Platformer": 3.031, "Party & Casual": 1.587, "Adventure": 1.302, "Shopping": 0.88, "Other": 0.552, "Social": 0.385, "Puzzle": 0.257, "Entertainment": 0.202}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2324.0,"min_ccu":1650,"max_ccu":2825,"samples":24,"sess":13.32,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6966.8,"min_ccu":4359,"max_ccu":9792,"samples":24,"sess":8.95,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2678.0,"min_ccu":1632,"max_ccu":3846,"samples":24,"sess":12.14,"sess_h":23.0,"like":93.28},
@@ -345,7 +345,7 @@
 "10448094761":{"name":"[💪] Run a Hotel","avg_ccu":1975.5,"min_ccu":1657,"max_ccu":2438,"samples":24,"sess":22.15,"sess_h":23.0,"like":98.23},
 "10460801145":{"name":"TROLL Hug Tower","avg_ccu":11023.1,"min_ccu":8733,"max_ccu":14021,"samples":24,"sess":10.41,"sess_h":23.0,"like":85.67},
 "10463578886":{"name":"🕷️UPD - House TD 2","avg_ccu":578.5,"min_ccu":510,"max_ccu":626,"samples":24,"sess":42.58,"sess_h":23.0,"like":97.69},
-"10474523516":{"name":"[UPD🏁] Risky Catch 🎣","avg_ccu":564.7,"min_ccu":421,"max_ccu":896,"samples":24,"sess":18.72,"sess_h":23.0,"like":95.78},
+"10474523516":{"name":"Risky Catch 🎣","avg_ccu":564.7,"min_ccu":421,"max_ccu":896,"samples":24,"sess":18.72,"sess_h":23.0,"like":95.78},
 "10481791182":{"name":"NBA: Heroes 🏀 [MYTHIC: Wemby✨🐦‍🔥]","avg_ccu":2852.2,"min_ccu":2242,"max_ccu":3544,"samples":9,"sess":6.44,"sess_h":8.0,"like":86.45},
 "10493707858":{"name":"Destroy The Sun ☀️","avg_ccu":1995.2,"min_ccu":1265,"max_ccu":2679,"samples":24,"sess":11.03,"sess_h":23.0,"like":95.5},
 "10512942223":{"name":"[UPD 6] Anime Zero","avg_ccu":597.3,"min_ccu":461,"max_ccu":849,"samples":24,"sess":12.01,"sess_h":23.0,"like":97.17},
