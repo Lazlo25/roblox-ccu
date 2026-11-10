@@ -1,4 +1,4 @@
-{"date": "2026-11-09", "timezone": "America/New_York", "generated_utc": "2026-11-10T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-10T04:10:00Z", 8626477], "genres": {"Simulation": 39.754, "Survival": 17.133, "Roleplay & Avatar Sim": 11.28, "Action": 6.763, "RPG": 6.711, "Sports & Racing": 3.584, "Shooter": 3.486, "Strategy": 3.093, "Obby & Platformer": 3.031, "Party & Casual": 1.587, "Adventure": 1.302, "Shopping": 0.88, "Other": 0.552, "Social": 0.385, "Puzzle": 0.257, "Entertainment": 0.202}, "genre_hours": 24,"games":{
+{"date": "2026-11-09", "timezone": "America/New_York", "generated_utc": "2026-11-10T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-10T04:10:00Z", 8626477], "genres": {"Simulation": 39.754, "Survival": 17.133, "Roleplay & Avatar Sim": 11.28, "Action": 6.763, "RPG": 6.711, "Sports & Racing": 3.584, "Shooter": 3.486, "Strategy": 3.093, "Obby & Platformer": 3.031, "Party & Casual": 1.587, "Adventure": 1.302, "Shopping": 0.88, "Other": 0.552, "Social": 0.385, "Puzzle": 0.257, "Entertainment": 0.202}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2324.0,"min_ccu":1650,"max_ccu":2825,"samples":24,"sess":13.32,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6966.8,"min_ccu":4359,"max_ccu":9792,"samples":24,"sess":8.95,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2678.0,"min_ccu":1632,"max_ccu":3846,"samples":24,"sess":12.14,"sess_h":23.0,"like":93.28},
@@ -502,7 +502,7 @@
 "10768499925":{"name":"Yard Rescue Crew","avg_ccu":1407.6,"min_ccu":799,"max_ccu":2271,"samples":24,"sess":11.31,"sess_h":23.0,"like":87.16},
 "10768532216":{"name":"Steal a Wild Horse","avg_ccu":5283.2,"min_ccu":3204,"max_ccu":7720,"samples":24,"sess":14.27,"sess_h":23.0,"like":89.46},
 "10768533103":{"name":"[UPD] +1 Spear Throwing","avg_ccu":2959.6,"min_ccu":1579,"max_ccu":4475,"samples":24,"sess":12.45,"sess_h":23.0,"like":93.13},
-"10768542976":{"name":"Be a Pirate [POWER FRUITS]","avg_ccu":797.7,"min_ccu":629,"max_ccu":1077,"samples":24,"sess":24.11,"sess_h":23.0,"like":90.75},
+"10768542976":{"name":"Be a Pirate","avg_ccu":797.7,"min_ccu":629,"max_ccu":1077,"samples":24,"sess":24.11,"sess_h":23.0,"like":90.75},
 "10768556372":{"name":"[UPD 2 🍭] Candy Kingdom Defense","avg_ccu":711.9,"min_ccu":596,"max_ccu":914,"samples":24,"sess":10.1,"sess_h":23.0,"like":95.98},
 "10768558548":{"name":"[🍂UPD] Run A Farm!","avg_ccu":9733.2,"min_ccu":7144,"max_ccu":12934,"samples":24,"sess":19.47,"sess_h":23.0,"like":93.93},
 "10768561721":{"name":"[🏝️] +1 Haki Evolution","avg_ccu":656.2,"min_ccu":515,"max_ccu":808,"samples":24,"sess":28.21,"sess_h":23.0,"like":94.59},
