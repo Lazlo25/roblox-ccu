@@ -1,4 +1,4 @@
-{"date": "2026-11-09", "timezone": "America/New_York", "generated_utc": "2026-11-10T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-10T04:10:00Z", 8626477], "genres": {"Simulation": 39.754, "Survival": 17.133, "Roleplay & Avatar Sim": 11.28, "Action": 6.763, "RPG": 6.711, "Sports & Racing": 3.584, "Shooter": 3.486, "Strategy": 3.093, "Obby & Platformer": 3.031, "Party & Casual": 1.587, "Adventure": 1.302, "Shopping": 0.88, "Other": 0.552, "Social": 0.385, "Puzzle": 0.257, "Entertainment": 0.202}, "genre_hours": 24,"games":{
+{"date": "2026-11-09", "timezone": "America/New_York", "generated_utc": "2026-11-10T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-10T04:10:00Z", 8626477], "genres": {"Simulation": 39.754, "Survival": 17.133, "Roleplay & Avatar Sim": 11.28, "Action": 6.763, "RPG": 6.711, "Sports & Racing": 3.584, "Shooter": 3.486, "Strategy": 3.093, "Obby & Platformer": 3.031, "Party & Casual": 1.587, "Adventure": 1.302, "Shopping": 0.88, "Other": 0.552, "Social": 0.385, "Puzzle": 0.257, "Entertainment": 0.202}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2324.0,"min_ccu":1650,"max_ccu":2825,"samples":24,"sess":13.32,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6966.8,"min_ccu":4359,"max_ccu":9792,"samples":24,"sess":8.95,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2678.0,"min_ccu":1632,"max_ccu":3846,"samples":24,"sess":12.14,"sess_h":23.0,"like":93.28},
@@ -659,7 +659,7 @@
 "10771368987":{"name":"[Update] Tiny Skies ✈️ Fighter Jet & Helicopters","avg_ccu":3955.8,"min_ccu":2550,"max_ccu":5245,"samples":24,"sess":8.5,"sess_h":23.0,"like":78.64},
 "10771403972":{"name":"Thai Quiz Duels [UPDATES]","avg_ccu":3057.9,"min_ccu":312,"max_ccu":6748,"samples":24,"sess":12.22,"sess_h":23.0,"like":64.98},
 "10771406194":{"name":"Flying Tesla Roadster [Open World Update]","avg_ccu":4672.2,"min_ccu":2211,"max_ccu":8192,"samples":24,"sess":9.36,"sess_h":23.0,"like":64.96},
-"10771410956":{"name":"[UPD 🛠️] Realistic Ragdoll Playground 💥","avg_ccu":3934.4,"min_ccu":2404,"max_ccu":5487,"samples":24,"sess":10.43,"sess_h":23.0,"like":73.82},
+"10771410956":{"name":"💥Realistic Ragdoll Playground 💥","avg_ccu":3934.4,"min_ccu":2404,"max_ccu":5487,"samples":24,"sess":10.43,"sess_h":23.0,"like":73.82},
 "10771421858":{"name":"DONT SPLASH","avg_ccu":54986.4,"min_ccu":42453,"max_ccu":67233,"samples":24,"sess":7.42,"sess_h":23.0,"like":86.5},
 "10771440209":{"name":"[NEW QUEST & MODIFFICATION] Onthel Purwodadi","avg_ccu":9116.1,"min_ccu":236,"max_ccu":24477,"samples":24,"sess":8.55,"sess_h":23.0,"like":90.83},
 "10771507608":{"name":"🧸 My Small Business","avg_ccu":10418.8,"min_ccu":7177,"max_ccu":13584,"samples":24,"sess":16.32,"sess_h":23.0,"like":95.76},
