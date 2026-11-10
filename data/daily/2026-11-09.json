@@ -1,4 +1,4 @@
-{"date": "2026-11-09", "timezone": "America/New_York", "generated_utc": "2026-11-10T21:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-10T04:10:00Z", 8626477], "genres": {"Simulation": 39.754, "Survival": 17.133, "Roleplay & Avatar Sim": 11.28, "Action": 6.763, "RPG": 6.711, "Sports & Racing": 3.584, "Shooter": 3.486, "Strategy": 3.093, "Obby & Platformer": 3.031, "Party & Casual": 1.587, "Adventure": 1.302, "Shopping": 0.88, "Other": 0.552, "Social": 0.385, "Puzzle": 0.257, "Entertainment": 0.202}, "genre_hours": 24,"games":{
+{"date": "2026-11-09", "timezone": "America/New_York", "generated_utc": "2026-11-10T22:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-10T04:10:00Z", 8626477], "genres": {"Simulation": 39.754, "Survival": 17.133, "Roleplay & Avatar Sim": 11.28, "Action": 6.763, "RPG": 6.711, "Sports & Racing": 3.584, "Shooter": 3.486, "Strategy": 3.093, "Obby & Platformer": 3.031, "Party & Casual": 1.587, "Adventure": 1.302, "Shopping": 0.88, "Other": 0.552, "Social": 0.385, "Puzzle": 0.257, "Entertainment": 0.202}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2324.0,"min_ccu":1650,"max_ccu":2825,"samples":24,"sess":13.32,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6966.8,"min_ccu":4359,"max_ccu":9792,"samples":24,"sess":8.95,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2678.0,"min_ccu":1632,"max_ccu":3846,"samples":24,"sess":12.14,"sess_h":23.0,"like":93.28},
@@ -720,7 +720,7 @@
 "10773259496":{"name":"Survive a Psycho","avg_ccu":833.3,"min_ccu":528,"max_ccu":1274,"samples":9,"sess":10.83,"sess_h":8.0,"like":95.09},
 "10773264829":{"name":"Realistic Ragdoll Physics","avg_ccu":6163.2,"min_ccu":4099,"max_ccu":8426,"samples":24,"sess":11.29,"sess_h":23.0,"like":86.9},
 "10773269457":{"name":"[UPD] SEPEDA ONTEL SIMULATOR","avg_ccu":2427.8,"min_ccu":116,"max_ccu":6231,"samples":24,"sess":10.01,"sess_h":23.0,"like":87.78},
-"10773278923":{"name":"[UPD] Escooter World","avg_ccu":2574.0,"min_ccu":1390,"max_ccu":4549,"samples":9,"sess":9.46,"sess_h":8.0,"like":90.89},
+"10773278923":{"name":"Escooter World","avg_ccu":2574.0,"min_ccu":1390,"max_ccu":4549,"samples":9,"sess":9.46,"sess_h":8.0,"like":90.89},
 "10773355038":{"name":"Impact Lab: Extreme Physics!","avg_ccu":3372.3,"min_ccu":2820,"max_ccu":3775,"samples":6,"like":72.77},
 "10773380485":{"name":"[ATTACHMENTS] Ragdoll Realism","avg_ccu":5989.9,"min_ccu":2680,"max_ccu":10073,"samples":24,"sess":9.67,"sess_h":23.0,"like":83.01},
 "10773425091":{"name":"[🎩] Ragdoll Research","avg_ccu":15455.4,"min_ccu":9574,"max_ccu":20069,"samples":24,"sess":11.52,"sess_h":23.0,"like":82.15},
