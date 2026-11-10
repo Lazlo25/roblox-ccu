@@ -1,4 +1,4 @@
-{"date": "2026-11-09", "timezone": "America/New_York", "generated_utc": "2026-11-10T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-10T04:10:00Z", 8626477], "genres": {"Simulation": 39.754, "Survival": 17.133, "Roleplay & Avatar Sim": 11.28, "Action": 6.763, "RPG": 6.711, "Sports & Racing": 3.584, "Shooter": 3.486, "Strategy": 3.093, "Obby & Platformer": 3.031, "Party & Casual": 1.587, "Adventure": 1.302, "Shopping": 0.88, "Other": 0.552, "Social": 0.385, "Puzzle": 0.257, "Entertainment": 0.202}, "genre_hours": 24,"games":{
+{"date": "2026-11-09", "timezone": "America/New_York", "generated_utc": "2026-11-10T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-10T04:10:00Z", 8626477], "genres": {"Simulation": 39.754, "Survival": 17.133, "Roleplay & Avatar Sim": 11.28, "Action": 6.763, "RPG": 6.711, "Sports & Racing": 3.584, "Shooter": 3.486, "Strategy": 3.093, "Obby & Platformer": 3.031, "Party & Casual": 1.587, "Adventure": 1.302, "Shopping": 0.88, "Other": 0.552, "Social": 0.385, "Puzzle": 0.257, "Entertainment": 0.202}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2324.0,"min_ccu":1650,"max_ccu":2825,"samples":24,"sess":13.32,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6966.8,"min_ccu":4359,"max_ccu":9792,"samples":24,"sess":8.95,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2678.0,"min_ccu":1632,"max_ccu":3846,"samples":24,"sess":12.14,"sess_h":23.0,"like":93.28},
@@ -490,7 +490,7 @@
 "10768003706":{"name":"Create a Robot Fighter","avg_ccu":796.0,"min_ccu":640,"max_ccu":898,"samples":24,"sess":19.18,"sess_h":23.0,"like":83.54},
 "10768046082":{"name":"My Chiikawa Restaurant! 🎃","avg_ccu":2112.0,"min_ccu":1606,"max_ccu":2588,"samples":24,"sess":20.87,"sess_h":23.0,"like":96.05},
 "10768172922":{"name":"RoWorld [World PvP]","avg_ccu":12965.3,"min_ccu":9243,"max_ccu":18087,"samples":24,"sess":5.53,"sess_h":23.0,"like":83.51},
-"10768197635":{"name":"[🃏Collect Cards] My Trading Card Shop! [BETA]","avg_ccu":2218.0,"min_ccu":1515,"max_ccu":2878,"samples":24,"sess":21.26,"sess_h":23.0,"like":89.87},
+"10768197635":{"name":"[🃏UPD] My Trading Card Shop! [BETA]","avg_ccu":2218.0,"min_ccu":1515,"max_ccu":2878,"samples":24,"sess":21.26,"sess_h":23.0,"like":89.87},
 "10768284407":{"name":"🚨[QUADS] Bike Universe","avg_ccu":15535.4,"min_ccu":10178,"max_ccu":20685,"samples":24,"sess":10.92,"sess_h":23.0,"like":88.54},
 "10768359714":{"name":"Muscle Boxing","avg_ccu":799.7,"min_ccu":498,"max_ccu":1179,"samples":20,"sess":13.78,"sess_h":19.0,"like":80.15},
 "10768371135":{"name":"[SKINS!] Anime vs Anime!","avg_ccu":2167.8,"min_ccu":1814,"max_ccu":2683,"samples":24,"sess":14.04,"sess_h":23.0,"like":92.19},
@@ -675,7 +675,7 @@
 "10771778398":{"name":"Chop and Steal an Egg","avg_ccu":3528.9,"min_ccu":1763,"max_ccu":5716,"samples":24,"sess":14.71,"sess_h":23.0,"like":90.19},
 "10771797050":{"name":"+1 Baddie Evolution 💅","avg_ccu":7675.0,"min_ccu":3027,"max_ccu":15515,"samples":24,"sess":11.73,"sess_h":23.0,"like":95.45},
 "10771800287":{"name":"Make Viral Candy! 🍬","avg_ccu":1889.1,"min_ccu":1429,"max_ccu":2425,"samples":24,"sess":7.96,"sess_h":23.0,"like":89.27},
-"10771805737":{"name":"Run a Motel ! [STAFF]","avg_ccu":3419.3,"min_ccu":3129,"max_ccu":3676,"samples":3,"like":93.29},
+"10771805737":{"name":"Run a Motel ! [EXPAND]","avg_ccu":3419.3,"min_ccu":3129,"max_ccu":3676,"samples":3,"like":93.29},
 "10771807458":{"name":"[😈] SAEM LAST UPDATE X9999 LUCK AND ADMIN EGGS","avg_ccu":5.3,"min_ccu":0,"max_ccu":17,"samples":24,"sess":9.23,"sess_h":23.0,"like":72.33},
 "10771853697":{"name":"[REVAMP] Project Web","avg_ccu":5315.9,"min_ccu":2815,"max_ccu":8511,"samples":24,"sess":6.68,"sess_h":23.0,"like":93.7},
 "10771871836":{"name":"📸 Say Cheese! [STORY]","avg_ccu":6310.3,"min_ccu":3858,"max_ccu":8052,"samples":24,"sess":9.57,"sess_h":23.0,"like":90.23},
