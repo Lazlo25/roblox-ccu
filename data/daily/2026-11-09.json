@@ -1,4 +1,4 @@
-{"date": "2026-11-09", "timezone": "America/New_York", "generated_utc": "2026-11-10T20:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-10T04:10:00Z", 8626477], "genres": {"Simulation": 39.754, "Survival": 17.133, "Roleplay & Avatar Sim": 11.28, "Action": 6.763, "RPG": 6.711, "Sports & Racing": 3.584, "Shooter": 3.486, "Strategy": 3.093, "Obby & Platformer": 3.031, "Party & Casual": 1.587, "Adventure": 1.302, "Shopping": 0.88, "Other": 0.552, "Social": 0.385, "Puzzle": 0.257, "Entertainment": 0.202}, "genre_hours": 24,"games":{
+{"date": "2026-11-09", "timezone": "America/New_York", "generated_utc": "2026-11-10T21:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-10T04:10:00Z", 8626477], "genres": {"Simulation": 39.754, "Survival": 17.133, "Roleplay & Avatar Sim": 11.28, "Action": 6.763, "RPG": 6.711, "Sports & Racing": 3.584, "Shooter": 3.486, "Strategy": 3.093, "Obby & Platformer": 3.031, "Party & Casual": 1.587, "Adventure": 1.302, "Shopping": 0.88, "Other": 0.552, "Social": 0.385, "Puzzle": 0.257, "Entertainment": 0.202}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2324.0,"min_ccu":1650,"max_ccu":2825,"samples":24,"sess":13.32,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6966.8,"min_ccu":4359,"max_ccu":9792,"samples":24,"sess":8.95,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2678.0,"min_ccu":1632,"max_ccu":3846,"samples":24,"sess":12.14,"sess_h":23.0,"like":93.28},
@@ -413,7 +413,7 @@
 "10764240948":{"name":"[🦖] Harpoon a Fish","avg_ccu":7582.5,"min_ccu":5902,"max_ccu":10144,"samples":24,"sess":15.59,"sess_h":23.0,"like":97.2},
 "10764431554":{"name":"Bid For An Egg!","avg_ccu":2495.5,"min_ccu":1772,"max_ccu":3184,"samples":24,"sess":14.17,"sess_h":23.0,"like":89.3},
 "10764533320":{"name":"[UPD] Aura Dance Battles 🔥","avg_ccu":713.8,"min_ccu":659,"max_ccu":787,"samples":4,"like":88.98},
-"10764627709":{"name":"[RANKED] Huss Valley","avg_ccu":21414.1,"min_ccu":15930,"max_ccu":28066,"samples":24,"sess":9.89,"sess_h":23.0,"like":87.45},
+"10764627709":{"name":"[🏆] Huss Valley","avg_ccu":21414.1,"min_ccu":15930,"max_ccu":28066,"samples":24,"sess":9.89,"sess_h":23.0,"like":87.45},
 "10764887435":{"name":"[🤑WORKS] Forest Donations","avg_ccu":1627.7,"min_ccu":1470,"max_ccu":1926,"samples":24,"sess":8.18,"sess_h":23.0,"like":93.89},
 "10764989090":{"name":"[🏆RANKED] Anime Ball Duels","avg_ccu":779.0,"min_ccu":554,"max_ccu":1047,"samples":24,"sess":15.87,"sess_h":23.0,"like":84.11},
 "10765012427":{"name":"[Pt. 2 🎃] Build the Pyramid!","avg_ccu":765.0,"min_ccu":570,"max_ccu":938,"samples":24,"sess":17.93,"sess_h":23.0,"like":94.56},
@@ -713,7 +713,7 @@
 "10772968523":{"name":"Impossible Hill Climb","avg_ccu":3354.3,"min_ccu":1452,"max_ccu":7512,"samples":24,"sess":14.72,"sess_h":23.0,"like":92.83},
 "10773014494":{"name":"DONT SWIM 🚫🏊","avg_ccu":5940.0,"min_ccu":4335,"max_ccu":8870,"samples":24,"sess":6.23,"sess_h":23.0,"like":73.98},
 "10773024047":{"name":"Untitled Ragdoll Game","avg_ccu":5114.2,"min_ccu":4171,"max_ccu":6499,"samples":24,"sess":12.19,"sess_h":23.0,"like":72.16},
-"10773031983":{"name":"[UPD] That Is NOT My Mom 👩🏼‍🦰","avg_ccu":2646.2,"min_ccu":1256,"max_ccu":3880,"samples":24,"sess":3.69,"sess_h":23.0,"like":69.01},
+"10773031983":{"name":"[CHP 3] That Is NOT My Mom 👩🏼‍🦰","avg_ccu":2646.2,"min_ccu":1256,"max_ccu":3880,"samples":24,"sess":3.69,"sess_h":23.0,"like":69.01},
 "10773082965":{"name":"Thai Letters Battle","avg_ccu":3190.2,"min_ccu":385,"max_ccu":7332,"samples":24,"sess":13.14,"sess_h":23.0,"like":85.11},
 "10773161216":{"name":"WRECKED [Realistic Crashes]","avg_ccu":6789.1,"min_ccu":4275,"max_ccu":9719,"samples":24,"sess":10.07,"sess_h":23.0,"like":95.13},
 "10773166420":{"name":"Create Slime Mart ! [Testing]","avg_ccu":2045.4,"min_ccu":1115,"max_ccu":2990,"samples":24,"sess":8.49,"sess_h":23.0,"like":87.28},
