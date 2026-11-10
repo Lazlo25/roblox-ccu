@@ -1,4 +1,4 @@
-{"date": "2026-11-09", "timezone": "America/New_York", "generated_utc": "2026-11-10T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-10T04:10:00Z", 8626477], "genres": {"Simulation": 39.754, "Survival": 17.133, "Roleplay & Avatar Sim": 11.28, "Action": 6.763, "RPG": 6.711, "Sports & Racing": 3.584, "Shooter": 3.486, "Strategy": 3.093, "Obby & Platformer": 3.031, "Party & Casual": 1.587, "Adventure": 1.302, "Shopping": 0.88, "Other": 0.552, "Social": 0.385, "Puzzle": 0.257, "Entertainment": 0.202}, "genre_hours": 24,"games":{
+{"date": "2026-11-09", "timezone": "America/New_York", "generated_utc": "2026-11-10T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-10T04:10:00Z", 8626477], "genres": {"Simulation": 39.754, "Survival": 17.133, "Roleplay & Avatar Sim": 11.28, "Action": 6.763, "RPG": 6.711, "Sports & Racing": 3.584, "Shooter": 3.486, "Strategy": 3.093, "Obby & Platformer": 3.031, "Party & Casual": 1.587, "Adventure": 1.302, "Shopping": 0.88, "Other": 0.552, "Social": 0.385, "Puzzle": 0.257, "Entertainment": 0.202}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2324.0,"min_ccu":1650,"max_ccu":2825,"samples":24,"sess":13.32,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6966.8,"min_ccu":4359,"max_ccu":9792,"samples":24,"sess":8.95,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2678.0,"min_ccu":1632,"max_ccu":3846,"samples":24,"sess":12.14,"sess_h":23.0,"like":93.28},
@@ -69,7 +69,7 @@
 "2157872230":{"name":"Infectious Smile","avg_ccu":1792.8,"min_ccu":1547,"max_ccu":2201,"samples":4,"like":78.67},
 "2174306620":{"name":"[RELEASE!] Beyond Nen","avg_ccu":6920.5,"min_ccu":5105,"max_ccu":8462,"samples":24,"sess":32.04,"sess_h":23.0,"like":94.52},
 "2251388500":{"name":"Twisted [BETA]","avg_ccu":1184.4,"min_ccu":681,"max_ccu":1728,"samples":24,"sess":10.15,"sess_h":23.0,"like":90.39},
-"2294168059":{"name":"[NIGHTMARE] The Mimic","avg_ccu":4650.5,"min_ccu":3748,"max_ccu":5635,"samples":24,"sess":12.6,"sess_h":23.0,"like":90.08},
+"2294168059":{"name":"The Mimic","avg_ccu":4650.5,"min_ccu":3748,"max_ccu":5635,"samples":24,"sess":12.6,"sess_h":23.0,"like":90.08},
 "2309918273":{"name":"[🎃HOLLOVVEEN] VV: ULTIMATUM","avg_ccu":1709.2,"min_ccu":1359,"max_ccu":2015,"samples":24,"sess":26.6,"sess_h":23.0,"like":90.36},
 "2316994223":{"name":"Pet Simulator X! 🐾","avg_ccu":701.6,"min_ccu":472,"max_ccu":1010,"samples":24,"sess":12.71,"sess_h":23.0,"like":91.44},
 "2324018757":{"name":"Roblox Is Unbreakable","avg_ccu":2588.5,"min_ccu":1537,"max_ccu":3299,"samples":24,"sess":17.75,"sess_h":23.0,"like":86.87},
@@ -436,7 +436,7 @@
 "10765902945":{"name":"[🥷NINJA] Anime Legacy Simulator","avg_ccu":2634.4,"min_ccu":2550,"max_ccu":2813,"samples":24,"sess":29.01,"sess_h":23.0,"like":95.86},
 "10765938934":{"name":"[🎉UPD 3] Roll A Stickman!","avg_ccu":5986.0,"min_ccu":5582,"max_ccu":6361,"samples":24,"sess":18.34,"sess_h":23.0,"like":96.1},
 "10765969301":{"name":"[⛩️JAPAN] Travel Simulator","avg_ccu":1006.3,"min_ccu":705,"max_ccu":1490,"samples":24,"sess":12.9,"sess_h":23.0,"like":81.15},
-"10766026489":{"name":"Avataria Life","avg_ccu":1307.3,"min_ccu":756,"max_ccu":1761,"samples":24,"sess":10.13,"sess_h":23.0,"like":61.3},
+"10766026489":{"name":"[PIERCING] Avataria Life","avg_ccu":1307.3,"min_ccu":756,"max_ccu":1761,"samples":24,"sess":10.13,"sess_h":23.0,"like":61.3},
 "10766044605":{"name":"Paint and Hide! 🎨","avg_ccu":8049.8,"min_ccu":4806,"max_ccu":12354,"samples":24,"sess":12.07,"sess_h":23.0,"like":71.99},
 "10766212164":{"name":"+1 Money Per Click 💸","avg_ccu":1985.7,"min_ccu":1176,"max_ccu":2831,"samples":24,"sess":12.64,"sess_h":23.0,"like":89.11},
 "10766251540":{"name":"[UPD] Kart Arena","avg_ccu":2720.9,"min_ccu":1933,"max_ccu":3345,"samples":24,"sess":12.47,"sess_h":23.0,"like":87.48},
