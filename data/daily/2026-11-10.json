@@ -1,4 +1,4 @@
-{"date": "2026-11-10", "timezone": "America/New_York", "generated_utc": "2026-11-11T14:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-11T04:10:00Z", 8847592], "genres": {"Simulation": 39.84, "Survival": 17.61, "Roleplay & Avatar Sim": 10.603, "Action": 6.848, "RPG": 6.686, "Sports & Racing": 3.597, "Shooter": 3.473, "Strategy": 3.072, "Obby & Platformer": 2.991, "Party & Casual": 1.59, "Adventure": 1.352, "Shopping": 0.885, "Other": 0.61, "Social": 0.4, "Puzzle": 0.259, "Entertainment": 0.185}, "genre_hours": 24,"games":{
+{"date": "2026-11-10", "timezone": "America/New_York", "generated_utc": "2026-11-11T15:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-11T04:10:00Z", 8847592], "genres": {"Simulation": 39.84, "Survival": 17.61, "Roleplay & Avatar Sim": 10.603, "Action": 6.848, "RPG": 6.686, "Sports & Racing": 3.597, "Shooter": 3.473, "Strategy": 3.072, "Obby & Platformer": 2.991, "Party & Casual": 1.59, "Adventure": 1.352, "Shopping": 0.885, "Other": 0.61, "Social": 0.4, "Puzzle": 0.259, "Entertainment": 0.185}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2257.8,"min_ccu":1504,"max_ccu":2772,"samples":24,"sess":13.08,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6692.1,"min_ccu":4171,"max_ccu":9546,"samples":24,"sess":8.87,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2590.1,"min_ccu":1622,"max_ccu":3570,"samples":24,"sess":12.09,"sess_h":23.0,"like":93.28},
@@ -424,7 +424,7 @@
 "10765902945":{"name":"[🥷NINJA] Anime Legacy Simulator","avg_ccu":2361.2,"min_ccu":2192,"max_ccu":2553,"samples":24,"sess":28.64,"sess_h":23.0,"like":95.85},
 "10765938934":{"name":"[🎉UPD 3] Roll A Stickman!","avg_ccu":5514.3,"min_ccu":4796,"max_ccu":6146,"samples":24,"sess":18.05,"sess_h":23.0,"like":96.07},
 "10765969301":{"name":"[⛩️JAPAN] Travel Simulator (⚡UPD!)","avg_ccu":825.3,"min_ccu":632,"max_ccu":1088,"samples":24,"sess":13.33,"sess_h":23.0,"like":81.18},
-"10766026489":{"name":"Avataria Life","avg_ccu":1130.1,"min_ccu":586,"max_ccu":1838,"samples":24,"sess":9.62,"sess_h":23.0,"like":61.47},
+"10766026489":{"name":"[💖] Avataria Life","avg_ccu":1130.1,"min_ccu":586,"max_ccu":1838,"samples":24,"sess":9.62,"sess_h":23.0,"like":61.47},
 "10766041521":{"name":"Anime Ball Battles [🏆RANKED]","avg_ccu":726.9,"min_ccu":582,"max_ccu":865,"samples":8,"sess":12.81,"sess_h":7.0,"like":96.96},
 "10766044605":{"name":"Paint and Hide! 🎨","avg_ccu":7268.9,"min_ccu":4511,"max_ccu":10924,"samples":24,"sess":11.96,"sess_h":23.0,"like":72.12},
 "10766212164":{"name":"+1 Money Per Click 💸","avg_ccu":1651.4,"min_ccu":1053,"max_ccu":2257,"samples":24,"sess":12.54,"sess_h":23.0,"like":89.06},
@@ -668,7 +668,7 @@
 "10771800287":{"name":"Make Viral Candy! 🍬","avg_ccu":1968.7,"min_ccu":1467,"max_ccu":2368,"samples":24,"sess":7.87,"sess_h":23.0,"like":89.3},
 "10771805737":{"name":"Run a Motel ! [EXPAND]","avg_ccu":4440.9,"min_ccu":2196,"max_ccu":6932,"samples":24,"sess":17.13,"sess_h":23.0,"like":93.61},
 "10771807458":{"name":"[😈] SAEM LAST UPDATE X9999 LUCK AND ADMIN EGGS","avg_ccu":3.9,"min_ccu":0,"max_ccu":8,"samples":24,"sess":7.98,"sess_h":23.0,"like":72.33},
-"10771853697":{"name":"THIS GAME WAS STOLEN","avg_ccu":6474.7,"min_ccu":3893,"max_ccu":8732,"samples":24,"sess":6.85,"sess_h":23.0,"like":93.2},
+"10771853697":{"name":"[FIXED!] Project Web","avg_ccu":6474.7,"min_ccu":3893,"max_ccu":8732,"samples":24,"sess":6.85,"sess_h":23.0,"like":93.2},
 "10771871836":{"name":"📸 Say Cheese! [STORY]","avg_ccu":4726.7,"min_ccu":3088,"max_ccu":6542,"samples":24,"sess":9.48,"sess_h":23.0,"like":90.19},
 "10771881861":{"name":"[GORILLA🦍] FERAL 🐺 Animal Survival","avg_ccu":9954.5,"min_ccu":5884,"max_ccu":13046,"samples":24,"sess":16.82,"sess_h":23.0,"like":80.1},
 "10771928551":{"name":"🍦Cozy Lucky Scoop Order","avg_ccu":11450.0,"min_ccu":8065,"max_ccu":13325,"samples":24,"sess":9.35,"sess_h":23.0,"like":90.91},
