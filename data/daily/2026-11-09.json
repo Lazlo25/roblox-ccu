@@ -1,4 +1,4 @@
-{"date": "2026-11-09", "timezone": "America/New_York", "generated_utc": "2026-11-11T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-10T04:10:00Z", 8626477], "genres": {"Simulation": 39.754, "Survival": 17.133, "Roleplay & Avatar Sim": 11.28, "Action": 6.763, "RPG": 6.711, "Sports & Racing": 3.584, "Shooter": 3.486, "Strategy": 3.093, "Obby & Platformer": 3.031, "Party & Casual": 1.587, "Adventure": 1.302, "Shopping": 0.88, "Other": 0.552, "Social": 0.385, "Puzzle": 0.257, "Entertainment": 0.202}, "genre_hours": 24,"games":{
+{"date": "2026-11-09", "timezone": "America/New_York", "generated_utc": "2026-11-11T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-10T04:10:00Z", 8626477], "genres": {"Simulation": 39.754, "Survival": 17.133, "Roleplay & Avatar Sim": 11.28, "Action": 6.763, "RPG": 6.711, "Sports & Racing": 3.584, "Shooter": 3.486, "Strategy": 3.093, "Obby & Platformer": 3.031, "Party & Casual": 1.587, "Adventure": 1.302, "Shopping": 0.88, "Other": 0.552, "Social": 0.385, "Puzzle": 0.257, "Entertainment": 0.202}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2324.0,"min_ccu":1650,"max_ccu":2825,"samples":24,"sess":13.32,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6966.8,"min_ccu":4359,"max_ccu":9792,"samples":24,"sess":8.95,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2678.0,"min_ccu":1632,"max_ccu":3846,"samples":24,"sess":12.14,"sess_h":23.0,"like":93.28},
@@ -136,7 +136,7 @@
 "4730278139":{"name":"[🎃] untitled boxing game🥊","avg_ccu":7182.5,"min_ccu":4821,"max_ccu":9707,"samples":24,"sess":11.73,"sess_h":23.0,"like":87.24},
 "4750561026":{"name":"Cold War [BIPODS]","avg_ccu":4133.7,"min_ccu":2697,"max_ccu":5746,"samples":24,"sess":18.48,"sess_h":23.0,"like":90.7},
 "4777817887":{"name":"Blade Ball","avg_ccu":13013.5,"min_ccu":10195,"max_ccu":16615,"samples":24,"sess":13.1,"sess_h":23.0,"like":93.46},
-"4778845442":{"name":"[✨CHANGES] Toilet Tower Defense","avg_ccu":8340.9,"min_ccu":6128,"max_ccu":12223,"samples":24,"sess":13.29,"sess_h":23.0,"like":85.61},
+"4778845442":{"name":"[⌛SOON] Toilet Tower Defense","avg_ccu":8340.9,"min_ccu":6128,"max_ccu":12223,"samples":24,"sess":13.29,"sess_h":23.0,"like":85.61},
 "4793836769":{"name":"[SALEEN]🚗Midnight Chasers: Highway Racing","avg_ccu":2286.9,"min_ccu":2008,"max_ccu":2688,"samples":24,"sess":19.23,"sess_h":23.0,"like":97.53},
 "4839802560":{"name":"LifeTogether 🏠 RP","avg_ccu":22007.0,"min_ccu":12553,"max_ccu":32523,"samples":24,"sess":14.07,"sess_h":23.0,"like":90.31},
 "4931927012":{"name":"[🎃]🏀Basketball Legends🏀","avg_ccu":2769.3,"min_ccu":1508,"max_ccu":5827,"samples":24,"sess":14.97,"sess_h":23.0,"like":86.01},
@@ -586,7 +586,7 @@
 "10769957062":{"name":"Bug Evolution [🦟]","avg_ccu":14624.7,"min_ccu":11306,"max_ccu":19140,"samples":24,"sess":12.89,"sess_h":23.0,"like":82.67},
 "10769965862":{"name":"[🎃] Find Animal Bones","avg_ccu":1520.0,"min_ccu":933,"max_ccu":2120,"samples":24,"sess":14.39,"sess_h":23.0,"like":90.26},
 "10769969117":{"name":"Low Range: Offroad 4x4 [EARLY ACCESS]","avg_ccu":11188.4,"min_ccu":6702,"max_ccu":17763,"samples":24,"sess":14.33,"sess_h":23.0,"like":95.11},
-"10769969724":{"name":"Shibuya [Beta]","avg_ccu":1950.2,"min_ccu":543,"max_ccu":3480,"samples":24,"sess":5.79,"sess_h":23.0,"like":87.67},
+"10769969724":{"name":"[Update] Shibuya [Beta]","avg_ccu":1950.2,"min_ccu":543,"max_ccu":3480,"samples":24,"sess":5.79,"sess_h":23.0,"like":87.67},
 "10769999776":{"name":"FAITHFUL | BETA","avg_ccu":2878.2,"min_ccu":1673,"max_ccu":4412,"samples":24,"sess":6.88,"sess_h":23.0,"like":57.67},
 "10770018231":{"name":"Clone Baby Care (Anomaly)","avg_ccu":8499.5,"min_ccu":5683,"max_ccu":11472,"samples":24,"sess":10.29,"sess_h":23.0,"like":89.35},
 "10770021080":{"name":"[Ride] Adopt Your Animal!","avg_ccu":1542.8,"min_ccu":759,"max_ccu":2328,"samples":24,"sess":12.45,"sess_h":23.0,"like":85.68},
