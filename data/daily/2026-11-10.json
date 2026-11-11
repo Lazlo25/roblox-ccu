@@ -1,4 +1,4 @@
-{"date": "2026-11-10", "timezone": "America/New_York", "generated_utc": "2026-11-11T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-11T04:10:00Z", 8847592], "genres": {"Simulation": 39.84, "Survival": 17.61, "Roleplay & Avatar Sim": 10.603, "Action": 6.848, "RPG": 6.686, "Sports & Racing": 3.597, "Shooter": 3.473, "Strategy": 3.072, "Obby & Platformer": 2.991, "Party & Casual": 1.59, "Adventure": 1.352, "Shopping": 0.885, "Other": 0.61, "Social": 0.4, "Puzzle": 0.259, "Entertainment": 0.185}, "genre_hours": 24,"games":{
+{"date": "2026-11-10", "timezone": "America/New_York", "generated_utc": "2026-11-11T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-11T04:10:00Z", 8847592], "genres": {"Simulation": 39.84, "Survival": 17.61, "Roleplay & Avatar Sim": 10.603, "Action": 6.848, "RPG": 6.686, "Sports & Racing": 3.597, "Shooter": 3.473, "Strategy": 3.072, "Obby & Platformer": 2.991, "Party & Casual": 1.59, "Adventure": 1.352, "Shopping": 0.885, "Other": 0.61, "Social": 0.4, "Puzzle": 0.259, "Entertainment": 0.185}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2257.8,"min_ccu":1504,"max_ccu":2772,"samples":24,"sess":13.08,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6692.1,"min_ccu":4171,"max_ccu":9546,"samples":24,"sess":8.87,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2590.1,"min_ccu":1622,"max_ccu":3570,"samples":24,"sess":12.09,"sess_h":23.0,"like":93.28},
@@ -249,7 +249,7 @@
 "8906870648":{"name":"FREE Fades! 👊","avg_ccu":844.5,"min_ccu":583,"max_ccu":1095,"samples":24,"sess":9.46,"sess_h":23.0,"like":89.69},
 "9028640246":{"name":"FORTLINE [ONE SHOT🎯]","avg_ccu":3491.5,"min_ccu":1871,"max_ccu":5110,"samples":24,"sess":11.23,"sess_h":23.0,"like":75.59},
 "9051406594":{"name":"[💥FINAL BOSS] Dueling Grounds ⚔️","avg_ccu":3813.9,"min_ccu":3014,"max_ccu":4663,"samples":24,"sess":6.95,"sess_h":23.0,"like":96.33},
-"9073513091":{"name":"[24H!] Anime Apocalypse","avg_ccu":552.5,"min_ccu":392,"max_ccu":698,"samples":24,"sess":8.31,"sess_h":23.0,"like":95.25},
+"9073513091":{"name":"[4H!] Anime Apocalypse","avg_ccu":552.5,"min_ccu":392,"max_ccu":698,"samples":24,"sess":8.31,"sess_h":23.0,"like":95.25},
 "9098570654":{"name":"[⚒️UPD] 🧟 Survive the Apocalypse","avg_ccu":5779.5,"min_ccu":4858,"max_ccu":7794,"samples":24,"sess":24.49,"sess_h":23.0,"like":94.11},
 "9141743926":{"name":"[NOW] Catch a Monster","avg_ccu":2435.6,"min_ccu":2258,"max_ccu":2650,"samples":24,"sess":14.01,"sess_h":23.0,"like":97.81},
 "9150731899":{"name":"PRISON RP","avg_ccu":1613.9,"min_ccu":910,"max_ccu":2253,"samples":24,"sess":26.29,"sess_h":23.0,"like":78.41},
@@ -600,7 +600,7 @@
 "10770466814":{"name":"[MARS] Clean the Moon!","avg_ccu":5588.0,"min_ccu":2943,"max_ccu":7879,"samples":24,"sess":20.09,"sess_h":23.0,"like":94.04},
 "10770548748":{"name":"SF BIKE [NEW BIKES]","avg_ccu":7182.2,"min_ccu":2842,"max_ccu":12320,"samples":24,"sess":10.69,"sess_h":23.0,"like":92.62},
 "10770566554":{"name":"[UPD] Get Your Superpowers!","avg_ccu":1620.5,"min_ccu":787,"max_ccu":2770,"samples":24,"sess":12.56,"sess_h":23.0,"like":83.35},
-"10770566869":{"name":"[UPD1]⚽ Be a Soccer Legend","avg_ccu":15025.0,"min_ccu":8352,"max_ccu":22424,"samples":24,"sess":13.9,"sess_h":23.0,"like":95.9},
+"10770566869":{"name":"⚽ Be a Soccer Legend","avg_ccu":15025.0,"min_ccu":8352,"max_ccu":22424,"samples":24,"sess":13.9,"sess_h":23.0,"like":95.9},
 "10770575733":{"name":"Ragdoll Physics 🩸","avg_ccu":26186.6,"min_ccu":16983,"max_ccu":31961,"samples":24,"sess":11.37,"sess_h":23.0,"like":90.1},
 "10770582427":{"name":"SLED SURFERS [WORLD 5🌙]","avg_ccu":1259.3,"min_ccu":684,"max_ccu":2112,"samples":24,"sess":10.14,"sess_h":23.0,"like":83.04},
 "10770593871":{"name":"Realistic Ragdoll Engine 🩸","avg_ccu":7796.0,"min_ccu":5180,"max_ccu":10682,"samples":24,"sess":10.27,"sess_h":23.0,"like":87.74},
@@ -713,7 +713,7 @@
 "10773031983":{"name":"[CHP 3] That Is NOT My Mom 👩🏼‍🦰","avg_ccu":2522.6,"min_ccu":1107,"max_ccu":4063,"samples":24,"sess":4.05,"sess_h":23.0,"like":70.14},
 "10773059991":{"name":"Clean The Bugs 🐜","avg_ccu":3193.6,"min_ccu":2876,"max_ccu":3517,"samples":5,"like":81.91},
 "10773082965":{"name":"Thai Letters Battle","avg_ccu":2969.2,"min_ccu":359,"max_ccu":6922,"samples":24,"sess":13.03,"sess_h":23.0,"like":85.8},
-"10773097147":{"name":"[🌎UPD] +1 Ghoul Evolution","avg_ccu":1912.5,"min_ccu":1454,"max_ccu":2495,"samples":11,"sess":9.21,"sess_h":10.0,"like":85.73},
+"10773097147":{"name":"[👹] +1 Ghoul Evolution","avg_ccu":1912.5,"min_ccu":1454,"max_ccu":2495,"samples":11,"sess":9.21,"sess_h":10.0,"like":85.73},
 "10773161216":{"name":"WRECKED [Realistic Crashes]","avg_ccu":5384.2,"min_ccu":3757,"max_ccu":7264,"samples":24,"sess":10.11,"sess_h":23.0,"like":95.05},
 "10773166420":{"name":"Create Slime Mart ! [Testing]","avg_ccu":1688.9,"min_ccu":805,"max_ccu":2715,"samples":24,"sess":8.29,"sess_h":23.0,"like":86.81},
 "10773259496":{"name":"Survive a Psycho","avg_ccu":952.5,"min_ccu":380,"max_ccu":1888,"samples":24,"sess":10.97,"sess_h":23.0,"like":94.77},
