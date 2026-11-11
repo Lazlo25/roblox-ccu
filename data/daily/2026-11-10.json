@@ -1,4 +1,4 @@
-{"date": "2026-11-10", "timezone": "America/New_York", "generated_utc": "2026-11-11T15:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-11T04:10:00Z", 8847592], "genres": {"Simulation": 39.84, "Survival": 17.61, "Roleplay & Avatar Sim": 10.603, "Action": 6.848, "RPG": 6.686, "Sports & Racing": 3.597, "Shooter": 3.473, "Strategy": 3.072, "Obby & Platformer": 2.991, "Party & Casual": 1.59, "Adventure": 1.352, "Shopping": 0.885, "Other": 0.61, "Social": 0.4, "Puzzle": 0.259, "Entertainment": 0.185}, "genre_hours": 24,"games":{
+{"date": "2026-11-10", "timezone": "America/New_York", "generated_utc": "2026-11-11T16:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-11T04:10:00Z", 8847592], "genres": {"Simulation": 39.84, "Survival": 17.61, "Roleplay & Avatar Sim": 10.603, "Action": 6.848, "RPG": 6.686, "Sports & Racing": 3.597, "Shooter": 3.473, "Strategy": 3.072, "Obby & Platformer": 2.991, "Party & Casual": 1.59, "Adventure": 1.352, "Shopping": 0.885, "Other": 0.61, "Social": 0.4, "Puzzle": 0.259, "Entertainment": 0.185}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2257.8,"min_ccu":1504,"max_ccu":2772,"samples":24,"sess":13.08,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6692.1,"min_ccu":4171,"max_ccu":9546,"samples":24,"sess":8.87,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2590.1,"min_ccu":1622,"max_ccu":3570,"samples":24,"sess":12.09,"sess_h":23.0,"like":93.28},
@@ -249,7 +249,7 @@
 "8906870648":{"name":"FREE Fades! 👊","avg_ccu":844.5,"min_ccu":583,"max_ccu":1095,"samples":24,"sess":9.46,"sess_h":23.0,"like":89.69},
 "9028640246":{"name":"FORTLINE [ONE SHOT🎯]","avg_ccu":3491.5,"min_ccu":1871,"max_ccu":5110,"samples":24,"sess":11.23,"sess_h":23.0,"like":75.59},
 "9051406594":{"name":"[💥FINAL BOSS] Dueling Grounds ⚔️","avg_ccu":3813.9,"min_ccu":3014,"max_ccu":4663,"samples":24,"sess":6.95,"sess_h":23.0,"like":96.33},
-"9073513091":{"name":"[4H!] Anime Apocalypse","avg_ccu":552.5,"min_ccu":392,"max_ccu":698,"samples":24,"sess":8.31,"sess_h":23.0,"like":95.25},
+"9073513091":{"name":"[1H!] Anime Apocalypse","avg_ccu":552.5,"min_ccu":392,"max_ccu":698,"samples":24,"sess":8.31,"sess_h":23.0,"like":95.25},
 "9098570654":{"name":"[⚒️UPD] 🧟 Survive the Apocalypse","avg_ccu":5779.5,"min_ccu":4858,"max_ccu":7794,"samples":24,"sess":24.49,"sess_h":23.0,"like":94.11},
 "9141743926":{"name":"[NOW] Catch a Monster","avg_ccu":2435.6,"min_ccu":2258,"max_ccu":2650,"samples":24,"sess":14.01,"sess_h":23.0,"like":97.81},
 "9150731899":{"name":"PRISON RP","avg_ccu":1613.9,"min_ccu":910,"max_ccu":2253,"samples":24,"sess":26.29,"sess_h":23.0,"like":78.41},
@@ -654,7 +654,7 @@
 "10771507608":{"name":"🧸 My Small Business","avg_ccu":8417.5,"min_ccu":6153,"max_ccu":10426,"samples":24,"sess":16.15,"sess_h":23.0,"like":95.73},
 "10771520659":{"name":"[BETA] BONK! Ragdoll Boxing 🥊","avg_ccu":2519.0,"min_ccu":2341,"max_ccu":2852,"samples":10,"sess":4.04,"sess_h":9.0,"like":89.65},
 "10771544071":{"name":"Ragdoll Wars!","avg_ccu":7497.2,"min_ccu":5860,"max_ccu":10243,"samples":24,"sess":17.03,"sess_h":23.0,"like":94.02},
-"10771584764":{"name":"[UPD 3] Create A Disaster💥","avg_ccu":3284.3,"min_ccu":2403,"max_ccu":4233,"samples":24,"sess":7.26,"sess_h":23.0,"like":89.68},
+"10771584764":{"name":"Create A Disaster💥","avg_ccu":3284.3,"min_ccu":2403,"max_ccu":4233,"samples":24,"sess":7.26,"sess_h":23.0,"like":89.68},
 "10771586944":{"name":"+1 Boxing Battle Evolution","avg_ccu":6468.4,"min_ccu":5220,"max_ccu":9119,"samples":24,"sess":12.15,"sess_h":23.0,"like":89.75},
 "10771624540":{"name":"[🎃👻UPDATE] Ride Bone Emperor [NEW!]","avg_ccu":41.3,"min_ccu":26,"max_ccu":65,"samples":24,"sess":8.28,"sess_h":23.0,"like":92.68},
 "10771643321":{"name":"Steal A Balut","avg_ccu":9102.0,"min_ccu":2899,"max_ccu":17655,"samples":24,"sess":14.33,"sess_h":23.0,"like":95.31},
