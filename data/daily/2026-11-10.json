@@ -1,4 +1,4 @@
-{"date": "2026-11-10", "timezone": "America/New_York", "generated_utc": "2026-11-11T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-11T04:10:00Z", 8847592], "genres": {"Simulation": 39.84, "Survival": 17.61, "Roleplay & Avatar Sim": 10.603, "Action": 6.848, "RPG": 6.686, "Sports & Racing": 3.597, "Shooter": 3.473, "Strategy": 3.072, "Obby & Platformer": 2.991, "Party & Casual": 1.59, "Adventure": 1.352, "Shopping": 0.885, "Other": 0.61, "Social": 0.4, "Puzzle": 0.259, "Entertainment": 0.185}, "genre_hours": 24,"games":{
+{"date": "2026-11-10", "timezone": "America/New_York", "generated_utc": "2026-11-11T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-11T04:10:00Z", 8847592], "genres": {"Simulation": 39.84, "Survival": 17.61, "Roleplay & Avatar Sim": 10.603, "Action": 6.848, "RPG": 6.686, "Sports & Racing": 3.597, "Shooter": 3.473, "Strategy": 3.072, "Obby & Platformer": 2.991, "Party & Casual": 1.59, "Adventure": 1.352, "Shopping": 0.885, "Other": 0.61, "Social": 0.4, "Puzzle": 0.259, "Entertainment": 0.185}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2257.8,"min_ccu":1504,"max_ccu":2772,"samples":24,"sess":13.08,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6692.1,"min_ccu":4171,"max_ccu":9546,"samples":24,"sess":8.87,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2590.1,"min_ccu":1622,"max_ccu":3570,"samples":24,"sess":12.09,"sess_h":23.0,"like":93.28},
@@ -114,7 +114,7 @@
 "4130569984":{"name":"[HALLOWEEN PART 2] Jurassic Blocky","avg_ccu":2913.4,"min_ccu":1694,"max_ccu":3955,"samples":24,"sess":11.13,"sess_h":23.0,"like":89.2},
 "4165164803":{"name":"Clip It 😂🎬👗","avg_ccu":3686.6,"min_ccu":1399,"max_ccu":6482,"samples":24,"sess":11.36,"sess_h":23.0,"like":76.38},
 "4261077741":{"name":"[🤑WORKS] PLS WAIT 💸","avg_ccu":1172.2,"min_ccu":854,"max_ccu":1518,"samples":24,"sess":11.15,"sess_h":23.0,"like":89.26},
-"4263371487":{"name":"[LAG FIX🎃] Primal Pursuit 🦖 Humans vs Dinosaurs","avg_ccu":634.7,"min_ccu":325,"max_ccu":823,"samples":24,"sess":11.21,"sess_h":23.0,"like":86.12},
+"4263371487":{"name":"Primal Pursuit 🦖 Humans vs Dinosaurs","avg_ccu":634.7,"min_ccu":325,"max_ccu":823,"samples":24,"sess":11.21,"sess_h":23.0,"like":86.12},
 "4263576532":{"name":"Cali Shootout 💥","avg_ccu":679.0,"min_ccu":242,"max_ccu":1581,"samples":24,"sess":11.12,"sess_h":23.0,"like":93.5},
 "4270575893":{"name":"Ladders Obby Hard","avg_ccu":4481.3,"min_ccu":2725,"max_ccu":6375,"samples":23,"sess":8.86,"sess_h":22.0,"like":39.02},
 "4342047058":{"name":"Guts & Blackpowder","avg_ccu":5728.9,"min_ccu":4135,"max_ccu":9048,"samples":24,"sess":17.99,"sess_h":23.0,"like":93.84},
