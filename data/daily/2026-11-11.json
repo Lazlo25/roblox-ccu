@@ -1,4 +1,4 @@
-{"date": "2026-11-11", "timezone": "America/New_York", "generated_utc": "2026-11-12T04:10:00Z", "through_et": "23:10", "platform_now": ["2026-11-12T04:10:00Z", 8227123], "genres": {"Simulation": 38.66, "Survival": 16.756, "Roleplay & Avatar Sim": 11.397, "Action": 7.546, "RPG": 6.575, "Sports & Racing": 4.151, "Shooter": 3.528, "Obby & Platformer": 2.962, "Strategy": 2.933, "Party & Casual": 1.713, "Adventure": 1.29, "Shopping": 0.946, "Other": 0.53, "Social": 0.484, "Puzzle": 0.277, "Entertainment": 0.251}, "genre_hours": 20,"games":{
+{"date": "2026-11-11", "timezone": "America/New_York", "generated_utc": "2026-11-12T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-12T04:10:00Z", 8227123], "genres": {"Simulation": 38.66, "Survival": 16.756, "Roleplay & Avatar Sim": 11.397, "Action": 7.546, "RPG": 6.575, "Sports & Racing": 4.151, "Shooter": 3.528, "Obby & Platformer": 2.962, "Strategy": 2.933, "Party & Casual": 1.713, "Adventure": 1.29, "Shopping": 0.946, "Other": 0.53, "Social": 0.484, "Puzzle": 0.277, "Entertainment": 0.251}, "genre_hours": 20,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2743.3,"min_ccu":1922,"max_ccu":3285,"samples":20,"sess":13.76,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7462.8,"min_ccu":4868,"max_ccu":9744,"samples":20,"sess":9.14,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3016.7,"min_ccu":1617,"max_ccu":4161,"samples":20,"sess":12.62,"sess_h":23.0,"like":93.28},
@@ -258,7 +258,7 @@
 "9167377564":{"name":"100 Days at Sea","avg_ccu":14598.6,"min_ccu":11032,"max_ccu":19690,"samples":20,"sess":15.5,"sess_h":23.0,"like":97.04},
 "9169166771":{"name":"[BrokenScript!] Tiny Universe RP","avg_ccu":1412.2,"min_ccu":637,"max_ccu":2190,"samples":9,"sess":7.85,"sess_h":8.0,"like":79.23},
 "9294074907":{"name":"[FPS] One Tap","avg_ccu":12601.5,"min_ccu":9233,"max_ccu":17393,"samples":20,"sess":8.48,"sess_h":23.0,"like":87.92},
-"9296042754":{"name":"[🐫New Heist!] Riot City 🚨 Prison Escape","avg_ccu":3310.1,"min_ccu":1809,"max_ccu":4884,"samples":20,"sess":11.32,"sess_h":23.0,"like":97.75},
+"9296042754":{"name":"Riot City 🚨 Prison Escape","avg_ccu":3310.1,"min_ccu":1809,"max_ccu":4884,"samples":20,"sess":11.32,"sess_h":23.0,"like":97.75},
 "9296252245":{"name":"[🔥AURA] Phonk Edit Tower 🎶","avg_ccu":5346.8,"min_ccu":3511,"max_ccu":6470,"samples":12,"sess":9.32,"sess_h":15.0,"like":95.19},
 "9363735110":{"name":"[🌊] Escape Tsunami For Brainrots!","avg_ccu":4018.2,"min_ccu":2053,"max_ccu":12512,"samples":20,"sess":12.57,"sess_h":23.0,"like":83.08},
 "9395278151":{"name":"[💥] Troll Ragdoll Tower","avg_ccu":4727.8,"min_ccu":2788,"max_ccu":7281,"samples":20,"sess":14.39,"sess_h":23.0,"like":84.66},
@@ -583,7 +583,7 @@
 "10770466814":{"name":"[MARS] Clean the Moon!","avg_ccu":5953.4,"min_ccu":3692,"max_ccu":8068,"samples":20,"sess":21.86,"sess_h":23.0,"like":94.2},
 "10770504297":{"name":"[⚔️RANKED] Revolver Arena","avg_ccu":3086.7,"min_ccu":2298,"max_ccu":3669,"samples":10,"sess":11.21,"sess_h":9.0,"like":90.22},
 "10770548748":{"name":"SF BIKE [NEW BIKES]","avg_ccu":8985.6,"min_ccu":3875,"max_ccu":14704,"samples":20,"sess":11.52,"sess_h":23.0,"like":91.72},
-"10770566554":{"name":"Get Your Superpowers!","avg_ccu":1421.6,"min_ccu":436,"max_ccu":2129,"samples":20,"sess":12.54,"sess_h":23.0,"like":83.83},
+"10770566554":{"name":"[⚡]  Get Your Superpowers!","avg_ccu":1421.6,"min_ccu":436,"max_ccu":2129,"samples":20,"sess":12.54,"sess_h":23.0,"like":83.83},
 "10770566869":{"name":"⚽ Be a Soccer Legend","avg_ccu":16905.0,"min_ccu":7462,"max_ccu":24189,"samples":20,"sess":14.42,"sess_h":23.0,"like":95.84},
 "10770575733":{"name":"Ragdoll Physics 🩸","avg_ccu":31419.2,"min_ccu":18705,"max_ccu":40319,"samples":20,"sess":11.82,"sess_h":23.0,"like":89.89},
 "10770582427":{"name":"SLED SURFERS [WORLD 5🌙]","avg_ccu":1367.0,"min_ccu":636,"max_ccu":2110,"samples":20,"sess":10.9,"sess_h":23.0,"like":83.15},
