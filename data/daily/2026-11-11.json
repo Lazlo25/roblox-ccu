@@ -1,4 +1,4 @@
-{"date": "2026-11-11", "timezone": "America/New_York", "generated_utc": "2026-11-12T15:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-12T04:10:00Z", 8227123], "genres": {"Simulation": 38.66, "Survival": 16.756, "Roleplay & Avatar Sim": 11.397, "Action": 7.546, "RPG": 6.575, "Sports & Racing": 4.151, "Shooter": 3.528, "Obby & Platformer": 2.962, "Strategy": 2.933, "Party & Casual": 1.713, "Adventure": 1.29, "Shopping": 0.946, "Other": 0.53, "Social": 0.484, "Puzzle": 0.277, "Entertainment": 0.251}, "genre_hours": 20,"games":{
+{"date": "2026-11-11", "timezone": "America/New_York", "generated_utc": "2026-11-12T16:10:01Z", "through_et": "24:00", "platform_now": ["2026-11-12T04:10:00Z", 8227123], "genres": {"Simulation": 38.66, "Survival": 16.756, "Roleplay & Avatar Sim": 11.397, "Action": 7.546, "RPG": 6.575, "Sports & Racing": 4.151, "Shooter": 3.528, "Obby & Platformer": 2.962, "Strategy": 2.933, "Party & Casual": 1.713, "Adventure": 1.29, "Shopping": 0.946, "Other": 0.53, "Social": 0.484, "Puzzle": 0.277, "Entertainment": 0.251}, "genre_hours": 20,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2743.3,"min_ccu":1922,"max_ccu":3285,"samples":20,"sess":13.76,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7462.8,"min_ccu":4868,"max_ccu":9744,"samples":20,"sess":9.14,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3016.7,"min_ccu":1617,"max_ccu":4161,"samples":20,"sess":12.62,"sess_h":23.0,"like":93.28},
@@ -263,7 +263,7 @@
 "9363735110":{"name":"[🌊] Escape Tsunami For Brainrots!","avg_ccu":4018.2,"min_ccu":2053,"max_ccu":12512,"samples":20,"sess":12.57,"sess_h":23.0,"like":83.08},
 "9395278151":{"name":"[💥] Troll Ragdoll Tower","avg_ccu":4727.8,"min_ccu":2788,"max_ccu":7281,"samples":20,"sess":14.39,"sess_h":23.0,"like":84.66},
 "9442472087":{"name":"WARDEN 🐲 Sonaria Horror Escape","avg_ccu":808.0,"min_ccu":587,"max_ccu":994,"samples":20,"sess":23.22,"sess_h":23.0,"like":92.1},
-"9491545867":{"name":"[🎣SOON] Break a Brainrot Egg!","avg_ccu":4452.3,"min_ccu":3212,"max_ccu":6412,"samples":20,"sess":12.87,"sess_h":23.0,"like":81.89},
+"9491545867":{"name":"[🎣FISHING] Break a Brainrot Egg!","avg_ccu":4452.3,"min_ccu":3212,"max_ccu":6412,"samples":20,"sess":12.87,"sess_h":23.0,"like":81.89},
 "9534705677":{"name":"[🔥UPD] Sniper Arena","avg_ccu":9417.3,"min_ccu":6423,"max_ccu":12335,"samples":20,"sess":11.39,"sess_h":23.0,"like":91.77},
 "9551044479":{"name":"[💎CAVERN] Final Swarm","avg_ccu":787.8,"min_ccu":636,"max_ccu":898,"samples":20,"sess":14.96,"sess_h":23.0,"like":97.0},
 "9561553764":{"name":"Murder Duels","avg_ccu":5972.1,"min_ccu":4355,"max_ccu":7515,"samples":20,"sess":8.4,"sess_h":23.0,"like":93.08},
@@ -604,7 +604,7 @@
 "10770800769":{"name":"Fart Together","avg_ccu":1465.5,"min_ccu":974,"max_ccu":2103,"samples":20,"sess":6.7,"sess_h":23.0,"like":92.09},
 "10770805659":{"name":"[⚡UPD] College Life 🧑‍🎓 RP","avg_ccu":1098.8,"min_ccu":474,"max_ccu":1541,"samples":20,"sess":13.76,"sess_h":23.0,"like":85.17},
 "10770806914":{"name":"Escape The Jungle","avg_ccu":2171.7,"min_ccu":1147,"max_ccu":2975,"samples":20,"sess":11.75,"sess_h":23.0,"like":87.29},
-"10770879065":{"name":"It Hears The Water [DONT SPLASH]","avg_ccu":331.7,"min_ccu":199,"max_ccu":508,"samples":20,"sess":4.18,"sess_h":23.0,"like":81.48},
+"10770879065":{"name":"It Hears The Water 💧","avg_ccu":331.7,"min_ccu":199,"max_ccu":508,"samples":20,"sess":4.18,"sess_h":23.0,"like":81.48},
 "10770881168":{"name":"Smash Ball [NEW]","avg_ccu":567.5,"min_ccu":480,"max_ccu":655,"samples":2,"like":71.58},
 "10770915307":{"name":"[🧠] Ball Knowledge","avg_ccu":2704.8,"min_ccu":889,"max_ccu":4309,"samples":20,"sess":16.81,"sess_h":23.0,"like":66.29},
 "10770932189":{"name":"[UPDATE] Barber Simulator","avg_ccu":9484.3,"min_ccu":2265,"max_ccu":16540,"samples":20,"sess":13.63,"sess_h":23.0,"like":88.09},
