@@ -1,4 +1,4 @@
-{"date": "2026-11-11", "timezone": "America/New_York", "generated_utc": "2026-11-12T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-12T04:10:00Z", 8227123], "genres": {"Simulation": 38.66, "Survival": 16.756, "Roleplay & Avatar Sim": 11.397, "Action": 7.546, "RPG": 6.575, "Sports & Racing": 4.151, "Shooter": 3.528, "Obby & Platformer": 2.962, "Strategy": 2.933, "Party & Casual": 1.713, "Adventure": 1.29, "Shopping": 0.946, "Other": 0.53, "Social": 0.484, "Puzzle": 0.277, "Entertainment": 0.251}, "genre_hours": 20,"games":{
+{"date": "2026-11-11", "timezone": "America/New_York", "generated_utc": "2026-11-12T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-12T04:10:00Z", 8227123], "genres": {"Simulation": 38.66, "Survival": 16.756, "Roleplay & Avatar Sim": 11.397, "Action": 7.546, "RPG": 6.575, "Sports & Racing": 4.151, "Shooter": 3.528, "Obby & Platformer": 2.962, "Strategy": 2.933, "Party & Casual": 1.713, "Adventure": 1.29, "Shopping": 0.946, "Other": 0.53, "Social": 0.484, "Puzzle": 0.277, "Entertainment": 0.251}, "genre_hours": 20,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2743.3,"min_ccu":1922,"max_ccu":3285,"samples":20,"sess":13.76,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7462.8,"min_ccu":4868,"max_ccu":9744,"samples":20,"sess":9.14,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3016.7,"min_ccu":1617,"max_ccu":4161,"samples":20,"sess":12.62,"sess_h":23.0,"like":93.28},
@@ -459,8 +459,8 @@
 "10767808614":{"name":"Ride An Egg","avg_ccu":7418.1,"min_ccu":4538,"max_ccu":18261,"samples":20,"sess":17.72,"sess_h":23.0,"like":97.82},
 "10767814136":{"name":"Ride a Dragon","avg_ccu":2335.1,"min_ccu":1754,"max_ccu":3183,"samples":20,"sess":14.81,"sess_h":23.0,"like":86.34},
 "10767824942":{"name":"+1 Assassin Leveling","avg_ccu":5704.4,"min_ccu":4374,"max_ccu":7463,"samples":20,"sess":24.56,"sess_h":23.0,"like":95.82},
-"10767826343":{"name":"[⚡] Zombie Air Force ✈️","avg_ccu":1128.4,"min_ccu":906,"max_ccu":1283,"samples":20,"sess":20.55,"sess_h":23.0,"like":88.37},
-"10767876753":{"name":"Martial Arts World [🎃HALLOWEEN]","avg_ccu":779.1,"min_ccu":692,"max_ccu":918,"samples":20,"sess":20.04,"sess_h":23.0,"like":95.97},
+"10767826343":{"name":"Zombie Air Force ✈️","avg_ccu":1128.4,"min_ccu":906,"max_ccu":1283,"samples":20,"sess":20.55,"sess_h":23.0,"like":88.37},
+"10767876753":{"name":"Martial Arts World [🎃Admin Abuse SOON]","avg_ccu":779.1,"min_ccu":692,"max_ccu":918,"samples":20,"sess":20.04,"sess_h":23.0,"like":95.97},
 "10767928510":{"name":"Pixel Lineage [Dawn Update]","avg_ccu":894.6,"min_ccu":715,"max_ccu":1052,"samples":20,"sess":6.78,"sess_h":23.0,"like":98.73},
 "10767946926":{"name":"HUSH: They can hear. (BETA)","avg_ccu":1821.4,"min_ccu":1118,"max_ccu":2497,"samples":20,"sess":18.73,"sess_h":23.0,"like":78.93},
 "10767956398":{"name":"+1 Destruction Battlegrounds [Superhero]","avg_ccu":3629.7,"min_ccu":2374,"max_ccu":4505,"samples":20,"sess":14.28,"sess_h":23.0,"like":98.16},
