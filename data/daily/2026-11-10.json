@@ -1,4 +1,4 @@
-{"date": "2026-11-10", "timezone": "America/New_York", "generated_utc": "2026-11-12T00:10:01Z", "through_et": "24:00", "platform_now": ["2026-11-11T04:10:00Z", 8847592], "genres": {"Simulation": 39.84, "Survival": 17.61, "Roleplay & Avatar Sim": 10.603, "Action": 6.848, "RPG": 6.686, "Sports & Racing": 3.597, "Shooter": 3.473, "Strategy": 3.072, "Obby & Platformer": 2.991, "Party & Casual": 1.59, "Adventure": 1.352, "Shopping": 0.885, "Other": 0.61, "Social": 0.4, "Puzzle": 0.259, "Entertainment": 0.185}, "genre_hours": 24,"games":{
+{"date": "2026-11-10", "timezone": "America/New_York", "generated_utc": "2026-11-12T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-11T04:10:00Z", 8847592], "genres": {"Simulation": 39.84, "Survival": 17.61, "Roleplay & Avatar Sim": 10.603, "Action": 6.848, "RPG": 6.686, "Sports & Racing": 3.597, "Shooter": 3.473, "Strategy": 3.072, "Obby & Platformer": 2.991, "Party & Casual": 1.59, "Adventure": 1.352, "Shopping": 0.885, "Other": 0.61, "Social": 0.4, "Puzzle": 0.259, "Entertainment": 0.185}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2257.8,"min_ccu":1504,"max_ccu":2772,"samples":24,"sess":13.08,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6692.1,"min_ccu":4171,"max_ccu":9546,"samples":24,"sess":8.87,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2590.1,"min_ccu":1622,"max_ccu":3570,"samples":24,"sess":12.09,"sess_h":23.0,"like":93.28},
@@ -173,7 +173,7 @@
 "6443367640":{"name":"Gym Star Simulator 💪","avg_ccu":4589.9,"min_ccu":3609,"max_ccu":6101,"samples":24,"sess":14.67,"sess_h":23.0,"like":92.44},
 "6466404775":{"name":"[🐲] MOUNT RNG","avg_ccu":1563.1,"min_ccu":1490,"max_ccu":1641,"samples":24,"sess":25.36,"sess_h":23.0,"like":95.49},
 "6504986360":{"name":"[❄️] Bubble Gum Simulator INFINITY","avg_ccu":7934.2,"min_ccu":7271,"max_ccu":8395,"samples":24,"sess":30.18,"sess_h":23.0,"like":96.78},
-"6505338302":{"name":"[🎃] 🏈Football Legends🏈","avg_ccu":1298.7,"min_ccu":110,"max_ccu":4403,"samples":24,"sess":17.01,"sess_h":23.0,"like":87.01},
+"6505338302":{"name":"[UPD] 🏈Football Legends🏈","avg_ccu":1298.7,"min_ccu":110,"max_ccu":4403,"samples":24,"sess":17.01,"sess_h":23.0,"like":87.01},
 "6521100398":{"name":"Dreamville 🏡 RP [Pets! 😺]","avg_ccu":9498.9,"min_ccu":4764,"max_ccu":14390,"samples":24,"sess":17.02,"sess_h":23.0,"like":94.75},
 "6593476325":{"name":"[JASON COUNTER] DUMMY COUNTER YOUR FRIENDS","avg_ccu":1247.5,"min_ccu":893,"max_ccu":1593,"samples":24,"sess":9.52,"sess_h":23.0,"like":90.74},
 "6676099788":{"name":"[HALLOWEEN] Marvel Omega","avg_ccu":485.2,"min_ccu":263,"max_ccu":702,"samples":24,"sess":11.47,"sess_h":23.0,"like":90.81},
@@ -359,7 +359,7 @@
 "10624691669":{"name":"MONOCHROME👁️","avg_ccu":1861.8,"min_ccu":1060,"max_ccu":2421,"samples":24,"sess":3.38,"sess_h":23.0,"like":84.74},
 "10629695169":{"name":"[🌎2] Tap Simulator REBORN","avg_ccu":34940.6,"min_ccu":31674,"max_ccu":38026,"samples":24,"sess":35.31,"sess_h":23.0,"like":93.64},
 "10634461028":{"name":"Drive A Kukirin!","avg_ccu":2297.0,"min_ccu":275,"max_ccu":5559,"samples":24,"sess":8.56,"sess_h":23.0,"like":89.32},
-"10638886777":{"name":"[⏳ 1H] 🧈 Stack A Butter Squishy [ASMR]","avg_ccu":9571.7,"min_ccu":6970,"max_ccu":11088,"samples":24,"sess":12.08,"sess_h":23.0,"like":88.42},
+"10638886777":{"name":"[🔴 LIVE] 🧈 Stack A Butter Squishy [ASMR]","avg_ccu":9571.7,"min_ccu":6970,"max_ccu":11088,"samples":24,"sess":12.08,"sess_h":23.0,"like":88.42},
 "10643795368":{"name":"Idle Mafia Game","avg_ccu":2981.9,"min_ccu":2768,"max_ccu":3224,"samples":24,"sess":29.46,"sess_h":23.0,"like":87.78},
 "10648555380":{"name":"[🤑WORKS] Donation Central 💸","avg_ccu":167.4,"min_ccu":131,"max_ccu":227,"samples":13,"sess":7.37,"sess_h":12.0,"like":94.22},
 "10648640958":{"name":"[🏆] Hood Rivals","avg_ccu":925.8,"min_ccu":396,"max_ccu":1842,"samples":24,"sess":5.99,"sess_h":23.0,"like":90.3},
