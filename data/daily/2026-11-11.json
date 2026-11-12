@@ -1,4 +1,4 @@
-{"date": "2026-11-11", "timezone": "America/New_York", "generated_utc": "2026-11-12T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-12T04:10:00Z", 8227123], "genres": {"Simulation": 38.66, "Survival": 16.756, "Roleplay & Avatar Sim": 11.397, "Action": 7.546, "RPG": 6.575, "Sports & Racing": 4.151, "Shooter": 3.528, "Obby & Platformer": 2.962, "Strategy": 2.933, "Party & Casual": 1.713, "Adventure": 1.29, "Shopping": 0.946, "Other": 0.53, "Social": 0.484, "Puzzle": 0.277, "Entertainment": 0.251}, "genre_hours": 20,"games":{
+{"date": "2026-11-11", "timezone": "America/New_York", "generated_utc": "2026-11-12T14:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-12T04:10:00Z", 8227123], "genres": {"Simulation": 38.66, "Survival": 16.756, "Roleplay & Avatar Sim": 11.397, "Action": 7.546, "RPG": 6.575, "Sports & Racing": 4.151, "Shooter": 3.528, "Obby & Platformer": 2.962, "Strategy": 2.933, "Party & Casual": 1.713, "Adventure": 1.29, "Shopping": 0.946, "Other": 0.53, "Social": 0.484, "Puzzle": 0.277, "Entertainment": 0.251}, "genre_hours": 20,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2743.3,"min_ccu":1922,"max_ccu":3285,"samples":20,"sess":13.76,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7462.8,"min_ccu":4868,"max_ccu":9744,"samples":20,"sess":9.14,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3016.7,"min_ccu":1617,"max_ccu":4161,"samples":20,"sess":12.62,"sess_h":23.0,"like":93.28},
@@ -632,7 +632,7 @@
 "10771406194":{"name":"Flying Tesla Roadster [Military Escape Event]","avg_ccu":6887.1,"min_ccu":3058,"max_ccu":11534,"samples":20,"sess":10.06,"sess_h":23.0,"like":63.53},
 "10771410956":{"name":"[ UPD ] Realistic Ragdoll Playground 💥","avg_ccu":3270.2,"min_ccu":1585,"max_ccu":4191,"samples":20,"sess":10.46,"sess_h":23.0,"like":73.7},
 "10771421858":{"name":"DONT SPLASH","avg_ccu":53853.8,"min_ccu":37348,"max_ccu":67120,"samples":20,"sess":7.47,"sess_h":23.0,"like":86.38},
-"10771440209":{"name":"[MINI UPDATE & MODIFFICATION] Onthel Purwodadi","avg_ccu":6153.4,"min_ccu":222,"max_ccu":19410,"samples":20,"sess":6.74,"sess_h":23.0,"like":90.44},
+"10771440209":{"name":"[MINI UPDATE 2 & EXPANDED MAP] Onthel Purwodadi","avg_ccu":6153.4,"min_ccu":222,"max_ccu":19410,"samples":20,"sess":6.74,"sess_h":23.0,"like":90.44},
 "10771507608":{"name":"🧸 My Small Business","avg_ccu":9589.8,"min_ccu":5828,"max_ccu":12518,"samples":20,"sess":16.88,"sess_h":23.0,"like":95.72},
 "10771514327":{"name":"Bobby's Daycare [HORROR]","avg_ccu":4080.3,"min_ccu":1405,"max_ccu":5837,"samples":18,"sess":12.68,"sess_h":17.0,"like":88.38},
 "10771520659":{"name":"[BETA] BONK! Ragdoll Boxing 🥊","avg_ccu":3011.2,"min_ccu":2132,"max_ccu":3978,"samples":20,"sess":4.31,"sess_h":23.0,"like":90.5},
