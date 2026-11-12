@@ -1,4 +1,4 @@
-{"date": "2026-11-11", "timezone": "America/New_York", "generated_utc": "2026-11-12T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-12T04:10:00Z", 8227123], "genres": {"Simulation": 38.66, "Survival": 16.756, "Roleplay & Avatar Sim": 11.397, "Action": 7.546, "RPG": 6.575, "Sports & Racing": 4.151, "Shooter": 3.528, "Obby & Platformer": 2.962, "Strategy": 2.933, "Party & Casual": 1.713, "Adventure": 1.29, "Shopping": 0.946, "Other": 0.53, "Social": 0.484, "Puzzle": 0.277, "Entertainment": 0.251}, "genre_hours": 20,"games":{
+{"date": "2026-11-11", "timezone": "America/New_York", "generated_utc": "2026-11-12T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-12T04:10:00Z", 8227123], "genres": {"Simulation": 38.66, "Survival": 16.756, "Roleplay & Avatar Sim": 11.397, "Action": 7.546, "RPG": 6.575, "Sports & Racing": 4.151, "Shooter": 3.528, "Obby & Platformer": 2.962, "Strategy": 2.933, "Party & Casual": 1.713, "Adventure": 1.29, "Shopping": 0.946, "Other": 0.53, "Social": 0.484, "Puzzle": 0.277, "Entertainment": 0.251}, "genre_hours": 20,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2743.3,"min_ccu":1922,"max_ccu":3285,"samples":20,"sess":13.76,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7462.8,"min_ccu":4868,"max_ccu":9744,"samples":20,"sess":9.14,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3016.7,"min_ccu":1617,"max_ccu":4161,"samples":20,"sess":12.62,"sess_h":23.0,"like":93.28},
@@ -320,7 +320,7 @@
 "10289650937":{"name":"🔥 Anime Piece - Update 1","avg_ccu":997.2,"min_ccu":481,"max_ccu":1331,"samples":20,"sess":23.84,"sess_h":23.0,"like":96.48},
 "10291735332":{"name":"Moped Drag [BIG UPDATE  🏍️]","avg_ccu":3488.9,"min_ccu":615,"max_ccu":8462,"samples":20,"sess":10.87,"sess_h":23.0,"like":96.48},
 "10321202755":{"name":"[🔥UPDATE 13] Anime Fighting Simulator","avg_ccu":3339.7,"min_ccu":3122,"max_ccu":3538,"samples":20,"sess":57.82,"sess_h":23.0,"like":98.24},
-"10323282681":{"name":"[🍁] Roburbia [CAR SEATS!]","avg_ccu":6609.9,"min_ccu":3055,"max_ccu":8731,"samples":20,"sess":20.49,"sess_h":23.0,"like":84.89},
+"10323282681":{"name":"[🍁] Roburbia","avg_ccu":6609.9,"min_ccu":3055,"max_ccu":8731,"samples":20,"sess":20.49,"sess_h":23.0,"like":84.89},
 "10334932478":{"name":"Climb Keyboard Dumpling Tower 🥟 Cute Squishy ASMR","avg_ccu":3240.1,"min_ccu":1982,"max_ccu":4106,"samples":20,"sess":11.39,"sess_h":23.0,"like":74.03},
 "10338952197":{"name":"[💎GEMS] Grow a Chicken Fighter","avg_ccu":1454.2,"min_ccu":1092,"max_ccu":1870,"samples":20,"sess":22.19,"sess_h":23.0,"like":97.74},
 "10352185757":{"name":"Experience Abstraction","avg_ccu":3618.2,"min_ccu":2067,"max_ccu":4593,"samples":20,"sess":13.04,"sess_h":23.0,"like":91.27},
@@ -724,7 +724,7 @@
 "10773646082":{"name":"Don't splash Prilili [🌿 World 2]","avg_ccu":1905.6,"min_ccu":785,"max_ccu":2728,"samples":20,"sess":8.4,"sess_h":23.0,"like":45.04},
 "10773680236":{"name":"[BAB 2] MALAM SAMA ATOK","avg_ccu":980.5,"min_ccu":84,"max_ccu":2842,"samples":20,"sess":6.26,"sess_h":23.0,"like":56.31},
 "10773738399":{"name":"Be a Cleaning Robot","avg_ccu":3159.5,"min_ccu":1689,"max_ccu":5048,"samples":8,"sess":13.66,"sess_h":7.0,"like":83.54},
-"10773775450":{"name":"Malam Sama Kembar","avg_ccu":926.1,"min_ccu":31,"max_ccu":3013,"samples":20,"sess":7.15,"sess_h":23.0,"like":79.8},
+"10773775450":{"name":"[UPD] Malam Sama Kembar","avg_ccu":926.1,"min_ccu":31,"max_ccu":3013,"samples":20,"sess":7.15,"sess_h":23.0,"like":79.8},
 "10773912080":{"name":"The Ditch Hotel [HUGE UPDATE!]","avg_ccu":5657.1,"min_ccu":2017,"max_ccu":8991,"samples":20,"sess":4.6,"sess_h":23.0,"like":90.66},
 "10773926254":{"name":"Bloody Ragdoll Physics 🩸","avg_ccu":29619.2,"min_ccu":15765,"max_ccu":38401,"samples":20,"sess":13.0,"sess_h":23.0,"like":85.25},
 "10774051088":{"name":"Pumpkin Playground","avg_ccu":5454.7,"min_ccu":3735,"max_ccu":7016,"samples":9,"sess":11.06,"sess_h":8.0,"like":71.0},
