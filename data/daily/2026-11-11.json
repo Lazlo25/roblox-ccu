@@ -1,4 +1,4 @@
-{"date": "2026-11-11", "timezone": "America/New_York", "generated_utc": "2026-11-12T14:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-12T04:10:00Z", 8227123], "genres": {"Simulation": 38.66, "Survival": 16.756, "Roleplay & Avatar Sim": 11.397, "Action": 7.546, "RPG": 6.575, "Sports & Racing": 4.151, "Shooter": 3.528, "Obby & Platformer": 2.962, "Strategy": 2.933, "Party & Casual": 1.713, "Adventure": 1.29, "Shopping": 0.946, "Other": 0.53, "Social": 0.484, "Puzzle": 0.277, "Entertainment": 0.251}, "genre_hours": 20,"games":{
+{"date": "2026-11-11", "timezone": "America/New_York", "generated_utc": "2026-11-12T15:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-12T04:10:00Z", 8227123], "genres": {"Simulation": 38.66, "Survival": 16.756, "Roleplay & Avatar Sim": 11.397, "Action": 7.546, "RPG": 6.575, "Sports & Racing": 4.151, "Shooter": 3.528, "Obby & Platformer": 2.962, "Strategy": 2.933, "Party & Casual": 1.713, "Adventure": 1.29, "Shopping": 0.946, "Other": 0.53, "Social": 0.484, "Puzzle": 0.277, "Entertainment": 0.251}, "genre_hours": 20,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2743.3,"min_ccu":1922,"max_ccu":3285,"samples":20,"sess":13.76,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7462.8,"min_ccu":4868,"max_ccu":9744,"samples":20,"sess":9.14,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3016.7,"min_ccu":1617,"max_ccu":4161,"samples":20,"sess":12.62,"sess_h":23.0,"like":93.28},
@@ -119,7 +119,7 @@
 "4270575893":{"name":"Ladders Obby Hard","avg_ccu":4219.1,"min_ccu":2851,"max_ccu":5729,"samples":20,"sess":9.15,"sess_h":23.0,"like":39.03},
 "4342047058":{"name":"Guts & Blackpowder","avg_ccu":6791.8,"min_ccu":4742,"max_ccu":9760,"samples":20,"sess":16.96,"sess_h":23.0,"like":93.84},
 "4348829796":{"name":"MVSD | Murderers VS Sheriffs Duels","avg_ccu":7933.5,"min_ccu":5020,"max_ccu":10322,"samples":20,"sess":9.88,"sess_h":23.0,"like":84.4},
-"4420562665":{"name":"[UPD] Ride Storm","avg_ccu":8034.5,"min_ccu":6963,"max_ccu":9678,"samples":20,"sess":13.34,"sess_h":23.0,"like":91.66},
+"4420562665":{"name":"Ride Storm","avg_ccu":8034.5,"min_ccu":6963,"max_ccu":9678,"samples":20,"sess":13.34,"sess_h":23.0,"like":91.66},
 "4457060041":{"name":"Emergency Emden","avg_ccu":969.1,"min_ccu":116,"max_ccu":2020,"samples":20,"sess":12.95,"sess_h":23.0,"like":87.47},
 "4497460596":{"name":"MORPH WORLD! ⚔️ [NEW START UPDATE]","avg_ccu":579.0,"min_ccu":313,"max_ccu":737,"samples":20,"sess":13.63,"sess_h":23.0,"like":86.2},
 "4540138978":{"name":"Metro Life 🏡 City RP","avg_ccu":6405.4,"min_ccu":4201,"max_ccu":9927,"samples":20,"sess":14.78,"sess_h":23.0,"like":86.76},
@@ -304,7 +304,7 @@
 "10144587520":{"name":"[UPD📖] Anime Card Farm","avg_ccu":3102.8,"min_ccu":2013,"max_ccu":9966,"samples":20,"sess":25.44,"sess_h":23.0,"like":97.34},
 "10148749921":{"name":"Animal Hospital (Anomaly) 🧪","avg_ccu":12018.1,"min_ccu":7762,"max_ccu":15917,"samples":20,"sess":11.71,"sess_h":23.0,"like":92.83},
 "10155360168":{"name":"[GAMEMODES!] Illegal Soccer","avg_ccu":37134.9,"min_ccu":23421,"max_ccu":47866,"samples":20,"sess":12.47,"sess_h":23.0,"like":86.62},
-"10173311467":{"name":"[LIMITED] Ghost Driver","avg_ccu":5393.1,"min_ccu":3723,"max_ccu":6671,"samples":20,"sess":12.25,"sess_h":23.0,"like":97.35},
+"10173311467":{"name":"Ghost Driver","avg_ccu":5393.1,"min_ccu":3723,"max_ccu":6671,"samples":20,"sess":12.25,"sess_h":23.0,"like":97.35},
 "10195997258":{"name":"Pull a Lucky Fish","avg_ccu":3535.9,"min_ccu":2848,"max_ccu":4012,"samples":20,"sess":23.95,"sess_h":23.0,"like":95.12},
 "10209534490":{"name":"Chicken Farm 🐣","avg_ccu":2244.8,"min_ccu":1441,"max_ccu":6891,"samples":20,"sess":15.1,"sess_h":23.0,"like":98.94},
 "10222476236":{"name":"🎃 Catalog Avatar Runway","avg_ccu":16197.5,"min_ccu":10925,"max_ccu":19920,"samples":20,"sess":19.04,"sess_h":23.0,"like":92.09},
