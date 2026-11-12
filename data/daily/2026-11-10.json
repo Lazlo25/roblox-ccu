@@ -1,4 +1,4 @@
-{"date": "2026-11-10", "timezone": "America/New_York", "generated_utc": "2026-11-12T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-11T04:10:00Z", 8847592], "genres": {"Simulation": 39.84, "Survival": 17.61, "Roleplay & Avatar Sim": 10.603, "Action": 6.848, "RPG": 6.686, "Sports & Racing": 3.597, "Shooter": 3.473, "Strategy": 3.072, "Obby & Platformer": 2.991, "Party & Casual": 1.59, "Adventure": 1.352, "Shopping": 0.885, "Other": 0.61, "Social": 0.4, "Puzzle": 0.259, "Entertainment": 0.185}, "genre_hours": 24,"games":{
+{"date": "2026-11-10", "timezone": "America/New_York", "generated_utc": "2026-11-12T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-11T04:10:00Z", 8847592], "genres": {"Simulation": 39.84, "Survival": 17.61, "Roleplay & Avatar Sim": 10.603, "Action": 6.848, "RPG": 6.686, "Sports & Racing": 3.597, "Shooter": 3.473, "Strategy": 3.072, "Obby & Platformer": 2.991, "Party & Casual": 1.59, "Adventure": 1.352, "Shopping": 0.885, "Other": 0.61, "Social": 0.4, "Puzzle": 0.259, "Entertainment": 0.185}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2257.8,"min_ccu":1504,"max_ccu":2772,"samples":24,"sess":13.08,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6692.1,"min_ccu":4171,"max_ccu":9546,"samples":24,"sess":8.87,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2590.1,"min_ccu":1622,"max_ccu":3570,"samples":24,"sess":12.09,"sess_h":23.0,"like":93.28},
@@ -359,7 +359,7 @@
 "10624691669":{"name":"MONOCHROME👁️","avg_ccu":1861.8,"min_ccu":1060,"max_ccu":2421,"samples":24,"sess":3.38,"sess_h":23.0,"like":84.74},
 "10629695169":{"name":"[🌎2] Tap Simulator REBORN","avg_ccu":34940.6,"min_ccu":31674,"max_ccu":38026,"samples":24,"sess":35.31,"sess_h":23.0,"like":93.64},
 "10634461028":{"name":"Drive A Kukirin!","avg_ccu":2297.0,"min_ccu":275,"max_ccu":5559,"samples":24,"sess":8.56,"sess_h":23.0,"like":89.32},
-"10638886777":{"name":"[🔴 LIVE] 🧈 Stack A Butter Squishy [ASMR]","avg_ccu":9571.7,"min_ccu":6970,"max_ccu":11088,"samples":24,"sess":12.08,"sess_h":23.0,"like":88.42},
+"10638886777":{"name":"[🎃] 🧈 Stack A Butter Squishy [ASMR]","avg_ccu":9571.7,"min_ccu":6970,"max_ccu":11088,"samples":24,"sess":12.08,"sess_h":23.0,"like":88.42},
 "10643795368":{"name":"Idle Mafia Game","avg_ccu":2981.9,"min_ccu":2768,"max_ccu":3224,"samples":24,"sess":29.46,"sess_h":23.0,"like":87.78},
 "10648555380":{"name":"[🤑WORKS] Donation Central 💸","avg_ccu":167.4,"min_ccu":131,"max_ccu":227,"samples":13,"sess":7.37,"sess_h":12.0,"like":94.22},
 "10648640958":{"name":"[🏆] Hood Rivals","avg_ccu":925.8,"min_ccu":396,"max_ccu":1842,"samples":24,"sess":5.99,"sess_h":23.0,"like":90.3},
@@ -568,7 +568,7 @@
 "10769917361":{"name":"Deliver My Baby!👶","avg_ccu":919.8,"min_ccu":667,"max_ccu":1145,"samples":24,"sess":8.82,"sess_h":23.0,"like":77.66},
 "10769925758":{"name":"NexRide [UPDATE🎃]","avg_ccu":1018.7,"min_ccu":432,"max_ccu":1599,"samples":24,"sess":8.33,"sess_h":23.0,"like":87.61},
 "10769941703":{"name":"13 Days to Escape [ALPHA]","avg_ccu":15046.4,"min_ccu":6684,"max_ccu":23532,"samples":24,"sess":11.2,"sess_h":23.0,"like":78.82},
-"10769957062":{"name":"Bug Evolution [🦟]","avg_ccu":12137.4,"min_ccu":8952,"max_ccu":15603,"samples":24,"sess":13.48,"sess_h":23.0,"like":82.91},
+"10769957062":{"name":"Bug Evolution [☀️]","avg_ccu":12137.4,"min_ccu":8952,"max_ccu":15603,"samples":24,"sess":13.48,"sess_h":23.0,"like":82.91},
 "10769965862":{"name":"[🎃] Find Animal Bones","avg_ccu":1160.5,"min_ccu":700,"max_ccu":1622,"samples":24,"sess":13.87,"sess_h":23.0,"like":90.28},
 "10769969117":{"name":"Low Range: Offroad 4x4 [EARLY ACCESS]","avg_ccu":10496.7,"min_ccu":6668,"max_ccu":16067,"samples":24,"sess":14.36,"sess_h":23.0,"like":94.76},
 "10769969724":{"name":"[Update] Shibuya [Beta]","avg_ccu":2296.1,"min_ccu":1235,"max_ccu":3786,"samples":24,"sess":5.71,"sess_h":23.0,"like":86.67},
