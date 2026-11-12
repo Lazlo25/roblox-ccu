@@ -1,4 +1,4 @@
-{"date": "2026-11-11", "timezone": "America/New_York", "generated_utc": "2026-11-12T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-12T04:10:00Z", 8227123], "genres": {"Simulation": 38.66, "Survival": 16.756, "Roleplay & Avatar Sim": 11.397, "Action": 7.546, "RPG": 6.575, "Sports & Racing": 4.151, "Shooter": 3.528, "Obby & Platformer": 2.962, "Strategy": 2.933, "Party & Casual": 1.713, "Adventure": 1.29, "Shopping": 0.946, "Other": 0.53, "Social": 0.484, "Puzzle": 0.277, "Entertainment": 0.251}, "genre_hours": 20,"games":{
+{"date": "2026-11-11", "timezone": "America/New_York", "generated_utc": "2026-11-12T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-12T04:10:00Z", 8227123], "genres": {"Simulation": 38.66, "Survival": 16.756, "Roleplay & Avatar Sim": 11.397, "Action": 7.546, "RPG": 6.575, "Sports & Racing": 4.151, "Shooter": 3.528, "Obby & Platformer": 2.962, "Strategy": 2.933, "Party & Casual": 1.713, "Adventure": 1.29, "Shopping": 0.946, "Other": 0.53, "Social": 0.484, "Puzzle": 0.277, "Entertainment": 0.251}, "genre_hours": 20,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2743.3,"min_ccu":1922,"max_ccu":3285,"samples":20,"sess":13.76,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7462.8,"min_ccu":4868,"max_ccu":9744,"samples":20,"sess":9.14,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3016.7,"min_ccu":1617,"max_ccu":4161,"samples":20,"sess":12.62,"sess_h":23.0,"like":93.28},
@@ -263,7 +263,7 @@
 "9363735110":{"name":"[🌊] Escape Tsunami For Brainrots!","avg_ccu":4018.2,"min_ccu":2053,"max_ccu":12512,"samples":20,"sess":12.57,"sess_h":23.0,"like":83.08},
 "9395278151":{"name":"[💥] Troll Ragdoll Tower","avg_ccu":4727.8,"min_ccu":2788,"max_ccu":7281,"samples":20,"sess":14.39,"sess_h":23.0,"like":84.66},
 "9442472087":{"name":"WARDEN 🐲 Sonaria Horror Escape","avg_ccu":808.0,"min_ccu":587,"max_ccu":994,"samples":20,"sess":23.22,"sess_h":23.0,"like":92.1},
-"9491545867":{"name":"[🎣FISHING] Break a Brainrot Egg!","avg_ccu":4452.3,"min_ccu":3212,"max_ccu":6412,"samples":20,"sess":12.87,"sess_h":23.0,"like":81.89},
+"9491545867":{"name":"[🎣SOON] Break a Brainrot Egg!","avg_ccu":4452.3,"min_ccu":3212,"max_ccu":6412,"samples":20,"sess":12.87,"sess_h":23.0,"like":81.89},
 "9534705677":{"name":"[🔥UPD] Sniper Arena","avg_ccu":9417.3,"min_ccu":6423,"max_ccu":12335,"samples":20,"sess":11.39,"sess_h":23.0,"like":91.77},
 "9551044479":{"name":"[💎CAVERN] Final Swarm","avg_ccu":787.8,"min_ccu":636,"max_ccu":898,"samples":20,"sess":14.96,"sess_h":23.0,"like":97.0},
 "9561553764":{"name":"Murder Duels","avg_ccu":5972.1,"min_ccu":4355,"max_ccu":7515,"samples":20,"sess":8.4,"sess_h":23.0,"like":93.08},
@@ -291,7 +291,7 @@
 "9979684281":{"name":"🔧 Mechanic Legends [UPD🏁]","avg_ccu":4444.9,"min_ccu":2956,"max_ccu":5934,"samples":20,"sess":16.2,"sess_h":23.0,"like":92.23},
 "9996384072":{"name":"Reel for Kpop Idols","avg_ccu":1343.6,"min_ccu":1060,"max_ccu":1681,"samples":20,"sess":21.79,"sess_h":23.0,"like":97.67},
 "10004244222":{"name":"[🏄] Kick a Lucky Block","avg_ccu":8102.6,"min_ccu":5938,"max_ccu":11607,"samples":20,"sess":11.08,"sess_h":23.0,"like":94.94},
-"10031505426":{"name":"FPS🎃AirDrop Arena [S6]🎃","avg_ccu":2690.4,"min_ccu":1710,"max_ccu":3952,"samples":20,"sess":14.53,"sess_h":23.0,"like":97.37},
+"10031505426":{"name":"FPS🔥AirDrop Arena [S6]🔥","avg_ccu":2690.4,"min_ccu":1710,"max_ccu":3952,"samples":20,"sess":14.53,"sess_h":23.0,"like":97.37},
 "10031562156":{"name":"[UPDATE] Backrooms Company","avg_ccu":2074.9,"min_ccu":968,"max_ccu":2866,"samples":20,"sess":18.28,"sess_h":23.0,"like":89.02},
 "10035204815":{"name":"[♻️] Ride A Pet","avg_ccu":4978.3,"min_ccu":3577,"max_ccu":7456,"samples":20,"sess":13.0,"sess_h":23.0,"like":96.13},
 "10057403337":{"name":"[DUELS⚔️] Deagle Arena","avg_ccu":15194.2,"min_ccu":10421,"max_ccu":20420,"samples":20,"sess":7.9,"sess_h":23.0,"like":87.39},
@@ -428,7 +428,7 @@
 "10766506199":{"name":"7 Days Cat-Sitting","avg_ccu":5839.2,"min_ccu":3323,"max_ccu":8012,"samples":20,"sess":8.12,"sess_h":23.0,"like":74.35},
 "10766620257":{"name":"Bike For Egg!","avg_ccu":13464.0,"min_ccu":7030,"max_ccu":23417,"samples":20,"sess":11.8,"sess_h":23.0,"like":94.48},
 "10766671102":{"name":"[UPD] My Zombie Zoo","avg_ccu":2158.6,"min_ccu":1604,"max_ccu":2551,"samples":20,"sess":19.72,"sess_h":23.0,"like":98.43},
-"10766764802":{"name":"[UPD2] Prison Bus [ANOMALY]","avg_ccu":2245.8,"min_ccu":1492,"max_ccu":2808,"samples":20,"sess":13.06,"sess_h":23.0,"like":86.56},
+"10766764802":{"name":"Prison Bus [ANOMALY]","avg_ccu":2245.8,"min_ccu":1492,"max_ccu":2808,"samples":20,"sess":13.06,"sess_h":23.0,"like":86.56},
 "10766777819":{"name":"[UPD🌸] Climb and Steal an Egg","avg_ccu":5838.2,"min_ccu":4276,"max_ccu":7095,"samples":20,"sess":12.96,"sess_h":23.0,"like":95.28},
 "10766812776":{"name":"WideOpen [TESTING, 2XP WEEKEND, CUSTOMIZATION]","avg_ccu":777.3,"min_ccu":391,"max_ccu":1058,"samples":20,"sess":7.51,"sess_h":23.0,"like":92.07},
 "10766896060":{"name":"[UPD] +1 Animal Mog Evolution","avg_ccu":1577.2,"min_ccu":856,"max_ccu":2484,"samples":20,"sess":12.06,"sess_h":23.0,"like":90.71},
