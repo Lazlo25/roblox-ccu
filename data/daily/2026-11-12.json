@@ -1,4 +1,4 @@
-{"date": "2026-11-12", "timezone": "America/New_York", "generated_utc": "2026-11-13T04:10:00Z", "through_et": "23:10", "platform_now": ["2026-11-13T04:10:00Z", 8964681], "genres": {"Simulation": 41.658, "Survival": 13.778, "Roleplay & Avatar Sim": 10.992, "Action": 7.312, "RPG": 6.977, "Sports & Racing": 3.762, "Shooter": 3.729, "Strategy": 3.23, "Obby & Platformer": 3.017, "Party & Casual": 1.761, "Adventure": 1.304, "Shopping": 0.92, "Other": 0.619, "Social": 0.447, "Puzzle": 0.309, "Entertainment": 0.184}, "genre_hours": 24,"games":{
+{"date": "2026-11-12", "timezone": "America/New_York", "generated_utc": "2026-11-13T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-13T04:10:00Z", 8964681], "genres": {"Simulation": 41.658, "Survival": 13.778, "Roleplay & Avatar Sim": 10.992, "Action": 7.312, "RPG": 6.977, "Sports & Racing": 3.762, "Shooter": 3.729, "Strategy": 3.23, "Obby & Platformer": 3.017, "Party & Casual": 1.761, "Adventure": 1.304, "Shopping": 0.92, "Other": 0.619, "Social": 0.447, "Puzzle": 0.309, "Entertainment": 0.184}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2488.0,"min_ccu":1665,"max_ccu":2963,"samples":24,"sess":13.71,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6640.5,"min_ccu":4096,"max_ccu":9623,"samples":24,"sess":9.25,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2645.3,"min_ccu":1581,"max_ccu":3690,"samples":24,"sess":12.8,"sess_h":23.0,"like":93.28},
@@ -109,7 +109,7 @@
 "3876150506":{"name":"[BIKES] Drive World","avg_ccu":2331.7,"min_ccu":1652,"max_ccu":3234,"samples":24,"sess":12.35,"sess_h":23.0,"like":93.54},
 "3936365689":{"name":"[HALLOWEEN!] Clover Retribution","avg_ccu":1560.7,"min_ccu":1431,"max_ccu":1680,"samples":24,"sess":25.97,"sess_h":23.0,"like":92.95},
 "3990106548":{"name":"Baddies 💅","avg_ccu":4339.2,"min_ccu":2274,"max_ccu":7968,"samples":24,"sess":10.19,"sess_h":23.0,"like":83.29},
-"4049246711":{"name":"🎃 Timebomb Duels [Alpha]","avg_ccu":10169.9,"min_ccu":4507,"max_ccu":14287,"samples":21,"sess":9.17,"sess_h":20.0,"like":65.51},
+"4049246711":{"name":"Timebomb Duels [Alpha]","avg_ccu":10169.9,"min_ccu":4507,"max_ccu":14287,"samples":21,"sess":9.17,"sess_h":20.0,"like":65.51},
 "4130569984":{"name":"[HALLOWEEN PART 2] Jurassic Blocky","avg_ccu":2218.0,"min_ccu":1276,"max_ccu":3037,"samples":24,"sess":11.45,"sess_h":23.0,"like":89.2},
 "4165164803":{"name":"Clip It 😂🎬👗","avg_ccu":3577.0,"min_ccu":1566,"max_ccu":6535,"samples":24,"sess":11.48,"sess_h":23.0,"like":76.39},
 "4261077741":{"name":"[🤑WORKS] PLS WAIT 💸","avg_ccu":1458.8,"min_ccu":1197,"max_ccu":1809,"samples":24,"sess":11.5,"sess_h":23.0,"like":89.44},
@@ -386,7 +386,7 @@
 "10759337137":{"name":"[New Mode] Last Stop","avg_ccu":2206.3,"min_ccu":1807,"max_ccu":2900,"samples":24,"sess":14.01,"sess_h":23.0,"like":97.05},
 "10759594563":{"name":"Choose the Stronger Anime!","avg_ccu":1156.9,"min_ccu":982,"max_ccu":1411,"samples":14,"sess":10.91,"sess_h":13.0,"like":79.89},
 "10759638075":{"name":"[🎪] Pets Universe! 🐾","avg_ccu":1923.9,"min_ccu":1772,"max_ccu":2111,"samples":24,"sess":14.5,"sess_h":23.0,"like":98.37},
-"10759977189":{"name":"[AMAZON] Hooked Fishing!","avg_ccu":721.8,"min_ccu":507,"max_ccu":1096,"samples":24,"sess":8.64,"sess_h":23.0,"like":97.66},
+"10759977189":{"name":"[INDONESIA] Hooked Fishing!","avg_ccu":721.8,"min_ccu":507,"max_ccu":1096,"samples":24,"sess":8.64,"sess_h":23.0,"like":97.66},
 "10761375767":{"name":"[🌋🏝️] Surf And Rescue","avg_ccu":3494.0,"min_ccu":2769,"max_ccu":4089,"samples":24,"sess":13.94,"sess_h":23.0,"like":96.45},
 "10762636904":{"name":"[🌟FIX] Cameraman Tower Defense","avg_ccu":38045.2,"min_ccu":25469,"max_ccu":48215,"samples":24,"sess":13.81,"sess_h":23.0,"like":98.31},
 "10764019529":{"name":"Vampire life","avg_ccu":748.5,"min_ccu":497,"max_ccu":970,"samples":24,"sess":18.25,"sess_h":23.0,"like":74.75},
@@ -669,7 +669,7 @@
 "10772359919":{"name":"(HUGE Upd) Rooster Rivals","avg_ccu":3820.5,"min_ccu":2014,"max_ccu":5772,"samples":24,"sess":13.8,"sess_h":23.0,"like":95.69},
 "10772440379":{"name":"Monster Maker","avg_ccu":3614.9,"min_ccu":2601,"max_ccu":4747,"samples":24,"sess":10.39,"sess_h":23.0,"like":94.57},
 "10772465573":{"name":"My iPad","avg_ccu":4525.4,"min_ccu":3297,"max_ccu":6841,"samples":24,"sess":8.91,"sess_h":23.0,"like":85.73},
-"10772497615":{"name":"[🎃] Break And Hide The Plane! ✈️","avg_ccu":1538.3,"min_ccu":793,"max_ccu":2485,"samples":24,"sess":14.61,"sess_h":23.0,"like":81.07},
+"10772497615":{"name":"Break And Hide The Plane! ✈️","avg_ccu":1538.3,"min_ccu":793,"max_ccu":2485,"samples":24,"sess":14.61,"sess_h":23.0,"like":81.07},
 "10772543706":{"name":"Sweep The Moon 🌕","avg_ccu":19818.8,"min_ccu":11592,"max_ccu":30087,"samples":24,"sess":23.13,"sess_h":23.0,"like":97.6},
 "10772616540":{"name":"[PARIS] Explore the World ✈️","avg_ccu":1866.3,"min_ccu":965,"max_ccu":2969,"samples":24,"sess":14.26,"sess_h":23.0,"like":77.06},
 "10772627574":{"name":"Cook Pizzas [Anomaly]","avg_ccu":5124.4,"min_ccu":2730,"max_ccu":7015,"samples":24,"sess":16.16,"sess_h":23.0,"like":69.86},
