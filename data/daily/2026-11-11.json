@@ -1,4 +1,4 @@
-{"date": "2026-11-11", "timezone": "America/New_York", "generated_utc": "2026-11-13T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-12T04:10:00Z", 8227123], "genres": {"Simulation": 38.66, "Survival": 16.756, "Roleplay & Avatar Sim": 11.397, "Action": 7.546, "RPG": 6.575, "Sports & Racing": 4.151, "Shooter": 3.528, "Obby & Platformer": 2.962, "Strategy": 2.933, "Party & Casual": 1.713, "Adventure": 1.29, "Shopping": 0.946, "Other": 0.53, "Social": 0.484, "Puzzle": 0.277, "Entertainment": 0.251}, "genre_hours": 20,"games":{
+{"date": "2026-11-11", "timezone": "America/New_York", "generated_utc": "2026-11-13T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-12T04:10:00Z", 8227123], "genres": {"Simulation": 38.66, "Survival": 16.756, "Roleplay & Avatar Sim": 11.397, "Action": 7.546, "RPG": 6.575, "Sports & Racing": 4.151, "Shooter": 3.528, "Obby & Platformer": 2.962, "Strategy": 2.933, "Party & Casual": 1.713, "Adventure": 1.29, "Shopping": 0.946, "Other": 0.53, "Social": 0.484, "Puzzle": 0.277, "Entertainment": 0.251}, "genre_hours": 20,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2743.3,"min_ccu":1922,"max_ccu":3285,"samples":20,"sess":13.76,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7462.8,"min_ccu":4868,"max_ccu":9744,"samples":20,"sess":9.14,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3016.7,"min_ccu":1617,"max_ccu":4161,"samples":20,"sess":12.62,"sess_h":23.0,"like":93.28},
@@ -325,7 +325,7 @@
 "10338952197":{"name":"[💎GEMS] Grow a Chicken Fighter","avg_ccu":1454.2,"min_ccu":1092,"max_ccu":1870,"samples":20,"sess":22.19,"sess_h":23.0,"like":97.74},
 "10352185757":{"name":"Experience Abstraction","avg_ccu":3618.2,"min_ccu":2067,"max_ccu":4593,"samples":20,"sess":13.04,"sess_h":23.0,"like":91.27},
 "10378493761":{"name":"Prison Dodgeball","avg_ccu":3771.8,"min_ccu":1936,"max_ccu":5651,"samples":20,"sess":10.91,"sess_h":23.0,"like":71.37},
-"10393438342":{"name":"[⭐ MINI-UPDATE ⭐] Alliance Tower Defense! ⚔️","avg_ccu":1604.0,"min_ccu":1041,"max_ccu":2582,"samples":20,"sess":10.14,"sess_h":23.0,"like":92.35},
+"10393438342":{"name":"[⌛] Alliance Tower Defense! ⚔️","avg_ccu":1604.0,"min_ccu":1041,"max_ccu":2582,"samples":20,"sess":10.14,"sess_h":23.0,"like":92.35},
 "10399136326":{"name":"Anime Ability Arena","avg_ccu":6044.8,"min_ccu":4546,"max_ccu":7295,"samples":20,"sess":13.5,"sess_h":23.0,"like":87.82},
 "10411998017":{"name":"[CUSTOMIZABLE-TRICKS👤] Project Bikelife","avg_ccu":4139.8,"min_ccu":2104,"max_ccu":5500,"samples":20,"sess":23.39,"sess_h":23.0,"like":88.31},
 "10414383300":{"name":"Ishin","avg_ccu":3422.0,"min_ccu":2609,"max_ccu":4036,"samples":20,"sess":22.55,"sess_h":23.0,"like":91.54},
@@ -602,7 +602,7 @@
 "10770748262":{"name":"Anime Galaxies | UPDATE 1","avg_ccu":1882.8,"min_ccu":1642,"max_ccu":2102,"samples":20,"sess":23.25,"sess_h":23.0,"like":93.9},
 "10770779724":{"name":"Ragdoll Boxing 3D [SEASON 1]","avg_ccu":2433.6,"min_ccu":1689,"max_ccu":3389,"samples":20,"sess":7.09,"sess_h":23.0,"like":73.74},
 "10770800769":{"name":"Fart Together","avg_ccu":1465.5,"min_ccu":974,"max_ccu":2103,"samples":20,"sess":6.7,"sess_h":23.0,"like":92.09},
-"10770805659":{"name":"[⚡UPD] College Life 🧑‍🎓 RP","avg_ccu":1098.8,"min_ccu":474,"max_ccu":1541,"samples":20,"sess":13.76,"sess_h":23.0,"like":85.17},
+"10770805659":{"name":"[🍂] College Life 🧑‍🎓 RP","avg_ccu":1098.8,"min_ccu":474,"max_ccu":1541,"samples":20,"sess":13.76,"sess_h":23.0,"like":85.17},
 "10770806914":{"name":"Escape The Jungle","avg_ccu":2171.7,"min_ccu":1147,"max_ccu":2975,"samples":20,"sess":11.75,"sess_h":23.0,"like":87.29},
 "10770879065":{"name":"It Hears The Water 💧","avg_ccu":331.7,"min_ccu":199,"max_ccu":508,"samples":20,"sess":4.18,"sess_h":23.0,"like":81.48},
 "10770881168":{"name":"Smash Ball [NEW]","avg_ccu":567.5,"min_ccu":480,"max_ccu":655,"samples":2,"like":71.58},
@@ -670,7 +670,7 @@
 "10772159183":{"name":"Build A Steal An Egg","avg_ccu":1881.5,"min_ccu":940,"max_ccu":2746,"samples":20,"sess":9.67,"sess_h":23.0,"like":71.67},
 "10772169253":{"name":"🥤Make a Drink","avg_ccu":2201.0,"min_ccu":1786,"max_ccu":2496,"samples":20,"sess":11.46,"sess_h":23.0,"like":96.89},
 "10772217708":{"name":"[UPD] Tesla Roadster Chase","avg_ccu":8913.3,"min_ccu":3615,"max_ccu":13533,"samples":20,"sess":8.26,"sess_h":23.0,"like":86.63},
-"10772253152":{"name":"[UPDATE 2] Durian Garden 🍈","avg_ccu":4186.1,"min_ccu":672,"max_ccu":10285,"samples":20,"sess":10.83,"sess_h":23.0,"like":93.57},
+"10772253152":{"name":"[FOREST] Durian Garden 🍈","avg_ccu":4186.1,"min_ccu":672,"max_ccu":10285,"samples":20,"sess":10.83,"sess_h":23.0,"like":93.57},
 "10772266488":{"name":"[UPD] Build a REAL House","avg_ccu":12496.2,"min_ccu":3923,"max_ccu":20685,"samples":20,"sess":12.58,"sess_h":23.0,"like":75.39},
 "10772271122":{"name":"[🔥] Motocross Stunt Champions: Bike & Ride","avg_ccu":2497.3,"min_ccu":1115,"max_ccu":3749,"samples":20,"sess":9.47,"sess_h":23.0,"like":82.12},
 "10772281976":{"name":"Unstable SMP FFA [JAVA PVP!]","avg_ccu":30535.7,"min_ccu":18075,"max_ccu":44019,"samples":20,"sess":14.12,"sess_h":23.0,"like":85.49},
