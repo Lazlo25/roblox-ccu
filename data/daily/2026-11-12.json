@@ -1,4 +1,4 @@
-{"date": "2026-11-12", "timezone": "America/New_York", "generated_utc": "2026-11-13T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-13T04:10:00Z", 8964681], "genres": {"Simulation": 41.658, "Survival": 13.778, "Roleplay & Avatar Sim": 10.992, "Action": 7.312, "RPG": 6.977, "Sports & Racing": 3.762, "Shooter": 3.729, "Strategy": 3.23, "Obby & Platformer": 3.017, "Party & Casual": 1.761, "Adventure": 1.304, "Shopping": 0.92, "Other": 0.619, "Social": 0.447, "Puzzle": 0.309, "Entertainment": 0.184}, "genre_hours": 24,"games":{
+{"date": "2026-11-12", "timezone": "America/New_York", "generated_utc": "2026-11-13T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-13T04:10:00Z", 8964681], "genres": {"Simulation": 41.658, "Survival": 13.778, "Roleplay & Avatar Sim": 10.992, "Action": 7.312, "RPG": 6.977, "Sports & Racing": 3.762, "Shooter": 3.729, "Strategy": 3.23, "Obby & Platformer": 3.017, "Party & Casual": 1.761, "Adventure": 1.304, "Shopping": 0.92, "Other": 0.619, "Social": 0.447, "Puzzle": 0.309, "Entertainment": 0.184}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2488.0,"min_ccu":1665,"max_ccu":2963,"samples":24,"sess":13.71,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6640.5,"min_ccu":4096,"max_ccu":9623,"samples":24,"sess":9.25,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2645.3,"min_ccu":1581,"max_ccu":3690,"samples":24,"sess":12.8,"sess_h":23.0,"like":93.28},
@@ -605,7 +605,7 @@
 "10771053183":{"name":"[🐟] Net a Fish!","avg_ccu":25270.9,"min_ccu":20025,"max_ccu":35168,"samples":24,"sess":22.42,"sess_h":23.0,"like":92.99},
 "10771062824":{"name":"[24H] Lawn Care Empire 🌱","avg_ccu":303.6,"min_ccu":96,"max_ccu":616,"samples":24,"sess":15.88,"sess_h":23.0,"like":93.52},
 "10771081056":{"name":"[BADGES🔥] Doodle Basketball🏀","avg_ccu":934.8,"min_ccu":394,"max_ccu":2097,"samples":24,"sess":9.17,"sess_h":23.0,"like":86.65},
-"10771093259":{"name":"[SOON!] Angkot Simulator Indonesia","avg_ccu":2738.4,"min_ccu":501,"max_ccu":5027,"samples":23,"sess":14.92,"sess_h":23.0,"like":86.96},
+"10771093259":{"name":"Angkot Simulator Indonesia","avg_ccu":2738.4,"min_ccu":501,"max_ccu":5027,"samples":23,"sess":14.92,"sess_h":23.0,"like":86.96},
 "10771111717":{"name":"Button Battles","avg_ccu":3856.2,"min_ccu":1896,"max_ccu":6715,"samples":24,"sess":8.59,"sess_h":23.0,"like":88.28},
 "10771124452":{"name":"TROLL Jail Hug Tower","avg_ccu":6062.5,"min_ccu":4657,"max_ccu":7876,"samples":23,"sess":10.51,"sess_h":23.0,"like":69.02},
 "10771155665":{"name":"[🎃] Ragdoll Sandbox","avg_ccu":8196.7,"min_ccu":5568,"max_ccu":10976,"samples":24,"sess":12.72,"sess_h":23.0,"like":85.93},
