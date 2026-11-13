@@ -1,4 +1,4 @@
-{"date": "2026-11-12", "timezone": "America/New_York", "generated_utc": "2026-11-13T15:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-13T04:10:00Z", 8964681], "genres": {"Simulation": 41.658, "Survival": 13.778, "Roleplay & Avatar Sim": 10.992, "Action": 7.312, "RPG": 6.977, "Sports & Racing": 3.762, "Shooter": 3.729, "Strategy": 3.23, "Obby & Platformer": 3.017, "Party & Casual": 1.761, "Adventure": 1.304, "Shopping": 0.92, "Other": 0.619, "Social": 0.447, "Puzzle": 0.309, "Entertainment": 0.184}, "genre_hours": 24,"games":{
+{"date": "2026-11-12", "timezone": "America/New_York", "generated_utc": "2026-11-13T16:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-13T04:10:00Z", 8964681], "genres": {"Simulation": 41.658, "Survival": 13.778, "Roleplay & Avatar Sim": 10.992, "Action": 7.312, "RPG": 6.977, "Sports & Racing": 3.762, "Shooter": 3.729, "Strategy": 3.23, "Obby & Platformer": 3.017, "Party & Casual": 1.761, "Adventure": 1.304, "Shopping": 0.92, "Other": 0.619, "Social": 0.447, "Puzzle": 0.309, "Entertainment": 0.184}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2488.0,"min_ccu":1665,"max_ccu":2963,"samples":24,"sess":13.71,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6640.5,"min_ccu":4096,"max_ccu":9623,"samples":24,"sess":9.25,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2645.3,"min_ccu":1581,"max_ccu":3690,"samples":24,"sess":12.8,"sess_h":23.0,"like":93.28},
@@ -18,7 +18,7 @@
 "321778215":{"name":"Royale 🔥❄️ High","avg_ccu":7363.1,"min_ccu":5029,"max_ccu":9289,"samples":24,"sess":20.61,"sess_h":23.0,"like":85.91},
 "371263894":{"name":"Greenville RP","avg_ccu":3629.2,"min_ccu":1956,"max_ccu":5517,"samples":24,"sess":17.29,"sess_h":23.0,"like":87.92},
 "372226183":{"name":"🎃Flee the Facility🍁","avg_ccu":20738.4,"min_ccu":7024,"max_ccu":36252,"samples":24,"sess":13.04,"sess_h":23.0,"like":92.1},
-"383310974":{"name":"[⚡] Adopt Me!","avg_ccu":130228.7,"min_ccu":92169,"max_ccu":159514,"samples":24,"sess":26.49,"sess_h":23.0,"like":86.4},
+"383310974":{"name":"[🥤] Adopt Me!","avg_ccu":130228.7,"min_ccu":92169,"max_ccu":159514,"samples":24,"sess":26.49,"sess_h":23.0,"like":86.4},
 "540382210":{"name":"[🎃🎃 EVENT!!!] FMR","avg_ccu":1024.1,"min_ccu":545,"max_ccu":1566,"samples":24,"sess":12.16,"sess_h":23.0,"like":94.9},
 "547524060":{"name":"Feather Family 🍂","avg_ccu":3088.0,"min_ccu":1846,"max_ccu":4298,"samples":24,"sess":14.44,"sess_h":23.0,"like":91.65},
 "578392296":{"name":"ABA","avg_ccu":9086.8,"min_ccu":6692,"max_ccu":12236,"samples":24,"sess":18.47,"sess_h":23.0,"like":80.66},
@@ -385,7 +385,7 @@
 "10758912149":{"name":"[⚒️] +1 Sword Forge","avg_ccu":1952.0,"min_ccu":1596,"max_ccu":2554,"samples":24,"sess":25.9,"sess_h":23.0,"like":94.51},
 "10759337137":{"name":"[New Mode] Last Stop","avg_ccu":2206.3,"min_ccu":1807,"max_ccu":2900,"samples":24,"sess":14.01,"sess_h":23.0,"like":97.05},
 "10759594563":{"name":"Choose the Stronger Anime!","avg_ccu":1156.9,"min_ccu":982,"max_ccu":1411,"samples":14,"sess":10.91,"sess_h":13.0,"like":79.89},
-"10759638075":{"name":"[⌛] Pets Universe! 🐾","avg_ccu":1923.9,"min_ccu":1772,"max_ccu":2111,"samples":24,"sess":14.5,"sess_h":23.0,"like":98.37},
+"10759638075":{"name":"[🎪] Pets Universe! 🐾","avg_ccu":1923.9,"min_ccu":1772,"max_ccu":2111,"samples":24,"sess":14.5,"sess_h":23.0,"like":98.37},
 "10759977189":{"name":"[INDONESIA] Hooked Fishing!","avg_ccu":721.8,"min_ccu":507,"max_ccu":1096,"samples":24,"sess":8.64,"sess_h":23.0,"like":97.66},
 "10761375767":{"name":"[🌋🏝️] Surf And Rescue","avg_ccu":3494.0,"min_ccu":2769,"max_ccu":4089,"samples":24,"sess":13.94,"sess_h":23.0,"like":96.45},
 "10762636904":{"name":"[🌟FIX] Cameraman Tower Defense","avg_ccu":38045.2,"min_ccu":25469,"max_ccu":48215,"samples":24,"sess":13.81,"sess_h":23.0,"like":98.31},
@@ -584,7 +584,7 @@
 "10770628276":{"name":"Sell a Million Sushi","avg_ccu":7142.6,"min_ccu":5713,"max_ccu":9287,"samples":24,"sess":17.39,"sess_h":23.0,"like":98.98},
 "10770642914":{"name":"Find The Animals [280]","avg_ccu":1916.1,"min_ccu":1300,"max_ccu":2595,"samples":24,"sess":16.21,"sess_h":23.0,"like":87.97},
 "10770643759":{"name":"Zombie Titans","avg_ccu":1238.4,"min_ccu":916,"max_ccu":2029,"samples":24,"sess":13.02,"sess_h":23.0,"like":86.57},
-"10770674395":{"name":"[2X GEMS] Ice Cream Shop [Anomaly] 🍦","avg_ccu":2316.7,"min_ccu":1961,"max_ccu":2915,"samples":24,"sess":12.19,"sess_h":23.0,"like":86.57},
+"10770674395":{"name":"Ice Cream Shop [Anomaly] 🍦","avg_ccu":2316.7,"min_ccu":1961,"max_ccu":2915,"samples":24,"sess":12.19,"sess_h":23.0,"like":86.57},
 "10770695235":{"name":"Build Sandbox [🛠️]","avg_ccu":3911.4,"min_ccu":3032,"max_ccu":4980,"samples":23,"sess":16.37,"sess_h":23.0,"like":58.57},
 "10770699460":{"name":"Raise The Biggest Family","avg_ccu":11538.0,"min_ccu":7766,"max_ccu":15079,"samples":24,"sess":15.76,"sess_h":23.0,"like":72.9},
 "10770703729":{"name":"🎃 KRN: Crosshair","avg_ccu":11253.6,"min_ccu":6866,"max_ccu":14401,"samples":24,"sess":15.17,"sess_h":23.0,"like":77.91},
