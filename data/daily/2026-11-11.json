@@ -1,4 +1,4 @@
-{"date": "2026-11-11", "timezone": "America/New_York", "generated_utc": "2026-11-13T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-12T04:10:00Z", 8227123], "genres": {"Simulation": 38.66, "Survival": 16.756, "Roleplay & Avatar Sim": 11.397, "Action": 7.546, "RPG": 6.575, "Sports & Racing": 4.151, "Shooter": 3.528, "Obby & Platformer": 2.962, "Strategy": 2.933, "Party & Casual": 1.713, "Adventure": 1.29, "Shopping": 0.946, "Other": 0.53, "Social": 0.484, "Puzzle": 0.277, "Entertainment": 0.251}, "genre_hours": 20,"games":{
+{"date": "2026-11-11", "timezone": "America/New_York", "generated_utc": "2026-11-13T03:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-12T04:10:00Z", 8227123], "genres": {"Simulation": 38.66, "Survival": 16.756, "Roleplay & Avatar Sim": 11.397, "Action": 7.546, "RPG": 6.575, "Sports & Racing": 4.151, "Shooter": 3.528, "Obby & Platformer": 2.962, "Strategy": 2.933, "Party & Casual": 1.713, "Adventure": 1.29, "Shopping": 0.946, "Other": 0.53, "Social": 0.484, "Puzzle": 0.277, "Entertainment": 0.251}, "genre_hours": 20,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2743.3,"min_ccu":1922,"max_ccu":3285,"samples":20,"sess":13.76,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7462.8,"min_ccu":4868,"max_ccu":9744,"samples":20,"sess":9.14,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3016.7,"min_ccu":1617,"max_ccu":4161,"samples":20,"sess":12.62,"sess_h":23.0,"like":93.28},
@@ -47,7 +47,7 @@
 "1374118848":{"name":"Dragon Generations","avg_ccu":1888.8,"min_ccu":1005,"max_ccu":2475,"samples":20,"sess":39.5,"sess_h":23.0,"like":87.98},
 "1390601379":{"name":"Combat Warriors","avg_ccu":1560.5,"min_ccu":1078,"max_ccu":1866,"samples":20,"sess":17.77,"sess_h":23.0,"like":83.41},
 "1451439645":{"name":"[🐉UPD 11 PART 1🎃] King Legacy","avg_ccu":36125.8,"min_ccu":28810,"max_ccu":53396,"samples":20,"sess":22.93,"sess_h":23.0,"like":91.51},
-"1489026993":{"name":"[UPDATE]🔪Survive the Killer!","avg_ccu":3312.0,"min_ccu":2759,"max_ccu":4664,"samples":20,"sess":11.8,"sess_h":23.0,"like":90.27},
+"1489026993":{"name":"🔪Survive the Killer!","avg_ccu":3312.0,"min_ccu":2759,"max_ccu":4664,"samples":20,"sess":11.8,"sess_h":23.0,"like":90.27},
 "1494262959":{"name":"[🎃] Criminality","avg_ccu":1750.9,"min_ccu":1212,"max_ccu":2181,"samples":20,"sess":16.64,"sess_h":23.0,"like":75.17},
 "1511883870":{"name":"Shindo Life [251]","avg_ccu":1975.5,"min_ccu":1301,"max_ccu":2276,"samples":20,"sess":24.66,"sess_h":23.0,"like":93.9},
 "1516533665":{"name":"Piggy","avg_ccu":5842.2,"min_ccu":2648,"max_ccu":7977,"samples":20,"sess":11.77,"sess_h":23.0,"like":90.34},
