@@ -1,4 +1,4 @@
-{"date": "2026-11-12", "timezone": "America/New_York", "generated_utc": "2026-11-13T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-13T04:10:00Z", 8964681], "genres": {"Simulation": 41.658, "Survival": 13.778, "Roleplay & Avatar Sim": 10.992, "Action": 7.312, "RPG": 6.977, "Sports & Racing": 3.762, "Shooter": 3.729, "Strategy": 3.23, "Obby & Platformer": 3.017, "Party & Casual": 1.761, "Adventure": 1.304, "Shopping": 0.92, "Other": 0.619, "Social": 0.447, "Puzzle": 0.309, "Entertainment": 0.184}, "genre_hours": 24,"games":{
+{"date": "2026-11-12", "timezone": "America/New_York", "generated_utc": "2026-11-13T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-13T04:10:00Z", 8964681], "genres": {"Simulation": 41.658, "Survival": 13.778, "Roleplay & Avatar Sim": 10.992, "Action": 7.312, "RPG": 6.977, "Sports & Racing": 3.762, "Shooter": 3.729, "Strategy": 3.23, "Obby & Platformer": 3.017, "Party & Casual": 1.761, "Adventure": 1.304, "Shopping": 0.92, "Other": 0.619, "Social": 0.447, "Puzzle": 0.309, "Entertainment": 0.184}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2488.0,"min_ccu":1665,"max_ccu":2963,"samples":24,"sess":13.71,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6640.5,"min_ccu":4096,"max_ccu":9623,"samples":24,"sess":9.25,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2645.3,"min_ccu":1581,"max_ccu":3690,"samples":24,"sess":12.8,"sess_h":23.0,"like":93.28},
@@ -197,7 +197,7 @@
 "7058980030":{"name":"Survive Overnight in a Mega Store","avg_ccu":3428.6,"min_ccu":1988,"max_ccu":5137,"samples":24,"sess":9.95,"sess_h":23.0,"like":94.92},
 "7084172542":{"name":"[🎃]Momo City [Beta]","avg_ccu":566.1,"min_ccu":266,"max_ccu":1013,"samples":24,"sess":21.34,"sess_h":23.0,"like":89.39},
 "7089588429":{"name":"(WHEELIE STYLE x BIG UPDATE) Drag Drive Simulator","avg_ccu":7908.1,"min_ccu":1060,"max_ccu":16677,"samples":24,"sess":11.51,"sess_h":23.0,"like":95.58},
-"7094518649":{"name":"Restaurant Tycoon 3","avg_ccu":5091.5,"min_ccu":3757,"max_ccu":6392,"samples":24,"sess":25.98,"sess_h":23.0,"like":95.28},
+"7094518649":{"name":"[⌛] Restaurant Tycoon 3","avg_ccu":5091.5,"min_ccu":3757,"max_ccu":6392,"samples":24,"sess":25.98,"sess_h":23.0,"like":95.28},
 "7108384194":{"name":"Knife VS Gun DUELS","avg_ccu":6031.4,"min_ccu":3373,"max_ccu":9076,"samples":24,"sess":10.53,"sess_h":23.0,"like":85.85},
 "7143545906":{"name":"Enter Brainrot","avg_ccu":284.8,"min_ccu":215,"max_ccu":359,"samples":24,"sess":8.42,"sess_h":23.0,"like":93.72},
 "7144947546":{"name":"MEDVED 🐻‍❄️ (Hunt & Become Bears)","avg_ccu":3446.2,"min_ccu":2477,"max_ccu":4415,"samples":24,"sess":18.57,"sess_h":23.0,"like":89.78},
@@ -549,7 +549,7 @@
 "10769999776":{"name":"FAITHFUL | BETA","avg_ccu":1561.1,"min_ccu":914,"max_ccu":2308,"samples":24,"sess":6.94,"sess_h":23.0,"like":56.59},
 "10770014246":{"name":"[⛩️RAIDS] Anime Auto Battle","avg_ccu":2517.0,"min_ccu":2353,"max_ccu":2736,"samples":12,"sess":31.59,"sess_h":11.0,"like":90.59},
 "10770018231":{"name":"Clone Baby Care (Anomaly)","avg_ccu":7989.8,"min_ccu":5255,"max_ccu":10355,"samples":24,"sess":10.15,"sess_h":23.0,"like":89.08},
-"10770036723":{"name":"Club Legacy Soccer Manager [ALPHA]","avg_ccu":2886.8,"min_ccu":2197,"max_ccu":3913,"samples":24,"sess":28.19,"sess_h":23.0,"like":92.85},
+"10770036723":{"name":"[UPD] Club Legacy: Soccer Manager [ALPHA]","avg_ccu":2886.8,"min_ccu":2197,"max_ccu":3913,"samples":24,"sess":28.19,"sess_h":23.0,"like":92.85},
 "10770101026":{"name":"[CHAPTER 2] FATHOM","avg_ccu":1103.5,"min_ccu":427,"max_ccu":1909,"samples":24,"sess":12.74,"sess_h":23.0,"like":96.14},
 "10770104321":{"name":"Draw a Flag!","avg_ccu":4537.5,"min_ccu":2054,"max_ccu":6991,"samples":24,"sess":10.28,"sess_h":23.0,"like":60.28},
 "10770110947":{"name":"[UPD 2] Crack THE Geode!","avg_ccu":674.2,"min_ccu":406,"max_ccu":1377,"samples":24,"sess":9.23,"sess_h":23.0,"like":88.7},
@@ -636,7 +636,7 @@
 "10771743491":{"name":"South Hell [HORROR]","avg_ccu":3980.8,"min_ccu":1647,"max_ccu":7104,"samples":24,"sess":6.09,"sess_h":23.0,"like":87.89},
 "10771766545":{"name":"[ДИГГЕРСТВО] РейлСайд [БЕТА]","avg_ccu":1987.8,"min_ccu":777,"max_ccu":3370,"samples":9,"sess":8.71,"sess_h":8.0,"like":82.51},
 "10771778398":{"name":"Chop and Steal an Egg","avg_ccu":3262.9,"min_ccu":1691,"max_ccu":5747,"samples":24,"sess":17.14,"sess_h":23.0,"like":90.18},
-"10771797050":{"name":"+1 Baddie Evolution 💅","avg_ccu":3806.5,"min_ccu":1968,"max_ccu":5670,"samples":24,"sess":12.57,"sess_h":23.0,"like":96.12},
+"10771797050":{"name":"[⏳] +1 Baddie Evolution 💅","avg_ccu":3806.5,"min_ccu":1968,"max_ccu":5670,"samples":24,"sess":12.57,"sess_h":23.0,"like":96.12},
 "10771800287":{"name":"Make Viral Candy! 🍬","avg_ccu":1416.3,"min_ccu":986,"max_ccu":2045,"samples":24,"sess":8.51,"sess_h":23.0,"like":89.3},
 "10771805737":{"name":"Run a Motel ! [EXPAND]","avg_ccu":4833.6,"min_ccu":2960,"max_ccu":7290,"samples":23,"sess":18.16,"sess_h":23.0,"like":94.18},
 "10771853697":{"name":"[FIXED!] Project Web","avg_ccu":3749.9,"min_ccu":2200,"max_ccu":5338,"samples":24,"sess":7.48,"sess_h":23.0,"like":92.6},
