@@ -1,4 +1,4 @@
-{"date": "2026-11-12", "timezone": "America/New_York", "generated_utc": "2026-11-13T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-13T04:10:00Z", 8964681], "genres": {"Simulation": 41.658, "Survival": 13.778, "Roleplay & Avatar Sim": 10.992, "Action": 7.312, "RPG": 6.977, "Sports & Racing": 3.762, "Shooter": 3.729, "Strategy": 3.23, "Obby & Platformer": 3.017, "Party & Casual": 1.761, "Adventure": 1.304, "Shopping": 0.92, "Other": 0.619, "Social": 0.447, "Puzzle": 0.309, "Entertainment": 0.184}, "genre_hours": 24,"games":{
+{"date": "2026-11-12", "timezone": "America/New_York", "generated_utc": "2026-11-13T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-13T04:10:00Z", 8964681], "genres": {"Simulation": 41.658, "Survival": 13.778, "Roleplay & Avatar Sim": 10.992, "Action": 7.312, "RPG": 6.977, "Sports & Racing": 3.762, "Shooter": 3.729, "Strategy": 3.23, "Obby & Platformer": 3.017, "Party & Casual": 1.761, "Adventure": 1.304, "Shopping": 0.92, "Other": 0.619, "Social": 0.447, "Puzzle": 0.309, "Entertainment": 0.184}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2488.0,"min_ccu":1665,"max_ccu":2963,"samples":24,"sess":13.71,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6640.5,"min_ccu":4096,"max_ccu":9623,"samples":24,"sess":9.25,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2645.3,"min_ccu":1581,"max_ccu":3690,"samples":24,"sess":12.8,"sess_h":23.0,"like":93.28},
@@ -250,7 +250,7 @@
 "9051406594":{"name":"[💥FINAL BOSS] Dueling Grounds ⚔️","avg_ccu":3652.5,"min_ccu":2964,"max_ccu":4544,"samples":24,"sess":7.92,"sess_h":23.0,"like":96.33},
 "9073513091":{"name":"[COSMIC!] Anime Apocalypse","avg_ccu":889.5,"min_ccu":758,"max_ccu":1018,"samples":24,"sess":11.05,"sess_h":23.0,"like":95.24},
 "9098570654":{"name":"[⚒️UPD] 🧟 Survive the Apocalypse","avg_ccu":5616.9,"min_ccu":4584,"max_ccu":7873,"samples":24,"sess":25.86,"sess_h":23.0,"like":94.11},
-"9141743926":{"name":"[3H] Catch a Monster","avg_ccu":2296.5,"min_ccu":2146,"max_ccu":2465,"samples":24,"sess":14.87,"sess_h":23.0,"like":97.81},
+"9141743926":{"name":"[NOW] Catch a Monster","avg_ccu":2296.5,"min_ccu":2146,"max_ccu":2465,"samples":24,"sess":14.87,"sess_h":23.0,"like":97.81},
 "9150731899":{"name":"PRISON RP","avg_ccu":1545.3,"min_ccu":956,"max_ccu":2259,"samples":24,"sess":26.99,"sess_h":23.0,"like":78.35},
 "9167377564":{"name":"100 Days at Sea","avg_ccu":13752.8,"min_ccu":10195,"max_ccu":18394,"samples":24,"sess":16.5,"sess_h":23.0,"like":97.04},
 "9169166771":{"name":"[BrokenScript!] Tiny Universe RP","avg_ccu":994.9,"min_ccu":734,"max_ccu":1438,"samples":24,"sess":9.57,"sess_h":23.0,"like":79.27},
@@ -700,7 +700,7 @@
 "10773259496":{"name":"Survive a Psycho","avg_ccu":1874.3,"min_ccu":980,"max_ccu":2813,"samples":24,"sess":12.45,"sess_h":23.0,"like":94.26},
 "10773262148":{"name":"Draw an aquarium","avg_ccu":4647.3,"min_ccu":3019,"max_ccu":6180,"samples":24,"sess":13.49,"sess_h":23.0,"like":71.07},
 "10773264829":{"name":"Realistic Ragdoll Physics","avg_ccu":4931.7,"min_ccu":3559,"max_ccu":6350,"samples":24,"sess":11.06,"sess_h":23.0,"like":85.45},
-"10773269457":{"name":"[UPD] SEPEDA ONTEL SIMULATOR","avg_ccu":3011.3,"min_ccu":91,"max_ccu":7811,"samples":24,"sess":12.64,"sess_h":23.0,"like":85.69},
+"10773269457":{"name":"[☄️SECRET LIMITED] SEPEDA ONTEL SIMULATOR","avg_ccu":3011.3,"min_ccu":91,"max_ccu":7811,"samples":24,"sess":12.64,"sess_h":23.0,"like":85.69},
 "10773278923":{"name":"Escooter World","avg_ccu":4825.0,"min_ccu":1736,"max_ccu":9823,"samples":24,"sess":9.92,"sess_h":23.0,"like":88.71},
 "10773316109":{"name":"Melon Playground [All Ages]","avg_ccu":1441.6,"min_ccu":947,"max_ccu":2284,"samples":24,"sess":7.19,"sess_h":23.0,"like":70.13},
 "10773355038":{"name":"Impact Lab: Extreme Physics!","avg_ccu":2015.5,"min_ccu":1354,"max_ccu":2741,"samples":24,"sess":12.12,"sess_h":23.0,"like":73.71},
