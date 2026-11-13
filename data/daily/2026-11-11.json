@@ -1,4 +1,4 @@
-{"date": "2026-11-11", "timezone": "America/New_York", "generated_utc": "2026-11-13T00:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-12T04:10:00Z", 8227123], "genres": {"Simulation": 38.66, "Survival": 16.756, "Roleplay & Avatar Sim": 11.397, "Action": 7.546, "RPG": 6.575, "Sports & Racing": 4.151, "Shooter": 3.528, "Obby & Platformer": 2.962, "Strategy": 2.933, "Party & Casual": 1.713, "Adventure": 1.29, "Shopping": 0.946, "Other": 0.53, "Social": 0.484, "Puzzle": 0.277, "Entertainment": 0.251}, "genre_hours": 20,"games":{
+{"date": "2026-11-11", "timezone": "America/New_York", "generated_utc": "2026-11-13T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-12T04:10:00Z", 8227123], "genres": {"Simulation": 38.66, "Survival": 16.756, "Roleplay & Avatar Sim": 11.397, "Action": 7.546, "RPG": 6.575, "Sports & Racing": 4.151, "Shooter": 3.528, "Obby & Platformer": 2.962, "Strategy": 2.933, "Party & Casual": 1.713, "Adventure": 1.29, "Shopping": 0.946, "Other": 0.53, "Social": 0.484, "Puzzle": 0.277, "Entertainment": 0.251}, "genre_hours": 20,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2743.3,"min_ccu":1922,"max_ccu":3285,"samples":20,"sess":13.76,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7462.8,"min_ccu":4868,"max_ccu":9744,"samples":20,"sess":9.14,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3016.7,"min_ccu":1617,"max_ccu":4161,"samples":20,"sess":12.62,"sess_h":23.0,"like":93.28},
@@ -465,7 +465,7 @@
 "10767946926":{"name":"HUSH: They can hear. (BETA)","avg_ccu":1821.4,"min_ccu":1118,"max_ccu":2497,"samples":20,"sess":18.73,"sess_h":23.0,"like":78.93},
 "10767956398":{"name":"+1 Destruction Battlegrounds [Superhero]","avg_ccu":3629.7,"min_ccu":2374,"max_ccu":4505,"samples":20,"sess":14.28,"sess_h":23.0,"like":98.16},
 "10767968712":{"name":"Ride Operator Simulator","avg_ccu":2723.0,"min_ccu":747,"max_ccu":5478,"samples":20,"sess":8.01,"sess_h":23.0,"like":85.58},
-"10768001644":{"name":"[💥UPD] +1 Ride Pets to Fight","avg_ccu":2102.7,"min_ccu":1779,"max_ccu":2629,"samples":20,"sess":23.1,"sess_h":23.0,"like":99.2},
+"10768001644":{"name":"+1 Pet Rider Evolution","avg_ccu":2102.7,"min_ccu":1779,"max_ccu":2629,"samples":20,"sess":23.1,"sess_h":23.0,"like":99.2},
 "10768003706":{"name":"Create a Robot Fighter","avg_ccu":796.3,"min_ccu":642,"max_ccu":907,"samples":20,"sess":20.54,"sess_h":23.0,"like":83.57},
 "10768046082":{"name":"My Chiikawa Restaurant! 🎃","avg_ccu":2029.8,"min_ccu":1496,"max_ccu":2227,"samples":20,"sess":21.72,"sess_h":23.0,"like":96.13},
 "10768172922":{"name":"RoWorld [World PvP]","avg_ccu":12725.3,"min_ccu":8350,"max_ccu":17027,"samples":20,"sess":5.64,"sess_h":23.0,"like":83.44},
@@ -541,7 +541,7 @@
 "10769735087":{"name":"Ship The Cargo 🚢","avg_ccu":1664.9,"min_ccu":861,"max_ccu":2598,"samples":20,"sess":15.17,"sess_h":23.0,"like":96.29},
 "10769755186":{"name":"+1 Hamster Smash","avg_ccu":1575.0,"min_ccu":664,"max_ccu":1986,"samples":12,"sess":14.56,"sess_h":15.0,"like":94.29},
 "10769764340":{"name":"[🍀] Spin To Upgrade! [REBIRTHS]","avg_ccu":248.0,"min_ccu":160,"max_ccu":388,"samples":20,"sess":25.7,"sess_h":23.0,"like":70.6},
-"10769788746":{"name":"Ro-BassFishing [MASSIVEE UPDATE]","avg_ccu":4359.8,"min_ccu":2514,"max_ccu":6366,"samples":20,"sess":16.36,"sess_h":23.0,"like":89.45},
+"10769788746":{"name":"Ro-BassFishing","avg_ccu":4359.8,"min_ccu":2514,"max_ccu":6366,"samples":20,"sess":16.36,"sess_h":23.0,"like":89.45},
 "10769793590":{"name":"LICENSE PLATE GENERATOR","avg_ccu":9173.0,"min_ccu":5409,"max_ccu":12681,"samples":20,"sess":18.82,"sess_h":23.0,"like":96.6},
 "10769808534":{"name":"Be a Soccer Manager ⚽","avg_ccu":2685.1,"min_ccu":1946,"max_ccu":3554,"samples":20,"sess":19.31,"sess_h":23.0,"like":98.21},
 "10769835283":{"name":"[UPD5 ✨] Depth Incremental","avg_ccu":18131.8,"min_ccu":12878,"max_ccu":22718,"samples":20,"sess":33.77,"sess_h":23.0,"like":96.53},
