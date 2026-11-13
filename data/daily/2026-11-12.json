@@ -1,4 +1,4 @@
-{"date": "2026-11-12", "timezone": "America/New_York", "generated_utc": "2026-11-13T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-13T04:10:00Z", 8964681], "genres": {"Simulation": 41.658, "Survival": 13.778, "Roleplay & Avatar Sim": 10.992, "Action": 7.312, "RPG": 6.977, "Sports & Racing": 3.762, "Shooter": 3.729, "Strategy": 3.23, "Obby & Platformer": 3.017, "Party & Casual": 1.761, "Adventure": 1.304, "Shopping": 0.92, "Other": 0.619, "Social": 0.447, "Puzzle": 0.309, "Entertainment": 0.184}, "genre_hours": 24,"games":{
+{"date": "2026-11-12", "timezone": "America/New_York", "generated_utc": "2026-11-13T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-13T04:10:00Z", 8964681], "genres": {"Simulation": 41.658, "Survival": 13.778, "Roleplay & Avatar Sim": 10.992, "Action": 7.312, "RPG": 6.977, "Sports & Racing": 3.762, "Shooter": 3.729, "Strategy": 3.23, "Obby & Platformer": 3.017, "Party & Casual": 1.761, "Adventure": 1.304, "Shopping": 0.92, "Other": 0.619, "Social": 0.447, "Puzzle": 0.309, "Entertainment": 0.184}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2488.0,"min_ccu":1665,"max_ccu":2963,"samples":24,"sess":13.71,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6640.5,"min_ccu":4096,"max_ccu":9623,"samples":24,"sess":9.25,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2645.3,"min_ccu":1581,"max_ccu":3690,"samples":24,"sess":12.8,"sess_h":23.0,"like":93.28},
@@ -18,7 +18,7 @@
 "321778215":{"name":"Royale 🔥❄️ High","avg_ccu":7363.1,"min_ccu":5029,"max_ccu":9289,"samples":24,"sess":20.61,"sess_h":23.0,"like":85.91},
 "371263894":{"name":"Greenville RP","avg_ccu":3629.2,"min_ccu":1956,"max_ccu":5517,"samples":24,"sess":17.29,"sess_h":23.0,"like":87.92},
 "372226183":{"name":"🎃Flee the Facility🍁","avg_ccu":20738.4,"min_ccu":7024,"max_ccu":36252,"samples":24,"sess":13.04,"sess_h":23.0,"like":92.1},
-"383310974":{"name":"[🥤] Adopt Me!","avg_ccu":130228.7,"min_ccu":92169,"max_ccu":159514,"samples":24,"sess":26.49,"sess_h":23.0,"like":86.4},
+"383310974":{"name":"[⚡] Adopt Me!","avg_ccu":130228.7,"min_ccu":92169,"max_ccu":159514,"samples":24,"sess":26.49,"sess_h":23.0,"like":86.4},
 "540382210":{"name":"[🎃🎃 EVENT!!!] FMR","avg_ccu":1024.1,"min_ccu":545,"max_ccu":1566,"samples":24,"sess":12.16,"sess_h":23.0,"like":94.9},
 "547524060":{"name":"Feather Family 🍂","avg_ccu":3088.0,"min_ccu":1846,"max_ccu":4298,"samples":24,"sess":14.44,"sess_h":23.0,"like":91.65},
 "578392296":{"name":"ABA","avg_ccu":9086.8,"min_ccu":6692,"max_ccu":12236,"samples":24,"sess":18.47,"sess_h":23.0,"like":80.66},
@@ -225,7 +225,7 @@
 "7709344486":{"name":"[💀] Steal a Brainrot","avg_ccu":63221.0,"min_ccu":38776,"max_ccu":94058,"samples":24,"sess":9.83,"sess_h":23.0,"like":85.12},
 "7729422550":{"name":"obby but you get smaller every stage","avg_ccu":8509.5,"min_ccu":4592,"max_ccu":11828,"samples":24,"sess":9.75,"sess_h":23.0,"like":34.07},
 "7738524573":{"name":"☣️ ACT 3 | Retro Tower Defense","avg_ccu":804.0,"min_ccu":560,"max_ccu":1057,"samples":24,"sess":10.01,"sess_h":23.0,"like":91.61},
-"7750955984":{"name":"[STEEL!] Hunty Zombie","avg_ccu":1069.7,"min_ccu":874,"max_ccu":1349,"samples":24,"sess":9.72,"sess_h":23.0,"like":95.49},
+"7750955984":{"name":"[2D!] Hunty Zombie","avg_ccu":1069.7,"min_ccu":874,"max_ccu":1349,"samples":24,"sess":9.72,"sess_h":23.0,"like":95.49},
 "7761516673":{"name":"Fight in a Streamer University🎓","avg_ccu":363.9,"min_ccu":179,"max_ccu":629,"samples":24,"sess":11.02,"sess_h":23.0,"like":80.96},
 "7787359931":{"name":"Kingdom World","avg_ccu":6148.3,"min_ccu":1706,"max_ccu":14902,"samples":16,"sess":16.99,"sess_h":15.0,"like":92.19},
 "7843413523":{"name":"Supermarket Together","avg_ccu":1593.5,"min_ccu":758,"max_ccu":2149,"samples":24,"sess":18.37,"sess_h":23.0,"like":94.03},
@@ -611,7 +611,7 @@
 "10771155665":{"name":"[🎃] Ragdoll Sandbox","avg_ccu":8196.7,"min_ccu":5568,"max_ccu":10976,"samples":24,"sess":12.72,"sess_h":23.0,"like":85.93},
 "10771205069":{"name":"Teleport Duels⚡️","avg_ccu":5417.9,"min_ccu":3239,"max_ccu":9365,"samples":23,"sess":15.27,"sess_h":23.0,"like":96.48},
 "10771247057":{"name":"Last Bridge Standing","avg_ccu":2368.3,"min_ccu":1626,"max_ccu":4126,"samples":24,"sess":15.24,"sess_h":23.0,"like":37.39},
-"10771269188":{"name":"[🎯MISSIONS] Ragdoll Physics 2 🩸","avg_ccu":3038.8,"min_ccu":1634,"max_ccu":4524,"samples":24,"sess":9.22,"sess_h":23.0,"like":71.18},
+"10771269188":{"name":"[🌌SABERS!] Ragdoll Physics 2 🩸","avg_ccu":3038.8,"min_ccu":1634,"max_ccu":4524,"samples":24,"sess":9.22,"sess_h":23.0,"like":71.18},
 "10771290199":{"name":"[2x WEEKEND] Farm Evolution","avg_ccu":11630.4,"min_ccu":8097,"max_ccu":17775,"samples":24,"sess":12.19,"sess_h":23.0,"like":92.86},
 "10771327607":{"name":"Punch Out Of Prison","avg_ccu":2508.6,"min_ccu":1778,"max_ccu":3698,"samples":9,"sess":13.37,"sess_h":8.0,"like":85.96},
 "10771350522":{"name":"Tavern Town","avg_ccu":2740.0,"min_ccu":2109,"max_ccu":3110,"samples":24,"sess":46.44,"sess_h":23.0,"like":92.74},
