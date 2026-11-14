@@ -1,4 +1,4 @@
-{"date": "2026-11-12", "timezone": "America/New_York", "generated_utc": "2026-11-14T03:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-13T04:10:00Z", 8964681], "genres": {"Simulation": 41.658, "Survival": 13.778, "Roleplay & Avatar Sim": 10.992, "Action": 7.312, "RPG": 6.977, "Sports & Racing": 3.762, "Shooter": 3.729, "Strategy": 3.23, "Obby & Platformer": 3.017, "Party & Casual": 1.761, "Adventure": 1.304, "Shopping": 0.92, "Other": 0.619, "Social": 0.447, "Puzzle": 0.309, "Entertainment": 0.184}, "genre_hours": 24,"games":{
+{"date": "2026-11-12", "timezone": "America/New_York", "generated_utc": "2026-11-14T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-13T04:10:00Z", 8964681], "genres": {"Simulation": 41.658, "Survival": 13.778, "Roleplay & Avatar Sim": 10.992, "Action": 7.312, "RPG": 6.977, "Sports & Racing": 3.762, "Shooter": 3.729, "Strategy": 3.23, "Obby & Platformer": 3.017, "Party & Casual": 1.761, "Adventure": 1.304, "Shopping": 0.92, "Other": 0.619, "Social": 0.447, "Puzzle": 0.309, "Entertainment": 0.184}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2488.0,"min_ccu":1665,"max_ccu":2963,"samples":24,"sess":13.71,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6640.5,"min_ccu":4096,"max_ccu":9623,"samples":24,"sess":9.25,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":2645.3,"min_ccu":1581,"max_ccu":3690,"samples":24,"sess":12.8,"sess_h":23.0,"like":93.28},
@@ -305,7 +305,7 @@
 "10209534490":{"name":"Chicken Farm 🐣","avg_ccu":1582.4,"min_ccu":1366,"max_ccu":1860,"samples":24,"sess":13.65,"sess_h":23.0,"like":98.94},
 "10222476236":{"name":"🎀 Catalog Avatar Runway","avg_ccu":14069.3,"min_ccu":9858,"max_ccu":17560,"samples":24,"sess":18.88,"sess_h":23.0,"like":92.06},
 "10230942274":{"name":"Ability Arena 💥","avg_ccu":5446.1,"min_ccu":3738,"max_ccu":6805,"samples":24,"sess":16.66,"sess_h":23.0,"like":92.58},
-"10231502419":{"name":"[X2!🔥] SNACK Defense!","avg_ccu":1134.8,"min_ccu":1089,"max_ccu":1168,"samples":24,"sess":40.08,"sess_h":23.0,"like":96.0},
+"10231502419":{"name":"[🦃UPD] SNACK Defense!","avg_ccu":1134.8,"min_ccu":1089,"max_ccu":1168,"samples":24,"sess":40.08,"sess_h":23.0,"like":96.0},
 "10246108265":{"name":"[⚓] Navy War","avg_ccu":410.6,"min_ccu":316,"max_ccu":510,"samples":14,"sess":20.89,"sess_h":13.0,"like":96.55},
 "10258991999":{"name":"[⚓ NAVAL] Command An Army","avg_ccu":5636.9,"min_ccu":4701,"max_ccu":7237,"samples":24,"sess":18.91,"sess_h":23.0,"like":94.69},
 "10259316976":{"name":"Anime Girl Base Tycoon","avg_ccu":1538.4,"min_ccu":1184,"max_ccu":1750,"samples":24,"sess":20.43,"sess_h":23.0,"like":95.32},
