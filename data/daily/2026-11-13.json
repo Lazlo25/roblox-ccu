@@ -1,4 +1,4 @@
-{"date": "2026-11-13", "timezone": "America/New_York", "generated_utc": "2026-11-14T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-14T04:10:00Z", 13875352], "genres": {"Simulation": 40.115, "Survival": 14.178, "Roleplay & Avatar Sim": 12.082, "Action": 7.297, "RPG": 6.63, "Shooter": 4.382, "Sports & Racing": 3.684, "Strategy": 3.089, "Obby & Platformer": 2.99, "Party & Casual": 1.711, "Adventure": 1.455, "Shopping": 0.921, "Other": 0.554, "Social": 0.369, "Puzzle": 0.339, "Entertainment": 0.205}, "genre_hours": 24,"games":{
+{"date": "2026-11-13", "timezone": "America/New_York", "generated_utc": "2026-11-14T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-14T04:10:00Z", 13875352], "genres": {"Simulation": 40.115, "Survival": 14.178, "Roleplay & Avatar Sim": 12.082, "Action": 7.297, "RPG": 6.63, "Shooter": 4.382, "Sports & Racing": 3.684, "Strategy": 3.089, "Obby & Platformer": 2.99, "Party & Casual": 1.711, "Adventure": 1.455, "Shopping": 0.921, "Other": 0.554, "Social": 0.369, "Puzzle": 0.339, "Entertainment": 0.205}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2988.5,"min_ccu":2033,"max_ccu":3902,"samples":24,"sess":14.48,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7835.0,"min_ccu":4586,"max_ccu":12268,"samples":24,"sess":9.67,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5542.8,"min_ccu":1916,"max_ccu":9396,"samples":24,"sess":13.23,"sess_h":23.0,"like":93.28},
@@ -343,7 +343,7 @@
 "10624691669":{"name":"MONOCHROME👁️","avg_ccu":2402.9,"min_ccu":1223,"max_ccu":3348,"samples":24,"sess":3.69,"sess_h":23.0,"like":84.76},
 "10629695169":{"name":"[🌎2] Tap Simulator REBORN","avg_ccu":39226.3,"min_ccu":38083,"max_ccu":40786,"samples":24,"sess":40.46,"sess_h":23.0,"like":93.63},
 "10634461028":{"name":"Drive A Kukirin!","avg_ccu":2345.0,"min_ccu":317,"max_ccu":4958,"samples":24,"sess":9.3,"sess_h":23.0,"like":89.34},
-"10638886777":{"name":"[⏳ 24H] 🧈 Stack A Butter Squishy [ASMR]","avg_ccu":13004.3,"min_ccu":8527,"max_ccu":17320,"samples":24,"sess":13.63,"sess_h":23.0,"like":88.66},
+"10638886777":{"name":"[⏳ 12H] 🧈 Stack A Butter Squishy [ASMR]","avg_ccu":13004.3,"min_ccu":8527,"max_ccu":17320,"samples":24,"sess":13.63,"sess_h":23.0,"like":88.66},
 "10643795368":{"name":"Idle Mafia Game","avg_ccu":2767.4,"min_ccu":2551,"max_ccu":3242,"samples":24,"sess":32.53,"sess_h":23.0,"like":87.76},
 "10648640958":{"name":"[🏆] Hood Rivals","avg_ccu":1021.7,"min_ccu":442,"max_ccu":1847,"samples":24,"sess":6.75,"sess_h":23.0,"like":90.3},
 "10648820673":{"name":"[🍲] Karinderya!","avg_ccu":3533.8,"min_ccu":888,"max_ccu":5890,"samples":24,"sess":22.39,"sess_h":23.0,"like":97.42},
@@ -423,7 +423,7 @@
 "10767138232":{"name":"Kukirin Life [Testing]","avg_ccu":12133.3,"min_ccu":3558,"max_ccu":23254,"samples":24,"sess":11.41,"sess_h":23.0,"like":86.92},
 "10767218742":{"name":"[🚒👨‍🚒] You and Me in Cali 🏡 RP","avg_ccu":7218.8,"min_ccu":3947,"max_ccu":9672,"samples":24,"sess":18.36,"sess_h":23.0,"like":76.78},
 "10767231756":{"name":"Push the Patient [1-2 PLAYER OBBY]","avg_ccu":7826.8,"min_ccu":4632,"max_ccu":11801,"samples":24,"sess":9.93,"sess_h":23.0,"like":87.3},
-"10767330648":{"name":"[🟣🔥] CRAZY 8 Ball","avg_ccu":6464.4,"min_ccu":4037,"max_ccu":9002,"samples":24,"sess":9.85,"sess_h":23.0,"like":98.12},
+"10767330648":{"name":"[ABILITIES] CRAZY 8 Ball","avg_ccu":6464.4,"min_ccu":4037,"max_ccu":9002,"samples":24,"sess":9.85,"sess_h":23.0,"like":98.12},
 "10767353295":{"name":"[NEW MAP!] Supernatural Realm","avg_ccu":534.3,"min_ccu":278,"max_ccu":994,"samples":24,"sess":20.37,"sess_h":23.0,"like":86.85},
 "10767355485":{"name":"[UPD🎙️] Closing Shift","avg_ccu":3211.8,"min_ccu":1167,"max_ccu":6239,"samples":24,"sess":7.28,"sess_h":23.0,"like":90.1},
 "10767380385":{"name":"Sell Fries! [Anomaly] 🍟","avg_ccu":19624.2,"min_ccu":9861,"max_ccu":26160,"samples":24,"sess":19.44,"sess_h":23.0,"like":85.37},
@@ -452,7 +452,7 @@
 "10768003706":{"name":"Create a Robot Fighter","avg_ccu":708.2,"min_ccu":471,"max_ccu":1004,"samples":24,"sess":21.44,"sess_h":23.0,"like":83.58},
 "10768046082":{"name":"My Chiikawa Restaurant! 🎃","avg_ccu":1913.2,"min_ccu":1388,"max_ccu":2641,"samples":24,"sess":21.34,"sess_h":23.0,"like":96.11},
 "10768172922":{"name":"RoWorld [🌎 New Maps!]","avg_ccu":12859.2,"min_ccu":8059,"max_ccu":17143,"samples":24,"sess":6.09,"sess_h":23.0,"like":83.38},
-"10768197635":{"name":"[🃏 COLLECT CARDS] My Trading Card Shop! [BETA]","avg_ccu":2481.2,"min_ccu":1669,"max_ccu":3576,"samples":24,"sess":24.09,"sess_h":23.0,"like":89.86},
+"10768197635":{"name":"[🃏] My Trading Card Shop! [BETA]","avg_ccu":2481.2,"min_ccu":1669,"max_ccu":3576,"samples":24,"sess":24.09,"sess_h":23.0,"like":89.86},
 "10768284407":{"name":"🚨[QUADS] Bike Universe","avg_ccu":14623.3,"min_ccu":8383,"max_ccu":19014,"samples":24,"sess":11.65,"sess_h":23.0,"like":88.41},
 "10768371135":{"name":"[RANKED!] Anime vs Anime!","avg_ccu":0.0,"min_ccu":0,"max_ccu":0,"samples":24,"like":92.17},
 "10768383600":{"name":"[👥UPD] Ragdoll Playground","avg_ccu":11590.1,"min_ccu":6202,"max_ccu":14608,"samples":24,"sess":14.43,"sess_h":23.0,"like":94.63},
