@@ -1,4 +1,4 @@
-{"date": "2026-11-13", "timezone": "America/New_York", "generated_utc": "2026-11-14T04:10:00Z", "through_et": "23:10", "platform_now": ["2026-11-14T04:10:00Z", 13875352], "genres": {"Simulation": 40.115, "Survival": 14.178, "Roleplay & Avatar Sim": 12.082, "Action": 7.297, "RPG": 6.63, "Shooter": 4.382, "Sports & Racing": 3.684, "Strategy": 3.089, "Obby & Platformer": 2.99, "Party & Casual": 1.711, "Adventure": 1.455, "Shopping": 0.921, "Other": 0.554, "Social": 0.369, "Puzzle": 0.339, "Entertainment": 0.205}, "genre_hours": 24,"games":{
+{"date": "2026-11-13", "timezone": "America/New_York", "generated_utc": "2026-11-14T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-14T04:10:00Z", 13875352], "genres": {"Simulation": 40.115, "Survival": 14.178, "Roleplay & Avatar Sim": 12.082, "Action": 7.297, "RPG": 6.63, "Shooter": 4.382, "Sports & Racing": 3.684, "Strategy": 3.089, "Obby & Platformer": 2.99, "Party & Casual": 1.711, "Adventure": 1.455, "Shopping": 0.921, "Other": 0.554, "Social": 0.369, "Puzzle": 0.339, "Entertainment": 0.205}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2988.5,"min_ccu":2033,"max_ccu":3902,"samples":24,"sess":14.48,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7835.0,"min_ccu":4586,"max_ccu":12268,"samples":24,"sess":9.67,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5542.8,"min_ccu":1916,"max_ccu":9396,"samples":24,"sess":13.23,"sess_h":23.0,"like":93.28},
@@ -347,7 +347,7 @@
 "10643795368":{"name":"Idle Mafia Game","avg_ccu":2767.4,"min_ccu":2551,"max_ccu":3242,"samples":24,"sess":32.53,"sess_h":23.0,"like":87.76},
 "10648640958":{"name":"[🏆] Hood Rivals","avg_ccu":1021.7,"min_ccu":442,"max_ccu":1847,"samples":24,"sess":6.75,"sess_h":23.0,"like":90.3},
 "10648820673":{"name":"[🍲] Karinderya!","avg_ccu":3533.8,"min_ccu":888,"max_ccu":5890,"samples":24,"sess":22.39,"sess_h":23.0,"like":97.42},
-"10667357873":{"name":"[1 DAY] 💭Dream Car Collection","avg_ccu":2581.9,"min_ccu":1580,"max_ccu":3513,"samples":24,"sess":14.27,"sess_h":23.0,"like":94.23},
+"10667357873":{"name":"[12 HOURS] 💭Dream Car Collection","avg_ccu":2581.9,"min_ccu":1580,"max_ccu":3513,"samples":24,"sess":14.27,"sess_h":23.0,"like":94.23},
 "10669384399":{"name":"Paint the Face","avg_ccu":3459.6,"min_ccu":2516,"max_ccu":4667,"samples":24,"sess":10.5,"sess_h":23.0,"like":62.74},
 "10673920146":{"name":"Survive a Million Monkeys","avg_ccu":4482.6,"min_ccu":2215,"max_ccu":7974,"samples":24,"sess":14.6,"sess_h":23.0,"like":97.71},
 "10684750879":{"name":"[🎃]+1 Loot To Forge","avg_ccu":3198.0,"min_ccu":2458,"max_ccu":3991,"samples":24,"sess":21.95,"sess_h":23.0,"like":96.58},
@@ -419,7 +419,7 @@
 "10766957927":{"name":"+1 Gun Forge","avg_ccu":10216.2,"min_ccu":8039,"max_ccu":11971,"samples":24,"sess":38.03,"sess_h":23.0,"like":94.55},
 "10766972131":{"name":"Throw Food For Animals","avg_ccu":293546.8,"min_ccu":226180,"max_ccu":371704,"samples":24,"sess":20.11,"sess_h":23.0,"like":94.4},
 "10767012496":{"name":"Turbo Soccer 🚨NEW GAMEMODE🚨 [BETA]","avg_ccu":16575.2,"min_ccu":4797,"max_ccu":26989,"samples":24,"sess":5.23,"sess_h":23.0,"like":92.52},
-"10767110259":{"name":"[🌊W6] +1 Arm Length 💪","avg_ccu":5367.1,"min_ccu":3133,"max_ccu":8535,"samples":24,"sess":11.72,"sess_h":23.0,"like":96.85},
+"10767110259":{"name":"[🏜️W7] +1 Arm Length 💪","avg_ccu":5367.1,"min_ccu":3133,"max_ccu":8535,"samples":24,"sess":11.72,"sess_h":23.0,"like":96.85},
 "10767138232":{"name":"Kukirin Life [Testing]","avg_ccu":12133.3,"min_ccu":3558,"max_ccu":23254,"samples":24,"sess":11.41,"sess_h":23.0,"like":86.92},
 "10767218742":{"name":"[🚒👨‍🚒] You and Me in Cali 🏡 RP","avg_ccu":7218.8,"min_ccu":3947,"max_ccu":9672,"samples":24,"sess":18.36,"sess_h":23.0,"like":76.78},
 "10767231756":{"name":"Push the Patient [1-2 PLAYER OBBY]","avg_ccu":7826.8,"min_ccu":4632,"max_ccu":11801,"samples":24,"sess":9.93,"sess_h":23.0,"like":87.3},
@@ -500,7 +500,7 @@
 "10769420234":{"name":"MOUSE 🐭","avg_ccu":15633.1,"min_ccu":6200,"max_ccu":22491,"samples":24,"sess":10.44,"sess_h":23.0,"like":83.96},
 "10769464063":{"name":"[⚔️UPD] +1 Venom Evolution","avg_ccu":24831.9,"min_ccu":15525,"max_ccu":30625,"samples":24,"sess":17.22,"sess_h":23.0,"like":96.86},
 "10769484703":{"name":"[🐍] What If Disasters","avg_ccu":3050.0,"min_ccu":2203,"max_ccu":4150,"samples":14,"sess":16.09,"sess_h":13.0,"like":90.75},
-"10769487429":{"name":"Voxel Heroes","avg_ccu":3560.8,"min_ccu":2221,"max_ccu":4536,"samples":24,"sess":13.25,"sess_h":23.0,"like":95.39},
+"10769487429":{"name":"[🎮] Voxel Heroes","avg_ccu":3560.8,"min_ccu":2221,"max_ccu":4536,"samples":24,"sess":13.25,"sess_h":23.0,"like":95.39},
 "10769514597":{"name":"Makeup Salon💄","avg_ccu":6957.8,"min_ccu":4003,"max_ccu":9883,"samples":24,"sess":13.72,"sess_h":23.0,"like":97.08},
 "10769541317":{"name":"[⚡] +1 Titan Evolution!","avg_ccu":2129.2,"min_ccu":1496,"max_ccu":2915,"samples":24,"sess":20.03,"sess_h":23.0,"like":91.13},
 "10769543567":{"name":"Cat Battles 🐾","avg_ccu":5189.7,"min_ccu":2392,"max_ccu":8463,"samples":24,"sess":8.5,"sess_h":23.0,"like":73.31},
