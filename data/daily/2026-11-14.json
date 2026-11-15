@@ -1,4 +1,4 @@
-{"date": "2026-11-14", "timezone": "America/New_York", "generated_utc": "2026-11-15T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-15T04:10:00Z", 15474868], "genres": {"Simulation": 43.244, "Survival": 13.944, "Roleplay & Avatar Sim": 11.523, "Action": 7.098, "RPG": 6.313, "Shooter": 4.032, "Sports & Racing": 3.545, "Strategy": 2.668, "Obby & Platformer": 2.585, "Party & Casual": 1.418, "Adventure": 1.346, "Shopping": 0.868, "Other": 0.547, "Puzzle": 0.337, "Social": 0.285, "Entertainment": 0.247}, "genre_hours": 24,"games":{
+{"date": "2026-11-14", "timezone": "America/New_York", "generated_utc": "2026-11-15T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-15T04:10:00Z", 15474868], "genres": {"Simulation": 43.244, "Survival": 13.944, "Roleplay & Avatar Sim": 11.523, "Action": 7.098, "RPG": 6.313, "Shooter": 4.032, "Sports & Racing": 3.545, "Strategy": 2.668, "Obby & Platformer": 2.585, "Party & Casual": 1.418, "Adventure": 1.346, "Shopping": 0.868, "Other": 0.547, "Puzzle": 0.337, "Social": 0.285, "Entertainment": 0.247}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3965.2,"min_ccu":3254,"max_ccu":4659,"samples":24,"sess":14.68,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9728.9,"min_ccu":5923,"max_ccu":13826,"samples":24,"sess":9.64,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":7186.2,"min_ccu":5308,"max_ccu":9179,"samples":24,"sess":13.93,"sess_h":23.0,"like":93.29},
@@ -350,7 +350,7 @@
 "10685282333":{"name":"Ball VS Ball [Trading Plaza]","avg_ccu":13615.5,"min_ccu":7974,"max_ccu":17697,"samples":24,"sess":11.73,"sess_h":23.0,"like":88.47},
 "10698216738":{"name":"[BOSS] Military Army Tycoon","avg_ccu":7827.3,"min_ccu":5288,"max_ccu":10292,"samples":24,"sess":19.1,"sess_h":23.0,"like":97.52},
 "10700618962":{"name":"[⚽] Blue Lock Farm","avg_ccu":8092.9,"min_ccu":5315,"max_ccu":37336,"samples":24,"sess":17.95,"sess_h":23.0,"like":98.05},
-"10701622575":{"name":"[⏳] Steal an Anime Pack","avg_ccu":12185.4,"min_ccu":7125,"max_ccu":23342,"samples":24,"sess":17.23,"sess_h":23.0,"like":95.96},
+"10701622575":{"name":"[⌛] Steal an Anime Pack","avg_ccu":12185.4,"min_ccu":7125,"max_ccu":23342,"samples":24,"sess":17.23,"sess_h":23.0,"like":95.96},
 "10708913337":{"name":"[🍂] Anime Dice","avg_ccu":22319.4,"min_ccu":21077,"max_ccu":23287,"samples":24,"sess":37.33,"sess_h":23.0,"like":98.98},
 "10732236937":{"name":"[ Muto Prime ] Kaiju Alpha","avg_ccu":10377.5,"min_ccu":5804,"max_ccu":13607,"samples":24,"sess":18.87,"sess_h":23.0,"like":92.24},
 "10733617110":{"name":"[🚨 LOCKDOWN] Fatal Baboons","avg_ccu":21969.1,"min_ccu":16486,"max_ccu":27513,"samples":24,"sess":9.75,"sess_h":23.0,"like":87.49},
@@ -608,7 +608,7 @@
 "10771570570":{"name":"[🎃]Cars Overboard","avg_ccu":3563.5,"min_ccu":2122,"max_ccu":4909,"samples":24,"sess":14.26,"sess_h":23.0,"like":91.86},
 "10771584764":{"name":"[NOW!⏳] Create A Disaster💥","avg_ccu":5173.4,"min_ccu":3705,"max_ccu":6607,"samples":24,"sess":8.05,"sess_h":23.0,"like":89.79},
 "10771586944":{"name":"+1 Boxing Battle Evolution","avg_ccu":11547.6,"min_ccu":7360,"max_ccu":15489,"samples":24,"sess":13.73,"sess_h":23.0,"like":89.15},
-"10771611437":{"name":"[UPD] Steal an Nightmare Egg","avg_ccu":5575.3,"min_ccu":3589,"max_ccu":20554,"samples":24,"sess":14.32,"sess_h":23.0,"like":85.96},
+"10771611437":{"name":"Steal an Nightmare Egg","avg_ccu":5575.3,"min_ccu":3589,"max_ccu":20554,"samples":24,"sess":14.32,"sess_h":23.0,"like":85.96},
 "10771643321":{"name":"Steal A Balut","avg_ccu":18407.8,"min_ccu":4843,"max_ccu":79752,"samples":24,"sess":16.46,"sess_h":23.0,"like":94.64},
 "10771680162":{"name":"Can You Pass A Driving Test?","avg_ccu":22693.6,"min_ccu":12255,"max_ccu":31552,"samples":24,"sess":15.84,"sess_h":23.0,"like":85.46},
 "10771684661":{"name":"Drill City: Chicago","avg_ccu":1254.2,"min_ccu":470,"max_ccu":1875,"samples":24,"sess":18.56,"sess_h":23.0,"like":98.56},
