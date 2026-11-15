@@ -1,4 +1,4 @@
-{"date": "2026-11-14", "timezone": "America/New_York", "generated_utc": "2026-11-15T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-15T04:10:00Z", 15474868], "genres": {"Simulation": 43.244, "Survival": 13.944, "Roleplay & Avatar Sim": 11.523, "Action": 7.098, "RPG": 6.313, "Shooter": 4.032, "Sports & Racing": 3.545, "Strategy": 2.668, "Obby & Platformer": 2.585, "Party & Casual": 1.418, "Adventure": 1.346, "Shopping": 0.868, "Other": 0.547, "Puzzle": 0.337, "Social": 0.285, "Entertainment": 0.247}, "genre_hours": 24,"games":{
+{"date": "2026-11-14", "timezone": "America/New_York", "generated_utc": "2026-11-15T14:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-15T04:10:00Z", 15474868], "genres": {"Simulation": 43.244, "Survival": 13.944, "Roleplay & Avatar Sim": 11.523, "Action": 7.098, "RPG": 6.313, "Shooter": 4.032, "Sports & Racing": 3.545, "Strategy": 2.668, "Obby & Platformer": 2.585, "Party & Casual": 1.418, "Adventure": 1.346, "Shopping": 0.868, "Other": 0.547, "Puzzle": 0.337, "Social": 0.285, "Entertainment": 0.247}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3965.2,"min_ccu":3254,"max_ccu":4659,"samples":24,"sess":14.68,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9728.9,"min_ccu":5923,"max_ccu":13826,"samples":24,"sess":9.64,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":7186.2,"min_ccu":5308,"max_ccu":9179,"samples":24,"sess":13.93,"sess_h":23.0,"like":93.29},
@@ -547,7 +547,7 @@
 "10770299564":{"name":"DigCrew","avg_ccu":5112.2,"min_ccu":4221,"max_ccu":6472,"samples":11,"sess":20.56,"sess_h":10.0,"like":83.02},
 "10770306793":{"name":"[♾️ENDLESS] 1M Clicks To Escape","avg_ccu":3631.1,"min_ccu":2487,"max_ccu":5121,"samples":24,"sess":17.52,"sess_h":23.0,"like":88.87},
 "10770404227":{"name":"[✨ENCHANTS] Escape Prison with a Toothpick","avg_ccu":2159.4,"min_ccu":1434,"max_ccu":3489,"samples":24,"sess":18.8,"sess_h":23.0,"like":97.5},
-"10770431439":{"name":"7 Days as a Pet [🏡NEIGHBORHOOD PT.1]","avg_ccu":2090.7,"min_ccu":1097,"max_ccu":3355,"samples":24,"sess":13.45,"sess_h":23.0,"like":88.21},
+"10770431439":{"name":"7 Days as a Pet [🏡UPDATE 6]","avg_ccu":2090.7,"min_ccu":1097,"max_ccu":3355,"samples":24,"sess":13.45,"sess_h":23.0,"like":88.21},
 "10770433673":{"name":"[🌠UPD3] +1 Bow Forge","avg_ccu":4539.0,"min_ccu":4111,"max_ccu":5194,"samples":11,"sess":34.86,"sess_h":10.0,"like":96.38},
 "10770463307":{"name":"Stop The Tsunami!","avg_ccu":27392.5,"min_ccu":13374,"max_ccu":40103,"samples":24,"sess":8.39,"sess_h":23.0,"like":84.9},
 "10770466814":{"name":"[NOW] Clean the Moon!","avg_ccu":7547.9,"min_ccu":4886,"max_ccu":10275,"samples":24,"sess":21.6,"sess_h":23.0,"like":94.63},
@@ -660,7 +660,7 @@
 "10772794231":{"name":"Raycity RB","avg_ccu":2150.5,"min_ccu":872,"max_ccu":3825,"samples":24,"sess":22.63,"sess_h":23.0,"like":97.04},
 "10772798097":{"name":"+1 DONT SPLASH","avg_ccu":1348.1,"min_ccu":891,"max_ccu":1709,"samples":12,"sess":7.93,"sess_h":11.0,"like":68.49},
 "10772816442":{"name":"[🍂] Make Soaps! 🧼","avg_ccu":1543.4,"min_ccu":832,"max_ccu":2159,"samples":24,"sess":26.2,"sess_h":23.0,"like":90.79},
-"10772854892":{"name":"Omega Evolution","avg_ccu":1892.4,"min_ccu":954,"max_ccu":3297,"samples":11,"sess":8.14,"sess_h":10.0,"like":77.67},
+"10772854892":{"name":"[2x WEEKEND] Omega Evolution","avg_ccu":1892.4,"min_ccu":954,"max_ccu":3297,"samples":11,"sess":8.14,"sess_h":10.0,"like":77.67},
 "10772864993":{"name":"Untitled Symbiote Suit Game [VENOM]","avg_ccu":4999.8,"min_ccu":3223,"max_ccu":6986,"samples":24,"sess":11.01,"sess_h":23.0,"like":91.51},
 "10772879271":{"name":"[UPDATE 2.1] 30 Floors Up","avg_ccu":21639.3,"min_ccu":13963,"max_ccu":30300,"samples":24,"sess":18.67,"sess_h":23.0,"like":78.59},
 "10772946647":{"name":"Do Not Stop.","avg_ccu":28753.9,"min_ccu":16676,"max_ccu":38741,"samples":24,"sess":7.82,"sess_h":23.0,"like":89.03},
@@ -708,7 +708,7 @@
 "10773680236":{"name":"[BAB 2] MALAM SAMA ATOK","avg_ccu":2086.0,"min_ccu":847,"max_ccu":2726,"samples":12,"sess":8.27,"sess_h":11.0,"like":57.66},
 "10773738399":{"name":"Be a Cleaning Robot","avg_ccu":5687.0,"min_ccu":3086,"max_ccu":8814,"samples":24,"sess":13.91,"sess_h":23.0,"like":85.41},
 "10773752277":{"name":"Raise Your Family!👶","avg_ccu":2870.8,"min_ccu":2146,"max_ccu":3844,"samples":24,"sess":10.32,"sess_h":23.0,"like":75.67},
-"10773775450":{"name":"[UPD] Malam Sama Kembar","avg_ccu":4450.2,"min_ccu":251,"max_ccu":10620,"samples":24,"sess":9.46,"sess_h":23.0,"like":80.63},
+"10773775450":{"name":"[1.5] Malam Sama Kembar","avg_ccu":4450.2,"min_ccu":251,"max_ccu":10620,"samples":24,"sess":9.46,"sess_h":23.0,"like":80.63},
 "10773874482":{"name":"Gecko Duo 🦎 [2 Player Obby]","avg_ccu":10538.6,"min_ccu":4008,"max_ccu":17278,"samples":24,"sess":9.23,"sess_h":23.0,"like":90.44},
 "10773881289":{"name":"[UPD] Blood Lab","avg_ccu":7217.0,"min_ccu":3440,"max_ccu":10908,"samples":24,"sess":16.96,"sess_h":23.0,"like":80.13},
 "10773907070":{"name":"RoChess!","avg_ccu":6831.5,"min_ccu":4347,"max_ccu":8721,"samples":24,"sess":5.6,"sess_h":23.0,"like":75.76},
