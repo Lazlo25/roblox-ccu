@@ -1,4 +1,4 @@
-{"date": "2026-11-14", "timezone": "America/New_York", "generated_utc": "2026-11-15T08:10:01Z", "through_et": "24:00", "platform_now": ["2026-11-15T04:10:00Z", 15474868], "genres": {"Simulation": 43.244, "Survival": 13.944, "Roleplay & Avatar Sim": 11.523, "Action": 7.098, "RPG": 6.313, "Shooter": 4.032, "Sports & Racing": 3.545, "Strategy": 2.668, "Obby & Platformer": 2.585, "Party & Casual": 1.418, "Adventure": 1.346, "Shopping": 0.868, "Other": 0.547, "Puzzle": 0.337, "Social": 0.285, "Entertainment": 0.247}, "genre_hours": 24,"games":{
+{"date": "2026-11-14", "timezone": "America/New_York", "generated_utc": "2026-11-15T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-15T04:10:00Z", 15474868], "genres": {"Simulation": 43.244, "Survival": 13.944, "Roleplay & Avatar Sim": 11.523, "Action": 7.098, "RPG": 6.313, "Shooter": 4.032, "Sports & Racing": 3.545, "Strategy": 2.668, "Obby & Platformer": 2.585, "Party & Casual": 1.418, "Adventure": 1.346, "Shopping": 0.868, "Other": 0.547, "Puzzle": 0.337, "Social": 0.285, "Entertainment": 0.247}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3965.2,"min_ccu":3254,"max_ccu":4659,"samples":24,"sess":14.68,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9728.9,"min_ccu":5923,"max_ccu":13826,"samples":24,"sess":9.64,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":7186.2,"min_ccu":5308,"max_ccu":9179,"samples":24,"sess":13.93,"sess_h":23.0,"like":93.29},
@@ -85,7 +85,7 @@
 "2992873140":{"name":"Emergency Hamburg","avg_ccu":13167.1,"min_ccu":2028,"max_ccu":22443,"samples":24,"sess":15.16,"sess_h":23.0,"like":85.99},
 "3012965062":{"name":"[2X POINTS] The Presentation Experience","avg_ccu":3298.5,"min_ccu":2052,"max_ccu":4507,"samples":24,"sess":12.29,"sess_h":23.0,"like":91.26},
 "3064619271":{"name":"Final Stand: Remastered","avg_ccu":825.0,"min_ccu":402,"max_ccu":1279,"samples":24,"sess":37.21,"sess_h":23.0,"like":87.38},
-"3110388936":{"name":"[Black Flames Susanoo 🔥] Ninja Time","avg_ccu":1676.4,"min_ccu":222,"max_ccu":2219,"samples":24,"sess":23.42,"sess_h":23.0,"like":90.43},
+"3110388936":{"name":"[Black Flames Susanoo🔥] Ninja Time","avg_ccu":1676.4,"min_ccu":222,"max_ccu":2219,"samples":24,"sess":23.42,"sess_h":23.0,"like":90.43},
 "3164075108":{"name":"[🎃MADARA] Dragon Soul | Anime MMO 🐲","avg_ccu":3943.8,"min_ccu":2700,"max_ccu":6799,"samples":24,"sess":27.83,"sess_h":23.0,"like":94.65},
 "3164482049":{"name":"[SPATIAL] Clover RPG","avg_ccu":535.7,"min_ccu":352,"max_ccu":683,"samples":24,"sess":28.8,"sess_h":23.0,"like":82.53},
 "3183403065":{"name":"[☀️UPD 21🏖️] Anime Adventures","avg_ccu":88574.7,"min_ccu":73504,"max_ccu":100260,"samples":24,"sess":23.77,"sess_h":23.0,"like":92.09},
@@ -694,7 +694,7 @@
 "10773466222":{"name":"[Gift] Pok Pok","avg_ccu":2081.7,"min_ccu":196,"max_ccu":5286,"samples":10,"sess":16.44,"sess_h":9.0,"like":93.66},
 "10773487349":{"name":"[🐜] Ant Evolution","avg_ccu":17373.4,"min_ccu":8043,"max_ccu":27329,"samples":24,"sess":21.27,"sess_h":23.0,"like":88.34},
 "10773501077":{"name":"Growblox","avg_ccu":3424.8,"min_ccu":2107,"max_ccu":4102,"samples":24,"sess":3.99,"sess_h":23.0,"like":85.51},
-"10773502711":{"name":"[🩸TWISTER ] BoneBox Engine","avg_ccu":8669.6,"min_ccu":7466,"max_ccu":9531,"samples":11,"sess":11.06,"sess_h":10.0,"like":93.9},
+"10773502711":{"name":"[🦖T-REX ] BoneBox Engine 🩸","avg_ccu":8669.6,"min_ccu":7466,"max_ccu":9531,"samples":11,"sess":11.06,"sess_h":10.0,"like":93.9},
 "10773502882":{"name":"[UPD] Ride a Bike Downhill!","avg_ccu":3874.8,"min_ccu":2476,"max_ccu":5422,"samples":24,"sess":11.42,"sess_h":23.0,"like":68.53},
 "10773512703":{"name":"Ragdoll Verity Sandbox","avg_ccu":1710.2,"min_ccu":1292,"max_ccu":2153,"samples":24,"sess":9.26,"sess_h":23.0,"like":75.09},
 "10773517934":{"name":"[UPD] Rollercoaster Tycoon 🎢","avg_ccu":7252.7,"min_ccu":4315,"max_ccu":9561,"samples":24,"sess":14.72,"sess_h":23.0,"like":87.39},
