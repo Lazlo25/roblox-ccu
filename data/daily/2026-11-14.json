@@ -1,4 +1,4 @@
-{"date": "2026-11-14", "timezone": "America/New_York", "generated_utc": "2026-11-15T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-15T04:10:00Z", 15474868], "genres": {"Simulation": 43.244, "Survival": 13.944, "Roleplay & Avatar Sim": 11.523, "Action": 7.098, "RPG": 6.313, "Shooter": 4.032, "Sports & Racing": 3.545, "Strategy": 2.668, "Obby & Platformer": 2.585, "Party & Casual": 1.418, "Adventure": 1.346, "Shopping": 0.868, "Other": 0.547, "Puzzle": 0.337, "Social": 0.285, "Entertainment": 0.247}, "genre_hours": 24,"games":{
+{"date": "2026-11-14", "timezone": "America/New_York", "generated_utc": "2026-11-15T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-15T04:10:00Z", 15474868], "genres": {"Simulation": 43.244, "Survival": 13.944, "Roleplay & Avatar Sim": 11.523, "Action": 7.098, "RPG": 6.313, "Shooter": 4.032, "Sports & Racing": 3.545, "Strategy": 2.668, "Obby & Platformer": 2.585, "Party & Casual": 1.418, "Adventure": 1.346, "Shopping": 0.868, "Other": 0.547, "Puzzle": 0.337, "Social": 0.285, "Entertainment": 0.247}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3965.2,"min_ccu":3254,"max_ccu":4659,"samples":24,"sess":14.68,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9728.9,"min_ccu":5923,"max_ccu":13826,"samples":24,"sess":9.64,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":7186.2,"min_ccu":5308,"max_ccu":9179,"samples":24,"sess":13.93,"sess_h":23.0,"like":93.29},
@@ -488,7 +488,7 @@
 "10769266554":{"name":"BRASS HELL BULLET INCREMENTAL","avg_ccu":2441.6,"min_ccu":1918,"max_ccu":3021,"samples":24,"sess":30.17,"sess_h":23.0,"like":91.79},
 "10769293184":{"name":"[RANKED] HOOP JAM! 🏀","avg_ccu":5078.4,"min_ccu":4179,"max_ccu":6309,"samples":24,"sess":5.33,"sess_h":23.0,"like":87.6},
 "10769299214":{"name":"Mog to Steal an Egg","avg_ccu":3514.2,"min_ccu":2538,"max_ccu":5953,"samples":11,"sess":15.27,"sess_h":10.0,"like":88.58},
-"10769315427":{"name":"[🏁] Steal A Pet And Ride It!","avg_ccu":20429.3,"min_ccu":10665,"max_ccu":66687,"samples":24,"sess":14.91,"sess_h":23.0,"like":94.34},
+"10769315427":{"name":"[W3🌸] Steal A Pet And Ride It!","avg_ccu":20429.3,"min_ccu":10665,"max_ccu":66687,"samples":24,"sess":14.91,"sess_h":23.0,"like":94.34},
 "10769341404":{"name":"[🌊] Steal Eggs From Tsunami!","avg_ccu":11451.1,"min_ccu":6644,"max_ccu":15056,"samples":24,"sess":15.61,"sess_h":23.0,"like":94.55},
 "10769344844":{"name":"[⚔️] 1.8 KIT PVP","avg_ccu":5682.4,"min_ccu":3819,"max_ccu":7572,"samples":24,"sess":14.22,"sess_h":23.0,"like":65.08},
 "10769361895":{"name":"LINE UP! Metro Tycoon","avg_ccu":10254.6,"min_ccu":8259,"max_ccu":12272,"samples":24,"sess":23.06,"sess_h":23.0,"like":88.3},
@@ -606,7 +606,7 @@
 "10771520659":{"name":"[BETA] BONK! Ragdoll Boxing 🥊","avg_ccu":3319.5,"min_ccu":2432,"max_ccu":4102,"samples":24,"sess":5.02,"sess_h":23.0,"like":91.76},
 "10771544071":{"name":"Ragdoll Wars!","avg_ccu":10536.2,"min_ccu":7731,"max_ccu":15788,"samples":24,"sess":17.99,"sess_h":23.0,"like":94.1},
 "10771570570":{"name":"[🎃]Cars Overboard","avg_ccu":3563.5,"min_ccu":2122,"max_ccu":4909,"samples":24,"sess":14.26,"sess_h":23.0,"like":91.86},
-"10771584764":{"name":"[NOW!⏳] Create A Disaster💥","avg_ccu":5173.4,"min_ccu":3705,"max_ccu":6607,"samples":24,"sess":8.05,"sess_h":23.0,"like":89.79},
+"10771584764":{"name":"[UPD 4] Create A Disaster💥","avg_ccu":5173.4,"min_ccu":3705,"max_ccu":6607,"samples":24,"sess":8.05,"sess_h":23.0,"like":89.79},
 "10771586944":{"name":"+1 Boxing Battle Evolution","avg_ccu":11547.6,"min_ccu":7360,"max_ccu":15489,"samples":24,"sess":13.73,"sess_h":23.0,"like":89.15},
 "10771611437":{"name":"Steal an Nightmare Egg","avg_ccu":5575.3,"min_ccu":3589,"max_ccu":20554,"samples":24,"sess":14.32,"sess_h":23.0,"like":85.96},
 "10771643321":{"name":"Steal A Balut","avg_ccu":18407.8,"min_ccu":4843,"max_ccu":79752,"samples":24,"sess":16.46,"sess_h":23.0,"like":94.64},
@@ -660,7 +660,7 @@
 "10772794231":{"name":"Raycity RB","avg_ccu":2150.5,"min_ccu":872,"max_ccu":3825,"samples":24,"sess":22.63,"sess_h":23.0,"like":97.04},
 "10772798097":{"name":"+1 DONT SPLASH","avg_ccu":1348.1,"min_ccu":891,"max_ccu":1709,"samples":12,"sess":7.93,"sess_h":11.0,"like":68.49},
 "10772816442":{"name":"[🍂] Make Soaps! 🧼","avg_ccu":1543.4,"min_ccu":832,"max_ccu":2159,"samples":24,"sess":26.2,"sess_h":23.0,"like":90.79},
-"10772854892":{"name":"🥚 OMEGA HATCHERS X999","avg_ccu":1892.4,"min_ccu":954,"max_ccu":3297,"samples":11,"sess":8.14,"sess_h":10.0,"like":77.67},
+"10772854892":{"name":"Omega Evolution","avg_ccu":1892.4,"min_ccu":954,"max_ccu":3297,"samples":11,"sess":8.14,"sess_h":10.0,"like":77.67},
 "10772864993":{"name":"Untitled Symbiote Suit Game [VENOM]","avg_ccu":4999.8,"min_ccu":3223,"max_ccu":6986,"samples":24,"sess":11.01,"sess_h":23.0,"like":91.51},
 "10772879271":{"name":"[UPDATE 2.1] 30 Floors Up","avg_ccu":21639.3,"min_ccu":13963,"max_ccu":30300,"samples":24,"sess":18.67,"sess_h":23.0,"like":78.59},
 "10772946647":{"name":"Do Not Stop.","avg_ccu":28753.9,"min_ccu":16676,"max_ccu":38741,"samples":24,"sess":7.82,"sess_h":23.0,"like":89.03},
