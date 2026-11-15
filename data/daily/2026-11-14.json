@@ -1,4 +1,4 @@
-{"date": "2026-11-14", "timezone": "America/New_York", "generated_utc": "2026-11-15T04:10:00Z", "through_et": "23:10", "platform_now": ["2026-11-15T04:10:00Z", 15474868], "genres": {"Simulation": 43.244, "Survival": 13.944, "Roleplay & Avatar Sim": 11.523, "Action": 7.098, "RPG": 6.313, "Shooter": 4.032, "Sports & Racing": 3.545, "Strategy": 2.668, "Obby & Platformer": 2.585, "Party & Casual": 1.418, "Adventure": 1.346, "Shopping": 0.868, "Other": 0.547, "Puzzle": 0.337, "Social": 0.285, "Entertainment": 0.247}, "genre_hours": 24,"games":{
+{"date": "2026-11-14", "timezone": "America/New_York", "generated_utc": "2026-11-15T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-15T04:10:00Z", 15474868], "genres": {"Simulation": 43.244, "Survival": 13.944, "Roleplay & Avatar Sim": 11.523, "Action": 7.098, "RPG": 6.313, "Shooter": 4.032, "Sports & Racing": 3.545, "Strategy": 2.668, "Obby & Platformer": 2.585, "Party & Casual": 1.418, "Adventure": 1.346, "Shopping": 0.868, "Other": 0.547, "Puzzle": 0.337, "Social": 0.285, "Entertainment": 0.247}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3965.2,"min_ccu":3254,"max_ccu":4659,"samples":24,"sess":14.68,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":9728.9,"min_ccu":5923,"max_ccu":13826,"samples":24,"sess":9.64,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":7186.2,"min_ccu":5308,"max_ccu":9179,"samples":24,"sess":13.93,"sess_h":23.0,"like":93.29},
@@ -280,7 +280,7 @@
 "9949288829":{"name":"Steal from KPOP Idols!","avg_ccu":2085.5,"min_ccu":866,"max_ccu":8999,"samples":24,"sess":17.25,"sess_h":23.0,"like":97.31},
 "9950184599":{"name":"(💨AIR SUSPENSION, TRAILERS) Young Street, Ontario","avg_ccu":2460.0,"min_ccu":1782,"max_ccu":3368,"samples":24,"sess":21.33,"sess_h":23.0,"like":98.02},
 "9970645639":{"name":"Run a Restaurant!","avg_ccu":3671.5,"min_ccu":3264,"max_ccu":5423,"samples":24,"sess":25.53,"sess_h":23.0,"like":98.66},
-"9978329815":{"name":"Mukbang Game [Testing]🫓🍲!","avg_ccu":19209.8,"min_ccu":13777,"max_ccu":24213,"samples":24,"sess":12.76,"sess_h":23.0,"like":92.58},
+"9978329815":{"name":"Mukbang Game [Testing]🍜🥢!","avg_ccu":19209.8,"min_ccu":13777,"max_ccu":24213,"samples":24,"sess":12.76,"sess_h":23.0,"like":92.58},
 "9979684281":{"name":"🔧 Mechanic Legends [BODYKITS]","avg_ccu":4622.0,"min_ccu":3438,"max_ccu":5798,"samples":24,"sess":15.68,"sess_h":23.0,"like":92.16},
 "9996384072":{"name":"Reel for Kpop Idols","avg_ccu":1514.3,"min_ccu":1123,"max_ccu":1994,"samples":24,"sess":24.26,"sess_h":23.0,"like":97.67},
 "10004244222":{"name":"[8x🕰️] Kick a Lucky Block","avg_ccu":20379.8,"min_ccu":8484,"max_ccu":94702,"samples":24,"sess":11.74,"sess_h":23.0,"like":94.94},
@@ -651,7 +651,7 @@
 "10772465573":{"name":"My iPad","avg_ccu":4858.0,"min_ccu":4284,"max_ccu":6364,"samples":24,"sess":10.05,"sess_h":23.0,"like":86.56},
 "10772497615":{"name":"[👽UPD] Break And Hide The Plane! ✈️","avg_ccu":2120.5,"min_ccu":1020,"max_ccu":3180,"samples":24,"sess":14.9,"sess_h":23.0,"like":81.87},
 "10772543706":{"name":"[🛸] Sweep The Moon 🌕","avg_ccu":32362.5,"min_ccu":19920,"max_ccu":47633,"samples":24,"sess":25.45,"sess_h":23.0,"like":97.72},
-"10772611738":{"name":"AURA X [UPD]","avg_ccu":4098.1,"min_ccu":2906,"max_ccu":5060,"samples":24,"sess":14.93,"sess_h":23.0,"like":89.67},
+"10772611738":{"name":"AURA X","avg_ccu":4098.1,"min_ccu":2906,"max_ccu":5060,"samples":24,"sess":14.93,"sess_h":23.0,"like":89.67},
 "10772616540":{"name":"[PARIS] Explore the World ✈️","avg_ccu":4447.8,"min_ccu":2301,"max_ccu":6577,"samples":24,"sess":15.62,"sess_h":23.0,"like":77.98},
 "10772627574":{"name":"Cook Pizzas [Anomaly]","avg_ccu":10446.0,"min_ccu":5718,"max_ccu":15098,"samples":24,"sess":10.0,"sess_h":23.0,"like":70.35},
 "10772648808":{"name":"[💡UPD] Rarest Answer Party! 🦐","avg_ccu":7332.6,"min_ccu":5887,"max_ccu":8317,"samples":24,"sess":14.83,"sess_h":23.0,"like":52.27},
