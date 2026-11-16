@@ -1,4 +1,4 @@
-{"date": "2026-11-15", "timezone": "America/New_York", "generated_utc": "2026-11-16T21:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-16T04:10:00Z", 9518346], "genres": {"Simulation": 39.751, "Survival": 14.196, "Roleplay & Avatar Sim": 12.276, "Action": 7.943, "RPG": 6.898, "Shooter": 4.051, "Sports & Racing": 3.93, "Strategy": 2.882, "Obby & Platformer": 2.756, "Adventure": 1.45, "Party & Casual": 1.445, "Shopping": 0.936, "Other": 0.583, "Puzzle": 0.336, "Social": 0.299, "Entertainment": 0.265}, "genre_hours": 24,"games":{
+{"date": "2026-11-15", "timezone": "America/New_York", "generated_utc": "2026-11-16T22:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-16T04:10:00Z", 9518346], "genres": {"Simulation": 39.751, "Survival": 14.196, "Roleplay & Avatar Sim": 12.276, "Action": 7.943, "RPG": 6.898, "Shooter": 4.051, "Sports & Racing": 3.93, "Strategy": 2.882, "Obby & Platformer": 2.756, "Adventure": 1.45, "Party & Casual": 1.445, "Shopping": 0.936, "Other": 0.583, "Puzzle": 0.336, "Social": 0.299, "Entertainment": 0.265}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3860.0,"min_ccu":2672,"max_ccu":4880,"samples":24,"sess":14.72,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":10022.7,"min_ccu":7075,"max_ccu":11826,"samples":24,"sess":9.8,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5646.7,"min_ccu":2501,"max_ccu":7690,"samples":24,"sess":14.3,"sess_h":23.0,"like":93.29},
@@ -510,7 +510,7 @@
 "10769724355":{"name":"Mad Chihuahua🐕","avg_ccu":1921.7,"min_ccu":1644,"max_ccu":2387,"samples":7,"sess":14.22,"sess_h":6.0,"like":98.92},
 "10769764340":{"name":"[🍀] Spin To Upgrade! [REBIRTHS]","avg_ccu":140.5,"min_ccu":83,"max_ccu":216,"samples":24,"sess":27.47,"sess_h":23.0,"like":70.72},
 "10769788746":{"name":"Ro-BassFishing [NEW MAP!!]","avg_ccu":4307.7,"min_ccu":2177,"max_ccu":5929,"samples":24,"sess":16.43,"sess_h":23.0,"like":89.42},
-"10769793590":{"name":"LICENSE PLATE GENERATOR","avg_ccu":7915.1,"min_ccu":4680,"max_ccu":10122,"samples":24,"sess":21.71,"sess_h":23.0,"like":96.73},
+"10769793590":{"name":"⚒️ LICENSE PLATE GENERATOR","avg_ccu":7915.1,"min_ccu":4680,"max_ccu":10122,"samples":24,"sess":21.71,"sess_h":23.0,"like":96.73},
 "10769808534":{"name":"Be a Soccer Manager ⚽","avg_ccu":2680.5,"min_ccu":1493,"max_ccu":3658,"samples":24,"sess":22.54,"sess_h":23.0,"like":98.18},
 "10769835283":{"name":"[UPD6 🎉] Depth Incremental","avg_ccu":23543.2,"min_ccu":16304,"max_ccu":30121,"samples":24,"sess":38.99,"sess_h":23.0,"like":96.7},
 "10769835310":{"name":"Clean a Painting","avg_ccu":1867.3,"min_ccu":1447,"max_ccu":2306,"samples":24,"sess":20.89,"sess_h":23.0,"like":98.64},
@@ -530,7 +530,7 @@
 "10770024330":{"name":"[🧬HUGE UPDATE] Gym Legacy","avg_ccu":1005.6,"min_ccu":521,"max_ccu":1505,"samples":24,"sess":17.31,"sess_h":23.0,"like":92.1},
 "10770026560":{"name":"[🎣] Cast a Magnet","avg_ccu":5491.4,"min_ccu":4361,"max_ccu":7272,"samples":7,"sess":25.74,"sess_h":6.0,"like":87.99},
 "10770036723":{"name":"[UPD] Club Legacy: Soccer Manager [ALPHA]","avg_ccu":3820.8,"min_ccu":2560,"max_ccu":5332,"samples":24,"sess":31.55,"sess_h":23.0,"like":92.89},
-"10770104321":{"name":"[UPD] Draw a Flag!","avg_ccu":5416.2,"min_ccu":3440,"max_ccu":8506,"samples":24,"sess":10.98,"sess_h":23.0,"like":60.3},
+"10770104321":{"name":"[✏️] Draw a Flag!","avg_ccu":5416.2,"min_ccu":3440,"max_ccu":8506,"samples":24,"sess":10.98,"sess_h":23.0,"like":60.3},
 "10770110947":{"name":"[CH3] Crack THE Geode!","avg_ccu":614.6,"min_ccu":420,"max_ccu":964,"samples":24,"sess":10.44,"sess_h":23.0,"like":89.23},
 "10770198813":{"name":"[🤪] Wacky Games","avg_ccu":6262.0,"min_ccu":4401,"max_ccu":8572,"samples":24,"sess":14.2,"sess_h":23.0,"like":76.11},
 "10770228857":{"name":"[⚡] Steal a Superpower!","avg_ccu":14856.5,"min_ccu":9542,"max_ccu":18985,"samples":24,"sess":24.68,"sess_h":23.0,"like":99.12},
