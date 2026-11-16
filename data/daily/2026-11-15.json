@@ -1,4 +1,4 @@
-{"date": "2026-11-15", "timezone": "America/New_York", "generated_utc": "2026-11-16T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-16T04:10:00Z", 9518346], "genres": {"Simulation": 39.751, "Survival": 14.196, "Roleplay & Avatar Sim": 12.276, "Action": 7.943, "RPG": 6.898, "Shooter": 4.051, "Sports & Racing": 3.93, "Strategy": 2.882, "Obby & Platformer": 2.756, "Adventure": 1.45, "Party & Casual": 1.445, "Shopping": 0.936, "Other": 0.583, "Puzzle": 0.336, "Social": 0.299, "Entertainment": 0.265}, "genre_hours": 24,"games":{
+{"date": "2026-11-15", "timezone": "America/New_York", "generated_utc": "2026-11-16T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-16T04:10:00Z", 9518346], "genres": {"Simulation": 39.751, "Survival": 14.196, "Roleplay & Avatar Sim": 12.276, "Action": 7.943, "RPG": 6.898, "Shooter": 4.051, "Sports & Racing": 3.93, "Strategy": 2.882, "Obby & Platformer": 2.756, "Adventure": 1.45, "Party & Casual": 1.445, "Shopping": 0.936, "Other": 0.583, "Puzzle": 0.336, "Social": 0.299, "Entertainment": 0.265}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3860.0,"min_ccu":2672,"max_ccu":4880,"samples":24,"sess":14.72,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":10022.7,"min_ccu":7075,"max_ccu":11826,"samples":24,"sess":9.8,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5646.7,"min_ccu":2501,"max_ccu":7690,"samples":24,"sess":14.3,"sess_h":23.0,"like":93.29},
@@ -180,7 +180,7 @@
 "6717464085":{"name":"War of the Worlds","avg_ccu":2354.8,"min_ccu":1322,"max_ccu":3048,"samples":24,"sess":16.75,"sess_h":23.0,"like":88.7},
 "6726637224":{"name":"Street Life Remastered 🔥","avg_ccu":3108.9,"min_ccu":1970,"max_ccu":4321,"samples":24,"sess":17.0,"sess_h":23.0,"like":87.09},
 "6739698191":{"name":"[WEEK 4 🎃 x BUTCHER] Violence District","avg_ccu":51014.5,"min_ccu":29673,"max_ccu":74290,"samples":24,"sess":18.65,"sess_h":23.0,"like":92.91},
-"6749060816":{"name":"[UPD] Asylum Life 🔊","avg_ccu":5665.1,"min_ccu":3527,"max_ccu":6881,"samples":24,"sess":19.07,"sess_h":23.0,"like":83.23},
+"6749060816":{"name":"Asylum Life 🔊","avg_ccu":5665.1,"min_ccu":3527,"max_ccu":6881,"samples":24,"sess":19.07,"sess_h":23.0,"like":83.23},
 "6751447237":{"name":"[🎃] Car Zone 🏎️ Racing & Drifting","avg_ccu":3509.6,"min_ccu":1748,"max_ccu":4931,"samples":24,"sess":12.66,"sess_h":23.0,"like":96.61},
 "6760085372":{"name":"[🔨 INFINITE] Jujutsu: Zero","avg_ccu":3262.2,"min_ccu":2616,"max_ccu":3711,"samples":24,"sess":30.44,"sess_h":23.0,"like":95.2},
 "6765805766":{"name":"BlockSpin 🔪","avg_ccu":24375.8,"min_ccu":22236,"max_ccu":27589,"samples":24,"sess":18.7,"sess_h":23.0,"like":78.91},
@@ -360,7 +360,7 @@
 "10733617110":{"name":"[🚨 LOCKDOWN] Fatal Baboons","avg_ccu":19644.5,"min_ccu":12734,"max_ccu":26098,"samples":24,"sess":9.99,"sess_h":23.0,"like":87.37},
 "10737656087":{"name":"THA BRONX 3","avg_ccu":3675.8,"min_ccu":1083,"max_ccu":5481,"samples":24,"sess":19.73,"sess_h":23.0,"like":91.9},
 "10739112966":{"name":"Street Soccer Pro","avg_ccu":10374.6,"min_ccu":6492,"max_ccu":13858,"samples":24,"sess":11.77,"sess_h":23.0,"like":84.13},
-"10740316645":{"name":"[⌛NOW!!!] ⛏️ My Anime Mine","avg_ccu":16761.8,"min_ccu":15111,"max_ccu":17604,"samples":24,"sess":36.02,"sess_h":23.0,"like":98.94},
+"10740316645":{"name":"⛏️ My Anime Mine","avg_ccu":16761.8,"min_ccu":15111,"max_ccu":17604,"samples":24,"sess":36.02,"sess_h":23.0,"like":98.94},
 "10741792653":{"name":"Survive The Swarm","avg_ccu":483.7,"min_ccu":386,"max_ccu":606,"samples":24,"sess":12.35,"sess_h":23.0,"like":96.52},
 "10747710159":{"name":"[💬] Word Battle!","avg_ccu":5643.7,"min_ccu":3903,"max_ccu":7523,"samples":24,"sess":14.66,"sess_h":23.0,"like":93.65},
 "10747719434":{"name":"[V6] Feed A Mosquito","avg_ccu":5870.5,"min_ccu":3563,"max_ccu":7979,"samples":24,"sess":16.99,"sess_h":23.0,"like":82.48},
