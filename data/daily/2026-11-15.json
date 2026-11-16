@@ -1,4 +1,4 @@
-{"date": "2026-11-15", "timezone": "America/New_York", "generated_utc": "2026-11-16T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-16T04:10:00Z", 9518346], "genres": {"Simulation": 39.751, "Survival": 14.196, "Roleplay & Avatar Sim": 12.276, "Action": 7.943, "RPG": 6.898, "Shooter": 4.051, "Sports & Racing": 3.93, "Strategy": 2.882, "Obby & Platformer": 2.756, "Adventure": 1.45, "Party & Casual": 1.445, "Shopping": 0.936, "Other": 0.583, "Puzzle": 0.336, "Social": 0.299, "Entertainment": 0.265}, "genre_hours": 24,"games":{
+{"date": "2026-11-15", "timezone": "America/New_York", "generated_utc": "2026-11-16T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-16T04:10:00Z", 9518346], "genres": {"Simulation": 39.751, "Survival": 14.196, "Roleplay & Avatar Sim": 12.276, "Action": 7.943, "RPG": 6.898, "Shooter": 4.051, "Sports & Racing": 3.93, "Strategy": 2.882, "Obby & Platformer": 2.756, "Adventure": 1.45, "Party & Casual": 1.445, "Shopping": 0.936, "Other": 0.583, "Puzzle": 0.336, "Social": 0.299, "Entertainment": 0.265}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3860.0,"min_ccu":2672,"max_ccu":4880,"samples":24,"sess":14.72,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":10022.7,"min_ccu":7075,"max_ccu":11826,"samples":24,"sess":9.8,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5646.7,"min_ccu":2501,"max_ccu":7690,"samples":24,"sess":14.3,"sess_h":23.0,"like":93.29},
@@ -423,7 +423,7 @@
 "10767330648":{"name":"[ABILITIES] CRAZY 8 Ball","avg_ccu":7424.3,"min_ccu":5752,"max_ccu":9171,"samples":24,"sess":9.85,"sess_h":23.0,"like":98.12},
 "10767353295":{"name":"[NEW MAP!] Supernatural Realm","avg_ccu":669.4,"min_ccu":449,"max_ccu":870,"samples":24,"sess":22.32,"sess_h":23.0,"like":86.99},
 "10767355485":{"name":"[UPD🎙️] Closing Shift","avg_ccu":4291.5,"min_ccu":1847,"max_ccu":7102,"samples":24,"sess":7.1,"sess_h":23.0,"like":89.8},
-"10767380385":{"name":"[💎] Sell Fries! [Anomaly] 🍟","avg_ccu":23735.3,"min_ccu":8532,"max_ccu":31917,"samples":24,"sess":20.72,"sess_h":23.0,"like":85.49},
+"10767380385":{"name":"Sell Fries! [Anomaly] 🍟","avg_ccu":23735.3,"min_ccu":8532,"max_ccu":31917,"samples":24,"sess":20.72,"sess_h":23.0,"like":85.49},
 "10767386157":{"name":"Chop A Forest","avg_ccu":5586.8,"min_ccu":3133,"max_ccu":7668,"samples":24,"sess":22.08,"sess_h":23.0,"like":93.17},
 "10767408330":{"name":"Peel THE Potato","avg_ccu":5631.3,"min_ccu":3250,"max_ccu":7475,"samples":24,"sess":12.55,"sess_h":23.0,"like":93.92},
 "10767494536":{"name":"Hike For Eggs","avg_ccu":6868.3,"min_ccu":3767,"max_ccu":12301,"samples":24,"sess":19.74,"sess_h":23.0,"like":96.42},
