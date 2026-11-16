@@ -1,4 +1,4 @@
-{"date": "2026-11-15", "timezone": "America/New_York", "generated_utc": "2026-11-16T16:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-16T04:10:00Z", 9518346], "genres": {"Simulation": 39.751, "Survival": 14.196, "Roleplay & Avatar Sim": 12.276, "Action": 7.943, "RPG": 6.898, "Shooter": 4.051, "Sports & Racing": 3.93, "Strategy": 2.882, "Obby & Platformer": 2.756, "Adventure": 1.45, "Party & Casual": 1.445, "Shopping": 0.936, "Other": 0.583, "Puzzle": 0.336, "Social": 0.299, "Entertainment": 0.265}, "genre_hours": 24,"games":{
+{"date": "2026-11-15", "timezone": "America/New_York", "generated_utc": "2026-11-16T17:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-16T04:10:00Z", 9518346], "genres": {"Simulation": 39.751, "Survival": 14.196, "Roleplay & Avatar Sim": 12.276, "Action": 7.943, "RPG": 6.898, "Shooter": 4.051, "Sports & Racing": 3.93, "Strategy": 2.882, "Obby & Platformer": 2.756, "Adventure": 1.45, "Party & Casual": 1.445, "Shopping": 0.936, "Other": 0.583, "Puzzle": 0.336, "Social": 0.299, "Entertainment": 0.265}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3860.0,"min_ccu":2672,"max_ccu":4880,"samples":24,"sess":14.72,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":10022.7,"min_ccu":7075,"max_ccu":11826,"samples":24,"sess":9.8,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5646.7,"min_ccu":2501,"max_ccu":7690,"samples":24,"sess":14.3,"sess_h":23.0,"like":93.29},
@@ -13,7 +13,7 @@
 "187796008":{"name":"[HALLOWS] Those Who Remain","avg_ccu":349.8,"min_ccu":293,"max_ccu":439,"samples":24,"sess":19.22,"sess_h":23.0,"like":94.12},
 "210851291":{"name":"Build A Boat For Treasure","avg_ccu":15819.4,"min_ccu":8406,"max_ccu":21807,"samples":24,"sess":21.51,"sess_h":23.0,"like":93.39},
 "245662005":{"name":"Jailbreak 🍁🍁","avg_ccu":5648.8,"min_ccu":3975,"max_ccu":7813,"samples":24,"sess":14.7,"sess_h":23.0,"like":87.74},
-"274816972":{"name":"[MOWING RACE🍃] Car Crushers 2 - Physics Sim","avg_ccu":1510.8,"min_ccu":672,"max_ccu":2139,"samples":24,"sess":16.24,"sess_h":23.0,"like":93.47},
+"274816972":{"name":"[New Car!🍃] Car Crushers 2 - Physics Simulation","avg_ccu":1510.8,"min_ccu":672,"max_ccu":2139,"samples":24,"sess":16.24,"sess_h":23.0,"like":93.47},
 "321778215":{"name":"Royale 🔥❄️ High","avg_ccu":9875.3,"min_ccu":7223,"max_ccu":12918,"samples":24,"sess":23.09,"sess_h":23.0,"like":85.91},
 "371263894":{"name":"Greenville RP","avg_ccu":5052.5,"min_ccu":3146,"max_ccu":7232,"samples":24,"sess":17.76,"sess_h":23.0,"like":87.92},
 "372226183":{"name":"🎃Flee the Facility🍁","avg_ccu":25903.3,"min_ccu":9435,"max_ccu":39426,"samples":24,"sess":14.15,"sess_h":23.0,"like":92.1},
@@ -280,7 +280,7 @@
 "9908641400":{"name":"Football Fusion 3","avg_ccu":4003.4,"min_ccu":459,"max_ccu":7721,"samples":24,"sess":10.66,"sess_h":23.0,"like":83.79},
 "9910245722":{"name":"Iron Soul: Dungeon","avg_ccu":1260.3,"min_ccu":765,"max_ccu":1810,"samples":24,"sess":8.72,"sess_h":23.0,"like":98.1},
 "9910794201":{"name":"Chaos Battlegrounds","avg_ccu":7619.0,"min_ccu":4531,"max_ccu":10673,"samples":24,"sess":12.02,"sess_h":23.0,"like":90.07},
-"9931749389":{"name":"[2x Luck] Dungeon Quest Reborn","avg_ccu":2025.8,"min_ccu":1812,"max_ccu":2278,"samples":24,"sess":15.96,"sess_h":23.0,"like":96.44},
+"9931749389":{"name":"[MODIFIERS] Dungeon Quest Reborn","avg_ccu":2025.8,"min_ccu":1812,"max_ccu":2278,"samples":24,"sess":15.96,"sess_h":23.0,"like":96.44},
 "9949288829":{"name":"[UPD] Steal from KPOP Idols!","avg_ccu":2045.6,"min_ccu":950,"max_ccu":8457,"samples":24,"sess":18.02,"sess_h":23.0,"like":97.3},
 "9950184599":{"name":"(💨AIR SUSPENSION, TRAILERS) Young Street, Ontario","avg_ccu":2303.5,"min_ccu":1584,"max_ccu":3184,"samples":24,"sess":22.79,"sess_h":23.0,"like":98.04},
 "9970645639":{"name":"Run a Restaurant!","avg_ccu":3590.8,"min_ccu":2882,"max_ccu":4580,"samples":24,"sess":25.39,"sess_h":23.0,"like":98.66},
@@ -577,7 +577,7 @@
 "10771053183":{"name":"[🐟] Net a Fish!","avg_ccu":29194.7,"min_ccu":20823,"max_ccu":36328,"samples":24,"sess":25.22,"sess_h":23.0,"like":92.66},
 "10771062824":{"name":"Lawn Care Empire 🌱","avg_ccu":444.4,"min_ccu":98,"max_ccu":718,"samples":24,"sess":14.06,"sess_h":23.0,"like":93.45},
 "10771081056":{"name":"[EVENT🔥] Doodle Basketball🏀","avg_ccu":1492.6,"min_ccu":559,"max_ccu":2461,"samples":24,"sess":10.35,"sess_h":23.0,"like":86.6},
-"10771093259":{"name":"[NEW MAP + UPDATE] Angkot Simulator","avg_ccu":1685.7,"min_ccu":258,"max_ccu":4020,"samples":24,"sess":14.71,"sess_h":23.0,"like":85.75},
+"10771093259":{"name":"Angkot Simulator","avg_ccu":1685.7,"min_ccu":258,"max_ccu":4020,"samples":24,"sess":14.71,"sess_h":23.0,"like":85.75},
 "10771096080":{"name":"✈️ Paper To Plane","avg_ccu":5735.0,"min_ccu":685,"max_ccu":14301,"samples":24,"sess":24.79,"sess_h":23.0,"like":95.57},
 "10771111717":{"name":"Button Battles","avg_ccu":7026.3,"min_ccu":3309,"max_ccu":11038,"samples":24,"sess":9.7,"sess_h":23.0,"like":89.11},
 "10771124452":{"name":"TROLL Jail Hug Tower","avg_ccu":7716.7,"min_ccu":5113,"max_ccu":10291,"samples":24,"sess":11.02,"sess_h":23.0,"like":68.28},
