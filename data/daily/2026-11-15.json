@@ -1,4 +1,4 @@
-{"date": "2026-11-15", "timezone": "America/New_York", "generated_utc": "2026-11-16T18:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-16T04:10:00Z", 9518346], "genres": {"Simulation": 39.751, "Survival": 14.196, "Roleplay & Avatar Sim": 12.276, "Action": 7.943, "RPG": 6.898, "Shooter": 4.051, "Sports & Racing": 3.93, "Strategy": 2.882, "Obby & Platformer": 2.756, "Adventure": 1.45, "Party & Casual": 1.445, "Shopping": 0.936, "Other": 0.583, "Puzzle": 0.336, "Social": 0.299, "Entertainment": 0.265}, "genre_hours": 24,"games":{
+{"date": "2026-11-15", "timezone": "America/New_York", "generated_utc": "2026-11-16T19:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-16T04:10:00Z", 9518346], "genres": {"Simulation": 39.751, "Survival": 14.196, "Roleplay & Avatar Sim": 12.276, "Action": 7.943, "RPG": 6.898, "Shooter": 4.051, "Sports & Racing": 3.93, "Strategy": 2.882, "Obby & Platformer": 2.756, "Adventure": 1.45, "Party & Casual": 1.445, "Shopping": 0.936, "Other": 0.583, "Puzzle": 0.336, "Social": 0.299, "Entertainment": 0.265}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3860.0,"min_ccu":2672,"max_ccu":4880,"samples":24,"sess":14.72,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":10022.7,"min_ccu":7075,"max_ccu":11826,"samples":24,"sess":9.8,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5646.7,"min_ccu":2501,"max_ccu":7690,"samples":24,"sess":14.3,"sess_h":23.0,"like":93.29},
@@ -12,7 +12,7 @@
 "184199275":{"name":"[🔥NEW] NFL Universe Football","avg_ccu":14207.5,"min_ccu":2026,"max_ccu":25508,"samples":24,"sess":20.27,"sess_h":23.0,"like":90.38},
 "187796008":{"name":"[HALLOWS] Those Who Remain","avg_ccu":349.8,"min_ccu":293,"max_ccu":439,"samples":24,"sess":19.22,"sess_h":23.0,"like":94.12},
 "210851291":{"name":"Build A Boat For Treasure","avg_ccu":15819.4,"min_ccu":8406,"max_ccu":21807,"samples":24,"sess":21.51,"sess_h":23.0,"like":93.39},
-"245662005":{"name":"Jailbreak 🍁🍁","avg_ccu":5648.8,"min_ccu":3975,"max_ccu":7813,"samples":24,"sess":14.7,"sess_h":23.0,"like":87.74},
+"245662005":{"name":"Jailbreak","avg_ccu":5648.8,"min_ccu":3975,"max_ccu":7813,"samples":24,"sess":14.7,"sess_h":23.0,"like":87.74},
 "274816972":{"name":"[New Car!🍃] Car Crushers 2 - Physics Simulation","avg_ccu":1510.8,"min_ccu":672,"max_ccu":2139,"samples":24,"sess":16.24,"sess_h":23.0,"like":93.47},
 "321778215":{"name":"Royale 🔥❄️ High","avg_ccu":9875.3,"min_ccu":7223,"max_ccu":12918,"samples":24,"sess":23.09,"sess_h":23.0,"like":85.91},
 "371263894":{"name":"Greenville RP","avg_ccu":5052.5,"min_ccu":3146,"max_ccu":7232,"samples":24,"sess":17.76,"sess_h":23.0,"like":87.92},
@@ -556,7 +556,7 @@
 "10770599659":{"name":"Build A Mech!","avg_ccu":1894.4,"min_ccu":1110,"max_ccu":2546,"samples":24,"sess":16.94,"sess_h":23.0,"like":81.04},
 "10770604649":{"name":"BloxNG [CRASH PHYSICS] 💥","avg_ccu":22581.2,"min_ccu":12920,"max_ccu":33389,"samples":24,"sess":16.38,"sess_h":23.0,"like":93.25},
 "10770605947":{"name":"Ragdoll Reality 🩸","avg_ccu":8122.5,"min_ccu":4705,"max_ccu":11101,"samples":24,"sess":10.49,"sess_h":23.0,"like":83.04},
-"10770609435":{"name":"[NEW] Jujutsu Farm","avg_ccu":7679.5,"min_ccu":5547,"max_ccu":9440,"samples":24,"sess":23.21,"sess_h":23.0,"like":97.68},
+"10770609435":{"name":"Jujutsu Farm","avg_ccu":7679.5,"min_ccu":5547,"max_ccu":9440,"samples":24,"sess":23.21,"sess_h":23.0,"like":97.68},
 "10770628276":{"name":"Sell a Million Sushi","avg_ccu":7382.7,"min_ccu":5232,"max_ccu":9434,"samples":24,"sess":18.23,"sess_h":23.0,"like":99.0},
 "10770695235":{"name":"Build Sandbox [🛠️]","avg_ccu":6020.9,"min_ccu":4165,"max_ccu":7820,"samples":24,"sess":17.04,"sess_h":23.0,"like":60.43},
 "10770699460":{"name":"[🐶PETS] Raise The Biggest Family","avg_ccu":20618.2,"min_ccu":9014,"max_ccu":29279,"samples":24,"sess":17.7,"sess_h":23.0,"like":72.72},
@@ -682,7 +682,7 @@
 "10773355038":{"name":"Impact Lab: Extreme Physics!","avg_ccu":1691.6,"min_ccu":1527,"max_ccu":1921,"samples":16,"sess":11.9,"sess_h":15.0,"like":73.86},
 "10773380485":{"name":"[WAR] Ragdoll Realism","avg_ccu":5610.6,"min_ccu":2857,"max_ccu":7868,"samples":24,"sess":10.58,"sess_h":23.0,"like":78.53},
 "10773416193":{"name":"Voxel Wars","avg_ccu":24212.0,"min_ccu":13520,"max_ccu":32980,"samples":24,"sess":17.63,"sess_h":23.0,"like":79.94},
-"10773425091":{"name":"[🏢] Ragdoll Research","avg_ccu":17990.3,"min_ccu":8475,"max_ccu":24175,"samples":24,"sess":12.51,"sess_h":23.0,"like":83.4},
+"10773425091":{"name":"[🐍] Ragdoll Research","avg_ccu":17990.3,"min_ccu":8475,"max_ccu":24175,"samples":24,"sess":12.51,"sess_h":23.0,"like":83.4},
 "10773432056":{"name":"Malam Bersama Kaka [HOROR]","avg_ccu":3836.7,"min_ccu":498,"max_ccu":10278,"samples":24,"sess":7.57,"sess_h":23.0,"like":64.25},
 "10773433264":{"name":"Superhero Universe","avg_ccu":3864.8,"min_ccu":1716,"max_ccu":5891,"samples":16,"sess":11.16,"sess_h":15.0,"like":78.68},
 "10773448788":{"name":"Kill 'Em All","avg_ccu":5466.8,"min_ccu":2476,"max_ccu":7962,"samples":16,"sess":17.93,"sess_h":15.0,"like":62.3},
