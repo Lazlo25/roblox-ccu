@@ -1,4 +1,4 @@
-{"date": "2026-11-16", "timezone": "America/New_York", "generated_utc": "2026-11-17T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-17T04:10:00Z", 8213754], "genres": {"Simulation": 41.169, "Survival": 12.918, "Roleplay & Avatar Sim": 12.388, "Action": 7.969, "RPG": 6.446, "Shooter": 3.945, "Sports & Racing": 3.72, "Strategy": 3.405, "Obby & Platformer": 2.761, "Party & Casual": 1.506, "Adventure": 1.294, "Shopping": 0.957, "Other": 0.641, "Social": 0.339, "Puzzle": 0.327, "Entertainment": 0.196, "Utility & Other": 0.017}, "genre_hours": 24,"games":{
+{"date": "2026-11-16", "timezone": "America/New_York", "generated_utc": "2026-11-17T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-17T04:10:00Z", 8213754], "genres": {"Simulation": 41.169, "Survival": 12.918, "Roleplay & Avatar Sim": 12.388, "Action": 7.969, "RPG": 6.446, "Shooter": 3.945, "Sports & Racing": 3.72, "Strategy": 3.405, "Obby & Platformer": 2.761, "Party & Casual": 1.506, "Adventure": 1.294, "Shopping": 0.957, "Other": 0.641, "Social": 0.339, "Puzzle": 0.327, "Entertainment": 0.196, "Utility & Other": 0.017}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2646.0,"min_ccu":1913,"max_ccu":3355,"samples":24,"sess":14.63,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7443.2,"min_ccu":4922,"max_ccu":9954,"samples":24,"sess":9.59,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3411.0,"min_ccu":2180,"max_ccu":4795,"samples":24,"sess":13.77,"sess_h":23.0,"like":93.29},
@@ -501,7 +501,7 @@
 "10769582272":{"name":"Okishima:1336 [Update 1]","avg_ccu":2472.8,"min_ccu":1849,"max_ccu":2994,"samples":24,"sess":14.79,"sess_h":23.0,"like":81.59},
 "10769634720":{"name":"PINKIE PROMISE [CH 2]","avg_ccu":13189.5,"min_ccu":6017,"max_ccu":21983,"samples":24,"sess":12.35,"sess_h":23.0,"like":94.08},
 "10769652950":{"name":"Car Destruction Engine [EARLY ACCESS]","avg_ccu":3624.1,"min_ccu":2041,"max_ccu":5348,"samples":24,"sess":12.73,"sess_h":23.0,"like":81.45},
-"10769671316":{"name":"[🗺️MAPS] Survive Your Ideas","avg_ccu":43051.3,"min_ccu":31269,"max_ccu":53438,"samples":24,"sess":7.6,"sess_h":23.0,"like":89.03},
+"10769671316":{"name":"Survive Your Ideas","avg_ccu":43051.3,"min_ccu":31269,"max_ccu":53438,"samples":24,"sess":7.6,"sess_h":23.0,"like":89.03},
 "10769672145":{"name":"Steal A Plane","avg_ccu":724.2,"min_ccu":513,"max_ccu":920,"samples":24,"sess":13.31,"sess_h":23.0,"like":91.19},
 "10769724355":{"name":"Mad Chihuahua🐕","avg_ccu":1386.9,"min_ccu":936,"max_ccu":1774,"samples":24,"sess":13.62,"sess_h":23.0,"like":98.91},
 "10769764340":{"name":"[🍀] Spin To Upgrade! [REBIRTHS]","avg_ccu":85.1,"min_ccu":65,"max_ccu":112,"samples":12,"sess":28.59,"sess_h":11.0,"like":70.71},
