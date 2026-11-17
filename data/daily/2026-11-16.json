@@ -1,4 +1,4 @@
-{"date": "2026-11-16", "timezone": "America/New_York", "generated_utc": "2026-11-17T22:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-17T04:10:00Z", 8213754], "genres": {"Simulation": 41.169, "Survival": 12.918, "Roleplay & Avatar Sim": 12.388, "Action": 7.969, "RPG": 6.446, "Shooter": 3.945, "Sports & Racing": 3.72, "Strategy": 3.405, "Obby & Platformer": 2.761, "Party & Casual": 1.506, "Adventure": 1.294, "Shopping": 0.957, "Other": 0.641, "Social": 0.339, "Puzzle": 0.327, "Entertainment": 0.196, "Utility & Other": 0.017}, "genre_hours": 24,"games":{
+{"date": "2026-11-16", "timezone": "America/New_York", "generated_utc": "2026-11-17T23:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-17T04:10:00Z", 8213754], "genres": {"Simulation": 41.169, "Survival": 12.918, "Roleplay & Avatar Sim": 12.388, "Action": 7.969, "RPG": 6.446, "Shooter": 3.945, "Sports & Racing": 3.72, "Strategy": 3.405, "Obby & Platformer": 2.761, "Party & Casual": 1.506, "Adventure": 1.294, "Shopping": 0.957, "Other": 0.641, "Social": 0.339, "Puzzle": 0.327, "Entertainment": 0.196, "Utility & Other": 0.017}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2646.0,"min_ccu":1913,"max_ccu":3355,"samples":24,"sess":14.63,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7443.2,"min_ccu":4922,"max_ccu":9954,"samples":24,"sess":9.59,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3411.0,"min_ccu":2180,"max_ccu":4795,"samples":24,"sess":13.77,"sess_h":23.0,"like":93.29},
@@ -598,7 +598,7 @@
 "10771680162":{"name":"Can You Pass A Driving Test?","avg_ccu":13540.5,"min_ccu":7572,"max_ccu":22279,"samples":24,"sess":15.24,"sess_h":23.0,"like":85.9},
 "10771684661":{"name":"[🎒UPD] Drill City: Chicago","avg_ccu":1399.4,"min_ccu":555,"max_ccu":2544,"samples":24,"sess":17.74,"sess_h":23.0,"like":98.44},
 "10771743491":{"name":"South Hell [HORROR]","avg_ccu":2711.0,"min_ccu":1088,"max_ccu":4918,"samples":24,"sess":6.37,"sess_h":23.0,"like":87.71},
-"10771797050":{"name":"[NOW] +1 Baddie Evolution 💅","avg_ccu":1932.0,"min_ccu":1012,"max_ccu":3221,"samples":24,"sess":13.99,"sess_h":23.0,"like":96.39},
+"10771797050":{"name":"+1 Baddie Evolution 💅","avg_ccu":1932.0,"min_ccu":1012,"max_ccu":3221,"samples":24,"sess":13.99,"sess_h":23.0,"like":96.39},
 "10771805737":{"name":"Run a Motel ! [EXPAND]","avg_ccu":5449.0,"min_ccu":3470,"max_ccu":8176,"samples":24,"sess":19.24,"sess_h":23.0,"like":94.62},
 "10771853697":{"name":"[FIXED!] Project Web","avg_ccu":1947.9,"min_ccu":1185,"max_ccu":2677,"samples":24,"sess":7.36,"sess_h":23.0,"like":92.08},
 "10771871836":{"name":"📸 Say Cheese! [STORY]","avg_ccu":2364.5,"min_ccu":1549,"max_ccu":3180,"samples":24,"sess":10.56,"sess_h":23.0,"like":90.0},
