@@ -1,4 +1,4 @@
-{"date": "2026-11-16", "timezone": "America/New_York", "generated_utc": "2026-11-17T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-17T04:10:00Z", 8213754], "genres": {"Simulation": 41.169, "Survival": 12.918, "Roleplay & Avatar Sim": 12.388, "Action": 7.969, "RPG": 6.446, "Shooter": 3.945, "Sports & Racing": 3.72, "Strategy": 3.405, "Obby & Platformer": 2.761, "Party & Casual": 1.506, "Adventure": 1.294, "Shopping": 0.957, "Other": 0.641, "Social": 0.339, "Puzzle": 0.327, "Entertainment": 0.196, "Utility & Other": 0.017}, "genre_hours": 24,"games":{
+{"date": "2026-11-16", "timezone": "America/New_York", "generated_utc": "2026-11-17T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-17T04:10:00Z", 8213754], "genres": {"Simulation": 41.169, "Survival": 12.918, "Roleplay & Avatar Sim": 12.388, "Action": 7.969, "RPG": 6.446, "Shooter": 3.945, "Sports & Racing": 3.72, "Strategy": 3.405, "Obby & Platformer": 2.761, "Party & Casual": 1.506, "Adventure": 1.294, "Shopping": 0.957, "Other": 0.641, "Social": 0.339, "Puzzle": 0.327, "Entertainment": 0.196, "Utility & Other": 0.017}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2646.0,"min_ccu":1913,"max_ccu":3355,"samples":24,"sess":14.63,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7443.2,"min_ccu":4922,"max_ccu":9954,"samples":24,"sess":9.59,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3411.0,"min_ccu":2180,"max_ccu":4795,"samples":24,"sess":13.77,"sess_h":23.0,"like":93.29},
@@ -640,7 +640,7 @@
 "10772616540":{"name":"[PARIS] Explore the World ✈️","avg_ccu":2554.5,"min_ccu":1272,"max_ccu":4195,"samples":24,"sess":16.05,"sess_h":23.0,"like":78.59},
 "10772627574":{"name":"Cook Pizzas [Anomaly]","avg_ccu":6406.3,"min_ccu":3848,"max_ccu":9524,"samples":24,"sess":21.09,"sess_h":23.0,"like":71.28},
 "10772648808":{"name":"Rarest Answer Party! 🦐","avg_ccu":4263.2,"min_ccu":3151,"max_ccu":5231,"samples":24,"sess":14.07,"sess_h":23.0,"like":52.65},
-"10772689425":{"name":"Technical Ragdoll MMA 🥊 [ITEM SHOP]","avg_ccu":5661.4,"min_ccu":4469,"max_ccu":6346,"samples":13,"sess":4.63,"sess_h":12.0,"like":75.09},
+"10772689425":{"name":"Technical Ragdoll MMA 🥊","avg_ccu":5661.4,"min_ccu":4469,"max_ccu":6346,"samples":13,"sess":4.63,"sess_h":12.0,"like":75.09},
 "10772700948":{"name":"untitled ragdoll game","avg_ccu":8840.5,"min_ccu":5663,"max_ccu":13396,"samples":18,"sess":10.77,"sess_h":17.0,"like":81.02},
 "10772749430":{"name":"My Cookie Store 🍪[BETA]","avg_ccu":4537.3,"min_ccu":3201,"max_ccu":6043,"samples":24,"sess":25.44,"sess_h":23.0,"like":93.55},
 "10772794231":{"name":"Raycity RB","avg_ccu":2278.4,"min_ccu":1018,"max_ccu":4094,"samples":24,"sess":24.31,"sess_h":23.0,"like":96.64},
