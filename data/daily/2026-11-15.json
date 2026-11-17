@@ -1,4 +1,4 @@
-{"date": "2026-11-15", "timezone": "America/New_York", "generated_utc": "2026-11-17T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-16T04:10:00Z", 9518346], "genres": {"Simulation": 39.751, "Survival": 14.196, "Roleplay & Avatar Sim": 12.276, "Action": 7.943, "RPG": 6.898, "Shooter": 4.051, "Sports & Racing": 3.93, "Strategy": 2.882, "Obby & Platformer": 2.756, "Adventure": 1.45, "Party & Casual": 1.445, "Shopping": 0.936, "Other": 0.583, "Puzzle": 0.336, "Social": 0.299, "Entertainment": 0.265}, "genre_hours": 24,"games":{
+{"date": "2026-11-15", "timezone": "America/New_York", "generated_utc": "2026-11-17T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-16T04:10:00Z", 9518346], "genres": {"Simulation": 39.751, "Survival": 14.196, "Roleplay & Avatar Sim": 12.276, "Action": 7.943, "RPG": 6.898, "Shooter": 4.051, "Sports & Racing": 3.93, "Strategy": 2.882, "Obby & Platformer": 2.756, "Adventure": 1.45, "Party & Casual": 1.445, "Shopping": 0.936, "Other": 0.583, "Puzzle": 0.336, "Social": 0.299, "Entertainment": 0.265}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3860.0,"min_ccu":2672,"max_ccu":4880,"samples":24,"sess":14.72,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":10022.7,"min_ccu":7075,"max_ccu":11826,"samples":24,"sess":9.8,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5646.7,"min_ccu":2501,"max_ccu":7690,"samples":24,"sess":14.3,"sess_h":23.0,"like":93.29},
@@ -315,7 +315,7 @@
 "10289650937":{"name":"Anime Piece [SEA BEAST⚓]","avg_ccu":979.6,"min_ccu":459,"max_ccu":1528,"samples":24,"sess":24.31,"sess_h":23.0,"like":96.46},
 "10291735332":{"name":"Moped Drag","avg_ccu":5251.5,"min_ccu":730,"max_ccu":9972,"samples":24,"sess":13.46,"sess_h":23.0,"like":96.48},
 "10321202755":{"name":"[🔥UPDATE 13] Anime Fighting Simulator","avg_ccu":3231.1,"min_ccu":2880,"max_ccu":3566,"samples":24,"sess":73.95,"sess_h":23.0,"like":98.24},
-"10323282681":{"name":"[🌱] Roburbia [GARDENING]","avg_ccu":11252.5,"min_ccu":6523,"max_ccu":16839,"samples":24,"sess":19.83,"sess_h":23.0,"like":85.39},
+"10323282681":{"name":"[🛒] Roburbia [GROCERY]","avg_ccu":11252.5,"min_ccu":6523,"max_ccu":16839,"samples":24,"sess":19.83,"sess_h":23.0,"like":85.39},
 "10334932478":{"name":"Climb Keyboard Dumpling Tower 🥟 Cute Squishy ASMR","avg_ccu":3960.8,"min_ccu":2963,"max_ccu":5431,"samples":24,"sess":11.24,"sess_h":23.0,"like":73.61},
 "10393438342":{"name":"Alliance Tower Defense! ⚔️","avg_ccu":1873.3,"min_ccu":923,"max_ccu":2688,"samples":24,"sess":12.12,"sess_h":23.0,"like":92.3},
 "10399136326":{"name":"Anime Ability Arena","avg_ccu":7878.7,"min_ccu":5335,"max_ccu":10125,"samples":24,"sess":14.67,"sess_h":23.0,"like":87.78},
@@ -352,7 +352,7 @@
 "10673920146":{"name":"Survive a Million Monkeys","avg_ccu":4599.3,"min_ccu":3297,"max_ccu":6425,"samples":24,"sess":13.8,"sess_h":23.0,"like":97.72},
 "10684750879":{"name":"[🎃]+1 Loot To Forge","avg_ccu":3050.2,"min_ccu":1764,"max_ccu":4143,"samples":24,"sess":22.2,"sess_h":23.0,"like":96.57},
 "10685282333":{"name":"Ball VS Ball [Trading Plaza]","avg_ccu":11782.9,"min_ccu":6608,"max_ccu":16549,"samples":24,"sess":11.68,"sess_h":23.0,"like":88.46},
-"10698216738":{"name":"[BOSS] Military Army Tycoon","avg_ccu":6921.9,"min_ccu":3244,"max_ccu":9499,"samples":24,"sess":19.29,"sess_h":23.0,"like":97.52},
+"10698216738":{"name":"Military Army Tycoon","avg_ccu":6921.9,"min_ccu":3244,"max_ccu":9499,"samples":24,"sess":19.29,"sess_h":23.0,"like":97.52},
 "10700618962":{"name":"[⚽] Blue Lock Farm","avg_ccu":5443.6,"min_ccu":3986,"max_ccu":6781,"samples":24,"sess":16.67,"sess_h":23.0,"like":98.05},
 "10701622575":{"name":"Steal an Anime Pack","avg_ccu":14505.1,"min_ccu":9999,"max_ccu":47312,"samples":24,"sess":18.22,"sess_h":23.0,"like":95.92},
 "10708913337":{"name":"Anime Dice","avg_ccu":22365.7,"min_ccu":21121,"max_ccu":24263,"samples":24,"sess":35.96,"sess_h":23.0,"like":98.97},
@@ -524,7 +524,7 @@
 "10769941703":{"name":"13 Days to Escape [ALPHA]","avg_ccu":31386.2,"min_ccu":17660,"max_ccu":46949,"samples":24,"sess":13.89,"sess_h":23.0,"like":81.54},
 "10769957062":{"name":"Bug Evolution [☀️]","avg_ccu":12605.0,"min_ccu":8427,"max_ccu":15120,"samples":24,"sess":17.22,"sess_h":23.0,"like":83.93},
 "10769969117":{"name":"Low Range: Offroad 4x4 [EARLY ACCESS]","avg_ccu":14896.4,"min_ccu":8268,"max_ccu":21353,"samples":24,"sess":17.57,"sess_h":23.0,"like":92.91},
-"10769969724":{"name":"[UPDATE 1.5] Shibuya [Beta]","avg_ccu":1802.2,"min_ccu":1106,"max_ccu":2484,"samples":24,"sess":7.0,"sess_h":23.0,"like":86.9},
+"10769969724":{"name":"[TEN SHADOWS] Shibuya [Beta]","avg_ccu":1802.2,"min_ccu":1106,"max_ccu":2484,"samples":24,"sess":7.0,"sess_h":23.0,"like":86.9},
 "10770014246":{"name":"[⛩️CLANS] Anime Auto Battle","avg_ccu":3192.8,"min_ccu":2742,"max_ccu":3533,"samples":24,"sess":34.19,"sess_h":23.0,"like":91.6},
 "10770018231":{"name":"Clone Baby Care (Anomaly)","avg_ccu":11425.2,"min_ccu":5173,"max_ccu":17300,"samples":24,"sess":11.21,"sess_h":23.0,"like":88.73},
 "10770024330":{"name":"[🧬HUGE UPDATE] Gym Legacy","avg_ccu":1005.6,"min_ccu":521,"max_ccu":1505,"samples":24,"sess":17.31,"sess_h":23.0,"like":92.1},
