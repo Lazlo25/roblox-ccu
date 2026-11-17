@@ -1,4 +1,4 @@
-{"date": "2026-11-16", "timezone": "America/New_York", "generated_utc": "2026-11-17T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-17T04:10:00Z", 8213754], "genres": {"Simulation": 41.169, "Survival": 12.918, "Roleplay & Avatar Sim": 12.388, "Action": 7.969, "RPG": 6.446, "Shooter": 3.945, "Sports & Racing": 3.72, "Strategy": 3.405, "Obby & Platformer": 2.761, "Party & Casual": 1.506, "Adventure": 1.294, "Shopping": 0.957, "Other": 0.641, "Social": 0.339, "Puzzle": 0.327, "Entertainment": 0.196, "Utility & Other": 0.017}, "genre_hours": 24,"games":{
+{"date": "2026-11-16", "timezone": "America/New_York", "generated_utc": "2026-11-17T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-17T04:10:00Z", 8213754], "genres": {"Simulation": 41.169, "Survival": 12.918, "Roleplay & Avatar Sim": 12.388, "Action": 7.969, "RPG": 6.446, "Shooter": 3.945, "Sports & Racing": 3.72, "Strategy": 3.405, "Obby & Platformer": 2.761, "Party & Casual": 1.506, "Adventure": 1.294, "Shopping": 0.957, "Other": 0.641, "Social": 0.339, "Puzzle": 0.327, "Entertainment": 0.196, "Utility & Other": 0.017}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2646.0,"min_ccu":1913,"max_ccu":3355,"samples":24,"sess":14.63,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7443.2,"min_ccu":4922,"max_ccu":9954,"samples":24,"sess":9.59,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3411.0,"min_ccu":2180,"max_ccu":4795,"samples":24,"sess":13.77,"sess_h":23.0,"like":93.29},
@@ -372,7 +372,7 @@
 "10759638075":{"name":"[🐝 UPD] Pets Universe! 🐾","avg_ccu":2454.8,"min_ccu":2208,"max_ccu":2756,"samples":24,"sess":18.25,"sess_h":23.0,"like":98.37},
 "10759977189":{"name":"[NEW MAP] Hooked Fishing!","avg_ccu":806.5,"min_ccu":535,"max_ccu":1268,"samples":24,"sess":10.72,"sess_h":23.0,"like":97.41},
 "10761375767":{"name":"[🍁🌊] Surf And Rescue","avg_ccu":2721.9,"min_ccu":1967,"max_ccu":3371,"samples":24,"sess":14.79,"sess_h":23.0,"like":96.38},
-"10762636904":{"name":"[UPD🥳] Cameraman Tower Defense","avg_ccu":32081.5,"min_ccu":16727,"max_ccu":54281,"samples":24,"sess":12.67,"sess_h":23.0,"like":98.06},
+"10762636904":{"name":"[PATCH🎉] Cameraman Tower Defense","avg_ccu":32081.5,"min_ccu":16727,"max_ccu":54281,"samples":24,"sess":12.67,"sess_h":23.0,"like":98.06},
 "10763833263":{"name":"Save an Egg","avg_ccu":717.5,"min_ccu":329,"max_ccu":1224,"samples":24,"sess":21.3,"sess_h":23.0,"like":96.16},
 "10764019529":{"name":"Vampire life","avg_ccu":513.4,"min_ccu":329,"max_ccu":699,"samples":24,"sess":18.59,"sess_h":23.0,"like":74.7},
 "10764173782":{"name":"[⚔️] Reborn an Adventurer","avg_ccu":566.9,"min_ccu":475,"max_ccu":676,"samples":24,"sess":27.94,"sess_h":23.0,"like":93.65},
@@ -684,7 +684,7 @@
 "10773501077":{"name":"Growblox","avg_ccu":2752.6,"min_ccu":1258,"max_ccu":4043,"samples":24,"sess":3.83,"sess_h":23.0,"like":84.58},
 "10773502711":{"name":"[🦖T-REX] BoneBox Engine 🩸","avg_ccu":5906.8,"min_ccu":3874,"max_ccu":7573,"samples":24,"sess":11.14,"sess_h":23.0,"like":89.43},
 "10773502882":{"name":"[UPD] Ride a Bike Downhill!","avg_ccu":1975.9,"min_ccu":1139,"max_ccu":3082,"samples":24,"sess":10.58,"sess_h":23.0,"like":66.03},
-"10773517934":{"name":"[UPD] Rollercoaster Tycoon 🎢","avg_ccu":3476.8,"min_ccu":2313,"max_ccu":5150,"samples":24,"sess":15.15,"sess_h":23.0,"like":88.49},
+"10773517934":{"name":"Rollercoaster Tycoon 🎢","avg_ccu":3476.8,"min_ccu":2313,"max_ccu":5150,"samples":24,"sess":15.15,"sess_h":23.0,"like":88.49},
 "10773543004":{"name":"[🍫] Make A Chocolate","avg_ccu":3069.5,"min_ccu":2233,"max_ccu":3754,"samples":13,"sess":13.42,"sess_h":12.0,"like":69.77},
 "10773574214":{"name":"[🍥W3] +1 Sukuna Evolution","avg_ccu":7254.8,"min_ccu":4223,"max_ccu":10657,"samples":24,"sess":18.3,"sess_h":23.0,"like":84.81},
 "10773579020":{"name":"[POWERS⚡️] Bad Physics💥","avg_ccu":3640.5,"min_ccu":2597,"max_ccu":4502,"samples":24,"sess":13.07,"sess_h":23.0,"like":80.42},
