@@ -1,4 +1,4 @@
-{"date": "2026-11-16", "timezone": "America/New_York", "generated_utc": "2026-11-17T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-17T04:10:00Z", 8213754], "genres": {"Simulation": 41.169, "Survival": 12.918, "Roleplay & Avatar Sim": 12.388, "Action": 7.969, "RPG": 6.446, "Shooter": 3.945, "Sports & Racing": 3.72, "Strategy": 3.405, "Obby & Platformer": 2.761, "Party & Casual": 1.506, "Adventure": 1.294, "Shopping": 0.957, "Other": 0.641, "Social": 0.339, "Puzzle": 0.327, "Entertainment": 0.196, "Utility & Other": 0.017}, "genre_hours": 24,"games":{
+{"date": "2026-11-16", "timezone": "America/New_York", "generated_utc": "2026-11-17T14:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-17T04:10:00Z", 8213754], "genres": {"Simulation": 41.169, "Survival": 12.918, "Roleplay & Avatar Sim": 12.388, "Action": 7.969, "RPG": 6.446, "Shooter": 3.945, "Sports & Racing": 3.72, "Strategy": 3.405, "Obby & Platformer": 2.761, "Party & Casual": 1.506, "Adventure": 1.294, "Shopping": 0.957, "Other": 0.641, "Social": 0.339, "Puzzle": 0.327, "Entertainment": 0.196, "Utility & Other": 0.017}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2646.0,"min_ccu":1913,"max_ccu":3355,"samples":24,"sess":14.63,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7443.2,"min_ccu":4922,"max_ccu":9954,"samples":24,"sess":9.59,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3411.0,"min_ccu":2180,"max_ccu":4795,"samples":24,"sess":13.77,"sess_h":23.0,"like":93.29},
@@ -302,7 +302,7 @@
 "10138624079":{"name":"Zombie Rush Survival 🧟‍♂️","avg_ccu":5416.8,"min_ccu":3720,"max_ccu":7047,"samples":24,"sess":12.91,"sess_h":23.0,"like":97.4},
 "10148749921":{"name":"Animal Hospital (Anomaly) 🧪","avg_ccu":12092.7,"min_ccu":8691,"max_ccu":16299,"samples":24,"sess":12.62,"sess_h":23.0,"like":92.78},
 "10155360168":{"name":"Illegal Soccer","avg_ccu":28970.4,"min_ccu":18308,"max_ccu":36918,"samples":24,"sess":12.83,"sess_h":23.0,"like":86.6},
-"10173311467":{"name":"[UPDATE] Ghost Driver","avg_ccu":5114.0,"min_ccu":3465,"max_ccu":6629,"samples":24,"sess":12.97,"sess_h":23.0,"like":97.33},
+"10173311467":{"name":"Ghost Driver","avg_ccu":5114.0,"min_ccu":3465,"max_ccu":6629,"samples":24,"sess":12.97,"sess_h":23.0,"like":97.33},
 "10187603664":{"name":"[👽RELEASE!] Alien Zorb Clicker","avg_ccu":11884.5,"min_ccu":6403,"max_ccu":15171,"samples":20,"sess":596.37,"sess_h":19.0,"like":70.0},
 "10195997258":{"name":"Pull a Lucky Fish","avg_ccu":3074.5,"min_ccu":2751,"max_ccu":3514,"samples":24,"sess":19.67,"sess_h":23.0,"like":95.08},
 "10205303532":{"name":"Boats Go BOOM💥[FPS]","avg_ccu":1436.1,"min_ccu":693,"max_ccu":2597,"samples":24,"sess":11.43,"sess_h":23.0,"like":65.3},
