@@ -1,4 +1,4 @@
-{"date": "2026-11-16", "timezone": "America/New_York", "generated_utc": "2026-11-17T16:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-17T04:10:00Z", 8213754], "genres": {"Simulation": 41.169, "Survival": 12.918, "Roleplay & Avatar Sim": 12.388, "Action": 7.969, "RPG": 6.446, "Shooter": 3.945, "Sports & Racing": 3.72, "Strategy": 3.405, "Obby & Platformer": 2.761, "Party & Casual": 1.506, "Adventure": 1.294, "Shopping": 0.957, "Other": 0.641, "Social": 0.339, "Puzzle": 0.327, "Entertainment": 0.196, "Utility & Other": 0.017}, "genre_hours": 24,"games":{
+{"date": "2026-11-16", "timezone": "America/New_York", "generated_utc": "2026-11-17T17:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-17T04:10:00Z", 8213754], "genres": {"Simulation": 41.169, "Survival": 12.918, "Roleplay & Avatar Sim": 12.388, "Action": 7.969, "RPG": 6.446, "Shooter": 3.945, "Sports & Racing": 3.72, "Strategy": 3.405, "Obby & Platformer": 2.761, "Party & Casual": 1.506, "Adventure": 1.294, "Shopping": 0.957, "Other": 0.641, "Social": 0.339, "Puzzle": 0.327, "Entertainment": 0.196, "Utility & Other": 0.017}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2646.0,"min_ccu":1913,"max_ccu":3355,"samples":24,"sess":14.63,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7443.2,"min_ccu":4922,"max_ccu":9954,"samples":24,"sess":9.59,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3411.0,"min_ccu":2180,"max_ccu":4795,"samples":24,"sess":13.77,"sess_h":23.0,"like":93.29},
@@ -17,7 +17,7 @@
 "321778215":{"name":"Royale 🔥❄️ High","avg_ccu":6888.4,"min_ccu":4710,"max_ccu":8495,"samples":24,"sess":22.23,"sess_h":23.0,"like":85.91},
 "371263894":{"name":"Greenville RP","avg_ccu":3544.1,"min_ccu":1920,"max_ccu":5433,"samples":24,"sess":18.07,"sess_h":23.0,"like":87.92},
 "372226183":{"name":"🎃Flee the Facility🍁","avg_ccu":17401.7,"min_ccu":6073,"max_ccu":31896,"samples":24,"sess":13.78,"sess_h":23.0,"like":92.1},
-"383310974":{"name":"[✏️2D TUESDAY] Adopt Me!","avg_ccu":211278.1,"min_ccu":173755,"max_ccu":249552,"samples":24,"sess":38.26,"sess_h":23.0,"like":86.41},
+"383310974":{"name":"[🥤] Adopt Me!","avg_ccu":211278.1,"min_ccu":173755,"max_ccu":249552,"samples":24,"sess":38.26,"sess_h":23.0,"like":86.41},
 "540382210":{"name":"FMR","avg_ccu":1268.1,"min_ccu":700,"max_ccu":1841,"samples":24,"sess":12.66,"sess_h":23.0,"like":94.9},
 "547524060":{"name":"Feather Family 🍂","avg_ccu":3095.3,"min_ccu":1853,"max_ccu":4467,"samples":24,"sess":14.82,"sess_h":23.0,"like":91.65},
 "578392296":{"name":"ABA","avg_ccu":8037.5,"min_ccu":5970,"max_ccu":10077,"samples":24,"sess":19.46,"sess_h":23.0,"like":80.65},
@@ -250,7 +250,7 @@
 "8906870648":{"name":"FREE Fades! 👊","avg_ccu":1018.8,"min_ccu":742,"max_ccu":1251,"samples":24,"sess":11.16,"sess_h":23.0,"like":89.59},
 "9028640246":{"name":"FORTLINE [ONE SHOT🎯]","avg_ccu":1873.6,"min_ccu":985,"max_ccu":2791,"samples":24,"sess":8.26,"sess_h":23.0,"like":75.8},
 "9051406594":{"name":"[💥FINAL BOSS] Dueling Grounds ⚔️","avg_ccu":3502.2,"min_ccu":2824,"max_ccu":4422,"samples":24,"sess":8.37,"sess_h":23.0,"like":96.31},
-"9067189974":{"name":"[UPD] Plane Crash Simulator","avg_ccu":3210.2,"min_ccu":2637,"max_ccu":3686,"samples":14,"sess":9.89,"sess_h":13.0,"like":93.7},
+"9067189974":{"name":"Plane Crash Simulator","avg_ccu":3210.2,"min_ccu":2637,"max_ccu":3686,"samples":14,"sess":9.89,"sess_h":13.0,"like":93.7},
 "9073513091":{"name":"Anime Apocalypse [LAST SHINOBI]","avg_ccu":553.3,"min_ccu":489,"max_ccu":641,"samples":24,"sess":12.09,"sess_h":23.0,"like":95.24},
 "9089939780":{"name":"🏁 Build A Racetrack","avg_ccu":10719.2,"min_ccu":6764,"max_ccu":15207,"samples":24,"sess":17.95,"sess_h":23.0,"like":78.93},
 "9098570654":{"name":"[⚒️UPD] 🧟 Survive the Apocalypse","avg_ccu":6115.8,"min_ccu":5144,"max_ccu":8075,"samples":24,"sess":26.95,"sess_h":23.0,"like":94.11},
@@ -598,7 +598,7 @@
 "10771680162":{"name":"Can You Pass A Driving Test?","avg_ccu":13540.5,"min_ccu":7572,"max_ccu":22279,"samples":24,"sess":15.24,"sess_h":23.0,"like":85.9},
 "10771684661":{"name":"[🎒UPD] Drill City: Chicago","avg_ccu":1399.4,"min_ccu":555,"max_ccu":2544,"samples":24,"sess":17.74,"sess_h":23.0,"like":98.44},
 "10771743491":{"name":"South Hell [HORROR]","avg_ccu":2711.0,"min_ccu":1088,"max_ccu":4918,"samples":24,"sess":6.37,"sess_h":23.0,"like":87.71},
-"10771797050":{"name":"+1 Baddie Evolution 💅","avg_ccu":1932.0,"min_ccu":1012,"max_ccu":3221,"samples":24,"sess":13.99,"sess_h":23.0,"like":96.39},
+"10771797050":{"name":"[NOW] +1 Baddie Evolution 💅","avg_ccu":1932.0,"min_ccu":1012,"max_ccu":3221,"samples":24,"sess":13.99,"sess_h":23.0,"like":96.39},
 "10771805737":{"name":"Run a Motel ! [EXPAND]","avg_ccu":5449.0,"min_ccu":3470,"max_ccu":8176,"samples":24,"sess":19.24,"sess_h":23.0,"like":94.62},
 "10771853697":{"name":"[FIXED!] Project Web","avg_ccu":1947.9,"min_ccu":1185,"max_ccu":2677,"samples":24,"sess":7.36,"sess_h":23.0,"like":92.08},
 "10771871836":{"name":"📸 Say Cheese! [STORY]","avg_ccu":2364.5,"min_ccu":1549,"max_ccu":3180,"samples":24,"sess":10.56,"sess_h":23.0,"like":90.0},
