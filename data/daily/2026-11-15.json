@@ -1,4 +1,4 @@
-{"date": "2026-11-15", "timezone": "America/New_York", "generated_utc": "2026-11-17T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-16T04:10:00Z", 9518346], "genres": {"Simulation": 39.751, "Survival": 14.196, "Roleplay & Avatar Sim": 12.276, "Action": 7.943, "RPG": 6.898, "Shooter": 4.051, "Sports & Racing": 3.93, "Strategy": 2.882, "Obby & Platformer": 2.756, "Adventure": 1.45, "Party & Casual": 1.445, "Shopping": 0.936, "Other": 0.583, "Puzzle": 0.336, "Social": 0.299, "Entertainment": 0.265}, "genre_hours": 24,"games":{
+{"date": "2026-11-15", "timezone": "America/New_York", "generated_utc": "2026-11-17T03:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-16T04:10:00Z", 9518346], "genres": {"Simulation": 39.751, "Survival": 14.196, "Roleplay & Avatar Sim": 12.276, "Action": 7.943, "RPG": 6.898, "Shooter": 4.051, "Sports & Racing": 3.93, "Strategy": 2.882, "Obby & Platformer": 2.756, "Adventure": 1.45, "Party & Casual": 1.445, "Shopping": 0.936, "Other": 0.583, "Puzzle": 0.336, "Social": 0.299, "Entertainment": 0.265}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3860.0,"min_ccu":2672,"max_ccu":4880,"samples":24,"sess":14.72,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":10022.7,"min_ccu":7075,"max_ccu":11826,"samples":24,"sess":9.8,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":5646.7,"min_ccu":2501,"max_ccu":7690,"samples":24,"sess":14.3,"sess_h":23.0,"like":93.29},
@@ -292,7 +292,7 @@
 "10035204815":{"name":"[♻️] Ride A Pet","avg_ccu":3400.1,"min_ccu":1974,"max_ccu":5891,"samples":24,"sess":13.63,"sess_h":23.0,"like":96.09},
 "10057403337":{"name":"[🦖] Deagle Arena","avg_ccu":16459.5,"min_ccu":9538,"max_ccu":21298,"samples":24,"sess":8.2,"sess_h":23.0,"like":87.42},
 "10069043526":{"name":"Keyboard Bridge Wars! 🧱","avg_ccu":2103.6,"min_ccu":1517,"max_ccu":2823,"samples":24,"sess":14.51,"sess_h":23.0,"like":89.95},
-"10079271418":{"name":"[UPDATE3🎉] Anime Paradise","avg_ccu":4937.5,"min_ccu":4562,"max_ccu":5274,"samples":24,"sess":36.18,"sess_h":23.0,"like":96.08},
+"10079271418":{"name":"[UPD3!🎉] Anime Paradise","avg_ccu":4937.5,"min_ccu":4562,"max_ccu":5274,"samples":24,"sess":36.18,"sess_h":23.0,"like":96.08},
 "10090256806":{"name":"TTK Testing [NEW WEAPONS]","avg_ccu":9989.0,"min_ccu":3964,"max_ccu":17709,"samples":16,"sess":8.61,"sess_h":15.0,"like":90.98},
 "10126644530":{"name":"[🛒] Run a Sari-Sari Store!","avg_ccu":6862.7,"min_ccu":1937,"max_ccu":20185,"samples":19,"sess":23.37,"sess_h":18.0,"like":96.72},
 "10131026507":{"name":"[🏆EVENT] Power Lifters 💪","avg_ccu":4118.4,"min_ccu":3127,"max_ccu":5179,"samples":24,"sess":24.84,"sess_h":23.0,"like":90.57},
