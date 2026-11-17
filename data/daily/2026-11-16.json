@@ -1,4 +1,4 @@
-{"date": "2026-11-16", "timezone": "America/New_York", "generated_utc": "2026-11-17T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-17T04:10:00Z", 8213754], "genres": {"Simulation": 41.169, "Survival": 12.918, "Roleplay & Avatar Sim": 12.388, "Action": 7.969, "RPG": 6.446, "Shooter": 3.945, "Sports & Racing": 3.72, "Strategy": 3.405, "Obby & Platformer": 2.761, "Party & Casual": 1.506, "Adventure": 1.294, "Shopping": 0.957, "Other": 0.641, "Social": 0.339, "Puzzle": 0.327, "Entertainment": 0.196, "Utility & Other": 0.017}, "genre_hours": 24,"games":{
+{"date": "2026-11-16", "timezone": "America/New_York", "generated_utc": "2026-11-17T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-17T04:10:00Z", 8213754], "genres": {"Simulation": 41.169, "Survival": 12.918, "Roleplay & Avatar Sim": 12.388, "Action": 7.969, "RPG": 6.446, "Shooter": 3.945, "Sports & Racing": 3.72, "Strategy": 3.405, "Obby & Platformer": 2.761, "Party & Casual": 1.506, "Adventure": 1.294, "Shopping": 0.957, "Other": 0.641, "Social": 0.339, "Puzzle": 0.327, "Entertainment": 0.196, "Utility & Other": 0.017}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2646.0,"min_ccu":1913,"max_ccu":3355,"samples":24,"sess":14.63,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7443.2,"min_ccu":4922,"max_ccu":9954,"samples":24,"sess":9.59,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3411.0,"min_ccu":2180,"max_ccu":4795,"samples":24,"sess":13.77,"sess_h":23.0,"like":93.29},
@@ -10,14 +10,14 @@
 "113491250":{"name":"Phantom Forces","avg_ccu":1817.7,"min_ccu":1225,"max_ccu":2344,"samples":24,"sess":15.78,"sess_h":23.0,"like":90.72},
 "117307972":{"name":"(Route 9) Loomian Legacy","avg_ccu":1898.6,"min_ccu":1528,"max_ccu":2097,"samples":24,"sess":35.18,"sess_h":23.0,"like":91.7},
 "184199275":{"name":"[🔥NEW] NFL Universe Football","avg_ccu":6958.9,"min_ccu":1073,"max_ccu":21118,"samples":24,"sess":19.01,"sess_h":23.0,"like":90.38},
-"187796008":{"name":"[HALLOWS] Those Who Remain","avg_ccu":265.0,"min_ccu":207,"max_ccu":311,"samples":24,"sess":18.52,"sess_h":23.0,"like":94.12},
+"187796008":{"name":"Those Who Remain","avg_ccu":265.0,"min_ccu":207,"max_ccu":311,"samples":24,"sess":18.52,"sess_h":23.0,"like":94.12},
 "210851291":{"name":"Build A Boat For Treasure","avg_ccu":10142.9,"min_ccu":6419,"max_ccu":14429,"samples":24,"sess":20.53,"sess_h":23.0,"like":93.39},
 "245662005":{"name":"Jailbreak","avg_ccu":3876.8,"min_ccu":2635,"max_ccu":5501,"samples":24,"sess":12.89,"sess_h":23.0,"like":87.74},
 "274816972":{"name":"[New Car!🍃] Car Crushers 2 - Physics Simulation","avg_ccu":959.3,"min_ccu":621,"max_ccu":1390,"samples":24,"sess":15.44,"sess_h":23.0,"like":93.47},
 "321778215":{"name":"Royale 🔥❄️ High","avg_ccu":6888.4,"min_ccu":4710,"max_ccu":8495,"samples":24,"sess":22.23,"sess_h":23.0,"like":85.91},
 "371263894":{"name":"Greenville RP","avg_ccu":3544.1,"min_ccu":1920,"max_ccu":5433,"samples":24,"sess":18.07,"sess_h":23.0,"like":87.92},
 "372226183":{"name":"🎃Flee the Facility🍁","avg_ccu":17401.7,"min_ccu":6073,"max_ccu":31896,"samples":24,"sess":13.78,"sess_h":23.0,"like":92.1},
-"383310974":{"name":"[🥤] Adopt Me!","avg_ccu":211278.1,"min_ccu":173755,"max_ccu":249552,"samples":24,"sess":38.26,"sess_h":23.0,"like":86.41},
+"383310974":{"name":"[✏️2D TUESDAY] Adopt Me!","avg_ccu":211278.1,"min_ccu":173755,"max_ccu":249552,"samples":24,"sess":38.26,"sess_h":23.0,"like":86.41},
 "540382210":{"name":"FMR","avg_ccu":1268.1,"min_ccu":700,"max_ccu":1841,"samples":24,"sess":12.66,"sess_h":23.0,"like":94.9},
 "547524060":{"name":"Feather Family 🍂","avg_ccu":3095.3,"min_ccu":1853,"max_ccu":4467,"samples":24,"sess":14.82,"sess_h":23.0,"like":91.65},
 "578392296":{"name":"ABA","avg_ccu":8037.5,"min_ccu":5970,"max_ccu":10077,"samples":24,"sess":19.46,"sess_h":23.0,"like":80.65},
