@@ -1,4 +1,4 @@
-{"date": "2026-11-17", "timezone": "America/New_York", "generated_utc": "2026-11-18T09:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-18T04:10:00Z", 8189149], "genres": {"Simulation": 41.613, "Roleplay & Avatar Sim": 12.703, "Survival": 12.523, "Action": 7.868, "RPG": 5.979, "Shooter": 4.023, "Sports & Racing": 3.726, "Strategy": 3.442, "Obby & Platformer": 2.691, "Party & Casual": 1.589, "Adventure": 1.166, "Shopping": 0.955, "Other": 0.687, "Social": 0.434, "Puzzle": 0.359, "Entertainment": 0.212, "Utility & Other": 0.03}, "genre_hours": 24,"games":{
+{"date": "2026-11-17", "timezone": "America/New_York", "generated_utc": "2026-11-18T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-18T04:10:00Z", 8189149], "genres": {"Simulation": 41.613, "Roleplay & Avatar Sim": 12.703, "Survival": 12.523, "Action": 7.868, "RPG": 5.979, "Shooter": 4.023, "Sports & Racing": 3.726, "Strategy": 3.442, "Obby & Platformer": 2.691, "Party & Casual": 1.589, "Adventure": 1.166, "Shopping": 0.955, "Other": 0.687, "Social": 0.434, "Puzzle": 0.359, "Entertainment": 0.212, "Utility & Other": 0.03}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2481.6,"min_ccu":1746,"max_ccu":2969,"samples":24,"sess":14.26,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6540.0,"min_ccu":4157,"max_ccu":9088,"samples":24,"sess":9.41,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3246.1,"min_ccu":1944,"max_ccu":4525,"samples":24,"sess":13.14,"sess_h":23.0,"like":93.29},
@@ -506,7 +506,7 @@
 "10769420234":{"name":"MOUSE 🐭","avg_ccu":13995.0,"min_ccu":6365,"max_ccu":21292,"samples":24,"sess":10.7,"sess_h":23.0,"like":83.85},
 "10769464063":{"name":"[🌍UPD 5] +1 Venom Evolution","avg_ccu":12544.3,"min_ccu":8621,"max_ccu":16054,"samples":24,"sess":15.73,"sess_h":23.0,"like":96.75},
 "10769487429":{"name":"Voxel Heroes","avg_ccu":1773.8,"min_ccu":1220,"max_ccu":2193,"samples":11,"sess":12.89,"sess_h":10.0,"like":95.23},
-"10769514597":{"name":"[UPD✨] Makeup Salon💄","avg_ccu":4042.1,"min_ccu":2336,"max_ccu":5981,"samples":24,"sess":13.28,"sess_h":23.0,"like":97.04},
+"10769514597":{"name":"Makeup Salon💄","avg_ccu":4042.1,"min_ccu":2336,"max_ccu":5981,"samples":24,"sess":13.28,"sess_h":23.0,"like":97.04},
 "10769541317":{"name":"[PVP] +1 Titan Evolution! ⚡","avg_ccu":1415.7,"min_ccu":920,"max_ccu":1981,"samples":24,"sess":15.92,"sess_h":23.0,"like":91.19},
 "10769543567":{"name":"Cat Battles 🐾","avg_ccu":3097.7,"min_ccu":1555,"max_ccu":5251,"samples":24,"sess":8.71,"sess_h":23.0,"like":73.32},
 "10769543742":{"name":"Backseat Rally","avg_ccu":4980.3,"min_ccu":3182,"max_ccu":6814,"samples":24,"sess":9.83,"sess_h":23.0,"like":91.02},
