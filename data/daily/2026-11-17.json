@@ -1,4 +1,4 @@
-{"date": "2026-11-17", "timezone": "America/New_York", "generated_utc": "2026-11-18T06:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-18T04:10:00Z", 8189149], "genres": {"Simulation": 41.613, "Roleplay & Avatar Sim": 12.703, "Survival": 12.523, "Action": 7.868, "RPG": 5.979, "Shooter": 4.023, "Sports & Racing": 3.726, "Strategy": 3.442, "Obby & Platformer": 2.691, "Party & Casual": 1.589, "Adventure": 1.166, "Shopping": 0.955, "Other": 0.687, "Social": 0.434, "Puzzle": 0.359, "Entertainment": 0.212, "Utility & Other": 0.03}, "genre_hours": 24,"games":{
+{"date": "2026-11-17", "timezone": "America/New_York", "generated_utc": "2026-11-18T07:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-18T04:10:00Z", 8189149], "genres": {"Simulation": 41.613, "Roleplay & Avatar Sim": 12.703, "Survival": 12.523, "Action": 7.868, "RPG": 5.979, "Shooter": 4.023, "Sports & Racing": 3.726, "Strategy": 3.442, "Obby & Platformer": 2.691, "Party & Casual": 1.589, "Adventure": 1.166, "Shopping": 0.955, "Other": 0.687, "Social": 0.434, "Puzzle": 0.359, "Entertainment": 0.212, "Utility & Other": 0.03}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2481.6,"min_ccu":1746,"max_ccu":2969,"samples":24,"sess":14.26,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6540.0,"min_ccu":4157,"max_ccu":9088,"samples":24,"sess":9.41,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3246.1,"min_ccu":1944,"max_ccu":4525,"samples":24,"sess":13.14,"sess_h":23.0,"like":93.29},
@@ -596,7 +596,7 @@
 "10771155665":{"name":"Ragdoll Sandbox","avg_ccu":6094.9,"min_ccu":4021,"max_ccu":7978,"samples":24,"sess":12.36,"sess_h":23.0,"like":84.93},
 "10771205069":{"name":"Teleport Duels⚡️[RANKED]","avg_ccu":4742.8,"min_ccu":2657,"max_ccu":8730,"samples":24,"sess":13.57,"sess_h":23.0,"like":97.01},
 "10771238997":{"name":"Dragon Arena","avg_ccu":6147.3,"min_ccu":4894,"max_ccu":7137,"samples":18,"sess":18.52,"sess_h":17.0,"like":98.56},
-"10771269188":{"name":"[🌌SABERS!] Ragdoll Physics 2 🩸","avg_ccu":2469.0,"min_ccu":1657,"max_ccu":3384,"samples":24,"sess":8.24,"sess_h":23.0,"like":70.34},
+"10771269188":{"name":"[🌌] Ragdoll Physics 2 🩸","avg_ccu":2469.0,"min_ccu":1657,"max_ccu":3384,"samples":24,"sess":8.24,"sess_h":23.0,"like":70.34},
 "10771290199":{"name":"[2x WEEKEND] Farm Evolution","avg_ccu":9764.5,"min_ccu":7334,"max_ccu":15581,"samples":24,"sess":11.13,"sess_h":23.0,"like":93.74},
 "10771350522":{"name":"Tavern Town","avg_ccu":2054.1,"min_ccu":1667,"max_ccu":2301,"samples":24,"sess":57.59,"sess_h":23.0,"like":93.01},
 "10771362432":{"name":"Build and Sell Houses!","avg_ccu":3690.0,"min_ccu":2471,"max_ccu":5088,"samples":24,"sess":23.02,"sess_h":23.0,"like":78.13},
