@@ -1,4 +1,4 @@
-{"date": "2026-11-17", "timezone": "America/New_York", "generated_utc": "2026-11-18T10:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-18T04:10:00Z", 8189149], "genres": {"Simulation": 41.613, "Roleplay & Avatar Sim": 12.703, "Survival": 12.523, "Action": 7.868, "RPG": 5.979, "Shooter": 4.023, "Sports & Racing": 3.726, "Strategy": 3.442, "Obby & Platformer": 2.691, "Party & Casual": 1.589, "Adventure": 1.166, "Shopping": 0.955, "Other": 0.687, "Social": 0.434, "Puzzle": 0.359, "Entertainment": 0.212, "Utility & Other": 0.03}, "genre_hours": 24,"games":{
+{"date": "2026-11-17", "timezone": "America/New_York", "generated_utc": "2026-11-18T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-18T04:10:00Z", 8189149], "genres": {"Simulation": 41.613, "Roleplay & Avatar Sim": 12.703, "Survival": 12.523, "Action": 7.868, "RPG": 5.979, "Shooter": 4.023, "Sports & Racing": 3.726, "Strategy": 3.442, "Obby & Platformer": 2.691, "Party & Casual": 1.589, "Adventure": 1.166, "Shopping": 0.955, "Other": 0.687, "Social": 0.434, "Puzzle": 0.359, "Entertainment": 0.212, "Utility & Other": 0.03}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2481.6,"min_ccu":1746,"max_ccu":2969,"samples":24,"sess":14.26,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6540.0,"min_ccu":4157,"max_ccu":9088,"samples":24,"sess":9.41,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3246.1,"min_ccu":1944,"max_ccu":4525,"samples":24,"sess":13.14,"sess_h":23.0,"like":93.29},
@@ -253,7 +253,7 @@
 "9028640246":{"name":"FORTLINE [ONE SHOT🎯]","avg_ccu":2379.5,"min_ccu":1281,"max_ccu":3712,"samples":24,"sess":11.39,"sess_h":23.0,"like":75.82},
 "9051406594":{"name":"[💥FINAL BOSS] Dueling Grounds ⚔️","avg_ccu":3256.5,"min_ccu":2612,"max_ccu":4163,"samples":24,"sess":8.28,"sess_h":23.0,"like":96.31},
 "9067189974":{"name":"Plane Crash Simulator","avg_ccu":3413.0,"min_ccu":2551,"max_ccu":5357,"samples":24,"sess":10.16,"sess_h":23.0,"like":93.69},
-"9073513091":{"name":"Anime Apocalypse [LAST SHINOBI]","avg_ccu":437.8,"min_ccu":371,"max_ccu":528,"samples":24,"sess":12.13,"sess_h":23.0,"like":95.24},
+"9073513091":{"name":"[6H!] Anime Apocalypse","avg_ccu":437.8,"min_ccu":371,"max_ccu":528,"samples":24,"sess":12.13,"sess_h":23.0,"like":95.24},
 "9089939780":{"name":"🏁 Build A Racetrack","avg_ccu":11513.5,"min_ccu":7354,"max_ccu":16362,"samples":24,"sess":17.45,"sess_h":23.0,"like":79.0},
 "9098570654":{"name":"[⚒️UPD] 🧟 Survive the Apocalypse","avg_ccu":5321.9,"min_ccu":4207,"max_ccu":7259,"samples":24,"sess":26.75,"sess_h":23.0,"like":94.11},
 "9150731899":{"name":"PRISON RP","avg_ccu":1382.8,"min_ccu":815,"max_ccu":2144,"samples":24,"sess":32.26,"sess_h":23.0,"like":78.34},
