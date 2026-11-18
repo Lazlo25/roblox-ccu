@@ -1,4 +1,4 @@
-{"date": "2026-11-17", "timezone": "America/New_York", "generated_utc": "2026-11-18T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-18T04:10:00Z", 8189149], "genres": {"Simulation": 41.613, "Roleplay & Avatar Sim": 12.703, "Survival": 12.523, "Action": 7.868, "RPG": 5.979, "Shooter": 4.023, "Sports & Racing": 3.726, "Strategy": 3.442, "Obby & Platformer": 2.691, "Party & Casual": 1.589, "Adventure": 1.166, "Shopping": 0.955, "Other": 0.687, "Social": 0.434, "Puzzle": 0.359, "Entertainment": 0.212, "Utility & Other": 0.03}, "genre_hours": 24,"games":{
+{"date": "2026-11-17", "timezone": "America/New_York", "generated_utc": "2026-11-18T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-18T04:10:00Z", 8189149], "genres": {"Simulation": 41.613, "Roleplay & Avatar Sim": 12.703, "Survival": 12.523, "Action": 7.868, "RPG": 5.979, "Shooter": 4.023, "Sports & Racing": 3.726, "Strategy": 3.442, "Obby & Platformer": 2.691, "Party & Casual": 1.589, "Adventure": 1.166, "Shopping": 0.955, "Other": 0.687, "Social": 0.434, "Puzzle": 0.359, "Entertainment": 0.212, "Utility & Other": 0.03}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2481.6,"min_ccu":1746,"max_ccu":2969,"samples":24,"sess":14.26,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6540.0,"min_ccu":4157,"max_ccu":9088,"samples":24,"sess":9.41,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3246.1,"min_ccu":1944,"max_ccu":4525,"samples":24,"sess":13.14,"sess_h":23.0,"like":93.29},
@@ -405,7 +405,7 @@
 "10765618402":{"name":"Steel Fighters","avg_ccu":1136.3,"min_ccu":983,"max_ccu":1364,"samples":24,"sess":19.38,"sess_h":23.0,"like":90.79},
 "10765635650":{"name":"Impossible Animals","avg_ccu":2150.1,"min_ccu":1750,"max_ccu":2797,"samples":11,"sess":14.51,"sess_h":10.0,"like":98.72},
 "10765678399":{"name":"*HAUL TRUCK!* Trash Landfill Tycoon","avg_ccu":77.9,"min_ccu":45,"max_ccu":109,"samples":24,"sess":7.2,"sess_h":23.0,"like":91.84},
-"10765718479":{"name":"[UPD ✈️] Build a Car to Go Far","avg_ccu":8525.1,"min_ccu":5120,"max_ccu":11426,"samples":24,"sess":23.64,"sess_h":23.0,"like":86.33},
+"10765718479":{"name":"[UPD⚙️📦] Build a Car to Go Far","avg_ccu":8525.1,"min_ccu":5120,"max_ccu":11426,"samples":24,"sess":23.64,"sess_h":23.0,"like":86.33},
 "10765788154":{"name":"[🦖] My Dino Empire","avg_ccu":1336.6,"min_ccu":1116,"max_ccu":1605,"samples":24,"sess":22.6,"sess_h":23.0,"like":98.05},
 "10765841403":{"name":"👁️Steal Or Die [SKINS + NEW MAP🔥!]","avg_ccu":5000.3,"min_ccu":2544,"max_ccu":7447,"samples":24,"sess":19.39,"sess_h":23.0,"like":91.67},
 "10765938934":{"name":"[⚔️UPD 4] Roll A Stickman!","avg_ccu":4629.1,"min_ccu":4306,"max_ccu":4930,"samples":24,"sess":19.5,"sess_h":23.0,"like":95.93},
