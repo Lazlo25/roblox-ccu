@@ -1,4 +1,4 @@
-{"date": "2026-11-17", "timezone": "America/New_York", "generated_utc": "2026-11-18T21:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-18T04:10:00Z", 8189149], "genres": {"Simulation": 41.613, "Roleplay & Avatar Sim": 12.703, "Survival": 12.523, "Action": 7.868, "RPG": 5.979, "Shooter": 4.023, "Sports & Racing": 3.726, "Strategy": 3.442, "Obby & Platformer": 2.691, "Party & Casual": 1.589, "Adventure": 1.166, "Shopping": 0.955, "Other": 0.687, "Social": 0.434, "Puzzle": 0.359, "Entertainment": 0.212, "Utility & Other": 0.03}, "genre_hours": 24,"games":{
+{"date": "2026-11-17", "timezone": "America/New_York", "generated_utc": "2026-11-18T22:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-18T04:10:00Z", 8189149], "genres": {"Simulation": 41.613, "Roleplay & Avatar Sim": 12.703, "Survival": 12.523, "Action": 7.868, "RPG": 5.979, "Shooter": 4.023, "Sports & Racing": 3.726, "Strategy": 3.442, "Obby & Platformer": 2.691, "Party & Casual": 1.589, "Adventure": 1.166, "Shopping": 0.955, "Other": 0.687, "Social": 0.434, "Puzzle": 0.359, "Entertainment": 0.212, "Utility & Other": 0.03}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2481.6,"min_ccu":1746,"max_ccu":2969,"samples":24,"sess":14.26,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6540.0,"min_ccu":4157,"max_ccu":9088,"samples":24,"sess":9.41,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3246.1,"min_ccu":1944,"max_ccu":4525,"samples":24,"sess":13.14,"sess_h":23.0,"like":93.29},
@@ -299,7 +299,7 @@
 "10057403337":{"name":"[🦖] Deagle Arena","avg_ccu":9614.5,"min_ccu":6722,"max_ccu":13479,"samples":24,"sess":8.15,"sess_h":23.0,"like":87.43},
 "10062673104":{"name":"Hug TROLL Tower 🤗","avg_ccu":3218.9,"min_ccu":2556,"max_ccu":4147,"samples":24,"sess":12.55,"sess_h":23.0,"like":76.54},
 "10069043526":{"name":"Keyboard Bridge Wars! 🧱","avg_ccu":1423.7,"min_ccu":888,"max_ccu":1908,"samples":24,"sess":13.58,"sess_h":23.0,"like":89.92},
-"10079271418":{"name":"[UPD3!🎉] Anime Paradise","avg_ccu":4075.1,"min_ccu":3947,"max_ccu":4275,"samples":24,"sess":35.88,"sess_h":23.0,"like":95.98},
+"10079271418":{"name":"[UPD3.5!🎉] Anime Paradise","avg_ccu":4075.1,"min_ccu":3947,"max_ccu":4275,"samples":24,"sess":35.88,"sess_h":23.0,"like":95.98},
 "10090256806":{"name":"TTK Testing [NEW PISTOL]","avg_ccu":3684.6,"min_ccu":2338,"max_ccu":4860,"samples":24,"sess":10.56,"sess_h":23.0,"like":90.96},
 "10107832573":{"name":"[2x Weekend] Heist Evolution","avg_ccu":2245.2,"min_ccu":1525,"max_ccu":3508,"samples":24,"sess":7.7,"sess_h":23.0,"like":93.54},
 "10126644530":{"name":"[🛒] Run a Sari-Sari Store!","avg_ccu":5327.4,"min_ccu":1501,"max_ccu":8742,"samples":24,"sess":22.71,"sess_h":23.0,"like":96.73},
@@ -672,7 +672,7 @@
 "10772749430":{"name":"My Cookie Store 🍪[BETA]","avg_ccu":4337.8,"min_ccu":2765,"max_ccu":5697,"samples":17,"sess":25.18,"sess_h":16.0,"like":93.66},
 "10772794231":{"name":"Raycity RB","avg_ccu":2345.9,"min_ccu":1095,"max_ccu":4209,"samples":24,"sess":24.51,"sess_h":23.0,"like":96.41},
 "10772816442":{"name":"[🍂] Make Soaps! 🧼","avg_ccu":1069.5,"min_ccu":591,"max_ccu":1684,"samples":24,"sess":29.13,"sess_h":23.0,"like":91.49},
-"10772854892":{"name":"[2x WEEKEND] Omega Evolution","avg_ccu":1665.9,"min_ccu":843,"max_ccu":4134,"samples":24,"sess":8.28,"sess_h":23.0,"like":78.93},
+"10772854892":{"name":"[x2 WEEKEND] Omega Evolution","avg_ccu":1665.9,"min_ccu":843,"max_ccu":4134,"samples":24,"sess":8.28,"sess_h":23.0,"like":78.93},
 "10772864993":{"name":"Untitled Symbiote Suit Game [VENOM]","avg_ccu":1598.9,"min_ccu":875,"max_ccu":2244,"samples":24,"sess":9.68,"sess_h":23.0,"like":91.24},
 "10772879271":{"name":"[UPDATE 2.1] 30 Floors Up","avg_ccu":7928.5,"min_ccu":5687,"max_ccu":10078,"samples":24,"sess":18.51,"sess_h":23.0,"like":80.03},
 "10772946647":{"name":"Do Not Stop.","avg_ccu":14215.7,"min_ccu":8623,"max_ccu":19632,"samples":24,"sess":6.96,"sess_h":23.0,"like":88.36},
