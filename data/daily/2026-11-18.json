@@ -1,4 +1,4 @@
-{"date": "2026-11-18", "timezone": "America/New_York", "generated_utc": "2026-11-19T14:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-19T04:10:00Z", 8192625], "genres": {"Simulation": 40.712, "Roleplay & Avatar Sim": 13.041, "Survival": 12.398, "Action": 7.806, "RPG": 6.571, "Shooter": 4.197, "Sports & Racing": 3.666, "Strategy": 3.323, "Obby & Platformer": 2.811, "Party & Casual": 1.619, "Adventure": 1.156, "Shopping": 0.957, "Other": 0.671, "Social": 0.455, "Puzzle": 0.369, "Entertainment": 0.246}, "genre_hours": 24,"games":{
+{"date": "2026-11-18", "timezone": "America/New_York", "generated_utc": "2026-11-19T15:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-19T04:10:00Z", 8192625], "genres": {"Simulation": 40.712, "Roleplay & Avatar Sim": 13.041, "Survival": 12.398, "Action": 7.806, "RPG": 6.571, "Shooter": 4.197, "Sports & Racing": 3.666, "Strategy": 3.323, "Obby & Platformer": 2.811, "Party & Casual": 1.619, "Adventure": 1.156, "Shopping": 0.957, "Other": 0.671, "Social": 0.455, "Puzzle": 0.369, "Entertainment": 0.246}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2526.3,"min_ccu":1906,"max_ccu":3091,"samples":24,"sess":14.06,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6434.5,"min_ccu":4379,"max_ccu":8800,"samples":24,"sess":9.52,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"Notoriety: A PAYDAY® Experience","avg_ccu":8642.0,"min_ccu":8642,"max_ccu":8642,"samples":1,"like":92.52},
@@ -147,7 +147,7 @@
 "5569032992":{"name":"🌻 Dandy's World [ALPHA]","avg_ccu":49298.7,"min_ccu":32386,"max_ccu":67504,"samples":24,"sess":15.05,"sess_h":23.0,"like":88.51},
 "5576955991":{"name":"[LNG] Sail and Sink Simulator!","avg_ccu":1011.6,"min_ccu":605,"max_ccu":1603,"samples":24,"sess":14.9,"sess_h":23.0,"like":96.59},
 "5578556129":{"name":"Vanguards: Trail of the Saint","avg_ccu":13628.4,"min_ccu":12634,"max_ccu":14981,"samples":24,"sess":57.04,"sess_h":23.0,"like":96.71},
-"5595353122":{"name":"[🕸️🎃Update] Project Slayers 2","avg_ccu":14245.5,"min_ccu":10716,"max_ccu":17339,"samples":24,"sess":29.86,"sess_h":23.0,"like":97.37},
+"5595353122":{"name":"Project Slayers 2","avg_ccu":14245.5,"min_ccu":10716,"max_ccu":17339,"samples":24,"sess":29.86,"sess_h":23.0,"like":97.37},
 "5650396773":{"name":"a dusty trip [👮PRISON]","avg_ccu":10340.5,"min_ccu":7279,"max_ccu":13763,"samples":24,"sess":12.57,"sess_h":23.0,"like":90.03},
 "5750914919":{"name":"Fisch 🎩 [COMPANION HATS]","avg_ccu":47323.5,"min_ccu":39631,"max_ccu":59749,"samples":24,"sess":30.36,"sess_h":23.0,"like":90.84},
 "5818442577":{"name":"[BETA] Eternal","avg_ccu":195.3,"min_ccu":62,"max_ccu":311,"samples":24,"sess":37.84,"sess_h":23.0,"like":93.88},
@@ -257,7 +257,7 @@
 "9363735110":{"name":"[🌊] Escape Tsunami For Brainrots!","avg_ccu":3331.9,"min_ccu":1736,"max_ccu":11237,"samples":24,"sess":13.09,"sess_h":23.0,"like":83.07},
 "9364041968":{"name":"[LIMITEDS🏎️] Car Sales 2 🏎️","avg_ccu":551.9,"min_ccu":297,"max_ccu":977,"samples":8,"sess":20.17,"sess_h":7.0,"like":83.34},
 "9442472087":{"name":"WARDEN 🐲 Sonaria Horror Escape","avg_ccu":471.4,"min_ccu":290,"max_ccu":582,"samples":24,"sess":19.04,"sess_h":23.0,"like":92.07},
-"9491545867":{"name":"[🍂SOON] Break a Brainrot Egg!","avg_ccu":4416.7,"min_ccu":3320,"max_ccu":6371,"samples":24,"sess":13.79,"sess_h":23.0,"like":81.92},
+"9491545867":{"name":"[🍂NOW] Break a Brainrot Egg!","avg_ccu":4416.7,"min_ccu":3320,"max_ccu":6371,"samples":24,"sess":13.79,"sess_h":23.0,"like":81.92},
 "9514625031":{"name":"[🍁] Fling Playground","avg_ccu":5906.4,"min_ccu":4176,"max_ccu":7935,"samples":24,"sess":15.23,"sess_h":23.0,"like":62.08},
 "9534705677":{"name":"[🔥Battlepass] Sniper Arena","avg_ccu":6923.5,"min_ccu":4319,"max_ccu":9581,"samples":24,"sess":12.86,"sess_h":23.0,"like":91.75},
 "9561553764":{"name":"Murder Duels","avg_ccu":5397.2,"min_ccu":4115,"max_ccu":7009,"samples":24,"sess":9.0,"sess_h":23.0,"like":93.05},
@@ -761,7 +761,7 @@
 "10774857751":{"name":"Ragdoll Animal Playground","avg_ccu":2294.5,"min_ccu":721,"max_ccu":5688,"samples":24,"sess":9.34,"sess_h":23.0,"like":64.24},
 "10774894770":{"name":"In This Town... [NEW MAPS]","avg_ccu":702.9,"min_ccu":456,"max_ccu":946,"samples":24,"sess":8.58,"sess_h":23.0,"like":69.04},
 "10774903300":{"name":"[UPD] Patrol Compton","avg_ccu":1721.1,"min_ccu":1406,"max_ccu":1975,"samples":8,"sess":17.56,"sess_h":7.0,"like":80.87},
-"10774935925":{"name":"Minecarft 1.21.4","avg_ccu":1539.8,"min_ccu":1037,"max_ccu":2112,"samples":24,"sess":5.8,"sess_h":23.0,"like":86.99},
+"10774935925":{"name":"Minecraft 1.21.4","avg_ccu":1539.8,"min_ccu":1037,"max_ccu":2112,"samples":24,"sess":5.8,"sess_h":23.0,"like":86.99},
 "10774938124":{"name":"Thirsty Grandpa👴","avg_ccu":1581.0,"min_ccu":1581,"max_ccu":1581,"samples":1,"like":69.83},
 "10774963591":{"name":"🎃MMZ","avg_ccu":40.8,"min_ccu":18,"max_ccu":85,"samples":24,"sess":16.78,"sess_h":23.0,"like":87.09},
 "10775016983":{"name":"Mechs vs Kaiju's Ragdoll | [DRILL UPDATE]","avg_ccu":4341.0,"min_ccu":3819,"max_ccu":4884,"samples":8,"sess":9.06,"sess_h":7.0,"like":98.47},
