@@ -1,4 +1,4 @@
-{"date": "2026-11-17", "timezone": "America/New_York", "generated_utc": "2026-11-18T23:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-18T04:10:00Z", 8189149], "genres": {"Simulation": 41.613, "Roleplay & Avatar Sim": 12.703, "Survival": 12.523, "Action": 7.868, "RPG": 5.979, "Shooter": 4.023, "Sports & Racing": 3.726, "Strategy": 3.442, "Obby & Platformer": 2.691, "Party & Casual": 1.589, "Adventure": 1.166, "Shopping": 0.955, "Other": 0.687, "Social": 0.434, "Puzzle": 0.359, "Entertainment": 0.212, "Utility & Other": 0.03}, "genre_hours": 24,"games":{
+{"date": "2026-11-17", "timezone": "America/New_York", "generated_utc": "2026-11-19T00:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-18T04:10:00Z", 8189149], "genres": {"Simulation": 41.613, "Roleplay & Avatar Sim": 12.703, "Survival": 12.523, "Action": 7.868, "RPG": 5.979, "Shooter": 4.023, "Sports & Racing": 3.726, "Strategy": 3.442, "Obby & Platformer": 2.691, "Party & Casual": 1.589, "Adventure": 1.166, "Shopping": 0.955, "Other": 0.687, "Social": 0.434, "Puzzle": 0.359, "Entertainment": 0.212, "Utility & Other": 0.03}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2481.6,"min_ccu":1746,"max_ccu":2969,"samples":24,"sess":14.26,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6540.0,"min_ccu":4157,"max_ccu":9088,"samples":24,"sess":9.41,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3246.1,"min_ccu":1944,"max_ccu":4525,"samples":24,"sess":13.14,"sess_h":23.0,"like":93.29},
@@ -279,7 +279,7 @@
 "9837612476":{"name":"[💥] Mini War","avg_ccu":6128.4,"min_ccu":5434,"max_ccu":6857,"samples":24,"sess":29.65,"sess_h":23.0,"like":96.43},
 "9855761734":{"name":"San Diego Roleplay","avg_ccu":8651.5,"min_ccu":5440,"max_ccu":12587,"samples":24,"sess":17.75,"sess_h":23.0,"like":85.49},
 "9867225552":{"name":"[STAGE 3] A Bizarre Run","avg_ccu":7747.0,"min_ccu":4339,"max_ccu":10311,"samples":24,"sess":5.41,"sess_h":23.0,"like":97.58},
-"9867866217":{"name":"Gym Universe","avg_ccu":4128.0,"min_ccu":2432,"max_ccu":6776,"samples":24,"sess":14.12,"sess_h":23.0,"like":80.31},
+"9867866217":{"name":"[NOW] Gym Universe","avg_ccu":4128.0,"min_ccu":2432,"max_ccu":6776,"samples":24,"sess":14.12,"sess_h":23.0,"like":80.31},
 "9872734936":{"name":"[🏁UPD] Junk Mechanics","avg_ccu":2417.1,"min_ccu":1739,"max_ccu":2836,"samples":24,"sess":15.58,"sess_h":23.0,"like":87.59},
 "9880286438":{"name":"[🎃]Legacy Piece","avg_ccu":746.1,"min_ccu":670,"max_ccu":844,"samples":11,"sess":26.97,"sess_h":10.0,"like":96.72},
 "9885372266":{"name":"Unseen Liminality","avg_ccu":6013.9,"min_ccu":3632,"max_ccu":9091,"samples":24,"sess":17.63,"sess_h":23.0,"like":94.14},
@@ -290,7 +290,7 @@
 "9949288829":{"name":"[UPD] Steal from KPOP Idols!","avg_ccu":921.5,"min_ccu":513,"max_ccu":1373,"samples":24,"sess":14.27,"sess_h":23.0,"like":97.32},
 "9950184599":{"name":"(💨AIR SUSPENSION, TRAILERS) Young Street, Ontario","avg_ccu":1583.9,"min_ccu":989,"max_ccu":2025,"samples":24,"sess":24.34,"sess_h":23.0,"like":98.06},
 "9970645639":{"name":"Run a Restaurant!","avg_ccu":3365.1,"min_ccu":2857,"max_ccu":4170,"samples":24,"sess":25.93,"sess_h":23.0,"like":98.66},
-"9978329815":{"name":"Mukbang Game [Testing]🍜🥢!","avg_ccu":11997.0,"min_ccu":9815,"max_ccu":15458,"samples":24,"sess":12.6,"sess_h":23.0,"like":92.57},
+"9978329815":{"name":"Mukbang Game [Testing]🥤🎍!","avg_ccu":11997.0,"min_ccu":9815,"max_ccu":15458,"samples":24,"sess":12.6,"sess_h":23.0,"like":92.57},
 "9979684281":{"name":"🔧 Mechanic Legends [BODYKITS]","avg_ccu":3308.8,"min_ccu":2473,"max_ccu":4268,"samples":24,"sess":13.9,"sess_h":23.0,"like":92.14},
 "9996384072":{"name":"Reel for Kpop Idols","avg_ccu":1139.0,"min_ccu":866,"max_ccu":1545,"samples":24,"sess":23.43,"sess_h":23.0,"like":97.62},
 "10004244222":{"name":"[🕰️] Kick a Lucky Block","avg_ccu":8450.3,"min_ccu":6307,"max_ccu":11370,"samples":24,"sess":14.12,"sess_h":23.0,"like":94.94},
@@ -350,7 +350,7 @@
 "10624691669":{"name":"MONOCHROME👁️","avg_ccu":1602.1,"min_ccu":1069,"max_ccu":2036,"samples":24,"sess":3.6,"sess_h":23.0,"like":84.77},
 "10629695169":{"name":"[🏰] Tap Simulator REBORN","avg_ccu":36160.6,"min_ccu":32190,"max_ccu":39906,"samples":24,"sess":38.41,"sess_h":23.0,"like":93.57},
 "10634461028":{"name":"Drive A Kukirin!","avg_ccu":1877.7,"min_ccu":185,"max_ccu":4446,"samples":24,"sess":9.31,"sess_h":23.0,"like":89.37},
-"10638886777":{"name":"[⏳ 2H] 🧈 Stack A Butter Squishy [ASMR]","avg_ccu":10251.6,"min_ccu":8195,"max_ccu":12068,"samples":24,"sess":13.26,"sess_h":23.0,"like":88.99},
+"10638886777":{"name":"[⏳ 1H] 🧈 Stack A Butter Squishy [ASMR]","avg_ccu":10251.6,"min_ccu":8195,"max_ccu":12068,"samples":24,"sess":13.26,"sess_h":23.0,"like":88.99},
 "10643795368":{"name":"Idle Mafia Game","avg_ccu":2502.7,"min_ccu":2355,"max_ccu":3016,"samples":24,"sess":31.53,"sess_h":23.0,"like":87.67},
 "10648640958":{"name":"[🏆] Hood Rivals","avg_ccu":888.5,"min_ccu":439,"max_ccu":1628,"samples":24,"sess":6.78,"sess_h":23.0,"like":90.32},
 "10648820673":{"name":"[🍲] Karinderya!","avg_ccu":2548.0,"min_ccu":685,"max_ccu":4667,"samples":24,"sess":22.33,"sess_h":23.0,"like":97.41},
