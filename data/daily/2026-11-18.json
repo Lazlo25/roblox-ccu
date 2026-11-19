@@ -1,4 +1,4 @@
-{"date": "2026-11-18", "timezone": "America/New_York", "generated_utc": "2026-11-19T20:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-19T04:10:00Z", 8192625], "genres": {"Simulation": 40.712, "Roleplay & Avatar Sim": 13.041, "Survival": 12.398, "Action": 7.806, "RPG": 6.571, "Shooter": 4.197, "Sports & Racing": 3.666, "Strategy": 3.323, "Obby & Platformer": 2.811, "Party & Casual": 1.619, "Adventure": 1.156, "Shopping": 0.957, "Other": 0.671, "Social": 0.455, "Puzzle": 0.369, "Entertainment": 0.246}, "genre_hours": 24,"games":{
+{"date": "2026-11-18", "timezone": "America/New_York", "generated_utc": "2026-11-19T21:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-19T04:10:00Z", 8192625], "genres": {"Simulation": 40.712, "Roleplay & Avatar Sim": 13.041, "Survival": 12.398, "Action": 7.806, "RPG": 6.571, "Shooter": 4.197, "Sports & Racing": 3.666, "Strategy": 3.323, "Obby & Platformer": 2.811, "Party & Casual": 1.619, "Adventure": 1.156, "Shopping": 0.957, "Other": 0.671, "Social": 0.455, "Puzzle": 0.369, "Entertainment": 0.246}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2526.3,"min_ccu":1906,"max_ccu":3091,"samples":24,"sess":14.06,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6434.5,"min_ccu":4379,"max_ccu":8800,"samples":24,"sess":9.52,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"Notoriety: A PAYDAY® Experience","avg_ccu":8642.0,"min_ccu":8642,"max_ccu":8642,"samples":1,"like":92.52},
@@ -184,7 +184,7 @@
 "6760085372":{"name":"[🔨 INFINITE] Jujutsu: Zero","avg_ccu":2382.0,"min_ccu":2176,"max_ccu":2559,"samples":24,"sess":36.01,"sess_h":23.0,"like":95.2},
 "6765805766":{"name":"BlockSpin 🔪","avg_ccu":10650.4,"min_ccu":7290,"max_ccu":13663,"samples":24,"sess":13.6,"sess_h":23.0,"like":78.92},
 "6774320049":{"name":"Dubai 🏡 RP [Newborns! 👶]","avg_ccu":10219.0,"min_ccu":5724,"max_ccu":14634,"samples":24,"sess":16.56,"sess_h":23.0,"like":89.49},
-"6786784563":{"name":"[🖥️SERVERS!] Corsa Legends [ALPHA]","avg_ccu":738.2,"min_ccu":447,"max_ccu":925,"samples":24,"sess":12.0,"sess_h":23.0,"like":96.97},
+"6786784563":{"name":"[🔧MECHANIC REVAMP!] Corsa Legends [ALPHA]","avg_ccu":738.2,"min_ccu":447,"max_ccu":925,"samples":24,"sess":12.0,"sess_h":23.0,"like":96.97},
 "6858584271":{"name":"[STRIKERS🔥] Philly Streetz 2","avg_ccu":1058.7,"min_ccu":326,"max_ccu":2056,"samples":24,"sess":57.97,"sess_h":23.0,"like":88.19},
 "6931042565":{"name":"[UPD] Volleyball Legends","avg_ccu":31538.2,"min_ccu":19788,"max_ccu":39994,"samples":24,"sess":13.83,"sess_h":23.0,"like":95.12},
 "6945584306":{"name":"[🧿 RIN + 🎃] Azure Latch","avg_ccu":7734.2,"min_ccu":3877,"max_ccu":11246,"samples":24,"sess":19.78,"sess_h":23.0,"like":96.74},
@@ -291,7 +291,7 @@
 "10057403337":{"name":"[🦖] Deagle Arena","avg_ccu":9058.2,"min_ccu":6449,"max_ccu":12263,"samples":24,"sess":8.3,"sess_h":23.0,"like":87.43},
 "10062673104":{"name":"Hug TROLL Tower 🤗","avg_ccu":3225.1,"min_ccu":2436,"max_ccu":4114,"samples":24,"sess":12.35,"sess_h":23.0,"like":76.62},
 "10069043526":{"name":"Keyboard Bridge Wars! 🧱","avg_ccu":1356.4,"min_ccu":875,"max_ccu":1851,"samples":24,"sess":13.45,"sess_h":23.0,"like":89.91},
-"10079271418":{"name":"[UPD3.5!] Anime Paradise","avg_ccu":3841.0,"min_ccu":3625,"max_ccu":4094,"samples":24,"sess":32.98,"sess_h":23.0,"like":95.97},
+"10079271418":{"name":"[UPD3.5!🔥] Anime Paradise","avg_ccu":3841.0,"min_ccu":3625,"max_ccu":4094,"samples":24,"sess":32.98,"sess_h":23.0,"like":95.97},
 "10090256806":{"name":"TTK Testing [NEW PISTOL]","avg_ccu":3610.7,"min_ccu":2417,"max_ccu":4769,"samples":24,"sess":10.12,"sess_h":23.0,"like":90.96},
 "10107832573":{"name":"[2x Weekend] Heist Evolution","avg_ccu":2070.1,"min_ccu":1302,"max_ccu":3400,"samples":24,"sess":7.83,"sess_h":23.0,"like":93.29},
 "10126644530":{"name":"[🛒] Run a Sari-Sari Store!","avg_ccu":4778.5,"min_ccu":1368,"max_ccu":8195,"samples":24,"sess":22.65,"sess_h":23.0,"like":96.71},
