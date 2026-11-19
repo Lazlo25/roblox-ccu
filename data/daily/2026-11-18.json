@@ -1,4 +1,4 @@
-{"date": "2026-11-18", "timezone": "America/New_York", "generated_utc": "2026-11-19T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-19T04:10:00Z", 8192625], "genres": {"Simulation": 40.712, "Roleplay & Avatar Sim": 13.041, "Survival": 12.398, "Action": 7.806, "RPG": 6.571, "Shooter": 4.197, "Sports & Racing": 3.666, "Strategy": 3.323, "Obby & Platformer": 2.811, "Party & Casual": 1.619, "Adventure": 1.156, "Shopping": 0.957, "Other": 0.671, "Social": 0.455, "Puzzle": 0.369, "Entertainment": 0.246}, "genre_hours": 24,"games":{
+{"date": "2026-11-18", "timezone": "America/New_York", "generated_utc": "2026-11-19T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-19T04:10:00Z", 8192625], "genres": {"Simulation": 40.712, "Roleplay & Avatar Sim": 13.041, "Survival": 12.398, "Action": 7.806, "RPG": 6.571, "Shooter": 4.197, "Sports & Racing": 3.666, "Strategy": 3.323, "Obby & Platformer": 2.811, "Party & Casual": 1.619, "Adventure": 1.156, "Shopping": 0.957, "Other": 0.671, "Social": 0.455, "Puzzle": 0.369, "Entertainment": 0.246}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2526.3,"min_ccu":1906,"max_ccu":3091,"samples":24,"sess":14.06,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6434.5,"min_ccu":4379,"max_ccu":8800,"samples":24,"sess":9.52,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"Notoriety: A PAYDAY® Experience","avg_ccu":8642.0,"min_ccu":8642,"max_ccu":8642,"samples":1,"like":92.52},
@@ -441,7 +441,7 @@
 "10767808614":{"name":"Ride An Egg","avg_ccu":2716.8,"min_ccu":1924,"max_ccu":3885,"samples":24,"sess":18.61,"sess_h":23.0,"like":97.9},
 "10767814136":{"name":"Ride a Dragon","avg_ccu":1441.2,"min_ccu":913,"max_ccu":1980,"samples":24,"sess":14.29,"sess_h":23.0,"like":86.65},
 "10767824942":{"name":"+1 Assassin Leveling","avg_ccu":4790.2,"min_ccu":3647,"max_ccu":6292,"samples":24,"sess":26.86,"sess_h":23.0,"like":95.82},
-"10767826343":{"name":"Zombie Air Force ✈️","avg_ccu":650.3,"min_ccu":555,"max_ccu":783,"samples":24,"sess":21.74,"sess_h":23.0,"like":88.22},
+"10767826343":{"name":"[UPD] Zombie Air Force ✈️","avg_ccu":650.3,"min_ccu":555,"max_ccu":783,"samples":24,"sess":21.74,"sess_h":23.0,"like":88.22},
 "10767876753":{"name":"Martial Arts World [🎃 HALLOWEEN]","avg_ccu":342.2,"min_ccu":276,"max_ccu":448,"samples":24,"sess":27.52,"sess_h":23.0,"like":95.78},
 "10767956398":{"name":"+1 Destruction Battlegrounds [Superhero Ragdoll]","avg_ccu":1757.1,"min_ccu":1214,"max_ccu":2240,"samples":24,"sess":14.69,"sess_h":23.0,"like":98.07},
 "10767968712":{"name":"[🏴‍☠️] Ride Operator Simulator","avg_ccu":1342.0,"min_ccu":526,"max_ccu":2463,"samples":24,"sess":7.51,"sess_h":23.0,"like":85.55},
@@ -719,7 +719,7 @@
 "10773749924":{"name":"⚔️ Block Tower","avg_ccu":6592.4,"min_ccu":2258,"max_ccu":11087,"samples":24,"sess":1.65,"sess_h":23.0,"like":48.06},
 "10773752277":{"name":"Raise Your Family!👶","avg_ccu":1393.5,"min_ccu":902,"max_ccu":1947,"samples":24,"sess":9.73,"sess_h":23.0,"like":76.92},
 "10773765271":{"name":"Dig out of Hospital 🏥","avg_ccu":724.0,"min_ccu":422,"max_ccu":997,"samples":24,"sess":10.81,"sess_h":23.0,"like":83.18},
-"10773775450":{"name":"[1.5] Malam Sama Kembar","avg_ccu":1915.8,"min_ccu":115,"max_ccu":3815,"samples":24,"sess":9.93,"sess_h":23.0,"like":81.76},
+"10773775450":{"name":"[MALAM JUMAAT] Malam Sama Kembar","avg_ccu":1915.8,"min_ccu":115,"max_ccu":3815,"samples":24,"sess":9.93,"sess_h":23.0,"like":81.76},
 "10773803518":{"name":"Engine Simulator","avg_ccu":3167.6,"min_ccu":2057,"max_ccu":4230,"samples":10,"sess":12.07,"sess_h":9.0,"like":76.42},
 "10773835173":{"name":"[2V2] BONK CARS!","avg_ccu":4386.3,"min_ccu":1730,"max_ccu":5464,"samples":10,"sess":11.6,"sess_h":9.0,"like":30.82},
 "10773874482":{"name":"Gecko Duo 🦎 [2 Player Obby]","avg_ccu":5648.5,"min_ccu":3044,"max_ccu":8325,"samples":24,"sess":9.02,"sess_h":23.0,"like":91.26},
