@@ -1,4 +1,4 @@
-{"date": "2026-11-17", "timezone": "America/New_York", "generated_utc": "2026-11-19T01:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-18T04:10:00Z", 8189149], "genres": {"Simulation": 41.613, "Roleplay & Avatar Sim": 12.703, "Survival": 12.523, "Action": 7.868, "RPG": 5.979, "Shooter": 4.023, "Sports & Racing": 3.726, "Strategy": 3.442, "Obby & Platformer": 2.691, "Party & Casual": 1.589, "Adventure": 1.166, "Shopping": 0.955, "Other": 0.687, "Social": 0.434, "Puzzle": 0.359, "Entertainment": 0.212, "Utility & Other": 0.03}, "genre_hours": 24,"games":{
+{"date": "2026-11-17", "timezone": "America/New_York", "generated_utc": "2026-11-19T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-18T04:10:00Z", 8189149], "genres": {"Simulation": 41.613, "Roleplay & Avatar Sim": 12.703, "Survival": 12.523, "Action": 7.868, "RPG": 5.979, "Shooter": 4.023, "Sports & Racing": 3.726, "Strategy": 3.442, "Obby & Platformer": 2.691, "Party & Casual": 1.589, "Adventure": 1.166, "Shopping": 0.955, "Other": 0.687, "Social": 0.434, "Puzzle": 0.359, "Entertainment": 0.212, "Utility & Other": 0.03}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2481.6,"min_ccu":1746,"max_ccu":2969,"samples":24,"sess":14.26,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6540.0,"min_ccu":4157,"max_ccu":9088,"samples":24,"sess":9.41,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3246.1,"min_ccu":1944,"max_ccu":4525,"samples":24,"sess":13.14,"sess_h":23.0,"like":93.29},
@@ -258,7 +258,7 @@
 "9098570654":{"name":"[⚒️UPD] 🧟 Survive the Apocalypse","avg_ccu":5321.9,"min_ccu":4207,"max_ccu":7259,"samples":24,"sess":26.75,"sess_h":23.0,"like":94.11},
 "9150731899":{"name":"PRISON RP","avg_ccu":1382.8,"min_ccu":815,"max_ccu":2144,"samples":24,"sess":32.26,"sess_h":23.0,"like":78.34},
 "9167377564":{"name":"100 Days at Sea","avg_ccu":15069.8,"min_ccu":10998,"max_ccu":20106,"samples":24,"sess":18.13,"sess_h":23.0,"like":97.02},
-"9169166771":{"name":"[AnxiousDog!] Tiny Universe RP","avg_ccu":1202.1,"min_ccu":830,"max_ccu":2005,"samples":24,"sess":12.83,"sess_h":23.0,"like":79.32},
+"9169166771":{"name":"[InfectedPie!] Tiny Universe RP","avg_ccu":1202.1,"min_ccu":830,"max_ccu":2005,"samples":24,"sess":12.83,"sess_h":23.0,"like":79.32},
 "9293926625":{"name":"[OPEN] UMA DASH","avg_ccu":1504.6,"min_ccu":1270,"max_ccu":1880,"samples":24,"sess":19.91,"sess_h":23.0,"like":95.67},
 "9294074907":{"name":"[FPS] One Tap","avg_ccu":10447.5,"min_ccu":7638,"max_ccu":14708,"samples":24,"sess":9.24,"sess_h":23.0,"like":87.93},
 "9363735110":{"name":"[🌊] Escape Tsunami For Brainrots!","avg_ccu":2435.2,"min_ccu":1764,"max_ccu":3363,"samples":24,"sess":12.54,"sess_h":23.0,"like":83.07},
@@ -350,7 +350,7 @@
 "10624691669":{"name":"MONOCHROME👁️","avg_ccu":1602.1,"min_ccu":1069,"max_ccu":2036,"samples":24,"sess":3.6,"sess_h":23.0,"like":84.77},
 "10629695169":{"name":"[🏰] Tap Simulator REBORN","avg_ccu":36160.6,"min_ccu":32190,"max_ccu":39906,"samples":24,"sess":38.41,"sess_h":23.0,"like":93.57},
 "10634461028":{"name":"Drive A Kukirin!","avg_ccu":1877.7,"min_ccu":185,"max_ccu":4446,"samples":24,"sess":9.31,"sess_h":23.0,"like":89.37},
-"10638886777":{"name":"[🔴 LIVE] 🧈 Stack A Butter Squishy [ASMR]","avg_ccu":10251.6,"min_ccu":8195,"max_ccu":12068,"samples":24,"sess":13.26,"sess_h":23.0,"like":88.99},
+"10638886777":{"name":"[🦃] 🧈 Stack A Butter Squishy [ASMR]","avg_ccu":10251.6,"min_ccu":8195,"max_ccu":12068,"samples":24,"sess":13.26,"sess_h":23.0,"like":88.99},
 "10643795368":{"name":"Idle Mafia Game","avg_ccu":2502.7,"min_ccu":2355,"max_ccu":3016,"samples":24,"sess":31.53,"sess_h":23.0,"like":87.67},
 "10648640958":{"name":"[🏆] Hood Rivals","avg_ccu":888.5,"min_ccu":439,"max_ccu":1628,"samples":24,"sess":6.78,"sess_h":23.0,"like":90.32},
 "10648820673":{"name":"[🍲] Karinderya!","avg_ccu":2548.0,"min_ccu":685,"max_ccu":4667,"samples":24,"sess":22.33,"sess_h":23.0,"like":97.41},
@@ -744,7 +744,7 @@
 "10774437478":{"name":"[👥] Celestial Bros Game","avg_ccu":1182.0,"min_ccu":61,"max_ccu":4562,"samples":18,"sess":10.07,"sess_h":17.0,"like":89.07},
 "10774444233":{"name":"Flat the Mountain","avg_ccu":6081.9,"min_ccu":2361,"max_ccu":9569,"samples":24,"sess":10.07,"sess_h":23.0,"like":88.72},
 "10774452423":{"name":"Ragdoll Frenzy","avg_ccu":5027.6,"min_ccu":3291,"max_ccu":7838,"samples":24,"sess":4.59,"sess_h":23.0,"like":83.6},
-"10774468211":{"name":"💣 [UPD] Ragdoll Destruction Playground","avg_ccu":10321.2,"min_ccu":6592,"max_ccu":13971,"samples":24,"sess":15.0,"sess_h":23.0,"like":82.57},
+"10774468211":{"name":"💣 Ragdoll Destruction Playground","avg_ccu":10321.2,"min_ccu":6592,"max_ccu":13971,"samples":24,"sess":15.0,"sess_h":23.0,"like":82.57},
 "10774500456":{"name":"Pull a Dino 🦖","avg_ccu":6067.7,"min_ccu":3025,"max_ccu":11652,"samples":24,"sess":19.37,"sess_h":23.0,"like":89.83},
 "10774545945":{"name":"[🎃] BEST RM","avg_ccu":48.3,"min_ccu":39,"max_ccu":56,"samples":3,"like":90.8},
 "10774557211":{"name":"[UPD] Control a Ragdoll Together! [1-5 Players]","avg_ccu":1358.8,"min_ccu":464,"max_ccu":2020,"samples":24,"sess":10.54,"sess_h":23.0,"like":95.96},
