@@ -1,4 +1,4 @@
-{"date": "2026-11-18", "timezone": "America/New_York", "generated_utc": "2026-11-19T15:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-19T04:10:00Z", 8192625], "genres": {"Simulation": 40.712, "Roleplay & Avatar Sim": 13.041, "Survival": 12.398, "Action": 7.806, "RPG": 6.571, "Shooter": 4.197, "Sports & Racing": 3.666, "Strategy": 3.323, "Obby & Platformer": 2.811, "Party & Casual": 1.619, "Adventure": 1.156, "Shopping": 0.957, "Other": 0.671, "Social": 0.455, "Puzzle": 0.369, "Entertainment": 0.246}, "genre_hours": 24,"games":{
+{"date": "2026-11-18", "timezone": "America/New_York", "generated_utc": "2026-11-19T16:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-19T04:10:00Z", 8192625], "genres": {"Simulation": 40.712, "Roleplay & Avatar Sim": 13.041, "Survival": 12.398, "Action": 7.806, "RPG": 6.571, "Shooter": 4.197, "Sports & Racing": 3.666, "Strategy": 3.323, "Obby & Platformer": 2.811, "Party & Casual": 1.619, "Adventure": 1.156, "Shopping": 0.957, "Other": 0.671, "Social": 0.455, "Puzzle": 0.369, "Entertainment": 0.246}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2526.3,"min_ccu":1906,"max_ccu":3091,"samples":24,"sess":14.06,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6434.5,"min_ccu":4379,"max_ccu":8800,"samples":24,"sess":9.52,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"Notoriety: A PAYDAY® Experience","avg_ccu":8642.0,"min_ccu":8642,"max_ccu":8642,"samples":1,"like":92.52},
@@ -257,7 +257,7 @@
 "9363735110":{"name":"[🌊] Escape Tsunami For Brainrots!","avg_ccu":3331.9,"min_ccu":1736,"max_ccu":11237,"samples":24,"sess":13.09,"sess_h":23.0,"like":83.07},
 "9364041968":{"name":"[LIMITEDS🏎️] Car Sales 2 🏎️","avg_ccu":551.9,"min_ccu":297,"max_ccu":977,"samples":8,"sess":20.17,"sess_h":7.0,"like":83.34},
 "9442472087":{"name":"WARDEN 🐲 Sonaria Horror Escape","avg_ccu":471.4,"min_ccu":290,"max_ccu":582,"samples":24,"sess":19.04,"sess_h":23.0,"like":92.07},
-"9491545867":{"name":"[🍂NOW] Break a Brainrot Egg!","avg_ccu":4416.7,"min_ccu":3320,"max_ccu":6371,"samples":24,"sess":13.79,"sess_h":23.0,"like":81.92},
+"9491545867":{"name":"[🍂TURKEY] Break a Brainrot Egg!","avg_ccu":4416.7,"min_ccu":3320,"max_ccu":6371,"samples":24,"sess":13.79,"sess_h":23.0,"like":81.92},
 "9514625031":{"name":"[🍁] Fling Playground","avg_ccu":5906.4,"min_ccu":4176,"max_ccu":7935,"samples":24,"sess":15.23,"sess_h":23.0,"like":62.08},
 "9534705677":{"name":"[🔥Battlepass] Sniper Arena","avg_ccu":6923.5,"min_ccu":4319,"max_ccu":9581,"samples":24,"sess":12.86,"sess_h":23.0,"like":91.75},
 "9561553764":{"name":"Murder Duels","avg_ccu":5397.2,"min_ccu":4115,"max_ccu":7009,"samples":24,"sess":9.0,"sess_h":23.0,"like":93.05},
@@ -272,7 +272,7 @@
 "9837612476":{"name":"[💥] Mini War","avg_ccu":5827.9,"min_ccu":5213,"max_ccu":6624,"samples":24,"sess":28.89,"sess_h":23.0,"like":96.43},
 "9855761734":{"name":"San Diego Roleplay","avg_ccu":9229.0,"min_ccu":5538,"max_ccu":13389,"samples":24,"sess":17.13,"sess_h":23.0,"like":85.47},
 "9867225552":{"name":"A Bizarre Run","avg_ccu":6711.5,"min_ccu":4022,"max_ccu":8352,"samples":24,"sess":5.34,"sess_h":23.0,"like":97.57},
-"9867866217":{"name":"[NOW] Gym Universe","avg_ccu":3450.6,"min_ccu":2218,"max_ccu":4906,"samples":24,"sess":14.05,"sess_h":23.0,"like":80.71},
+"9867866217":{"name":"Gym Universe","avg_ccu":3450.6,"min_ccu":2218,"max_ccu":4906,"samples":24,"sess":14.05,"sess_h":23.0,"like":80.71},
 "9872734936":{"name":"[🏁UPD] Junk Mechanics","avg_ccu":2156.2,"min_ccu":1619,"max_ccu":2550,"samples":24,"sess":15.57,"sess_h":23.0,"like":87.59},
 "9885372266":{"name":"Unseen Liminality","avg_ccu":5806.5,"min_ccu":3751,"max_ccu":8139,"samples":24,"sess":17.13,"sess_h":23.0,"like":94.16},
 "9908641400":{"name":"Football Fusion 3","avg_ccu":2159.3,"min_ccu":260,"max_ccu":6443,"samples":24,"sess":10.55,"sess_h":23.0,"like":83.86},
