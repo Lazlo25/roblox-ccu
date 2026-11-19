@@ -1,4 +1,4 @@
-{"date": "2026-11-17", "timezone": "America/New_York", "generated_utc": "2026-11-19T03:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-18T04:10:00Z", 8189149], "genres": {"Simulation": 41.613, "Roleplay & Avatar Sim": 12.703, "Survival": 12.523, "Action": 7.868, "RPG": 5.979, "Shooter": 4.023, "Sports & Racing": 3.726, "Strategy": 3.442, "Obby & Platformer": 2.691, "Party & Casual": 1.589, "Adventure": 1.166, "Shopping": 0.955, "Other": 0.687, "Social": 0.434, "Puzzle": 0.359, "Entertainment": 0.212, "Utility & Other": 0.03}, "genre_hours": 24,"games":{
+{"date": "2026-11-17", "timezone": "America/New_York", "generated_utc": "2026-11-19T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-18T04:10:00Z", 8189149], "genres": {"Simulation": 41.613, "Roleplay & Avatar Sim": 12.703, "Survival": 12.523, "Action": 7.868, "RPG": 5.979, "Shooter": 4.023, "Sports & Racing": 3.726, "Strategy": 3.442, "Obby & Platformer": 2.691, "Party & Casual": 1.589, "Adventure": 1.166, "Shopping": 0.955, "Other": 0.687, "Social": 0.434, "Puzzle": 0.359, "Entertainment": 0.212, "Utility & Other": 0.03}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2481.6,"min_ccu":1746,"max_ccu":2969,"samples":24,"sess":14.26,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6540.0,"min_ccu":4157,"max_ccu":9088,"samples":24,"sess":9.41,"sess_h":23.0,"like":90.77},
 "21164849":{"name":"Pilot Training Flight Simulator","avg_ccu":3246.1,"min_ccu":1944,"max_ccu":4525,"samples":24,"sess":13.14,"sess_h":23.0,"like":93.29},
@@ -278,7 +278,7 @@
 "9826885587":{"name":"Evomon[🎃S4 StarUp]","avg_ccu":1890.5,"min_ccu":1577,"max_ccu":2474,"samples":24,"sess":26.52,"sess_h":23.0,"like":97.16},
 "9837612476":{"name":"[💥] Mini War","avg_ccu":6128.4,"min_ccu":5434,"max_ccu":6857,"samples":24,"sess":29.65,"sess_h":23.0,"like":96.43},
 "9855761734":{"name":"San Diego Roleplay","avg_ccu":8651.5,"min_ccu":5440,"max_ccu":12587,"samples":24,"sess":17.75,"sess_h":23.0,"like":85.49},
-"9867225552":{"name":"[STAGE 3] A Bizarre Run","avg_ccu":7747.0,"min_ccu":4339,"max_ccu":10311,"samples":24,"sess":5.41,"sess_h":23.0,"like":97.58},
+"9867225552":{"name":"A Bizarre Run","avg_ccu":7747.0,"min_ccu":4339,"max_ccu":10311,"samples":24,"sess":5.41,"sess_h":23.0,"like":97.58},
 "9867866217":{"name":"[NOW] Gym Universe","avg_ccu":4128.0,"min_ccu":2432,"max_ccu":6776,"samples":24,"sess":14.12,"sess_h":23.0,"like":80.31},
 "9872734936":{"name":"[🏁UPD] Junk Mechanics","avg_ccu":2417.1,"min_ccu":1739,"max_ccu":2836,"samples":24,"sess":15.58,"sess_h":23.0,"like":87.59},
 "9880286438":{"name":"[🎃]Legacy Piece","avg_ccu":746.1,"min_ccu":670,"max_ccu":844,"samples":11,"sess":26.97,"sess_h":10.0,"like":96.72},
@@ -755,7 +755,7 @@
 "10774810800":{"name":"Realistic Ragdoll MMA 🥊","avg_ccu":24139.0,"min_ccu":14829,"max_ccu":33632,"samples":24,"sess":11.37,"sess_h":23.0,"like":76.1},
 "10774857751":{"name":"Ragdoll Animal Playground","avg_ccu":2114.6,"min_ccu":858,"max_ccu":3111,"samples":9,"sess":8.27,"sess_h":8.0,"like":64.03},
 "10774894770":{"name":"In This Town... [NEW MAPS]","avg_ccu":1094.5,"min_ccu":484,"max_ccu":1609,"samples":24,"sess":8.15,"sess_h":23.0,"like":69.38},
-"10774935925":{"name":"Voxelcraft 1.21.4","avg_ccu":1670.9,"min_ccu":1006,"max_ccu":2349,"samples":7,"sess":5.39,"sess_h":6.0,"like":87.09},
+"10774935925":{"name":"Minecarft 1.21.4","avg_ccu":1670.9,"min_ccu":1006,"max_ccu":2349,"samples":7,"sess":5.39,"sess_h":6.0,"like":87.09},
 "10774963591":{"name":"🎃MMZ","avg_ccu":53.9,"min_ccu":23,"max_ccu":101,"samples":24,"sess":15.96,"sess_h":23.0,"like":86.93},
 "10775036022":{"name":"Can You Land A Plane?","avg_ccu":7191.2,"min_ccu":2174,"max_ccu":13846,"samples":24,"sess":11.05,"sess_h":23.0,"like":84.7},
 "10775162649":{"name":"[UPD] Survive Your Drawing","avg_ccu":1217.3,"min_ccu":268,"max_ccu":2699,"samples":24,"sess":2.81,"sess_h":23.0,"like":37.99},
