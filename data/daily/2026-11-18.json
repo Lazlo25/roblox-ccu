@@ -1,4 +1,4 @@
-{"date": "2026-11-18", "timezone": "America/New_York", "generated_utc": "2026-11-19T04:10:00Z", "through_et": "23:10", "platform_now": ["2026-11-19T04:10:00Z", 8192625], "genres": {"Simulation": 40.712, "Roleplay & Avatar Sim": 13.041, "Survival": 12.398, "Action": 7.806, "RPG": 6.571, "Shooter": 4.197, "Sports & Racing": 3.666, "Strategy": 3.323, "Obby & Platformer": 2.811, "Party & Casual": 1.619, "Adventure": 1.156, "Shopping": 0.957, "Other": 0.671, "Social": 0.455, "Puzzle": 0.369, "Entertainment": 0.246}, "genre_hours": 24,"games":{
+{"date": "2026-11-18", "timezone": "America/New_York", "generated_utc": "2026-11-19T05:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-19T04:10:00Z", 8192625], "genres": {"Simulation": 40.712, "Roleplay & Avatar Sim": 13.041, "Survival": 12.398, "Action": 7.806, "RPG": 6.571, "Shooter": 4.197, "Sports & Racing": 3.666, "Strategy": 3.323, "Obby & Platformer": 2.811, "Party & Casual": 1.619, "Adventure": 1.156, "Shopping": 0.957, "Other": 0.671, "Social": 0.455, "Puzzle": 0.369, "Entertainment": 0.246}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2526.3,"min_ccu":1906,"max_ccu":3091,"samples":24,"sess":14.06,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6434.5,"min_ccu":4379,"max_ccu":8800,"samples":24,"sess":9.52,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"Notoriety: A PAYDAY® Experience","avg_ccu":8642.0,"min_ccu":8642,"max_ccu":8642,"samples":1,"like":92.52},
@@ -450,7 +450,7 @@
 "10768046082":{"name":"My Chiikawa Restaurant! 🎃","avg_ccu":1537.6,"min_ccu":1291,"max_ccu":1830,"samples":24,"sess":25.75,"sess_h":23.0,"like":95.96},
 "10768158677":{"name":"SAURUS [HORROR]","avg_ccu":2682.8,"min_ccu":1105,"max_ccu":4281,"samples":24,"sess":10.46,"sess_h":23.0,"like":91.87},
 "10768172922":{"name":"RoWorld [World PvP]","avg_ccu":9336.5,"min_ccu":6230,"max_ccu":12822,"samples":24,"sess":5.6,"sess_h":23.0,"like":83.2},
-"10768197635":{"name":"[TRADE PLAZA🃏] My Trading Card Shop! [BETA]","avg_ccu":1567.1,"min_ccu":1245,"max_ccu":1934,"samples":24,"sess":21.76,"sess_h":23.0,"like":90.3},
+"10768197635":{"name":"[🃏] My Trading Card Shop! [BETA]","avg_ccu":1567.1,"min_ccu":1245,"max_ccu":1934,"samples":24,"sess":21.76,"sess_h":23.0,"like":90.3},
 "10768284407":{"name":"🗺️[MAPS] Bike Universe","avg_ccu":8555.5,"min_ccu":5545,"max_ccu":10828,"samples":24,"sess":10.68,"sess_h":23.0,"like":88.22},
 "10768383600":{"name":"[PHYSICS] Ragdoll Playground","avg_ccu":8927.1,"min_ccu":5518,"max_ccu":11089,"samples":24,"sess":14.64,"sess_h":23.0,"like":94.37},
 "10768400005":{"name":"[🎨] Mix The Color!","avg_ccu":98.8,"min_ccu":46,"max_ccu":147,"samples":23,"sess":6.84,"sess_h":22.0,"like":43.54},
