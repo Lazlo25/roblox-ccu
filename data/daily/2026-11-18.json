@@ -1,4 +1,4 @@
-{"date": "2026-11-18", "timezone": "America/New_York", "generated_utc": "2026-11-19T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-19T04:10:00Z", 8192625], "genres": {"Simulation": 40.712, "Roleplay & Avatar Sim": 13.041, "Survival": 12.398, "Action": 7.806, "RPG": 6.571, "Shooter": 4.197, "Sports & Racing": 3.666, "Strategy": 3.323, "Obby & Platformer": 2.811, "Party & Casual": 1.619, "Adventure": 1.156, "Shopping": 0.957, "Other": 0.671, "Social": 0.455, "Puzzle": 0.369, "Entertainment": 0.246}, "genre_hours": 24,"games":{
+{"date": "2026-11-18", "timezone": "America/New_York", "generated_utc": "2026-11-19T13:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-19T04:10:00Z", 8192625], "genres": {"Simulation": 40.712, "Roleplay & Avatar Sim": 13.041, "Survival": 12.398, "Action": 7.806, "RPG": 6.571, "Shooter": 4.197, "Sports & Racing": 3.666, "Strategy": 3.323, "Obby & Platformer": 2.811, "Party & Casual": 1.619, "Adventure": 1.156, "Shopping": 0.957, "Other": 0.671, "Social": 0.455, "Puzzle": 0.369, "Entertainment": 0.246}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2526.3,"min_ccu":1906,"max_ccu":3091,"samples":24,"sess":14.06,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6434.5,"min_ccu":4379,"max_ccu":8800,"samples":24,"sess":9.52,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"Notoriety: A PAYDAY® Experience","avg_ccu":8642.0,"min_ccu":8642,"max_ccu":8642,"samples":1,"like":92.52},
@@ -6,7 +6,7 @@
 "31970568":{"name":"Theme Park Tycoon 2","avg_ccu":1955.3,"min_ccu":1259,"max_ccu":2537,"samples":24,"sess":24.66,"sess_h":23.0,"like":89.04},
 "66654135":{"name":"Murder Mystery 2","avg_ccu":93716.4,"min_ccu":48692,"max_ccu":128884,"samples":24,"sess":11.82,"sess_h":23.0,"like":90.79},
 "73885730":{"name":"Prison Life","avg_ccu":4794.7,"min_ccu":3198,"max_ccu":6223,"samples":24,"sess":12.12,"sess_h":23.0,"like":85.02},
-"88070565":{"name":"[🐬] Welcome to Bloxburg","avg_ccu":10481.5,"min_ccu":5769,"max_ccu":14991,"samples":24,"sess":24.58,"sess_h":23.0,"like":88.51},
+"88070565":{"name":"[📱] Welcome to Bloxburg","avg_ccu":10481.5,"min_ccu":5769,"max_ccu":14991,"samples":24,"sess":24.58,"sess_h":23.0,"like":88.51},
 "98929893":{"name":"[UPD 👻] Dragon Ball Rage","avg_ccu":2179.5,"min_ccu":1073,"max_ccu":2997,"samples":24,"sess":20.04,"sess_h":23.0,"like":90.55},
 "113491250":{"name":"Phantom Forces","avg_ccu":1754.2,"min_ccu":1219,"max_ccu":2256,"samples":24,"sess":16.02,"sess_h":23.0,"like":90.72},
 "117307972":{"name":"(Route 9) Loomian Legacy","avg_ccu":1586.5,"min_ccu":1321,"max_ccu":1740,"samples":24,"sess":34.55,"sess_h":23.0,"like":91.7},
@@ -591,7 +591,7 @@
 "10771406194":{"name":"Flying Tesla Roadster [Open World]","avg_ccu":4215.8,"min_ccu":2123,"max_ccu":6862,"samples":23,"sess":10.1,"sess_h":22.0,"like":61.94},
 "10771410956":{"name":"[ UPD ] Realistic Ragdoll Playground 💥","avg_ccu":1050.7,"min_ccu":679,"max_ccu":1425,"samples":24,"sess":9.35,"sess_h":23.0,"like":73.35},
 "10771421858":{"name":"DONT SPLASH","avg_ccu":26433.2,"min_ccu":19513,"max_ccu":32067,"samples":24,"sess":7.72,"sess_h":23.0,"like":85.86},
-"10771440209":{"name":"[UPDATE & EXPANDED MAP] Onthel Purwodadi","avg_ccu":2570.7,"min_ccu":91,"max_ccu":8788,"samples":24,"sess":7.17,"sess_h":23.0,"like":89.69},
+"10771440209":{"name":"[UPDATE 3.1 & EXPANDED MAP] Onthel Purwodadi","avg_ccu":2570.7,"min_ccu":91,"max_ccu":8788,"samples":24,"sess":7.17,"sess_h":23.0,"like":89.69},
 "10771486912":{"name":"Punch the Butter","avg_ccu":4587.3,"min_ccu":2670,"max_ccu":6238,"samples":24,"sess":12.13,"sess_h":23.0,"like":84.27},
 "10771507608":{"name":"🧸 My Small Business","avg_ccu":3279.8,"min_ccu":2118,"max_ccu":4017,"samples":24,"sess":17.95,"sess_h":23.0,"like":95.65},
 "10771508240":{"name":"[UPD🏁] Simple Drift","avg_ccu":2110.9,"min_ccu":1289,"max_ccu":2819,"samples":24,"sess":10.5,"sess_h":23.0,"like":84.59},
