@@ -1,4 +1,4 @@
-{"date": "2026-11-19", "timezone": "America/New_York", "generated_utc": "2026-11-20T11:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-20T00:10:00Z", 10137459], "genres": {"Simulation": 41.069, "Roleplay & Avatar Sim": 13.474, "Survival": 12.608, "Action": 7.575, "RPG": 6.119, "Shooter": 4.086, "Sports & Racing": 3.398, "Strategy": 3.266, "Obby & Platformer": 2.929, "Party & Casual": 1.72, "Adventure": 1.263, "Shopping": 0.916, "Other": 0.574, "Social": 0.433, "Puzzle": 0.325, "Entertainment": 0.244}, "genre_hours": 20,"games":{
+{"date": "2026-11-19", "timezone": "America/New_York", "generated_utc": "2026-11-20T12:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-20T00:10:00Z", 10137459], "genres": {"Simulation": 41.069, "Roleplay & Avatar Sim": 13.474, "Survival": 12.608, "Action": 7.575, "RPG": 6.119, "Shooter": 4.086, "Sports & Racing": 3.398, "Strategy": 3.266, "Obby & Platformer": 2.929, "Party & Casual": 1.72, "Adventure": 1.263, "Shopping": 0.916, "Other": 0.574, "Social": 0.433, "Puzzle": 0.325, "Entertainment": 0.244}, "genre_hours": 20,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2408.1,"min_ccu":1846,"max_ccu":2949,"samples":20,"sess":14.09,"sess_h":19.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":5970.3,"min_ccu":4100,"max_ccu":8447,"samples":20,"sess":9.45,"sess_h":19.0,"like":90.77},
 "16680835":{"name":"Notoriety: A PAYDAY® Experience","avg_ccu":10300.5,"min_ccu":4416,"max_ccu":15596,"samples":20,"sess":8.53,"sess_h":19.0,"like":92.52},
@@ -462,7 +462,7 @@
 "10769069172":{"name":"❤️ +1 Heart Per Kill","avg_ccu":3994.8,"min_ccu":2018,"max_ccu":5984,"samples":20,"sess":16.71,"sess_h":19.0,"like":36.22},
 "10769075057":{"name":"Bibi & Didi Obby 🐼🐻 [1-2 Player]","avg_ccu":4888.2,"min_ccu":3050,"max_ccu":6323,"samples":20,"sess":9.02,"sess_h":19.0,"like":89.18},
 "10769083726":{"name":"Skate Tree","avg_ccu":2916.6,"min_ccu":1866,"max_ccu":3939,"samples":20,"sess":8.01,"sess_h":19.0,"like":90.91},
-"10769120871":{"name":"Climb The Rake Tower","avg_ccu":1153.2,"min_ccu":840,"max_ccu":1421,"samples":20,"sess":10.0,"sess_h":19.0,"like":78.63},
+"10769120871":{"name":"The Tower of Nightmares","avg_ccu":1153.2,"min_ccu":840,"max_ccu":1421,"samples":20,"sess":10.0,"sess_h":19.0,"like":78.63},
 "10769149947":{"name":"صيد الضبّان","avg_ccu":16362.0,"min_ccu":7736,"max_ccu":23184,"samples":20,"sess":20.81,"sess_h":19.0,"like":95.05},
 "10769256110":{"name":"🚨SWAT: Elite Force (Launch)","avg_ccu":3967.8,"min_ccu":2692,"max_ccu":5309,"samples":20,"sess":5.01,"sess_h":19.0,"like":93.94},
 "10769266554":{"name":"[UPD 4] BRASS HELL [INCREMENTAL]","avg_ccu":1089.4,"min_ccu":835,"max_ccu":1351,"samples":20,"sess":30.43,"sess_h":19.0,"like":91.67},
@@ -717,7 +717,7 @@
 "10774244015":{"name":"[⚔️] Kit PVP FFA","avg_ccu":15180.5,"min_ccu":7715,"max_ccu":20568,"samples":20,"sess":14.81,"sess_h":19.0,"like":79.74},
 "10774303559":{"name":"Fish for Secret Animals!","avg_ccu":4385.0,"min_ccu":4009,"max_ccu":4761,"samples":2,"like":92.32},
 "10774333764":{"name":"[🌀UPD] Anime Nexus RNG : GURREN LAGANN PART 2","avg_ccu":4018.5,"min_ccu":3573,"max_ccu":4360,"samples":20,"sess":31.05,"sess_h":19.0,"like":95.1},
-"10774386745":{"name":"Sandworm Playground","avg_ccu":14782.7,"min_ccu":10381,"max_ccu":18571,"samples":20,"sess":12.7,"sess_h":19.0,"like":86.68},
+"10774386745":{"name":"[WORLD 2] Sandworm Playground","avg_ccu":14782.7,"min_ccu":10381,"max_ccu":18571,"samples":20,"sess":12.7,"sess_h":19.0,"like":86.68},
 "10774392377":{"name":"[W2🌍]+1 Slayer Evolution","avg_ccu":3412.1,"min_ccu":2335,"max_ccu":4505,"samples":20,"sess":20.37,"sess_h":19.0,"like":97.65},
 "10774437478":{"name":"NEW GAME JOIN ME!","avg_ccu":65.8,"min_ccu":28,"max_ccu":99,"samples":20,"sess":11.06,"sess_h":19.0,"like":89.39},
 "10774444233":{"name":"Flat the Mountain","avg_ccu":10455.4,"min_ccu":5710,"max_ccu":14311,"samples":20,"sess":10.08,"sess_h":19.0,"like":89.56},
