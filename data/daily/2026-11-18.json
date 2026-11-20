@@ -1,4 +1,4 @@
-{"date": "2026-11-18", "timezone": "America/New_York", "generated_utc": "2026-11-19T23:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-19T04:10:00Z", 8192625], "genres": {"Simulation": 40.712, "Roleplay & Avatar Sim": 13.041, "Survival": 12.398, "Action": 7.806, "RPG": 6.571, "Shooter": 4.197, "Sports & Racing": 3.666, "Strategy": 3.323, "Obby & Platformer": 2.811, "Party & Casual": 1.619, "Adventure": 1.156, "Shopping": 0.957, "Other": 0.671, "Social": 0.455, "Puzzle": 0.369, "Entertainment": 0.246}, "genre_hours": 24,"games":{
+{"date": "2026-11-18", "timezone": "America/New_York", "generated_utc": "2026-11-20T00:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-19T04:10:00Z", 8192625], "genres": {"Simulation": 40.712, "Roleplay & Avatar Sim": 13.041, "Survival": 12.398, "Action": 7.806, "RPG": 6.571, "Shooter": 4.197, "Sports & Racing": 3.666, "Strategy": 3.323, "Obby & Platformer": 2.811, "Party & Casual": 1.619, "Adventure": 1.156, "Shopping": 0.957, "Other": 0.671, "Social": 0.455, "Puzzle": 0.369, "Entertainment": 0.246}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2526.3,"min_ccu":1906,"max_ccu":3091,"samples":24,"sess":14.06,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":6434.5,"min_ccu":4379,"max_ccu":8800,"samples":24,"sess":9.52,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"Notoriety: A PAYDAY® Experience","avg_ccu":8642.0,"min_ccu":8642,"max_ccu":8642,"samples":1,"like":92.52},
@@ -337,7 +337,7 @@
 "10566677406":{"name":"[将] Shogun's Reign","avg_ccu":2684.8,"min_ccu":2303,"max_ccu":3233,"samples":24,"sess":38.03,"sess_h":23.0,"like":90.6},
 "10572887321":{"name":"[UPD] Car DUELS","avg_ccu":1151.5,"min_ccu":783,"max_ccu":1568,"samples":24,"sess":12.19,"sess_h":23.0,"like":94.71},
 "10593482707":{"name":"Build a Keyboard!","avg_ccu":2913.6,"min_ccu":2289,"max_ccu":4210,"samples":24,"sess":11.27,"sess_h":23.0,"like":96.71},
-"10596854436":{"name":"[🎃] My Satisfying Butter ASMR 🧈","avg_ccu":1521.2,"min_ccu":1107,"max_ccu":1999,"samples":24,"sess":9.64,"sess_h":23.0,"like":96.7},
+"10596854436":{"name":"[🎄] My Satisfying Butter ASMR 🧈","avg_ccu":1521.2,"min_ccu":1107,"max_ccu":1999,"samples":24,"sess":9.64,"sess_h":23.0,"like":96.7},
 "10624691669":{"name":"MONOCHROME👁️","avg_ccu":1641.3,"min_ccu":1159,"max_ccu":2099,"samples":24,"sess":3.57,"sess_h":23.0,"like":84.75},
 "10629695169":{"name":"[🏰] Tap Simulator REBORN","avg_ccu":35877.5,"min_ccu":33965,"max_ccu":38566,"samples":24,"sess":41.66,"sess_h":23.0,"like":93.57},
 "10634461028":{"name":"Drive A Kukirin!","avg_ccu":1740.4,"min_ccu":192,"max_ccu":3929,"samples":24,"sess":9.12,"sess_h":23.0,"like":89.37},
@@ -539,7 +539,7 @@
 "10770229689":{"name":"Steal A Dumpling","avg_ccu":5566.9,"min_ccu":3932,"max_ccu":7620,"samples":24,"sess":13.01,"sess_h":23.0,"like":95.65},
 "10770252126":{"name":"Build to Space! 🚀","avg_ccu":2542.2,"min_ccu":1431,"max_ccu":3703,"samples":24,"sess":12.89,"sess_h":23.0,"like":90.7},
 "10770254650":{"name":"[UPDATE] Bey Rivals","avg_ccu":3927.0,"min_ccu":3244,"max_ccu":5426,"samples":24,"sess":11.37,"sess_h":23.0,"like":90.58},
-"10770284142":{"name":"[🍂] Night Rider 🏍️ [TESTING]","avg_ccu":6636.3,"min_ccu":4833,"max_ccu":8001,"samples":24,"sess":11.92,"sess_h":23.0,"like":94.32},
+"10770284142":{"name":"Night Rider 🏍️ [TESTING]","avg_ccu":6636.3,"min_ccu":4833,"max_ccu":8001,"samples":24,"sess":11.92,"sess_h":23.0,"like":94.32},
 "10770296110":{"name":"Escape Traffic","avg_ccu":193.5,"min_ccu":78,"max_ccu":306,"samples":24,"sess":13.04,"sess_h":23.0,"like":81.08},
 "10770299564":{"name":"DigCrew","avg_ccu":3022.5,"min_ccu":2456,"max_ccu":4180,"samples":24,"sess":21.91,"sess_h":23.0,"like":84.42},
 "10770306793":{"name":"[♾️ENDLESS] 1M Clicks To Escape","avg_ccu":1037.5,"min_ccu":540,"max_ccu":1518,"samples":24,"sess":15.98,"sess_h":23.0,"like":88.89},
@@ -689,7 +689,7 @@
 "10773278923":{"name":"Escooter World","avg_ccu":4647.8,"min_ccu":2047,"max_ccu":8561,"samples":24,"sess":10.5,"sess_h":23.0,"like":87.96},
 "10773282691":{"name":"🤡 Class Clowns","avg_ccu":6961.9,"min_ccu":4239,"max_ccu":10296,"samples":24,"sess":11.51,"sess_h":23.0,"like":77.54},
 "10773287016":{"name":"Evacuate🌪️","avg_ccu":1965.0,"min_ccu":1220,"max_ccu":2757,"samples":4,"like":89.37},
-"10773380485":{"name":"[FIXES] Ragdoll Realism","avg_ccu":2711.2,"min_ccu":1594,"max_ccu":3622,"samples":24,"sess":10.54,"sess_h":23.0,"like":77.84},
+"10773380485":{"name":"Ragdoll Realism","avg_ccu":2711.2,"min_ccu":1594,"max_ccu":3622,"samples":24,"sess":10.54,"sess_h":23.0,"like":77.84},
 "10773416193":{"name":"Voxel Wars","avg_ccu":18613.0,"min_ccu":13869,"max_ccu":26233,"samples":24,"sess":17.06,"sess_h":23.0,"like":80.14},
 "10773425091":{"name":"[🐍] Ragdoll Research","avg_ccu":12377.1,"min_ccu":7794,"max_ccu":16546,"samples":24,"sess":13.9,"sess_h":23.0,"like":83.24},
 "10773432056":{"name":"Malam Bersama Kaka [HOROR]","avg_ccu":2480.7,"min_ccu":312,"max_ccu":5102,"samples":24,"sess":7.21,"sess_h":23.0,"like":66.06},
