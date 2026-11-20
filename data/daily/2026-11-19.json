@@ -1,4 +1,4 @@
-{"date": "2026-11-19", "timezone": "America/New_York", "generated_utc": "2026-11-20T08:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-20T00:10:00Z", 10137459], "genres": {"Simulation": 41.069, "Roleplay & Avatar Sim": 13.474, "Survival": 12.608, "Action": 7.575, "RPG": 6.119, "Shooter": 4.086, "Sports & Racing": 3.398, "Strategy": 3.266, "Obby & Platformer": 2.929, "Party & Casual": 1.72, "Adventure": 1.263, "Shopping": 0.916, "Other": 0.574, "Social": 0.433, "Puzzle": 0.325, "Entertainment": 0.244}, "genre_hours": 20,"games":{
+{"date": "2026-11-19", "timezone": "America/New_York", "generated_utc": "2026-11-20T09:10:01Z", "through_et": "24:00", "platform_now": ["2026-11-20T00:10:00Z", 10137459], "genres": {"Simulation": 41.069, "Roleplay & Avatar Sim": 13.474, "Survival": 12.608, "Action": 7.575, "RPG": 6.119, "Shooter": 4.086, "Sports & Racing": 3.398, "Strategy": 3.266, "Obby & Platformer": 2.929, "Party & Casual": 1.72, "Adventure": 1.263, "Shopping": 0.916, "Other": 0.574, "Social": 0.433, "Puzzle": 0.325, "Entertainment": 0.244}, "genre_hours": 20,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2408.1,"min_ccu":1846,"max_ccu":2949,"samples":20,"sess":14.09,"sess_h":19.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":5970.3,"min_ccu":4100,"max_ccu":8447,"samples":20,"sess":9.45,"sess_h":19.0,"like":90.77},
 "16680835":{"name":"Notoriety: A PAYDAY® Experience","avg_ccu":10300.5,"min_ccu":4416,"max_ccu":15596,"samples":20,"sess":8.53,"sess_h":19.0,"like":92.52},
@@ -647,7 +647,7 @@
 "10773041272":{"name":"Make The Character 🧩","avg_ccu":1889.2,"min_ccu":1158,"max_ccu":2928,"samples":20,"sess":10.12,"sess_h":19.0,"like":60.86},
 "10773059991":{"name":"Clean The Bugs 🐜","avg_ccu":6668.1,"min_ccu":5394,"max_ccu":8132,"samples":20,"sess":18.23,"sess_h":19.0,"like":88.4},
 "10773084198":{"name":"Bakso Gacoan Tower","avg_ccu":671.7,"min_ccu":52,"max_ccu":1541,"samples":20,"sess":9.56,"sess_h":19.0,"like":84.38},
-"10773089316":{"name":"[🦖]🎯💤 Dart & Dash","avg_ccu":5632.2,"min_ccu":3735,"max_ccu":8278,"samples":20,"sess":21.08,"sess_h":19.0,"like":94.99},
+"10773089316":{"name":"[UPD2🐙🌊]🎯💤 Dart & Dash","avg_ccu":5632.2,"min_ccu":3735,"max_ccu":8278,"samples":20,"sess":21.08,"sess_h":19.0,"like":94.99},
 "10773097147":{"name":"[UPD👹] +1 Ghoul Evolution","avg_ccu":3024.3,"min_ccu":2258,"max_ccu":4140,"samples":20,"sess":17.91,"sess_h":19.0,"like":89.13},
 "10773149360":{"name":"Half Punch","avg_ccu":5358.0,"min_ccu":2479,"max_ccu":10152,"samples":20,"sess":12.5,"sess_h":19.0,"like":92.87},
 "10773150670":{"name":"Realistic Hunting","avg_ccu":3159.2,"min_ccu":1330,"max_ccu":5212,"samples":20,"sess":14.05,"sess_h":19.0,"like":94.86},
