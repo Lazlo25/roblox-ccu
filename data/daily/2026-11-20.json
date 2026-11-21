@@ -1,4 +1,4 @@
-{"date": "2026-11-20", "timezone": "America/New_York", "generated_utc": "2026-11-21T04:10:00Z", "through_et": "23:10", "platform_now": ["2026-11-21T04:10:00Z", 13534465], "genres": {"Simulation": 39.336, "Survival": 15.437, "Roleplay & Avatar Sim": 12.355, "Action": 7.727, "RPG": 5.678, "Shooter": 4.386, "Sports & Racing": 3.624, "Strategy": 3.004, "Obby & Platformer": 2.778, "Party & Casual": 1.816, "Adventure": 1.359, "Shopping": 0.933, "Social": 0.416, "Entertainment": 0.4, "Puzzle": 0.384, "Other": 0.368}, "genre_hours": 24,"games":{
+{"date": "2026-11-20", "timezone": "America/New_York", "generated_utc": "2026-11-21T05:10:01Z", "through_et": "24:00", "platform_now": ["2026-11-21T04:10:00Z", 13534465], "genres": {"Simulation": 39.336, "Survival": 15.437, "Roleplay & Avatar Sim": 12.355, "Action": 7.727, "RPG": 5.678, "Shooter": 4.386, "Sports & Racing": 3.624, "Strategy": 3.004, "Obby & Platformer": 2.778, "Party & Casual": 1.816, "Adventure": 1.359, "Shopping": 0.933, "Social": 0.416, "Entertainment": 0.4, "Puzzle": 0.384, "Other": 0.368}, "genre_hours": 24,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":3148.4,"min_ccu":2222,"max_ccu":3858,"samples":24,"sess":14.06,"sess_h":23.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":7674.4,"min_ccu":4498,"max_ccu":11361,"samples":24,"sess":9.33,"sess_h":23.0,"like":90.77},
 "16680835":{"name":"Notoriety: A PAYDAY® Experience","avg_ccu":5579.2,"min_ccu":3879,"max_ccu":7754,"samples":24,"sess":11.09,"sess_h":23.0,"like":92.52},
@@ -257,7 +257,7 @@
 "9514625031":{"name":"[🍁] Fling Playground","avg_ccu":6800.3,"min_ccu":4376,"max_ccu":8707,"samples":24,"sess":15.32,"sess_h":23.0,"like":61.97},
 "9534705677":{"name":"[🦃Thanks Giving] Sniper Arena","avg_ccu":7373.5,"min_ccu":5065,"max_ccu":9558,"samples":24,"sess":12.16,"sess_h":23.0,"like":91.75},
 "9561553764":{"name":"Murder Duels","avg_ccu":6713.3,"min_ccu":4475,"max_ccu":8188,"samples":24,"sess":9.11,"sess_h":23.0,"like":93.04},
-"9584852943":{"name":"+1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":22566.2,"min_ccu":10780,"max_ccu":33109,"samples":24,"sess":8.86,"sess_h":23.0,"like":96.68},
+"9584852943":{"name":"[X2] +1 Speed Keyboard Escape | Candy & Chocolate","avg_ccu":22566.2,"min_ccu":10780,"max_ccu":33109,"samples":24,"sess":8.86,"sess_h":23.0,"like":96.68},
 "9641502068":{"name":"[NEW CASE] KNIFE DUELS","avg_ccu":8290.8,"min_ccu":4393,"max_ccu":13184,"samples":24,"sess":9.86,"sess_h":23.0,"like":93.74},
 "9706341960":{"name":"Grab and Decorate","avg_ccu":2097.3,"min_ccu":1534,"max_ccu":2668,"samples":23,"sess":21.08,"sess_h":22.0,"like":88.58},
 "9734324739":{"name":"BE TINY AND ROB GRANDPA","avg_ccu":7397.9,"min_ccu":3976,"max_ccu":11072,"samples":24,"sess":7.36,"sess_h":23.0,"like":71.03},
@@ -472,7 +472,7 @@
 "10769384180":{"name":"Fake an Egg","avg_ccu":6506.7,"min_ccu":3993,"max_ccu":8802,"samples":24,"sess":11.34,"sess_h":23.0,"like":88.09},
 "10769401924":{"name":"⚔️ [MUAY THAI] Hunting Together RPG","avg_ccu":2569.1,"min_ccu":2366,"max_ccu":2862,"samples":24,"sess":20.14,"sess_h":23.0,"like":92.08},
 "10769420234":{"name":"MOUSE","avg_ccu":18009.4,"min_ccu":7476,"max_ccu":25249,"samples":24,"sess":10.65,"sess_h":23.0,"like":83.86},
-"10769464063":{"name":"[🌍UPD 5] +1 Venom Evolution","avg_ccu":15676.0,"min_ccu":9217,"max_ccu":18970,"samples":24,"sess":16.08,"sess_h":23.0,"like":96.7},
+"10769464063":{"name":"+1 Venom Evolution","avg_ccu":15676.0,"min_ccu":9217,"max_ccu":18970,"samples":24,"sess":16.08,"sess_h":23.0,"like":96.7},
 "10769514597":{"name":"Makeup Salon💄","avg_ccu":6639.5,"min_ccu":3447,"max_ccu":8912,"samples":24,"sess":11.73,"sess_h":23.0,"like":96.95},
 "10769541317":{"name":"[PVP] +1 Titan Evolution! ⚡","avg_ccu":1351.0,"min_ccu":814,"max_ccu":2080,"samples":24,"sess":15.61,"sess_h":23.0,"like":91.12},
 "10769543567":{"name":"Cat Battles 🐾","avg_ccu":3365.1,"min_ccu":1747,"max_ccu":5402,"samples":24,"sess":8.17,"sess_h":23.0,"like":73.28},
@@ -600,7 +600,7 @@
 "10772217708":{"name":"[UPD] Tesla Roadster Chase","avg_ccu":2578.8,"min_ccu":1134,"max_ccu":3827,"samples":24,"sess":8.5,"sess_h":23.0,"like":87.27},
 "10772237634":{"name":"Symphony Orchestra Simulator","avg_ccu":5302.9,"min_ccu":2702,"max_ccu":8948,"samples":24,"sess":15.01,"sess_h":23.0,"like":95.56},
 "10772253152":{"name":"[UPDATE 2] Durian Garden 🍈","avg_ccu":4518.2,"min_ccu":717,"max_ccu":9747,"samples":24,"sess":12.51,"sess_h":23.0,"like":93.42},
-"10772266488":{"name":"[🏰 NEW MAPS] Build a REAL House","avg_ccu":9921.3,"min_ccu":5223,"max_ccu":15569,"samples":24,"sess":11.79,"sess_h":23.0,"like":74.86},
+"10772266488":{"name":"[🏆PIRATE TOKEN] Build a REAL House","avg_ccu":9921.3,"min_ccu":5223,"max_ccu":15569,"samples":24,"sess":11.79,"sess_h":23.0,"like":74.86},
 "10772271122":{"name":"[🔥] Motocross Stunt Champions: Bike & Ride","avg_ccu":1646.5,"min_ccu":803,"max_ccu":2162,"samples":24,"sess":8.37,"sess_h":23.0,"like":80.65},
 "10772281976":{"name":"[THROWING DISC!] Unstable SMP FFA","avg_ccu":25329.0,"min_ccu":13259,"max_ccu":34225,"samples":24,"sess":12.75,"sess_h":23.0,"like":84.8},
 "10772282824":{"name":"DOWNHILL BIKING","avg_ccu":2970.2,"min_ccu":1458,"max_ccu":4165,"samples":24,"sess":7.08,"sess_h":23.0,"like":74.89},
