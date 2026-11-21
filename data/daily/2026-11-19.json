@@ -1,4 +1,4 @@
-{"date": "2026-11-19", "timezone": "America/New_York", "generated_utc": "2026-11-21T03:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-20T00:10:00Z", 10137459], "genres": {"Simulation": 41.069, "Roleplay & Avatar Sim": 13.474, "Survival": 12.608, "Action": 7.575, "RPG": 6.119, "Shooter": 4.086, "Sports & Racing": 3.398, "Strategy": 3.266, "Obby & Platformer": 2.929, "Party & Casual": 1.72, "Adventure": 1.263, "Shopping": 0.916, "Other": 0.574, "Social": 0.433, "Puzzle": 0.325, "Entertainment": 0.244}, "genre_hours": 20,"games":{
+{"date": "2026-11-19", "timezone": "America/New_York", "generated_utc": "2026-11-21T04:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-20T00:10:00Z", 10137459], "genres": {"Simulation": 41.069, "Roleplay & Avatar Sim": 13.474, "Survival": 12.608, "Action": 7.575, "RPG": 6.119, "Shooter": 4.086, "Sports & Racing": 3.398, "Strategy": 3.266, "Obby & Platformer": 2.929, "Party & Casual": 1.72, "Adventure": 1.263, "Shopping": 0.916, "Other": 0.574, "Social": 0.433, "Puzzle": 0.325, "Entertainment": 0.244}, "genre_hours": 20,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2408.1,"min_ccu":1846,"max_ccu":2949,"samples":20,"sess":14.09,"sess_h":19.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":5970.3,"min_ccu":4100,"max_ccu":8447,"samples":20,"sess":9.45,"sess_h":19.0,"like":90.77},
 "16680835":{"name":"Notoriety: A PAYDAY® Experience","avg_ccu":10300.5,"min_ccu":4416,"max_ccu":15596,"samples":20,"sess":8.53,"sess_h":19.0,"like":92.52},
@@ -439,7 +439,7 @@
 "10768284407":{"name":"⌛[12H] Bike Universe","avg_ccu":7957.1,"min_ccu":5267,"max_ccu":9963,"samples":20,"sess":10.82,"sess_h":19.0,"like":88.19},
 "10768383600":{"name":"[PHYSICS] Ragdoll Playground","avg_ccu":8320.8,"min_ccu":4816,"max_ccu":10575,"samples":20,"sess":14.87,"sess_h":19.0,"like":94.38},
 "10768409236":{"name":"World of Nukes💥","avg_ccu":4009.6,"min_ccu":2496,"max_ccu":4905,"samples":20,"sess":17.55,"sess_h":19.0,"like":93.16},
-"10768458048":{"name":"Army Commander Tycoon [UPDATE 7]","avg_ccu":2148.1,"min_ccu":1660,"max_ccu":2620,"samples":20,"sess":21.96,"sess_h":19.0,"like":92.07},
+"10768458048":{"name":"Army Commander Tycoon [UPDATE 8]","avg_ccu":2148.1,"min_ccu":1660,"max_ccu":2620,"samples":20,"sess":21.96,"sess_h":19.0,"like":92.07},
 "10768476566":{"name":"[NEW CARS] DRIVE: Highway","avg_ccu":2991.1,"min_ccu":2101,"max_ccu":3744,"samples":20,"sess":13.43,"sess_h":19.0,"like":97.81},
 "10768532216":{"name":"Steal a Wild Horse","avg_ccu":3194.9,"min_ccu":2098,"max_ccu":4408,"samples":20,"sess":15.25,"sess_h":19.0,"like":89.96},
 "10768542976":{"name":"Be a Pirate","avg_ccu":407.8,"min_ccu":278,"max_ccu":567,"samples":20,"sess":24.91,"sess_h":19.0,"like":90.69},
@@ -590,7 +590,7 @@
 "10771871836":{"name":"📸 Say Cheese! [STORY]","avg_ccu":1564.8,"min_ccu":1009,"max_ccu":2154,"samples":20,"sess":10.4,"sess_h":19.0,"like":89.96},
 "10771881861":{"name":"[CROC🐊] FERAL 🐺 Animal Survival","avg_ccu":9956.5,"min_ccu":6737,"max_ccu":12732,"samples":20,"sess":18.39,"sess_h":19.0,"like":81.75},
 "10771886114":{"name":"Raise an Ant Colony 🐜","avg_ccu":5712.4,"min_ccu":3715,"max_ccu":7063,"samples":20,"sess":20.13,"sess_h":19.0,"like":85.66},
-"10771908014":{"name":"Dragon Tower Defense","avg_ccu":2362.2,"min_ccu":1717,"max_ccu":3311,"samples":20,"sess":14.28,"sess_h":19.0,"like":95.78},
+"10771908014":{"name":"[12H] Dragon Tower Defense","avg_ccu":2362.2,"min_ccu":1717,"max_ccu":3311,"samples":20,"sess":14.28,"sess_h":19.0,"like":95.78},
 "10771928551":{"name":"🍦Cozy Lucky Scoop Order","avg_ccu":5860.4,"min_ccu":3753,"max_ccu":8050,"samples":20,"sess":10.29,"sess_h":19.0,"like":89.16},
 "10771935715":{"name":"MAHANAKHON RACING","avg_ccu":8277.8,"min_ccu":1436,"max_ccu":19103,"samples":20,"sess":13.55,"sess_h":19.0,"like":95.97},
 "10771966586":{"name":"[🧬] Steal A Scooter","avg_ccu":5570.3,"min_ccu":3605,"max_ccu":7484,"samples":20,"sess":14.4,"sess_h":19.0,"like":97.73},
