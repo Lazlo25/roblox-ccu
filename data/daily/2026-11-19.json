@@ -1,4 +1,4 @@
-{"date": "2026-11-19", "timezone": "America/New_York", "generated_utc": "2026-11-21T02:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-20T00:10:00Z", 10137459], "genres": {"Simulation": 41.069, "Roleplay & Avatar Sim": 13.474, "Survival": 12.608, "Action": 7.575, "RPG": 6.119, "Shooter": 4.086, "Sports & Racing": 3.398, "Strategy": 3.266, "Obby & Platformer": 2.929, "Party & Casual": 1.72, "Adventure": 1.263, "Shopping": 0.916, "Other": 0.574, "Social": 0.433, "Puzzle": 0.325, "Entertainment": 0.244}, "genre_hours": 20,"games":{
+{"date": "2026-11-19", "timezone": "America/New_York", "generated_utc": "2026-11-21T03:10:00Z", "through_et": "24:00", "platform_now": ["2026-11-20T00:10:00Z", 10137459], "genres": {"Simulation": 41.069, "Roleplay & Avatar Sim": 13.474, "Survival": 12.608, "Action": 7.575, "RPG": 6.119, "Shooter": 4.086, "Sports & Racing": 3.398, "Strategy": 3.266, "Obby & Platformer": 2.929, "Party & Casual": 1.72, "Adventure": 1.263, "Shopping": 0.916, "Other": 0.574, "Social": 0.433, "Puzzle": 0.325, "Entertainment": 0.244}, "genre_hours": 20,"games":{
 "47545":{"name":"🍕Work at a Pizza Place","avg_ccu":2408.1,"min_ccu":1846,"max_ccu":2949,"samples":20,"sess":14.09,"sess_h":19.0,"like":92.92},
 "65241":{"name":"Natural Disaster Survival","avg_ccu":5970.3,"min_ccu":4100,"max_ccu":8447,"samples":20,"sess":9.45,"sess_h":19.0,"like":90.77},
 "16680835":{"name":"Notoriety: A PAYDAY® Experience","avg_ccu":10300.5,"min_ccu":4416,"max_ccu":15596,"samples":20,"sess":8.53,"sess_h":19.0,"like":92.52},
@@ -436,7 +436,7 @@
 "10768158677":{"name":"SAURUS [HORROR]","avg_ccu":2064.8,"min_ccu":799,"max_ccu":3840,"samples":20,"sess":10.55,"sess_h":19.0,"like":91.94},
 "10768172922":{"name":"RoWorld [World PvP]","avg_ccu":9344.5,"min_ccu":5844,"max_ccu":12287,"samples":20,"sess":5.5,"sess_h":19.0,"like":83.13},
 "10768197635":{"name":"[🃏] My Trading Card Shop! [BETA]","avg_ccu":1314.2,"min_ccu":1103,"max_ccu":1561,"samples":20,"sess":21.98,"sess_h":19.0,"like":90.27},
-"10768284407":{"name":"🗺️[MAPS] Bike Universe","avg_ccu":7957.1,"min_ccu":5267,"max_ccu":9963,"samples":20,"sess":10.82,"sess_h":19.0,"like":88.19},
+"10768284407":{"name":"⌛[12H] Bike Universe","avg_ccu":7957.1,"min_ccu":5267,"max_ccu":9963,"samples":20,"sess":10.82,"sess_h":19.0,"like":88.19},
 "10768383600":{"name":"[PHYSICS] Ragdoll Playground","avg_ccu":8320.8,"min_ccu":4816,"max_ccu":10575,"samples":20,"sess":14.87,"sess_h":19.0,"like":94.38},
 "10768409236":{"name":"World of Nukes💥","avg_ccu":4009.6,"min_ccu":2496,"max_ccu":4905,"samples":20,"sess":17.55,"sess_h":19.0,"like":93.16},
 "10768458048":{"name":"Army Commander Tycoon [UPDATE 7]","avg_ccu":2148.1,"min_ccu":1660,"max_ccu":2620,"samples":20,"sess":21.96,"sess_h":19.0,"like":92.07},
@@ -561,7 +561,7 @@
 "10771155665":{"name":"Ragdoll Sandbox","avg_ccu":5769.3,"min_ccu":3813,"max_ccu":7519,"samples":20,"sess":12.8,"sess_h":19.0,"like":84.74},
 "10771205069":{"name":"Teleport Duels⚡️[RANKED]","avg_ccu":3987.9,"min_ccu":2294,"max_ccu":6416,"samples":20,"sess":13.27,"sess_h":19.0,"like":97.02},
 "10771238997":{"name":"Dragon Arena","avg_ccu":6721.2,"min_ccu":5151,"max_ccu":8285,"samples":20,"sess":17.88,"sess_h":19.0,"like":98.67},
-"10771269188":{"name":"[🩸⚙️FIXED] Ragdoll Physics 2","avg_ccu":1316.5,"min_ccu":763,"max_ccu":1758,"samples":20,"sess":9.54,"sess_h":19.0,"like":70.3},
+"10771269188":{"name":"[🩸⚙️SANDBOX] Ragdoll Physics 2","avg_ccu":1316.5,"min_ccu":763,"max_ccu":1758,"samples":20,"sess":9.54,"sess_h":19.0,"like":70.3},
 "10771290199":{"name":"[2x WEEKEND] Farm Evolution","avg_ccu":9519.8,"min_ccu":5711,"max_ccu":13568,"samples":20,"sess":10.75,"sess_h":19.0,"like":93.81},
 "10771350522":{"name":"Tavern Town","avg_ccu":1405.0,"min_ccu":1181,"max_ccu":1615,"samples":20,"sess":56.73,"sess_h":19.0,"like":93.03},
 "10771362432":{"name":"Build and Sell Houses! 🏠","avg_ccu":2327.0,"min_ccu":1592,"max_ccu":3156,"samples":20,"sess":23.68,"sess_h":19.0,"like":78.66},
